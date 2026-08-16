@@ -78,15 +78,79 @@ const smmFaqsData = [
   { q: 'How long does onboarding take?', a: 'We can onboard your social channels and launch your first week content calendar within 48 hours of completing the strategy checklist and signing off on templates.' }
 ];
 
-export const ServiceDetailPage: React.FC<ServiceDetailPageProps> = ({ serviceId, onNavigate, onOpenStrategyModal }) => {
+import { SERVICE_SLUG_TO_ID, SERVICE_ID_TO_SLUG } from '../utils/routes';
+
+export const ServiceDetailPage: React.FC<ServiceDetailPageProps> = ({ serviceId, onNavigate, onOpenStrategyModal: _onOpenStrategyModal }) => {
   const [openFaqIndex, setOpenFaqIndex] = useState<number | null>(0);
   const [openInlineSmmFaqIndex, setOpenInlineSmmFaqIndex] = useState<number | null>(0);
 
-  const selectedService = detailed17Services.find(s => s.id === serviceId);
+  const normalizedId = SERVICE_SLUG_TO_ID[serviceId?.toLowerCase()] || serviceId;
+  const selectedService = detailed17Services.find(s => 
+    s.id === normalizedId ||
+    s.id === serviceId ||
+    s.title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '') === serviceId?.toLowerCase()
+  );
 
   useEffect(() => {
     window.scrollTo(0, 0);
-  }, [serviceId]);
+    if (!selectedService) return;
+
+    const pageTitle = `${selectedService.title} Services — Pricing, Strategy & Results | Digital Digix`;
+    const pageDesc = selectedService.longDescription || selectedService.description;
+    const cleanSlug = SERVICE_ID_TO_SLUG[selectedService.id] || selectedService.id;
+    const canonicalUrl = `https://digitaldigix.com/services/${cleanSlug}`;
+
+    document.title = pageTitle;
+
+    let metaDesc = document.querySelector('meta[name="description"]');
+    if (metaDesc) metaDesc.setAttribute('content', pageDesc);
+
+    let canonical = document.querySelector('link[rel="canonical"]');
+    if (canonical) canonical.setAttribute('href', canonicalUrl);
+
+    // Dynamic Service & Breadcrumb JSON-LD Schema
+    const scriptId = 'service-detail-schema';
+    let script = document.getElementById(scriptId) as HTMLScriptElement | null;
+    if (!script) {
+      script = document.createElement('script');
+      script.id = scriptId;
+      script.type = 'application/ld+json';
+      document.head.appendChild(script);
+    }
+
+    const schemaData = {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Service",
+          "@id": `${canonicalUrl}#service`,
+          "name": selectedService.title,
+          "serviceType": selectedService.category,
+          "description": pageDesc,
+          "provider": {
+            "@type": "Organization",
+            "name": "Digital Digix",
+            "url": "https://digitaldigix.com"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": selectedService.pricing ? selectedService.pricing.replace(/[^0-9,]/g, '') : "149",
+            "priceCurrency": "INR"
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": `${canonicalUrl}#breadcrumb`,
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://digitaldigix.com/" },
+            { "@type": "ListItem", "position": 2, "name": "Services", "item": "https://digitaldigix.com/services" },
+            { "@type": "ListItem", "position": 3, "name": selectedService.title, "item": canonicalUrl }
+          ]
+        }
+      ]
+    };
+    script.text = JSON.stringify(schemaData);
+  }, [serviceId, selectedService]);
 
   if (!selectedService) {
     return (
@@ -127,13 +191,7 @@ export const ServiceDetailPage: React.FC<ServiceDetailPageProps> = ({ serviceId,
         {/* Back Button */}
         <div style={{ marginBottom: '2.5rem' }}>
           <button
-            onClick={() => {
-              if (window.history.length > 1) {
-                window.close();
-              } else {
-                onNavigate('services');
-              }
-            }}
+            onClick={() => onNavigate('services')}
             style={{
               display: 'inline-flex',
               alignItems: 'center',
@@ -201,7 +259,7 @@ export const ServiceDetailPage: React.FC<ServiceDetailPageProps> = ({ serviceId,
 
             <div style={{ marginLeft: 'auto', display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
               <a
-                href={`https://wa.me/918586989832?text=Hi%2C%20I%20am%20interested%20in%20your%20services`}
+                href={`https://wa.me/918586989832?text=Hi%2C%20I%20am%20interested%20in%20getting%20a%20quote%20for%20${encodeURIComponent(selectedService.title)}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{
@@ -221,7 +279,9 @@ export const ServiceDetailPage: React.FC<ServiceDetailPageProps> = ({ serviceId,
                 Chat on WhatsApp 💬
               </a>
               <button
-                onClick={() => onOpenStrategyModal(`${selectedService.title} Campaign`)}
+                onClick={() => {
+                  window.open(`https://wa.me/918586989832?text=Hi%2C%20I%20am%20interested%20in%20booking%20a%20growth%20call%20for%20${encodeURIComponent(selectedService.title)}`, '_blank');
+                }}
                 style={{
                   backgroundColor: '#0F172A',
                   color: '#FFFFFF',
@@ -514,7 +574,7 @@ export const ServiceDetailPage: React.FC<ServiceDetailPageProps> = ({ serviceId,
                   }}
                   onClick={() => {
                     const slug = cat.title.toLowerCase().replace(' & ', '-').replace(/[^a-z0-9]/g, '-').replace(/-+/g, '-');
-                    window.open(`/?page=graphic-details&id=${slug}`, '_blank');
+                    onNavigate('graphic-details', slug);
                   }}
                 >
                   <h4 style={{ fontSize: '1.05rem', fontWeight: 800, color: '#0F172A', margin: '0 0 0.25rem 0', fontFamily: 'Outfit, sans-serif' }}>
@@ -769,7 +829,7 @@ export const ServiceDetailPage: React.FC<ServiceDetailPageProps> = ({ serviceId,
 
           <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
             <a
-              href={`https://wa.me/918586989832?text=Hi%2C%20I%20am%20interested%20in%20your%20services`}
+              href={`https://wa.me/918586989832?text=Hi%2C%20I%20am%20interested%20in%20getting%20a%20proposal%20for%20${encodeURIComponent(selectedService.title)}`}
               target="_blank"
               rel="noopener noreferrer"
               className="btn btn-primary"
@@ -780,7 +840,9 @@ export const ServiceDetailPage: React.FC<ServiceDetailPageProps> = ({ serviceId,
             <button
               className="btn btn-secondary"
               style={{ color: '#FFF', borderColor: 'rgba(255,255,255,0.3)', padding: '0.9rem 1.8rem' }}
-              onClick={() => onOpenStrategyModal(`${selectedService.title} Campaign`)}
+              onClick={() => {
+                window.open(`https://wa.me/918586989832?text=Hi%2C%20I%20am%20interested%20in%20booking%20a%20strategy%20call%20for%20${encodeURIComponent(selectedService.title)}`, '_blank');
+              }}
             >
               Book Strategy Call ➔
             </button>

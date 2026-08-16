@@ -1,19 +1,29 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 
-export type LeaderPerson = 'harsh' | 'khwahish' | 'why-us' | 'team' | null;
+export type LeaderPerson = 'founder' | 'harsh' | 'co-founder' | 'cofounder' | 'khwahish' | 'why-us' | 'team' | null;
 
 interface LeadershipModalProps {
   person: LeaderPerson;
   onClose: () => void;
   onOpenStrategyModal?: (note?: string) => void;
-  onNavigate?: (page: any) => void;
+  onNavigate?: (page: any, slug?: string) => void;
 }
 
 export const LeadershipModal: React.FC<LeadershipModalProps> = ({ person, onClose, onOpenStrategyModal: _onOpenStrategyModal, onNavigate }) => {
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') onClose();
+    };
+    if (person) {
+      window.addEventListener('keydown', handleKeyDown);
+    }
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [person, onClose]);
+
   if (!person) return null;
 
   return (
-    <div className="modal-overlay" onClick={onClose}>
+    <div className="modal-overlay" onClick={onClose} role="dialog" aria-modal="true" aria-label="Leadership Modal">
       <div style={{ position: 'sticky', top: 0, zIndex: 10, backgroundColor: '#FFFFFF', borderBottom: '1px solid #E2E8F0', padding: '1rem 2rem', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
         <button onClick={onClose} style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', fontSize: '0.95rem', fontWeight: 700, color: '#0F172A', backgroundColor: '#F1F5F9', padding: '0.5rem 1.25rem', borderRadius: '999px', border: '1px solid #CBD5E1' }}>
           ← Back to Main Page
@@ -22,7 +32,7 @@ export const LeadershipModal: React.FC<LeadershipModalProps> = ({ person, onClos
       </div>
       <div className="modal-card" style={{ maxWidth: '1050px', padding: '3.5rem 2rem 6rem 2rem' }} onClick={(e) => e.stopPropagation()}>
 
-        {person === 'harsh' && (
+        {(person === 'founder' || person === 'harsh') && (
           <div>
             {/* Top Layout Grid */}
             <div style={{ display: 'grid', gridTemplateColumns: '0.92fr 1.08fr', gap: '2.5rem', marginBottom: '2.5rem' }}>
@@ -221,7 +231,7 @@ export const LeadershipModal: React.FC<LeadershipModalProps> = ({ person, onClos
           </div>
         )}
 
-        {person === 'khwahish' && (
+        {(person === 'co-founder' || person === 'cofounder' || person === 'khwahish') && (
           <div>
             {/* Top Layout Grid */}
             <div style={{ display: 'grid', gridTemplateColumns: '0.92fr 1.08fr', gap: '2.5rem', marginBottom: '2.5rem' }}>
@@ -584,18 +594,63 @@ export const LeadershipModal: React.FC<LeadershipModalProps> = ({ person, onClos
                 </div>
               </div>
 
-              <div style={{ background: 'var(--bg-subtle)', padding: '1.25rem', borderRadius: '16px', border: '1px solid var(--border-color)' }}>
-                <h4 style={{ fontWeight: 800, marginBottom: '0.2rem', color: 'var(--secondary)' }}>Media Buyers & Ad Strategists</h4>
+              <div 
+                onClick={() => {
+                  onClose();
+                  if (onNavigate) onNavigate('service-details', 'paid-ads');
+                }}
+                style={{ 
+                  background: 'var(--bg-subtle)', 
+                  padding: '1.25rem', 
+                  borderRadius: '16px', 
+                  border: '1px solid var(--border-color)',
+                  cursor: 'pointer',
+                  transition: 'all 0.2s ease'
+                }}
+                onMouseEnter={(e) => e.currentTarget.style.borderColor = 'var(--primary)'}
+                onMouseLeave={(e) => e.currentTarget.style.borderColor = 'var(--border-color)'}
+              >
+                <h4 style={{ fontWeight: 800, marginBottom: '0.2rem', color: 'var(--secondary)' }}>Media Buyers & Ad Strategists ➔</h4>
                 <p style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>Certified Google Ads, Meta Advantage+, & LinkedIn B2B PPC specialists managing multi-million budgets.</p>
               </div>
 
-              <div style={{ background: 'var(--bg-subtle)', padding: '1.25rem', borderRadius: '16px', border: '1px solid var(--border-color)' }}>
-                <h4 style={{ fontWeight: 800, marginBottom: '0.2rem', color: 'var(--secondary)' }}>SEO & GEO Engineers</h4>
+              <div 
+                onClick={() => {
+                  onClose();
+                  if (onNavigate) onNavigate('service-details', 'seo');
+                }}
+                style={{ 
+                  background: 'var(--bg-subtle)', 
+                  padding: '1.25rem', 
+                  borderRadius: '16px', 
+                  border: '1px solid var(--border-color)',
+                  cursor: 'pointer',
+                  transition: 'all 0.2s ease'
+                }}
+                onMouseEnter={(e) => e.currentTarget.style.borderColor = 'var(--primary)'}
+                onMouseLeave={(e) => e.currentTarget.style.borderColor = 'var(--border-color)'}
+              >
+                <h4 style={{ fontWeight: 800, marginBottom: '0.2rem', color: 'var(--secondary)' }}>SEO & GEO Engineers ➔</h4>
                 <p style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>Technical SEO architects & Generative Engine Optimization (GEO) experts ranking brands on ChatGPT & Perplexity.</p>
               </div>
 
-              <div style={{ background: 'var(--bg-subtle)', padding: '1.25rem', borderRadius: '16px', border: '1px solid var(--border-color)' }}>
-                <h4 style={{ fontWeight: 800, marginBottom: '0.2rem', color: 'var(--secondary)' }}>UI/UX & Web Developers</h4>
+              <div 
+                onClick={() => {
+                  onClose();
+                  if (onNavigate) onNavigate('service-details', 'web-development');
+                }}
+                style={{ 
+                  background: 'var(--bg-subtle)', 
+                  padding: '1.25rem', 
+                  borderRadius: '16px', 
+                  border: '1px solid var(--border-color)',
+                  cursor: 'pointer',
+                  transition: 'all 0.2s ease'
+                }}
+                onMouseEnter={(e) => e.currentTarget.style.borderColor = 'var(--primary)'}
+                onMouseLeave={(e) => e.currentTarget.style.borderColor = 'var(--border-color)'}
+              >
+                <h4 style={{ fontWeight: 800, marginBottom: '0.2rem', color: 'var(--secondary)' }}>UI/UX & Web Developers ➔</h4>
                 <p style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>React, Next.js, & Shopify engineers creating lightning-fast conversion-focused web applications.</p>
               </div>
 

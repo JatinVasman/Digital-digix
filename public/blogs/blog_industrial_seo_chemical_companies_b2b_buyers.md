@@ -97,7 +97,7 @@ Schema markup provides search engine crawlers with explicit data regarding your 
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "Industrial Grade Waterproofing Chemical Additive",
-  "url": "https://www.digitaldigix.com",
+  "url": "https://digitaldigix.com",
   "description": "High-performance construction chemical admixture for concrete waterproofing in Gurgaon.",
   "manufacturer": {
     "@type": "Organization",

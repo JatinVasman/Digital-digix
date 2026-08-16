@@ -632,6 +632,6 @@ Don't let your competitors steal your customers.
 - Transparent KPI Dashboards.
 
 📞 **Contact us today:** +91 85869 89832  
-🌐 **Visit us online:** [www.digitaldigix.com](https://www.digitaldigix.com)
+🌐 **Visit us online:** [digitaldigix.com](https://digitaldigix.com)
 
 *Tags: Digital Marketing for Hotels in India, hotels marketing, digital marketing India, hotel SEO, Meta Ads for hotels, Digital Digix Noida*
