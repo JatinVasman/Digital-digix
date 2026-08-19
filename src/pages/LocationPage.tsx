@@ -10,12 +10,17 @@ interface LocationPageProps {
 export const LocationPage: React.FC<LocationPageProps> = ({ locationName, onNavigate, onOpenStrategyModal }) => {
   const [openFaqIndex, setOpenFaqIndex] = useState<number | null>(null);
 
-  // Normalize location name to Title Case if slug passed (e.g. "delhi-ncr" -> "Delhi NCR")
-  const cleanLocationRaw = (locationName || '')
+  // Normalize location name to Title Case if slug passed (e.g. "mumbai" -> "Mumbai", "delhi-ncr" -> "Delhi NCR")
+  const rawLocation = (locationName || '').trim();
+  const cleanLocationRaw = rawLocation
+    .toLowerCase()
     .replace(/^digital-marketing-agency-in-/i, '')
     .replace(/^digital-marketing-in-/i, '')
     .replace(/^digital-marketing-/i, '')
     .replace(/^location-/i, '')
+    .replace(/^in-/i, '')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-|-$/g, '')
     .trim();
 
   const displayName = cleanLocationRaw
@@ -23,12 +28,12 @@ export const LocationPage: React.FC<LocationPageProps> = ({ locationName, onNavi
         .split('-')
         .map(w => w.toUpperCase() === 'NCR' || w.toUpperCase() === 'USA' || w.toUpperCase() === 'UK' ? w.toUpperCase() : w.charAt(0).toUpperCase() + w.slice(1))
         .join(' ')
-    : 'India';
+    : (rawLocation || 'India');
 
   useEffect(() => {
     window.scrollTo(0, 0);
 
-    const slug = displayName.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+    const slug = cleanLocationRaw || displayName.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
     const canonicalUrl = `https://digitaldigix.com/digital-marketing/${slug}`;
     const pageTitle = `Digital Marketing & SEO Agency in ${displayName} | Digital Digix`;
     const pageDesc = `Local SEO, Performance Marketing, and Google Maps optimization services for businesses in ${displayName} and surrounding regions.`;

@@ -1,3 +1,5 @@
+import { ALL_BLOGS } from '../data/blogData';
+
 export interface PageSeoMeta {
   title: string;
   description: string;
@@ -293,10 +295,14 @@ export const SERVICES_SEO: Record<string, PageSeoMeta> = {
  * Returns SEO metadata for a location page
  */
 export function getLocationSeo(citySlug: string): PageSeoMeta {
-  const cleanCity = citySlug
+  const rawSlug = (citySlug || 'noida').toLowerCase().trim();
+  const cleanCity = rawSlug
     .replace(/^digital-marketing-agency-in-/, '')
     .replace(/^digital-marketing-in-/, '')
     .replace(/^digital-marketing-/, '')
+    .replace(/^in\//, '')
+    .replace(/^in-/, '')
+    .replace(/^location-/, '')
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-|-$/g, '') || 'noida';
 
@@ -327,8 +333,11 @@ export function getLocationSeo(citySlug: string): PageSeoMeta {
  * Returns SEO metadata for an industry landing page
  */
 export function getIndustrySeo(industrySlug: string, industryName?: string): PageSeoMeta {
-  const cleanSlug = industrySlug
+  const rawSlug = (industrySlug || '').toLowerCase().trim();
+  const cleanSlug = rawSlug
     .replace(/^marketing-for-/, '')
+    .replace(/^marketing-to-/, '')
+    .replace(/^marketing-/, '')
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-|-$/g, '');
 
@@ -351,6 +360,45 @@ export function getIndustrySeo(industrySlug: string, industryName?: string): Pag
     ogType: 'website',
     searchIntent: `Commercial — Sector-specific digital marketing strategies for ${name}`,
     primaryKeyword: `digital marketing for ${name.toLowerCase()}`
+  };
+}
+
+/**
+ * Returns SEO metadata for a blog post
+ */
+export function getBlogPostSeo(blogSlug: string, contextTitle?: string, contextDesc?: string): PageSeoMeta {
+  const rawSlug = (blogSlug || '').trim();
+  const decoded = decodeURIComponent(rawSlug);
+  const blog = ALL_BLOGS.find(b =>
+    b.slug === decoded ||
+    b.slug === rawSlug ||
+    b.slug.replace(/^strategy\//, '') === decoded.replace(/^strategy\//, '') ||
+    b.slug.toLowerCase() === decoded.toLowerCase()
+  );
+
+  if (blog) {
+    return {
+      title: `${blog.title} | Digital Digix`,
+      description: blog.excerpt || `Read our in-depth framework on ${blog.title}. Proven digital growth, SEO, and performance marketing strategies from Digital Digix.`,
+      keywords: [blog.keyword, blog.keyword2, ...(blog.tags || []), 'Digital Digix'].filter(Boolean) as string[],
+      canonicalPath: `/blogs/${encodeURIComponent(blog.slug)}`,
+      h1: blog.title,
+      ogType: 'article',
+      searchIntent: `Informational — ${blog.title}`,
+      primaryKeyword: blog.keyword || blog.title
+    };
+  }
+
+  const fallbackTitle = contextTitle || decoded.split(/[-_]+/).map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ') || 'Digital Marketing Strategy Guide';
+  return {
+    title: `${fallbackTitle} | Digital Digix`,
+    description: contextDesc || 'Read practical frameworks on digital marketing, SEO, Generative AI search, and B2B growth funnels.',
+    keywords: ['digital marketing blog', 'SEO insights', 'growth strategies'],
+    canonicalPath: `/blogs/${encodeURIComponent(rawSlug || 'guide')}`,
+    h1: fallbackTitle,
+    ogType: 'article',
+    searchIntent: 'Informational — Digital Marketing Strategy Guide',
+    primaryKeyword: fallbackTitle
   };
 }
 

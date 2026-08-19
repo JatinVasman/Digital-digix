@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
 import type { PageView } from '../types';
 import { ALL_BLOGS } from '../data/blogData';
+import { updatePageSeo } from '../utils/seoManager';
 
 interface BlogPostPageProps {
   slug: string;
@@ -102,99 +103,20 @@ export const BlogPostPage: React.FC<BlogPostPageProps> = ({ slug, onNavigate, on
     tryFetch();
   }, [slug, blog]);
 
-  // Dynamic Article & Breadcrumb JSON-LD Schema
+  // Synchronous Unified SEO Metadata and Schema synchronization
   useEffect(() => {
-    if (!blog) return;
-
-    const pageTitle = `${blog.title} | Digital Digix`;
-    document.title = pageTitle;
-
-    let metaDesc = document.querySelector('meta[name="description"]');
-    if (metaDesc && blog.excerpt) {
-      metaDesc.setAttribute('content', blog.excerpt);
+    if (blog) {
+      updatePageSeo('blog-post', blog.slug, {
+        title: blog.title,
+        description: blog.excerpt,
+        datePublished: blog.date,
+        tags: [blog.keyword, blog.keyword2, ...blog.tags].filter(Boolean) as string[],
+        author: 'Digital Digix'
+      });
+    } else if (slug) {
+      updatePageSeo('blog-post', slug);
     }
-
-    const ogTitle = document.querySelector('meta[property="og:title"]');
-    if (ogTitle) ogTitle.setAttribute('content', pageTitle);
-    const ogDesc = document.querySelector('meta[property="og:description"]');
-    if (ogDesc && blog.excerpt) ogDesc.setAttribute('content', blog.excerpt);
-
-    // Inject Article Schema
-    const scriptId = 'blog-post-schema';
-    let script = document.getElementById(scriptId) as HTMLScriptElement | null;
-    if (!script) {
-      script = document.createElement('script');
-      script.id = scriptId;
-      script.type = 'application/ld+json';
-      document.head.appendChild(script);
-    }
-
-    const postUrl = `https://digitaldigix.com/blogs/${encodeURIComponent(blog.slug)}`;
-    const schemaData = {
-      "@context": "https://schema.org",
-      "@graph": [
-        {
-          "@type": "Article",
-          "@id": `${postUrl}#article`,
-          "isPartOf": {
-            "@type": "WebPage",
-            "@id": postUrl,
-            "url": postUrl,
-            "name": blog.title
-          },
-          "headline": blog.title,
-          "description": blog.excerpt,
-          "datePublished": blog.date || "2026-08-15",
-          "dateModified": "2026-08-15",
-          "author": {
-            "@type": "Organization",
-            "name": "Digital Digix",
-            "url": "https://digitaldigix.com"
-          },
-          "publisher": {
-            "@type": "Organization",
-            "name": "Digital Digix",
-            "logo": {
-              "@type": "ImageObject",
-              "url": "https://digitaldigix.com/digital_digix_logo.png"
-            }
-          },
-          "keywords": [blog.keyword, blog.keyword2, ...blog.tags].filter(Boolean).join(", ")
-        },
-        {
-          "@type": "BreadcrumbList",
-          "@id": `${postUrl}#breadcrumb`,
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "name": "Home",
-              "item": "https://digitaldigix.com/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 2,
-              "name": "Blogs",
-              "item": "https://digitaldigix.com/blogs"
-            },
-            {
-              "@type": "ListItem",
-              "position": 3,
-              "name": blog.title,
-              "item": postUrl
-            }
-          ]
-        }
-      ]
-    };
-
-    script.textContent = JSON.stringify(schemaData);
-
-    return () => {
-      const existing = document.getElementById(scriptId);
-      if (existing) existing.remove();
-    };
-  }, [blog]);
+  }, [blog, slug]);
 
   // Related blogs from same category, primary tag, or sector
   const related = blog
