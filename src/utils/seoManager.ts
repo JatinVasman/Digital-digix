@@ -6,6 +6,7 @@ import {
   getIndustrySeo,
   getGraphicDesignItemSeo,
   getLegalServiceSeo,
+  getBlogPostSeo,
   type PageSeoMeta
 } from './seoConfig';
 import { SERVICE_ID_TO_SLUG, getRoutePath } from './routes';
@@ -114,17 +115,9 @@ export function resolveSeoMetadata(page: PageView, slug?: string, context?: SeoD
 
     case 'blog-post': {
       const cleanSlug = slug || 'guide';
-      seo = {
-        title: context?.title ? `${context.title} | Digital Digix` : 'Digital Marketing & Growth Guide | Digital Digix',
-        description: context?.description || 'Read practical frameworks on digital marketing, SEO, Generative AI search, and B2B growth funnels.',
-        keywords: context?.keywords || ['digital marketing blog', 'SEO insights', 'growth strategies'],
-        canonicalPath: `/blogs/${encodeURIComponent(cleanSlug)}`,
-        h1: context?.title || 'Digital Marketing Strategy Guide',
-        ogType: 'article',
-        primaryKeyword: context?.title || 'digital marketing guide'
-      };
+      seo = getBlogPostSeo(cleanSlug, context?.title, context?.description);
       breadcrumbs.push({ name: 'Blogs', path: '/blogs' });
-      breadcrumbs.push({ name: context?.title || 'Article', path: seo.canonicalPath });
+      breadcrumbs.push({ name: seo.h1, path: seo.canonicalPath });
       break;
     }
 

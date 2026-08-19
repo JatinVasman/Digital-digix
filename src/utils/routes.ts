@@ -195,20 +195,44 @@ export function parseRoute(pathname: string, search: string): RouteInfo {
 
   if (first === 'digital-marketing' || first === 'digital-marketing-agency' || first === 'digital-marketing-services') {
     if (second) {
-      const city = second.replace(/^in\//, '').replace(/^in-/, '').replace(/^agency-in-/, '');
+      const city = second
+        .toLowerCase()
+        .replace(/^digital-marketing-agency-in-/, '')
+        .replace(/^digital-marketing-in-/, '')
+        .replace(/^digital-marketing-/, '')
+        .replace(/^in\//, '')
+        .replace(/^in-/, '')
+        .replace(/^agency-in-/, '')
+        .replace(/[^a-z0-9]+/g, '-')
+        .replace(/^-|-$/g, '');
       return { page: 'location', slug: city };
     }
     return { page: 'all-locations' };
   }
 
-  if (first.startsWith('digital-marketing-in-') || first.startsWith('digital-marketing-agency-in-')) {
-    const city = first.replace(/^digital-marketing-agency-in-/, '').replace(/^digital-marketing-in-/, '');
+  if (first.startsWith('digital-marketing-in-') || first.startsWith('digital-marketing-agency-in-') || first.startsWith('digital-marketing-')) {
+    const city = first
+      .toLowerCase()
+      .replace(/^digital-marketing-agency-in-/, '')
+      .replace(/^digital-marketing-in-/, '')
+      .replace(/^digital-marketing-/, '')
+      .replace(/^in-/, '')
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/^-|-$/g, '');
     return { page: 'location', slug: city };
   }
 
   if (first === 'location' || first === 'locations') {
     if (second) {
-      const city = second.replace(/^digital-marketing-agency-in-/, '').replace(/^digital-marketing-in-/, '').replace(/^digital-marketing-/, '');
+      const city = second
+        .toLowerCase()
+        .replace(/^digital-marketing-agency-in-/, '')
+        .replace(/^digital-marketing-in-/, '')
+        .replace(/^digital-marketing-/, '')
+        .replace(/^in\//, '')
+        .replace(/^in-/, '')
+        .replace(/[^a-z0-9]+/g, '-')
+        .replace(/^-|-$/g, '');
       return { page: 'location', slug: city };
     }
     return { page: 'all-locations' };
@@ -288,6 +312,9 @@ export function getRoutePath(page: PageView, slug?: string): string {
         .replace(/^digital-marketing-agency-in-/, '')
         .replace(/^digital-marketing-in-/, '')
         .replace(/^digital-marketing-/, '')
+        .replace(/^in\//, '')
+        .replace(/^in-/, '')
+        .replace(/^location-/, '')
         .replace(/[^a-z0-9]+/g, '-')
         .replace(/^-|-$/g, '');
       return `/digital-marketing/${cleanSlug}`;
