@@ -38,16 +38,26 @@ export const SERVICE_SLUG_TO_ID: Record<string, string> = {
   'influencer-marketing': '11',
   'b2b-lead-generation': '12',
   'lead-generation': '12',
+  'b2b-leads': '12',
   'ecommerce-scaling': '13',
   'e-commerce-scaling': '13',
+  'ecommerce-marketing': '13',
+  'e-commerce-marketing': '13',
+  'ecommerce': '13',
+  'e-commerce': '13',
   'cro': '14',
   'conversion-rate-optimization': '14',
+  'conversion-optimization': '14',
   'local-seo': '15',
   'local-business-seo': '15',
   'ai-automation-systems': '16',
   'ai-automation': '16',
+  'ai-systems': '16',
   'brand-identity-design': '17',
-  'branding': '17'
+  'brand-identity': '17',
+  'branding': '17',
+  'logo-branding': '17',
+  'logo-and-branding': '17'
 };
 
 export const SERVICE_ID_TO_SLUG: Record<string, string> = {
@@ -219,7 +229,11 @@ export function parseRoute(pathname: string, search: string): RouteInfo {
     return { page: 'design-item', slug: second };
   }
 
-  return { page: 'home' };
+  if (first === '404' || first === 'not-found') {
+    return { page: '404' };
+  }
+
+  return { page: '404' };
 }
 
 /**
@@ -287,6 +301,8 @@ export function getRoutePath(page: PageView, slug?: string): string {
       const cleanSlug = slug.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
       return `/graphic-design/${cleanSlug}`;
     }
+    case '404':
+      return '/404';
     default:
       return '/';
   }

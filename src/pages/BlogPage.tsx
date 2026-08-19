@@ -169,55 +169,60 @@ export const BlogPage: React.FC<BlogPageProps> = ({ onNavigate, onOpenStrategyMo
                 <article
                   key={blog.slug}
                   className="bv-card"
-                  onClick={() => onNavigate('blog-post', blog.slug)}
-                  role="button"
-                  tabIndex={0}
-                  onKeyDown={e => e.key === 'Enter' && onNavigate('blog-post', blog.slug)}
                 >
-                  {/* Gradient Banner with icon */}
-                  <div className="bv-card-banner" style={{ background: bannerGrad }}>
-                    {blog.isPillar && <span className="bv-card-pillar-badge">PILLAR</span>}
-                    {typeof catIcon === 'string' && catIcon.length <= 2 ? (
-                      <span className="bv-card-banner-icon">{catIcon}</span>
-                    ) : (
-                      <DiamondIcon />
-                    )}
-                  </div>
-
-                  {/* Card Body */}
-                  <div className="bv-card-body">
-                    {/* Meta row */}
-                    <div className="bv-card-meta">
-                      <span className="bv-card-date">🗓 {blog.date}</span>
-                      <span className="bv-card-sep">·</span>
-                      <span className="bv-card-time">⏱ {blog.readTime} read</span>
-                      {blog.wordCount && (
-                        <>
-                          <span className="bv-card-sep">·</span>
-                          <span className="bv-card-words">{blog.wordCount}</span>
-                        </>
+                  <a
+                    href={`/blogs/${encodeURIComponent(blog.slug)}`}
+                    onClick={(e) => {
+                      e.preventDefault();
+                      onNavigate('blog-post', blog.slug);
+                    }}
+                    style={{ textDecoration: 'none', color: 'inherit', display: 'flex', flexDirection: 'column', height: '100%' }}
+                  >
+                    {/* Gradient Banner with icon */}
+                    <div className="bv-card-banner" style={{ background: bannerGrad }}>
+                      {blog.isPillar && <span className="bv-card-pillar-badge">PILLAR</span>}
+                      {typeof catIcon === 'string' && catIcon.length <= 2 ? (
+                        <span className="bv-card-banner-icon">{catIcon}</span>
+                      ) : (
+                        <DiamondIcon />
                       )}
                     </div>
 
-                    {/* Title */}
-                    <h2 className="bv-card-title">{blog.title}</h2>
-
-                    {/* Excerpt */}
-                    {blog.excerpt && (
-                      <p className="bv-card-excerpt">{blog.excerpt}</p>
-                    )}
-
-                    {/* Tags + Read button */}
-                    <div className="bv-card-footer">
-                      <div className="bv-card-tags">
-                        <span className="bv-card-tag bv-card-tag--cat">{blog.category}</span>
-                        {blog.keyword && (
-                          <span className="bv-card-tag bv-card-tag--kw">{blog.keyword}</span>
+                    {/* Card Body */}
+                    <div className="bv-card-body">
+                      {/* Meta row */}
+                      <div className="bv-card-meta">
+                        <span className="bv-card-date">🗓 {blog.date}</span>
+                        <span className="bv-card-sep">·</span>
+                        <span className="bv-card-time">⏱ {blog.readTime} read</span>
+                        {blog.wordCount && (
+                          <>
+                            <span className="bv-card-sep">·</span>
+                            <span className="bv-card-words">{blog.wordCount}</span>
+                          </>
                         )}
                       </div>
-                      <span className="bv-card-read">READ →</span>
+
+                      {/* Title */}
+                      <h2 className="bv-card-title">{blog.title}</h2>
+
+                      {/* Excerpt */}
+                      {blog.excerpt && (
+                        <p className="bv-card-excerpt">{blog.excerpt}</p>
+                      )}
+
+                      {/* Tags + Read button */}
+                      <div className="bv-card-footer">
+                        <div className="bv-card-tags">
+                          <span className="bv-card-tag bv-card-tag--cat">{blog.category}</span>
+                          {blog.keyword && (
+                            <span className="bv-card-tag bv-card-tag--kw">{blog.keyword}</span>
+                          )}
+                        </div>
+                        <span className="bv-card-read">READ →</span>
+                      </div>
                     </div>
-                  </div>
+                  </a>
                 </article>
               );
             })

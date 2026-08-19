@@ -54,25 +54,25 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate, onSelectLocation, on
 
           <div>
             <h4 style={{ fontSize: '1rem', fontWeight: 800, color: '#FFF', marginBottom: '1.25rem' }}>Navigation</h4>
-            <ul style={{ display: 'flex', flexDirection: 'column', gap: '0.65rem', fontSize: '0.875rem', color: '#94A3B8' }}>
-              <li style={{ cursor: 'pointer' }} onClick={() => onNavigate('home')}>Home</li>
-              <li style={{ cursor: 'pointer' }} onClick={() => onNavigate('about')}>About Us</li>
-              <li style={{ cursor: 'pointer' }} onClick={() => onNavigate('portfolio')}>Our Work</li>
-              <li style={{ cursor: 'pointer' }} onClick={() => onNavigate('blog')}>Blog Articles</li>
-              <li style={{ cursor: 'pointer' }} onClick={() => onNavigate('smm')}>Social Growth (SMM)</li>
-              <li style={{ cursor: 'pointer' }} onClick={() => onNavigate('contact')}>Contact Us</li>
+            <ul style={{ display: 'flex', flexDirection: 'column', gap: '0.65rem', fontSize: '0.875rem', color: '#94A3B8', listStyle: 'none', padding: 0 }}>
+              <li><a href="/" style={{ color: 'inherit', textDecoration: 'none' }} onClick={(e) => { e.preventDefault(); onNavigate('home'); }}>Home</a></li>
+              <li><a href="/about" style={{ color: 'inherit', textDecoration: 'none' }} onClick={(e) => { e.preventDefault(); onNavigate('about'); }}>About Us</a></li>
+              <li><a href="/portfolio" style={{ color: 'inherit', textDecoration: 'none' }} onClick={(e) => { e.preventDefault(); onNavigate('portfolio'); }}>Our Work</a></li>
+              <li><a href="/blogs" style={{ color: 'inherit', textDecoration: 'none' }} onClick={(e) => { e.preventDefault(); onNavigate('blog'); }}>Blog Articles</a></li>
+              <li><a href="/smm" style={{ color: 'inherit', textDecoration: 'none' }} onClick={(e) => { e.preventDefault(); onNavigate('smm'); }}>Social Growth (SMM)</a></li>
+              <li><a href="/contact" style={{ color: 'inherit', textDecoration: 'none' }} onClick={(e) => { e.preventDefault(); onNavigate('contact'); }}>Contact Us</a></li>
             </ul>
           </div>
 
           <div>
             <h4 style={{ fontSize: '1rem', fontWeight: 800, color: '#FFF', marginBottom: '1.25rem' }}>Services</h4>
-            <ul style={{ display: 'flex', flexDirection: 'column', gap: '0.65rem', fontSize: '0.875rem', color: '#94A3B8' }}>
-              <li style={{ cursor: 'pointer' }} onClick={() => onNavigate('services')}>SEO Services</li>
-              <li style={{ cursor: 'pointer' }} onClick={() => onNavigate('services')}>Google Ads (PPC)</li>
-              <li style={{ cursor: 'pointer' }} onClick={() => onNavigate('services')}>Meta Ads</li>
-              <li style={{ cursor: 'pointer' }} onClick={() => onNavigate('smm')}>SMM Growth</li>
-              <li style={{ cursor: 'pointer' }} onClick={() => onNavigate('services')}>Custom Web App</li>
-              <li style={{ cursor: 'pointer' }} onClick={() => onNavigate('services')}>Graphic Design</li>
+            <ul style={{ display: 'flex', flexDirection: 'column', gap: '0.65rem', fontSize: '0.875rem', color: '#94A3B8', listStyle: 'none', padding: 0 }}>
+              <li><a href="/services/seo" style={{ color: 'inherit', textDecoration: 'none' }} onClick={(e) => { e.preventDefault(); onNavigate('service-details', 'seo'); }}>SEO Services</a></li>
+              <li><a href="/services/google-ads" style={{ color: 'inherit', textDecoration: 'none' }} onClick={(e) => { e.preventDefault(); onNavigate('service-details', 'google-ads'); }}>Google Ads (PPC)</a></li>
+              <li><a href="/services/meta-ads" style={{ color: 'inherit', textDecoration: 'none' }} onClick={(e) => { e.preventDefault(); onNavigate('service-details', 'meta-ads'); }}>Meta Ads</a></li>
+              <li><a href="/smm" style={{ color: 'inherit', textDecoration: 'none' }} onClick={(e) => { e.preventDefault(); onNavigate('smm'); }}>SMM Growth</a></li>
+              <li><a href="/services/web-development" style={{ color: 'inherit', textDecoration: 'none' }} onClick={(e) => { e.preventDefault(); onNavigate('service-details', 'web-development'); }}>Custom Web App</a></li>
+              <li><a href="/graphic-design" style={{ color: 'inherit', textDecoration: 'none' }} onClick={(e) => { e.preventDefault(); onNavigate('graphic-details'); }}>Graphic Design</a></li>
             </ul>
           </div>
 
@@ -105,35 +105,44 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate, onSelectLocation, on
             </h4>
 
             <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.6rem' }}>
-              {TOP_FOOTER_DOMESTIC_LOCATIONS.map((loc) => (
-                <button
-                  key={loc}
-                  onClick={() => handleLocationClick(loc)}
-                  style={{
-                    backgroundColor: '#1E1815',
-                    color: '#E2E8F0',
-                    border: '1px solid #382E2A',
-                    borderRadius: '999px',
-                    padding: '0.45rem 1.15rem',
-                    fontSize: '0.825rem',
-                    fontWeight: 500,
-                    cursor: 'pointer',
-                    transition: 'all 0.2s ease'
-                  }}
-                  onMouseEnter={(e) => {
-                    e.currentTarget.style.backgroundColor = '#D97706';
-                    e.currentTarget.style.color = '#0F172A';
-                    e.currentTarget.style.borderColor = '#D97706';
-                  }}
-                  onMouseLeave={(e) => {
-                    e.currentTarget.style.backgroundColor = '#1E1815';
-                    e.currentTarget.style.color = '#E2E8F0';
-                    e.currentTarget.style.borderColor = '#382E2A';
-                  }}
-                >
-                  {loc}
-                </button>
-              ))}
+              {TOP_FOOTER_DOMESTIC_LOCATIONS.map((loc) => {
+                const slug = loc.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+                return (
+                  <a
+                    key={loc}
+                    href={`/digital-marketing/${slug}`}
+                    onClick={(e) => {
+                      e.preventDefault();
+                      handleLocationClick(loc);
+                    }}
+                    style={{
+                      textDecoration: 'none',
+                      backgroundColor: '#1E1815',
+                      color: '#E2E8F0',
+                      border: '1px solid #382E2A',
+                      borderRadius: '999px',
+                      padding: '0.45rem 1.15rem',
+                      fontSize: '0.825rem',
+                      fontWeight: 500,
+                      cursor: 'pointer',
+                      transition: 'all 0.2s ease',
+                      display: 'inline-block'
+                    }}
+                    onMouseEnter={(e) => {
+                      e.currentTarget.style.backgroundColor = '#D97706';
+                      e.currentTarget.style.color = '#0F172A';
+                      e.currentTarget.style.borderColor = '#D97706';
+                    }}
+                    onMouseLeave={(e) => {
+                      e.currentTarget.style.backgroundColor = '#1E1815';
+                      e.currentTarget.style.color = '#E2E8F0';
+                      e.currentTarget.style.borderColor = '#382E2A';
+                    }}
+                  >
+                    {loc}
+                  </a>
+                );
+              })}
             </div>
           </div>
 
@@ -144,35 +153,44 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate, onSelectLocation, on
             </h4>
 
             <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.6rem' }}>
-              {TOP_FOOTER_INTERNATIONAL_LOCATIONS.map((loc) => (
-                <button
-                  key={loc}
-                  onClick={() => handleLocationClick(loc)}
-                  style={{
-                    backgroundColor: '#1E1815',
-                    color: '#E2E8F0',
-                    border: '1px solid #382E2A',
-                    borderRadius: '999px',
-                    padding: '0.45rem 1.15rem',
-                    fontSize: '0.825rem',
-                    fontWeight: 500,
-                    cursor: 'pointer',
-                    transition: 'all 0.2s ease'
-                  }}
-                  onMouseEnter={(e) => {
-                    e.currentTarget.style.backgroundColor = '#D97706';
-                    e.currentTarget.style.color = '#0F172A';
-                    e.currentTarget.style.borderColor = '#D97706';
-                  }}
-                  onMouseLeave={(e) => {
-                    e.currentTarget.style.backgroundColor = '#1E1815';
-                    e.currentTarget.style.color = '#E2E8F0';
-                    e.currentTarget.style.borderColor = '#382E2A';
-                  }}
-                >
-                  🌐 {loc}
-                </button>
-              ))}
+              {TOP_FOOTER_INTERNATIONAL_LOCATIONS.map((loc) => {
+                const slug = loc.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+                return (
+                  <a
+                    key={loc}
+                    href={`/digital-marketing/${slug}`}
+                    onClick={(e) => {
+                      e.preventDefault();
+                      handleLocationClick(loc);
+                    }}
+                    style={{
+                      textDecoration: 'none',
+                      backgroundColor: '#1E1815',
+                      color: '#E2E8F0',
+                      border: '1px solid #382E2A',
+                      borderRadius: '999px',
+                      padding: '0.45rem 1.15rem',
+                      fontSize: '0.825rem',
+                      fontWeight: 500,
+                      cursor: 'pointer',
+                      transition: 'all 0.2s ease',
+                      display: 'inline-block'
+                    }}
+                    onMouseEnter={(e) => {
+                      e.currentTarget.style.backgroundColor = '#D97706';
+                      e.currentTarget.style.color = '#0F172A';
+                      e.currentTarget.style.borderColor = '#D97706';
+                    }}
+                    onMouseLeave={(e) => {
+                      e.currentTarget.style.backgroundColor = '#1E1815';
+                      e.currentTarget.style.color = '#E2E8F0';
+                      e.currentTarget.style.borderColor = '#382E2A';
+                    }}
+                  >
+                    🌐 {loc}
+                  </a>
+                );
+              })}
             </div>
           </div>
 

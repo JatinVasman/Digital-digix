@@ -78,15 +78,14 @@ const smmFaqsData = [
   { q: 'How long does onboarding take?', a: 'We can onboard your social channels and launch your first week content calendar within 48 hours of completing the strategy checklist and signing off on templates.' }
 ];
 
-import { SERVICE_SLUG_TO_ID, SERVICE_ID_TO_SLUG } from '../utils/routes';
+import { getServiceBySlug, type ServiceItem } from '../data/servicesData';
+import { SERVICE_ID_TO_SLUG } from '../utils/routes';
 
 export const ServiceDetailPage: React.FC<ServiceDetailPageProps> = ({ serviceId, onNavigate, onOpenStrategyModal: _onOpenStrategyModal }) => {
   const [openFaqIndex, setOpenFaqIndex] = useState<number | null>(0);
   const [openInlineSmmFaqIndex, setOpenInlineSmmFaqIndex] = useState<number | null>(0);
 
-  const normalizedId = SERVICE_SLUG_TO_ID[serviceId?.toLowerCase()] || serviceId;
-  const selectedService = detailed17Services.find(s => 
-    s.id === normalizedId ||
+  const selectedService: ServiceItem | undefined = getServiceBySlug(serviceId) || detailed17Services.find(s => 
     s.id === serviceId ||
     s.title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '') === serviceId?.toLowerCase()
   );
@@ -95,9 +94,9 @@ export const ServiceDetailPage: React.FC<ServiceDetailPageProps> = ({ serviceId,
     window.scrollTo(0, 0);
     if (!selectedService) return;
 
+    const cleanSlug = selectedService.slug || SERVICE_ID_TO_SLUG[selectedService.id || ''] || serviceId;
     const pageTitle = `${selectedService.title} Services — Pricing, Strategy & Results | Digital Digix`;
     const pageDesc = selectedService.longDescription || selectedService.description;
-    const cleanSlug = SERVICE_ID_TO_SLUG[selectedService.id] || selectedService.id;
     const canonicalUrl = `https://digitaldigix.com/services/${cleanSlug}`;
 
     document.title = pageTitle;
@@ -183,8 +182,8 @@ export const ServiceDetailPage: React.FC<ServiceDetailPageProps> = ({ serviceId,
         
         {/* Breadcrumb */}
         <div style={{ fontSize: '0.875rem', color: '#64748B', marginBottom: '1.5rem' }}>
-          <span style={{ cursor: 'pointer', color: '#3B82F6' }} onClick={() => onNavigate('home')}>Home</span> /{' '}
-          <span style={{ cursor: 'pointer', color: '#3B82F6' }} onClick={() => onNavigate('services')}>Services</span> /{' '}
+          <a href="/" style={{ color: '#3B82F6', textDecoration: 'none' }} onClick={(e) => { e.preventDefault(); onNavigate('home'); }}>Home</a> /{' '}
+          <a href="/services" style={{ color: '#3B82F6', textDecoration: 'none' }} onClick={(e) => { e.preventDefault(); onNavigate('services'); }}>Services</a> /{' '}
           <span style={{ color: '#0F172A', fontWeight: 700 }}>{selectedService.title}</span>
         </div>
 

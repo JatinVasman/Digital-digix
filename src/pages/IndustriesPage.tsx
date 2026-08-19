@@ -3687,9 +3687,15 @@ export const IndustriesPage: React.FC<IndustriesPageProps> = ({ industryId, onNa
             <span style={{ width: '35px', height: '1.5px', background: '#3B82F6' }}></span>
           </div>
 
-          <h1 style={{ fontFamily: 'Outfit, serif', fontSize: '3.4rem', fontWeight: 900, color: '#0F172A', marginBottom: '1rem', letterSpacing: '-0.02em', lineHeight: 1.15 }}>
-            89 Sectors Scaled. Zero Generic Marketing.
-          </h1>
+          {!activeHubIndustry ? (
+            <h1 style={{ fontFamily: 'Outfit, serif', fontSize: '3.4rem', fontWeight: 900, color: '#0F172A', marginBottom: '1rem', letterSpacing: '-0.02em', lineHeight: 1.15 }}>
+              89 Sectors Scaled. Zero Generic Marketing.
+            </h1>
+          ) : (
+            <h2 style={{ fontFamily: 'Outfit, serif', fontSize: '3.4rem', fontWeight: 900, color: '#0F172A', marginBottom: '1rem', letterSpacing: '-0.02em', lineHeight: 1.15 }}>
+              89 Sectors Scaled. Zero Generic Marketing.
+            </h2>
+          )}
 
           <p style={{ fontSize: '1.1rem', color: '#64748B', lineHeight: 1.6, maxWidth: '750px', margin: '0 auto' }}>
             Every niche has its own rules. Explore our 89 dedicated authority hubs powered by real Indian market intelligence, verified acquisition funnels, and battle-tested digital playbooks.
@@ -3919,7 +3925,7 @@ export const IndustriesPage: React.FC<IndustriesPageProps> = ({ industryId, onNa
                     </div>
 
                     <h1 style={{ fontFamily: 'Outfit, serif', fontSize: '2.5rem', fontWeight: 900, color: '#0F172A', margin: 0, lineHeight: 1.1 }}>
-                      {activeHubIndustry.name}
+                      Digital Marketing for {activeHubIndustry.name}
                     </h1>
 
                     <p style={{ fontSize: '1rem', color: '#64748B', margin: '0.35rem 0 0.6rem 0' }}>

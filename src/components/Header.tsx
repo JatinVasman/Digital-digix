@@ -94,12 +94,13 @@ export const Header: React.FC<HeaderProps> = ({
 
           {/* Navigation Track (Desktop Only) */}
           <nav className="nav-menu desktop-nav-only">
-            <button
-              onClick={() => onNavigate('home')}
+            <a
+              href="/"
+              onClick={(e) => { e.preventDefault(); onNavigate('home'); }}
               className={`nav-link-item ${activePage === 'home' ? 'active' : ''}`}
             >
               Home
-            </button>
+            </a>
 
             {/* ABOUT ▾ DROPDOWN MENU */}
             <div
@@ -107,17 +108,19 @@ export const Header: React.FC<HeaderProps> = ({
               onMouseEnter={() => setIsAboutDropdownOpen(true)}
               onMouseLeave={() => setIsAboutDropdownOpen(false)}
             >
-              <button
-                onClick={() => {
+              <a
+                href="/about"
+                onClick={(e) => {
+                  e.preventDefault();
                   setIsAboutDropdownOpen(false);
                   onNavigate('about');
                 }}
                 className={`nav-link-item ${activePage === 'about' ? 'active' : ''}`}
-                style={{ display: 'flex', alignItems: 'center', gap: '0.35rem', cursor: 'pointer' }}
+                style={{ display: 'flex', alignItems: 'center', gap: '0.35rem', cursor: 'pointer', textDecoration: 'none' }}
                 title="Click to view About Us Page"
               >
                 About ▾
-              </button>
+              </a>
 
               {/* Dropdown Menu Card with seamless top hover bridge */}
               {isAboutDropdownOpen && (
@@ -145,8 +148,10 @@ export const Header: React.FC<HeaderProps> = ({
                       gap: '0.2rem'
                     }}
                   >
-                    <button
-                      onClick={() => {
+                    <a
+                      href="/about"
+                      onClick={(e) => {
+                        e.preventDefault();
                         setIsAboutDropdownOpen(false);
                         onNavigate('about');
                       }}
@@ -159,17 +164,19 @@ export const Header: React.FC<HeaderProps> = ({
                         color: 'var(--text-main)',
                         transition: 'var(--transition)',
                         background: 'transparent',
-                        border: 'none',
-                        cursor: 'pointer'
+                        textDecoration: 'none',
+                        display: 'block'
                       }}
                       onMouseEnter={(e) => (e.currentTarget.style.backgroundColor = '#FFF1EE')}
                       onMouseLeave={(e) => (e.currentTarget.style.backgroundColor = 'transparent')}
                     >
                       About Digital Digix
-                    </button>
+                    </a>
 
-                    <button
-                      onClick={() => {
+                    <a
+                      href="/about/founder"
+                      onClick={(e) => {
+                        e.preventDefault();
                         setIsAboutDropdownOpen(false);
                         onNavigate('about', 'founder');
                       }}
@@ -182,17 +189,19 @@ export const Header: React.FC<HeaderProps> = ({
                         color: '#475569',
                         transition: 'var(--transition)',
                         background: 'transparent',
-                        border: 'none',
-                        cursor: 'pointer'
+                        textDecoration: 'none',
+                        display: 'block'
                       }}
                       onMouseEnter={(e) => (e.currentTarget.style.backgroundColor = '#FFF1EE')}
                       onMouseLeave={(e) => (e.currentTarget.style.backgroundColor = 'transparent')}
                     >
                       Founder — <strong>Harsh Chaudhary</strong>
-                    </button>
+                    </a>
 
-                    <button
-                      onClick={() => {
+                    <a
+                      href="/about/co-founder"
+                      onClick={(e) => {
+                        e.preventDefault();
                         setIsAboutDropdownOpen(false);
                         onNavigate('about', 'co-founder');
                       }}
@@ -205,17 +214,19 @@ export const Header: React.FC<HeaderProps> = ({
                         color: '#475569',
                         transition: 'var(--transition)',
                         background: 'transparent',
-                        border: 'none',
-                        cursor: 'pointer'
+                        textDecoration: 'none',
+                        display: 'block'
                       }}
                       onMouseEnter={(e) => (e.currentTarget.style.backgroundColor = '#FFF1EE')}
                       onMouseLeave={(e) => (e.currentTarget.style.backgroundColor = 'transparent')}
                     >
                       Co-Founder — <strong>Khwahish Sahai</strong>
-                    </button>
+                    </a>
 
-                    <button
-                      onClick={() => {
+                    <a
+                      href="/about/why-us"
+                      onClick={(e) => {
+                        e.preventDefault();
                         setIsAboutDropdownOpen(false);
                         onNavigate('about', 'why-us');
                       }}
@@ -228,17 +239,19 @@ export const Header: React.FC<HeaderProps> = ({
                         color: '#475569',
                         transition: 'var(--transition)',
                         background: 'transparent',
-                        border: 'none',
-                        cursor: 'pointer'
+                        textDecoration: 'none',
+                        display: 'block'
                       }}
                       onMouseEnter={(e) => (e.currentTarget.style.backgroundColor = '#FFF1EE')}
                       onMouseLeave={(e) => (e.currentTarget.style.backgroundColor = 'transparent')}
                     >
                       Why Digital Digix
-                    </button>
+                    </a>
 
-                    <button
-                      onClick={() => {
+                    <a
+                      href="/about/team"
+                      onClick={(e) => {
+                        e.preventDefault();
                         setIsAboutDropdownOpen(false);
                         onNavigate('about', 'team');
                       }}
@@ -251,67 +264,74 @@ export const Header: React.FC<HeaderProps> = ({
                         color: '#475569',
                         transition: 'var(--transition)',
                         background: 'transparent',
-                        border: 'none',
-                        cursor: 'pointer'
+                        textDecoration: 'none',
+                        display: 'block'
                       }}
                       onMouseEnter={(e) => (e.currentTarget.style.backgroundColor = '#FFF1EE')}
                       onMouseLeave={(e) => (e.currentTarget.style.backgroundColor = 'transparent')}
                     >
                       Our Team
-                    </button>
+                    </a>
                   </div>
                 </div>
               )}
             </div>
 
-            <button
-              onClick={() => onNavigate('services')}
+            <a
+              href="/services"
+              onClick={(e) => { e.preventDefault(); onNavigate('services'); }}
               className={`nav-link-item ${activePage === 'services' ? 'active' : ''}`}
             >
               Services
-            </button>
+            </a>
 
-            <button
-              onClick={() => onNavigate('industries')}
+            <a
+              href="/industries"
+              onClick={(e) => { e.preventDefault(); onNavigate('industries'); }}
               className={`nav-link-item ${activePage === 'industries' ? 'active' : ''}`}
             >
               Industries
-            </button>
+            </a>
 
-            <button
-              onClick={() => onNavigate('legal')}
+            <a
+              href="/legal"
+              onClick={(e) => { e.preventDefault(); onNavigate('legal'); }}
               className={`nav-link-item ${activePage === 'legal' ? 'active' : ''}`}
             >
               Legal
-            </button>
+            </a>
 
-            <button
-              onClick={() => onNavigate('portfolio')}
+            <a
+              href="/portfolio"
+              onClick={(e) => { e.preventDefault(); onNavigate('portfolio'); }}
               className={`nav-link-item ${activePage === 'portfolio' ? 'active' : ''}`}
             >
               Our Work
-            </button>
+            </a>
 
-            <button
-              onClick={() => onNavigate('blog')}
+            <a
+              href="/blogs"
+              onClick={(e) => { e.preventDefault(); onNavigate('blog'); }}
               className={`nav-link-item ${activePage === 'blog' ? 'active' : ''}`}
             >
               Blog
-            </button>
+            </a>
 
-            <button
-              onClick={() => onNavigate('smm')}
+            <a
+              href="/smm"
+              onClick={(e) => { e.preventDefault(); onNavigate('smm'); }}
               className={`nav-link-item ${activePage === 'smm' ? 'active' : ''}`}
             >
               SMM
-            </button>
+            </a>
 
-            <button
-              onClick={() => onNavigate('contact')}
+            <a
+              href="/contact"
+              onClick={(e) => { e.preventDefault(); onNavigate('contact'); }}
               className={`nav-link-item ${activePage === 'contact' ? 'active' : ''}`}
             >
               Contact
-            </button>
+            </a>
           </nav>
 
           {/* Right Header Actions */}

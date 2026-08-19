@@ -84,8 +84,8 @@ export const GraphicDetailPage: React.FC<GraphicDetailPageProps> = ({ categoryId
         
         {/* Breadcrumb */}
         <div style={{ fontSize: '0.875rem', color: '#64748B', marginBottom: '1.5rem' }}>
-          <span style={{ cursor: 'pointer', color: '#3B82F6' }} onClick={() => onNavigate('home')}>Home</span> /{' '}
-          <span style={{ cursor: 'pointer', color: '#3B82F6' }} onClick={() => onNavigate('services')}>Services</span> /{' '}
+          <a href="/" style={{ color: '#3B82F6', textDecoration: 'none' }} onClick={(e) => { e.preventDefault(); onNavigate('home'); }}>Home</a> /{' '}
+          <a href="/services" style={{ color: '#3B82F6', textDecoration: 'none' }} onClick={(e) => { e.preventDefault(); onNavigate('services'); }}>Services</a> /{' '}
           <span style={{ color: '#0F172A', fontWeight: 700 }}>Graphic Design Pricing</span>
         </div>
 

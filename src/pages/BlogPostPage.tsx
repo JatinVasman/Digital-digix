@@ -271,14 +271,19 @@ export const BlogPostPage: React.FC<BlogPostPageProps> = ({ slug, onNavigate, on
             <div className="bpp-related">
               <h3>Related Articles</h3>
               {related.map(r => (
-                <button
+                <a
                   key={r.slug}
+                  href={`/blogs/${encodeURIComponent(r.slug)}`}
                   className="bpp-related-item"
-                  onClick={() => onNavigate('blog-post', r.slug)}
+                  onClick={(e) => {
+                    e.preventDefault();
+                    onNavigate('blog-post', r.slug);
+                  }}
+                  style={{ textDecoration: 'none', display: 'flex', flexDirection: 'column', textAlign: 'left' }}
                 >
                   <span className="bri-title">{r.title}</span>
                   <span className="bri-time">⏱ {r.readTime}</span>
-                </button>
+                </a>
               ))}
             </div>
           )}
@@ -287,9 +292,9 @@ export const BlogPostPage: React.FC<BlogPostPageProps> = ({ slug, onNavigate, on
           <div className="bpp-quick-links">
             <h3>Quick Links</h3>
             <a href="tel:+918586989832" className="bql-link">📞 Call Us Now</a>
-            <a href="https://digitaldigix.com" target="_blank" rel="noreferrer" className="bql-link">🌐 Our Website</a>
-            <button className="bql-link" onClick={() => onNavigate('blog')}>📚 All Blogs</button>
-            <button className="bql-link" onClick={() => onNavigate('services')}>⚡ Our Services</button>
+            <a href="/" className="bql-link" onClick={(e) => { e.preventDefault(); onNavigate('home'); }}>🌐 Home</a>
+            <a href="/blogs" className="bql-link" onClick={(e) => { e.preventDefault(); onNavigate('blog'); }}>📚 All Blogs</a>
+            <a href="/services" className="bql-link" onClick={(e) => { e.preventDefault(); onNavigate('services'); }}>⚡ Our Services</a>
           </div>
         </aside>
       </div>

@@ -202,16 +202,24 @@ export const PortfolioGallery: React.FC<PortfolioGalleryProps> = ({ onOpenStrate
           <div className="modal-card" style={{ maxWidth: '1050px', padding: '3.5rem 2rem 6rem 2rem' }} onClick={(e) => e.stopPropagation()}>
             <div style={{ textAlign: 'center', marginBottom: '2.5rem' }}>
               <span className="section-tag" style={{ background: '#FFF1EE', color: '#D97706', border: '1px solid #FFEBE6' }}>{selectedSocialProject.niche}</span>
-              <h1 style={{ fontFamily: 'Outfit, serif', fontSize: '3.2rem', fontWeight: 900, color: '#0F172A', margin: '0.4rem 0' }}>
+              <h2 style={{ fontFamily: 'Outfit, serif', fontSize: '3.2rem', fontWeight: 900, color: '#0F172A', margin: '0.4rem 0' }}>
                 {selectedSocialProject.name}
-              </h1>
+              </h2>
               <p style={{ fontSize: '1.1rem', color: '#64748B', maxWidth: '700px', margin: '0 auto' }}>
                 {selectedSocialProject.description}
               </p>
             </div>
 
             <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '2.5rem' }}>
-              <img src={selectedSocialProject.cardImage} alt={selectedSocialProject.name} style={{ maxWidth: '450px', borderRadius: '24px', boxShadow: '0 15px 35px rgba(0,0,0,0.1)' }} />
+              <img 
+                src={selectedSocialProject.cardImage} 
+                alt={`${selectedSocialProject.name} - ${selectedSocialProject.niche} Growth Case Study by Digital Digix`} 
+                loading="lazy"
+                decoding="async"
+                width="450"
+                height="320"
+                style={{ maxWidth: '450px', borderRadius: '24px', boxShadow: '0 15px 35px rgba(0,0,0,0.1)', objectFit: 'cover' }} 
+              />
             </div>
 
             <div style={{ background: '#F8FAFC', padding: '1.5rem', borderRadius: '20px', border: '1px solid #E2E8F0', marginBottom: '2.5rem', textAlign: 'center' }}>

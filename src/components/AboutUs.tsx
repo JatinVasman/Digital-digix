@@ -7,6 +7,7 @@ interface AboutUsProps {
   onOpenStrategyModal?: (note?: string) => void;
   onSelectLocation?: (locationName: string) => void;
   backgroundColor?: string;
+  isStandalone?: boolean;
 }
 
 export const AboutUs: React.FC<AboutUsProps> = ({ 
@@ -14,7 +15,8 @@ export const AboutUs: React.FC<AboutUsProps> = ({
   onOpenLeaderModal, 
   onOpenStrategyModal: _onOpenStrategyModal, 
   onSelectLocation: _onSelectLocation,
-  backgroundColor
+  backgroundColor,
+  isStandalone = false
 }) => {
   const [hoveredLeader, setHoveredLeader] = useState<'founder' | 'harsh' | 'co-founder' | 'khwahish' | null>(null);
 
@@ -66,10 +68,17 @@ export const AboutUs: React.FC<AboutUsProps> = ({
           <div className="section-tag" style={{ letterSpacing: '0.1em' }}>
             SEEN. HEARD. CHOSEN. — ABOUT DIGITAL DIGIX
           </div>
-          <h2 style={{ fontSize: '3.2rem', fontWeight: 900, marginBottom: '1.25rem', lineHeight: 1.15 }}>
-            We Don't Just Run Ads. <br />
-            We Build Market Leaders.
-          </h2>
+          {isStandalone ? (
+            <h1 style={{ fontSize: '3.2rem', fontWeight: 900, marginBottom: '1.25rem', lineHeight: 1.15, fontFamily: 'Outfit, sans-serif' }}>
+              We Don't Just Run Ads. <br />
+              We Build Market Leaders.
+            </h1>
+          ) : (
+            <h2 style={{ fontSize: '3.2rem', fontWeight: 900, marginBottom: '1.25rem', lineHeight: 1.15, fontFamily: 'Outfit, sans-serif' }}>
+              We Don't Just Run Ads. <br />
+              We Build Market Leaders.
+            </h2>
+          )}
           <p style={{ fontSize: '1.15rem', color: 'var(--text-muted)', lineHeight: 1.7, maxWidth: '720px', margin: '0 auto' }}>
             Premium creative, data-driven performance, transparent pricing, and custom live growth dashboards. Founded on accountability, zero lock-in contracts, and founder-led execution.
           </p>
