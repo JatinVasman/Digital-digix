@@ -99,6 +99,11 @@ export const LegalDetailsPage: React.FC<LegalDetailsPageProps> = ({
       <div className="container" style={{ maxWidth: '960px', margin: '0 auto' }}>
         
         {/* Navigation Breadcrumb & Back button */}
+        <div style={{ fontSize: '0.875rem', color: '#64748B', marginBottom: '1.5rem' }}>
+          <a href="/" style={{ color: '#3B82F6', textDecoration: 'none' }} onClick={(e) => { e.preventDefault(); onNavigate('home'); }}>Home</a> /{' '}
+          <a href="/legal" style={{ color: '#3B82F6', textDecoration: 'none' }} onClick={(e) => { e.preventDefault(); onNavigate('legal'); }}>Legal Solutions</a> /{' '}
+          <span style={{ color: '#0F172A', fontWeight: 700 }}>{service.title}</span>
+        </div>
         <div style={{ marginBottom: '2rem' }}>
           <button
             onClick={() => onNavigate('legal')}

@@ -36,7 +36,8 @@ import { ServiceDetailPage } from './pages/ServiceDetailPage';
 import { GraphicDetailPage } from './pages/GraphicDetailPage';
 import { GraphicItemDetailPage } from './pages/GraphicItemDetailPage';
 import { LocationsDirectoryPage } from './pages/LocationsDirectoryPage';
-
+import { NotFoundPage } from './pages/NotFoundPage';
+import { updatePageSeo } from './utils/seoManager';
 import { parseRoute, getRoutePath } from './utils/routes';
 
 export const App: React.FC = () => {
@@ -118,69 +119,8 @@ export const App: React.FC = () => {
     return () => window.removeEventListener('popstate', syncRoute);
   }, []);
 
-  // Dynamic SEO Metadata Manager
+  // Synchronous Unified SEO Metadata Manager
   useEffect(() => {
-    let title = 'Digital Digix — Digital Marketing Agency That Grows Your Brand';
-    let description = 'Digital Digix is India\'s leading digital growth agency specializing in Performance Marketing, Generative Engine Optimization (GEO/AEO), high-converting web applications, and B2B growth funnels.';
-
-    switch (activePage) {
-      case 'services':
-        title = 'Digital Marketing & Software Services — SEO, GEO, Ads & Development | Digital Digix';
-        description = 'Explore full-suite digital marketing services: Performance Marketing, Generative Engine Optimization (GEO), Google/Meta Ads, Custom Web Applications, and WhatsApp Automation.';
-        break;
-      case 'industries':
-        title = '89+ Industry Digital Marketing & Growth Solutions | Digital Digix';
-        description = 'Tailored digital marketing, SEO, and lead generation frameworks customized for 89+ industries including Healthcare, Real Estate, E-Commerce, Education, and Tech.';
-        break;
-      case 'portfolio':
-        title = 'Client Case Studies & Verified Growth Results | Digital Digix';
-        description = 'Discover real-world case studies and ROI metrics from 2,700+ clients scaled across SEO, Google Ads, Meta Ads, and bespoke software development.';
-        break;
-      case 'blog':
-        title = 'Digital Marketing, SEO & Generative AI Insights Blog | Digital Digix';
-        description = 'Read 564+ expert articles and pillar guides on SEO, AI search optimization (GEO/AEO), paid media scaling, and digital business strategies.';
-        break;
-      case 'location':
-        title = `Digital Marketing & SEO Agency in ${selectedLocation} | Digital Digix`;
-        description = `Local SEO, Performance Marketing, and Google Maps optimization services for businesses in ${selectedLocation} and surrounding regions.`;
-        break;
-      case 'all-locations':
-        title = 'Global Locations & Digital Marketing Centers | Digital Digix';
-        description = 'Explore Digital Digix domestic and international marketing offices serving clients across India, the Middle East, the UK, and North America.';
-        break;
-      case 'smm':
-        title = 'Social Media Marketing (SMM) & Viral Reels Strategy | Digital Digix';
-        description = 'Full-funnel organic and paid social media management for Instagram, LinkedIn, YouTube, and Facebook designed to build brand authority and generate leads.';
-        break;
-      case 'about':
-        title = 'About Digital Digix — Leadership, Mission & AI-Powered Growth';
-        description = 'Learn about Digital Digix leadership, engineering philosophy, and performance-first methodology driving 2,700+ successful brand transformations.';
-        break;
-      case 'contact':
-        title = 'Contact Digital Digix — Free 30-Min Strategy Consultation';
-        description = 'Schedule a free 30-minute growth strategy session with Digital Digix marketing experts. No lock-in contracts, post-pay options available.';
-        break;
-      case 'legal':
-      case 'legal-details':
-        title = 'Legal Marketing & Corporate Compliance Digital Solutions | Digital Digix';
-        description = 'Specialized marketing, client acquisition funnels, and personal branding tailored for Law Firms, Advocates, and CA/CS professionals.';
-        break;
-      default:
-        break;
-    }
-
-    document.title = title;
-
-    // Update meta description
-    let metaDesc = document.querySelector('meta[name="description"]');
-    if (!metaDesc) {
-      metaDesc = document.createElement('meta');
-      metaDesc.setAttribute('name', 'description');
-      document.head.appendChild(metaDesc);
-    }
-    metaDesc.setAttribute('content', description);
-
-    // Compute clean canonical URL
     const activeSlug = activePage === 'blog-post' ? selectedBlogSlug :
       activePage === 'service-details' ? selectedServiceId :
       activePage === 'location' ? selectedLocation :
@@ -189,33 +129,7 @@ export const App: React.FC = () => {
       activePage === 'design-item' ? selectedDesignItem :
       activePage === 'industries' ? selectedIndustryId : undefined;
 
-    const cleanPath = getRoutePath(activePage, activeSlug);
-    const canonicalUrl = `https://digitaldigix.com${cleanPath === '/' ? '' : cleanPath}`;
-
-    // Update Canonical URL
-    let canonical = document.querySelector('link[rel="canonical"]');
-    if (!canonical) {
-      canonical = document.createElement('link');
-      canonical.setAttribute('rel', 'canonical');
-      document.head.appendChild(canonical);
-    }
-    canonical.setAttribute('href', canonicalUrl);
-
-    // Update OpenGraph tags
-    const ogTitle = document.querySelector('meta[property="og:title"]');
-    if (ogTitle) ogTitle.setAttribute('content', title);
-    const ogDesc = document.querySelector('meta[property="og:description"]');
-    if (ogDesc) ogDesc.setAttribute('content', description);
-    const ogUrl = document.querySelector('meta[property="og:url"]');
-    if (ogUrl) ogUrl.setAttribute('content', canonicalUrl);
-
-    // Update Twitter Card tags
-    const twTitle = document.querySelector('meta[name="twitter:title"]');
-    if (twTitle) twTitle.setAttribute('content', title);
-    const twDesc = document.querySelector('meta[name="twitter:description"]');
-    if (twDesc) twDesc.setAttribute('content', description);
-    const twUrl = document.querySelector('meta[name="twitter:url"]');
-    if (twUrl) twUrl.setAttribute('content', canonicalUrl);
+    updatePageSeo(activePage, activeSlug);
   }, [activePage, selectedLocation, selectedBlogSlug, selectedServiceId, selectedLegalServiceTitle, selectedGraphicCat, selectedDesignItem, selectedIndustryId]);
 
   const handleThemeToggle = () => {
@@ -375,6 +289,7 @@ export const App: React.FC = () => {
 
         {activePage === 'about' && (
           <AboutUs
+            isStandalone={true}
             onNavigate={handleNavigate}
             onOpenLeaderModal={handleOpenLeaderModal}
             onOpenStrategyModal={handleOpenStrategyModal}
@@ -421,7 +336,7 @@ export const App: React.FC = () => {
         )}
 
         {activePage === 'contact' && (
-          <ContactSection />
+          <ContactSection isStandalone={true} />
         )}
 
         {activePage === 'location' && (
@@ -483,6 +398,13 @@ export const App: React.FC = () => {
           <LocationsDirectoryPage
             onNavigate={handleNavigate}
             onSelectLocation={handleSelectLocation}
+          />
+        )}
+
+        {activePage === '404' && (
+          <NotFoundPage
+            onNavigate={handleNavigate}
+            onOpenStrategyModal={handleOpenStrategyModal}
           />
         )}
       </main>

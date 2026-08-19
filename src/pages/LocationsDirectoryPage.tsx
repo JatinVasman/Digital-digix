@@ -38,7 +38,9 @@ export const LocationsDirectoryPage: React.FC<LocationsDirectoryPageProps> = ({ 
         
         {/* 1. BREADCRUMB */}
         <div style={{ fontSize: '0.875rem', color: '#64748B', marginBottom: '1.5rem' }}>
-          <span style={{ cursor: 'pointer', color: '#3B82F6' }} onClick={() => onNavigate('home')}>Home</span> / <span style={{ color: '#0F172A', fontWeight: 700 }}>Complete Locations Directory</span>
+          <a href="/" style={{ color: '#3B82F6', textDecoration: 'none' }} onClick={(e) => { e.preventDefault(); onNavigate('home'); }}>Home</a>
+          {' / '}
+          <span style={{ color: '#0F172A', fontWeight: 700 }}>Complete Locations Directory</span>
         </div>
 
         {/* 2. HERO HEADER BANNER */}
@@ -104,40 +106,56 @@ export const LocationsDirectoryPage: React.FC<LocationsDirectoryPageProps> = ({ 
           </div>
         </div>
 
-        {/* 3. INTERNATIONAL OFFICES CAROUSEL / BLOCK */}
+        {/* 3. INTERNATIONAL DESTINATIONS GRID */}
         {(activeTab === 'All' || activeTab === 'International') && filteredIntl.length > 0 && (
-          <div style={{ marginBottom: '3rem', backgroundColor: '#FFFFFF', padding: '2rem 2.25rem', borderRadius: '24px', border: '1px solid #BAE6FD', boxShadow: '0 8px 25px rgba(0,0,0,0.03)' }}>
-            <h2 style={{ fontFamily: 'Outfit, serif', fontSize: '1.5rem', fontWeight: 900, color: '#0284C7', marginBottom: '1.25rem', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
-              🌐 International Markets & Overseas Client Reach
-            </h2>
+          <div style={{ backgroundColor: '#FFFFFF', borderRadius: '24px', padding: '2.25rem', border: '1px solid #E2E8F0', marginBottom: '2.5rem', boxShadow: '0 8px 25px rgba(0,0,0,0.03)' }}>
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '1.5rem', paddingBottom: '1rem', borderBottom: '1px solid #F1F5F9' }}>
+              <h2 style={{ fontFamily: 'Outfit, serif', fontSize: '1.6rem', fontWeight: 900, color: '#0F172A', margin: 0, display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
+                <span style={{ fontSize: '1.4rem' }}>🌍</span>
+                <span>International Expansion Markets</span>
+              </h2>
+              <span style={{ fontSize: '0.825rem', fontWeight: 800, color: '#0284C7', backgroundColor: '#F0F9FF', padding: '0.35rem 0.9rem', borderRadius: '999px' }}>
+                Global Cross-Border Hubs
+              </span>
+            </div>
+
             <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.75rem' }}>
-              {filteredIntl.map((loc) => (
-                <button
-                  key={loc}
-                  onClick={() => handleCityClick(loc)}
-                  style={{
-                    backgroundColor: '#F0F9FF',
-                    color: '#0284C7',
-                    border: '1.5px solid #7DD3FC',
-                    borderRadius: '999px',
-                    padding: '0.55rem 1.4rem',
-                    fontSize: '0.925rem',
-                    fontWeight: 800,
-                    cursor: 'pointer',
-                    transition: 'all 0.2s ease'
-                  }}
-                  onMouseEnter={(e) => {
-                    e.currentTarget.style.backgroundColor = '#0284C7';
-                    e.currentTarget.style.color = '#FFFFFF';
-                  }}
-                  onMouseLeave={(e) => {
-                    e.currentTarget.style.backgroundColor = '#F0F9FF';
-                    e.currentTarget.style.color = '#0284C7';
-                  }}
-                >
-                  🌐 {loc} Digital Marketing →
-                </button>
-              ))}
+              {filteredIntl.map((loc) => {
+                const citySlug = loc.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+                return (
+                  <a
+                    key={loc}
+                    href={`/digital-marketing/${citySlug}`}
+                    onClick={(e) => {
+                      e.preventDefault();
+                      handleCityClick(loc);
+                    }}
+                    style={{
+                      textDecoration: 'none',
+                      backgroundColor: '#F0F9FF',
+                      color: '#0284C7',
+                      border: '1px solid #BAE6FD',
+                      borderRadius: '999px',
+                      padding: '0.6rem 1.4rem',
+                      fontSize: '0.9rem',
+                      fontWeight: 800,
+                      cursor: 'pointer',
+                      transition: 'all 0.2s ease',
+                      display: 'inline-block'
+                    }}
+                    onMouseEnter={(e) => {
+                      e.currentTarget.style.backgroundColor = '#0284C7';
+                      e.currentTarget.style.color = '#FFFFFF';
+                    }}
+                    onMouseLeave={(e) => {
+                      e.currentTarget.style.backgroundColor = '#F0F9FF';
+                      e.currentTarget.style.color = '#0284C7';
+                    }}
+                  >
+                    🌐 {loc} Digital Marketing →
+                  </a>
+                );
+              })}
             </div>
           </div>
         )}
@@ -182,36 +200,45 @@ export const LocationsDirectoryPage: React.FC<LocationsDirectoryPageProps> = ({ 
                         TIER 2 MAJOR METRO HUBS
                       </div>
                       <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.65rem' }}>
-                        {tier2List.map((city) => (
-                          <button
-                            key={city}
-                            onClick={() => handleCityClick(city)}
-                            style={{
-                              backgroundColor: '#F8FAFC',
-                              color: '#0F172A',
-                              border: '1px solid #CBD5E1',
-                              borderRadius: '999px',
-                              padding: '0.5rem 1.25rem',
-                              fontSize: '0.875rem',
-                              fontWeight: 700,
-                              cursor: 'pointer',
-                              transition: 'all 0.2s ease',
-                              boxShadow: '0 2px 4px rgba(0,0,0,0.02)'
-                            }}
-                            onMouseEnter={(e) => {
-                              e.currentTarget.style.backgroundColor = '#FF4E27';
-                              e.currentTarget.style.color = '#FFFFFF';
-                              e.currentTarget.style.borderColor = '#FF4E27';
-                            }}
-                            onMouseLeave={(e) => {
-                              e.currentTarget.style.backgroundColor = '#F8FAFC';
-                              e.currentTarget.style.color = '#0F172A';
-                              e.currentTarget.style.borderColor = '#CBD5E1';
-                            }}
-                          >
-                            {city} →
-                          </button>
-                        ))}
+                        {tier2List.map((city) => {
+                          const citySlug = city.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+                          return (
+                            <a
+                              key={city}
+                              href={`/digital-marketing/${citySlug}`}
+                              onClick={(e) => {
+                                e.preventDefault();
+                                handleCityClick(city);
+                              }}
+                              style={{
+                                textDecoration: 'none',
+                                backgroundColor: '#F8FAFC',
+                                color: '#0F172A',
+                                border: '1px solid #CBD5E1',
+                                borderRadius: '999px',
+                                padding: '0.5rem 1.25rem',
+                                fontSize: '0.875rem',
+                                fontWeight: 700,
+                                cursor: 'pointer',
+                                transition: 'all 0.2s ease',
+                                boxShadow: '0 2px 4px rgba(0,0,0,0.02)',
+                                display: 'inline-block'
+                              }}
+                              onMouseEnter={(e) => {
+                                e.currentTarget.style.backgroundColor = '#FF4E27';
+                                e.currentTarget.style.color = '#FFFFFF';
+                                e.currentTarget.style.borderColor = '#FF4E27';
+                              }}
+                              onMouseLeave={(e) => {
+                                e.currentTarget.style.backgroundColor = '#F8FAFC';
+                                e.currentTarget.style.color = '#0F172A';
+                                e.currentTarget.style.borderColor = '#CBD5E1';
+                              }}
+                            >
+                              {city} →
+                            </a>
+                          );
+                        })}
                       </div>
                     </div>
                   )}
@@ -223,39 +250,47 @@ export const LocationsDirectoryPage: React.FC<LocationsDirectoryPageProps> = ({ 
                         TIER 3 & TIER 4 LOCAL MARKET COVERAGE
                       </div>
                       <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.5rem' }}>
-                        {tier3List.map((city) => (
-                          <button
-                            key={city}
-                            onClick={() => handleCityClick(city)}
-                            style={{
-                              backgroundColor: '#FFFFFF',
-                              color: '#475569',
-                              border: '1px solid #E2E8F0',
-                              borderRadius: '999px',
-                              padding: '0.4rem 1rem',
-                              fontSize: '0.825rem',
-                              fontWeight: 600,
-                              cursor: 'pointer',
-                              transition: 'all 0.2s ease'
-                            }}
-                            onMouseEnter={(e) => {
-                              e.currentTarget.style.backgroundColor = '#0F172A';
-                              e.currentTarget.style.color = '#FFFFFF';
-                              e.currentTarget.style.borderColor = '#0F172A';
-                            }}
-                            onMouseLeave={(e) => {
-                              e.currentTarget.style.backgroundColor = '#FFFFFF';
-                              e.currentTarget.style.color = '#475569';
-                              e.currentTarget.style.borderColor = '#E2E8F0';
-                            }}
-                          >
-                            {city}
-                          </button>
-                        ))}
+                        {tier3List.map((city) => {
+                          const citySlug = city.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+                          return (
+                            <a
+                              key={city}
+                              href={`/digital-marketing/${citySlug}`}
+                              onClick={(e) => {
+                                e.preventDefault();
+                                handleCityClick(city);
+                              }}
+                              style={{
+                                textDecoration: 'none',
+                                backgroundColor: '#FFFFFF',
+                                color: '#475569',
+                                border: '1px solid #E2E8F0',
+                                borderRadius: '999px',
+                                padding: '0.4rem 1rem',
+                                fontSize: '0.825rem',
+                                fontWeight: 600,
+                                cursor: 'pointer',
+                                transition: 'all 0.2s ease',
+                                display: 'inline-block'
+                              }}
+                              onMouseEnter={(e) => {
+                                e.currentTarget.style.backgroundColor = '#0F172A';
+                                e.currentTarget.style.color = '#FFFFFF';
+                                e.currentTarget.style.borderColor = '#0F172A';
+                              }}
+                              onMouseLeave={(e) => {
+                                e.currentTarget.style.backgroundColor = '#FFFFFF';
+                                e.currentTarget.style.color = '#475569';
+                                e.currentTarget.style.borderColor = '#E2E8F0';
+                              }}
+                            >
+                              {city}
+                            </a>
+                          );
+                        })}
                       </div>
                     </div>
                   )}
-
                 </div>
               );
             })}

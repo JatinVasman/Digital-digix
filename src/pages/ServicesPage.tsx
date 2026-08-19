@@ -118,7 +118,7 @@ export const ServicesPage: React.FC<ServicesPageProps> = ({ onNavigate }) => {
   const [viewingSmmDetails, setViewingSmmDetails] = useState(false);
   const [openInlineSmmFaqIndex, setOpenInlineSmmFaqIndex] = useState<number | null>(null);
 
-  const categories = ['All', 'Social Growth', 'Design & Branding', 'Web Engineering', 'Video & Reels', 'Data & Analytics', 'Viral Content', 'Search Engine Rank', 'Paid Search', 'Social Acquisition', 'Ecommerce Growth', 'Revenue Operations', 'Performance Leads', 'Content Engine', 'Local Search', 'Direct Marketing'];
+  const categories = ['All', ...Array.from(new Set(detailed17Services.map(s => s.category)))];
 
   const filteredServices = selectedCategory === 'All'
     ? detailed17Services
@@ -474,53 +474,59 @@ export const ServicesPage: React.FC<ServicesPageProps> = ({ onNavigate }) => {
 
             {/* 17 SERVICE CARDS GRID MATCHING SCREENSHOT 1 & 2 EXACTLY */}
             <div className="responsive-4-grid" style={{ gap: '1rem', marginBottom: '4.5rem' }}>
-              {filteredServices.map((service) => (
-                <div
-                  key={service.id}
-                  style={{
-                    background: '#FFFFFF',
-                    borderTop: '4px solid #FF4E27',
-                    borderLeft: '1px solid #E2E8F0',
-                    borderRight: '1px solid #E2E8F0',
-                    borderBottom: '1px solid #E2E8F0',
-                    borderRadius: '16px',
-                    padding: '1.25rem 1rem',
-                    display: 'flex',
-                    flexDirection: 'column',
-                    boxShadow: '0 8px 25px rgba(11, 19, 42, 0.04)',
-                    transition: 'transform 0.3s ease, box-shadow 0.3s ease',
-                    cursor: 'pointer'
-                  }}
-                  onMouseEnter={(e) => {
-                    e.currentTarget.style.transform = 'translateY(-4px)';
-                    e.currentTarget.style.boxShadow = '0 12px 30px rgba(11, 19, 42, 0.08)';
-                  }}
-                  onMouseLeave={(e) => {
-                    e.currentTarget.style.transform = 'translateY(0)';
-                    e.currentTarget.style.boxShadow = '0 8px 25px rgba(11, 19, 42, 0.04)';
-                  }}
-                  onClick={() => {
-                    const slug = SERVICE_ID_TO_SLUG[service.id] || service.id;
-                    onNavigate('service-details', slug);
-                  }}
-                >
-                  <div style={{ fontSize: '1.75rem', marginBottom: '0.6rem' }}>{service.icon}</div>
-                  <h3 style={{ fontSize: '1rem', fontWeight: 800, marginBottom: '0.4rem', color: '#0F172A', fontFamily: 'Outfit, serif', lineHeight: 1.25 }}>{service.title}</h3>
-                  <p style={{ fontSize: '0.78rem', color: '#64748B', marginBottom: '1rem', lineHeight: 1.45, flexGrow: 1 }}>
-                    {service.description}
-                  </p>
+              {filteredServices.map((service) => {
+                const slug = service.slug || SERVICE_ID_TO_SLUG[service.id || ''] || service.id;
+                return (
+                  <a
+                    key={service.id}
+                    href={`/services/${slug}`}
+                    onClick={(e) => {
+                      e.preventDefault();
+                      onNavigate('service-details', slug);
+                    }}
+                    style={{
+                      textDecoration: 'none',
+                      color: 'inherit',
+                      background: '#FFFFFF',
+                      borderTop: '4px solid #FF4E27',
+                      borderLeft: '1px solid #E2E8F0',
+                      borderRight: '1px solid #E2E8F0',
+                      borderBottom: '1px solid #E2E8F0',
+                      borderRadius: '16px',
+                      padding: '1.25rem 1rem',
+                      display: 'flex',
+                      flexDirection: 'column',
+                      boxShadow: '0 8px 25px rgba(11, 19, 42, 0.04)',
+                      transition: 'transform 0.3s ease, box-shadow 0.3s ease',
+                      cursor: 'pointer'
+                    }}
+                    onMouseEnter={(e) => {
+                      e.currentTarget.style.transform = 'translateY(-4px)';
+                      e.currentTarget.style.boxShadow = '0 12px 30px rgba(11, 19, 42, 0.08)';
+                    }}
+                    onMouseLeave={(e) => {
+                      e.currentTarget.style.transform = 'translateY(0)';
+                      e.currentTarget.style.boxShadow = '0 8px 25px rgba(11, 19, 42, 0.04)';
+                    }}
+                  >
+                    <div style={{ fontSize: '1.75rem', marginBottom: '0.6rem' }}>{service.icon}</div>
+                    <h3 style={{ fontSize: '1rem', fontWeight: 800, marginBottom: '0.4rem', color: '#0F172A', fontFamily: 'Outfit, serif', lineHeight: 1.25 }}>{service.title}</h3>
+                    <p style={{ fontSize: '0.78rem', color: '#64748B', marginBottom: '1rem', lineHeight: 1.45, flexGrow: 1 }}>
+                      {service.description}
+                    </p>
 
-                  {/* PRICE TAG & FULL DETAILS LINK MATCHING SCREENSHOT */}
-                  <div style={{ display: 'flex', flexDirection: 'column', gap: '0.15rem', marginTop: 'auto' }}>
-                    <div style={{ fontFamily: 'Outfit', fontSize: '0.95rem', fontWeight: 800, color: '#3B82F6' }}>
-                      {service.pricing}
+                    {/* PRICE TAG & FULL DETAILS LINK MATCHING SCREENSHOT */}
+                    <div style={{ display: 'flex', flexDirection: 'column', gap: '0.15rem', marginTop: 'auto' }}>
+                      <div style={{ fontFamily: 'Outfit', fontSize: '0.95rem', fontWeight: 800, color: '#3B82F6' }}>
+                        {service.pricing}
+                      </div>
+                      <div style={{ fontSize: '0.7rem', fontWeight: 800, color: '#3B82F6', letterSpacing: '0.05em' }}>
+                        FULL DETAILS →
+                      </div>
                     </div>
-                    <div style={{ fontSize: '0.7rem', fontWeight: 800, color: '#3B82F6', letterSpacing: '0.05em' }}>
-                      FULL DETAILS →
-                    </div>
-                  </div>
-                </div>
-              ))}
+                  </a>
+                );
+              })}
             </div>
           </>
         )}

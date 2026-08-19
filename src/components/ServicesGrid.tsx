@@ -2,21 +2,9 @@ import React, { useState } from 'react';
 import { WorkShowcaseMarquee } from './WorkShowcaseMarquee';
 import { SERVICE_ID_TO_SLUG } from '../utils/routes';
 
-export interface ComprehensiveServiceItem {
-  id: string;
-  title: string;
-  category: string;
-  icon: string;
-  description: string;
-  longDescription?: string;
-  pricing: string;
-  whatWeDo: string[];
-  deliverables: string[];
-  painPoints: string[];
-  faqs: { q: string; a: string }[];
-  approach?: string;
-  typicalResults?: string;
-}
+import { ALL_17_SERVICES, type ServiceItem } from '../data/servicesData';
+
+export type ComprehensiveServiceItem = ServiceItem;
 
 export interface PricingCategory {
   title: string;
@@ -308,586 +296,7 @@ const smmFaqsData = [
   }
 ];
 
-export const detailed17Services: ComprehensiveServiceItem[] = [
-  {
-    id: '1',
-    title: 'Social Media Marketing',
-    category: 'Social Growth',
-    icon: '📱',
-    description: 'Grow on Instagram, Facebook & LinkedIn with content calendars, posting and analytics.',
-    longDescription: 'Supercharge your brand presence on Instagram, Facebook, and LinkedIn. We build custom monthly content calendars, write high-converting captions, design scroll-stopping graphics, produce viral reels hooks, and provide comprehensive monthly analytics reports to drive inbound customer leads and sales.',
-    pricing: '₹3,499–₹8,999/mo',
-    whatWeDo: [
-      '360° Social Brand Strategy & Monthly Content Planning',
-      'High-Engagement Graphic & Reel Content Production',
-      'Community Engagement, Comment Moderation & Direct Message Leads',
-      'Targeted Hashtag Research, Audience Profiling & Strategic Posting',
-      'Monthly Data Analytics & Performance Optimization Audits',
-      'Influencer Outreach, Brand Collaboration Setup & UGC Curation'
-    ],
-    deliverables: [
-      '12-24 Custom Social Posts / Month',
-      '4-8 Reels & Shorts Videos',
-      'Hashtag & Bio Optimization',
-      'Monthly PDF Analytics Report',
-      'Dedicated WhatsApp Support Group'
-    ],
-    painPoints: [
-      'Inconsistent posting schedule and fragmented brand voice',
-      'Low organic reach, engagement rates, and follower growth stagnation',
-      'Outdated visual aesthetic failing to attract high-value leads',
-      'Lack of time to conceptualize, write, and schedule posts'
-    ],
-    faqs: [
-      { q: 'Which platforms do you cover in Social Media Marketing?', a: 'We handle Instagram, Facebook, LinkedIn, Twitter/X, Pinterest, and YouTube Shorts.' },
-      { q: 'Do I get to approve posts before they go live?', a: 'Yes, we provide a 14-day advance content calendar for your review and approval.' },
-      { q: 'Do you create original graphics and copy?', a: '100%! All visuals, captions, hashtags, and video scripts are custom created for your brand.' },
-      { q: 'Is community engagement included?', a: 'Yes, we actively monitor and reply to comments and DMs during business hours.' }
-    ]
-  },
-  {
-    id: '2',
-    title: 'Graphic Design',
-    category: 'Design & Branding',
-    icon: '🎨',
-    description: 'From social posts and logos to packaging, presentations and branding.',
-    longDescription: 'Premium, custom visual assets tailored for B2B and D2C brands. We design social media ad creatives, corporate pitch decks, sales brochures, packaging labels, retail banners, and 3D product mockups with transparent, per-design pricing and ultra-fast 24-hour turnaround times.',
-    pricing: '₹150 onwards',
-    whatWeDo: [
-      'Custom Social Media Posts, Stories & Ad Creatives',
-      'Corporate Pitch Decks, Sales Brochures & Banners',
-      'Product Packaging, Labels & Retail Display Designs',
-      '3D Product Mockups & Large-Format Flex Printing Assets',
-      'Infographic Layouts, Ebook Design & Custom Illustrations',
-      'Corporate Stationary, Letterheads & Invoice Design Templates'
-    ],
-    deliverables: [
-      'High-Res PNG/JPEG Files',
-      'Print-Ready PDF (CMYK)',
-      'Editable Vector Source Files (AI/PSD)',
-      'Brand Color Palette Guide',
-      'Fonts and Typography Package'
-    ],
-    painPoints: [
-      'Amateur looking designs damaging brand credibility',
-      'Slow designer turnaround delaying marketing campaigns',
-      'High agency retainers eating into profit margins',
-      'Fragmented visual styles across different company channels'
-    ],
-    faqs: [
-      { q: 'How is graphic design priced?', a: 'We offer transparent per-design pricing. Standard formats are ₹150, structured designs are ₹280, and multi-page layouts are ₹130/page. No retainers or hidden fees.' },
-      { q: 'Do you offer logo design?', a: 'Yes, we design professional, vector logos starting from ₹850 up to ₹3,500 depending on concepts and design drafts required.' },
-      { q: 'How fast is delivery?', a: 'Standard social posts and ad creatives take 24–48 hours. Complex brochures, packaging layouts or multi-page pitch decks take 48–72 hours.' },
-      { q: 'Do prices include revisions and final files?', a: 'Yes, all prices include minor revisions to ensure you are happy, and you receive print-ready PDFs as well as editable source files (AI/PSD).' },
-      { q: 'Which industries do you design for?', a: 'We design for a wide array of industries including Healthcare, Restaurants & Hospitality, Real Estate, E-commerce, Education, and Professional Services.' }
-    ]
-  },
-  {
-    id: '3',
-    title: 'UGC Reels & Creator Marketing',
-    category: 'Viral Content',
-    icon: '🎥',
-    description: 'Authentic UGC-style reels — scripted, filmed, edited and posted directly.',
-    longDescription: 'Connect with your target demographic through authentic User-Generated Content (UGC) videos. We source vetted models and creators from our in-house network of 250+ talent, write direct-response scripts using Problem-Agitate-Solve hooks, and manage the entire filming and post-production pipeline.',
-    pricing: '₹2,100–₹5,100/campaign',
-    whatWeDo: [
-      'Vetted Creator Selection from 250+ UGC Creators',
-      'Script Writing & Problem-Agitate-Solve Hook Creation',
-      'Full UGC Reel Filming, Editing & Sound Design',
-      'Spark Ad Whitelisting & Commercial Digital Usage Rights',
-      'Unboxing, Product Review & Lifestyle Video Shoots',
-      'Niche-Specific Model Casting (Fashion, Tech, Beauty, Health)'
-    ],
-    deliverables: [
-      'Vetted Creator Selection',
-      'Script Writing & Problem-Agitate-Solve Hooks',
-      'Full UGC Reel Editing & Color Grade',
-      'Spark Ad Commercial Usage Rights',
-      'High-Resolution Raw Footage Files'
-    ],
-    painPoints: [
-      'Ad fatigue on static graphic ads causing CPC surge',
-      'Lack of customer trust and social proof',
-      'High actor and studio fees for product shoots',
-      'Difficulty managing and coordinating with multiple online creators'
-    ],
-    faqs: [
-      { q: 'Who provides the creators?', a: 'We handle creator matching from our network of 250+ UGC creators.' },
-      { q: 'Are ad commercial usage rights included?', a: 'Yes, full commercial digital ad rights are included.' },
-      { q: 'Can we review and approve scripts beforehand?', a: 'Yes, you approve all scripts and hooks before creators film.' },
-      { q: 'What is the average turnaround for UGC videos?', a: 'Filming, editing, and delivery take about 7 to 10 days.' }
-    ]
-  },
-  {
-    id: '4',
-    title: 'Dashboard & KPI Systems',
-    category: 'Data & Analytics',
-    icon: '📊',
-    description: 'Turn business data into clear insights, automated reports and real-time tracking.',
-    longDescription: 'Stop guessing your return on ad spend (ROAS). We build custom Google Looker Studio and PowerBI dashboards integrating data from Meta, Google, Amazon, and CRM tools, providing automated daily WhatsApp summaries and real-time visibility into cost-per-lead and pipeline health.',
-    pricing: '₹2,000–₹15,000',
-    whatWeDo: [
-      'Custom Google Looker Studio & PowerBI Dashboard Setup',
-      'Multi-Channel Ad Spend & ROAS Integration (Meta, Google, Amazon)',
-      'Automated Daily Email & WhatsApp Performance Summaries',
-      'Sales Pipeline & CRM Lead Tracking Real-Time Connectors',
-      'Inventory Tracking & Order Management Data Flows',
-      'Custom Business Goal Setting & Alert Notifications'
-    ],
-    deliverables: [
-      'Live Real-Time KPI Dashboard',
-      'Automated Daily Executive Summaries',
-      'Cost-Per-Lead & Profit Analytics',
-      'Team Access Permissions',
-      'Interactive Training Video tutorial'
-    ],
-    painPoints: [
-      'No visibility into true return on marketing spend',
-      'Manual Excel spreadsheet entry errors wasting hours of work',
-      'Scattered data across multiple apps (Meta, Shopify, GA4)',
-      'Inability to track sales representative response times'
-    ],
-    faqs: [
-      { q: 'Can I view my dashboard on mobile?', a: 'Yes! Dashboards are 100% mobile responsive and update automatically.' },
-      { q: 'Is my business data secure?', a: '100% secure. Data connectors use direct encrypted APIs with restricted access.' },
-      { q: 'Which platforms can you connect to the dashboard?', a: 'We connect Shopify, Meta Ads, Google Ads, CRM tools, Amazon, and Google Sheets.' },
-      { q: 'How often does the data update?', a: 'Data is refreshed automatically in real-time or every hour depending on the API restrictions.' }
-    ]
-  },
-  {
-    id: '5',
-    title: 'SEO Services',
-    category: 'Search Engine Rank',
-    icon: '🔍',
-    description: 'Rank at the top and get organic leads 24/7 with data-driven SEO.',
-    longDescription: 'Dominate search engine results and acquire organic leads 24/7. Our white-hat SEO strategy includes full technical auditing, high-intent keyword mapping, core web vitals optimization, digital PR backlink building, and Google Search Console tracking for predictable traffic growth.',
-    pricing: '₹4,000–₹12,000/mo',
-    whatWeDo: [
-      'Comprehensive Technical SEO & Site Architecture Audit',
-      'High-Intent Commercial Keyword Research & Mapping',
-      'High-Authority Backlink Acquisition & Digital PR',
-      'On-Page Schema Markup & Core Web Vitals Optimization',
-      'Competitor Keyword and Gap Analysis',
-      'SEO Content Strategy & Copywriting Planning'
-    ],
-    deliverables: [
-      'Monthly Keyword Rank Reports',
-      'Technical Audit Action Plan',
-      'High-DA Backlinks Acquisition',
-      'SEO Optimized Content Writing',
-      'SEO Competitor Comparison sheet'
-    ],
-    painPoints: [
-      'Invisible on Google Search for high-intent queries',
-      'High dependence on paid ads driving up marketing costs',
-      'Competitors ranking higher on valuable search terms',
-      'Broken site links, slow page load speeds, and indexing issues'
-    ],
-    faqs: [
-      { q: 'How long until I see Page 1 rankings?', a: 'Initial keyword movement is visible in 60-90 days.' },
-      { q: 'Do you guarantee #1 ranking on Google?', a: 'We follow white-hat SEO practices that consistently drive top 3 rankings.' },
-      { q: 'Do you help write blog posts for SEO?', a: 'Yes, we produce SEO-optimized blogs targeting valuable search keywords.' },
-      { q: 'Will SEO help my local map ranking?', a: 'Yes, SEO works in tandem with Google Business Profile optimizations to boost maps rankings.' }
-    ]
-  },
-  {
-    id: '6',
-    title: 'Google Ads Management',
-    category: 'Paid Search',
-    icon: '🎯',
-    description: 'Capture high-intent searches the moment customers look for you.',
-    longDescription: 'Put your brand in front of customers actively searching for your services. We construct high-converting search, display, and Performance Max (PMax) campaigns, eliminate wasted budget using negative keyword lists, and establish accurate GA4 conversion tracking.',
-    pricing: '18% of Monthly Ad Spend',
-    whatWeDo: [
-      'Search Campaign Bidding & Keyword Match Optimization',
-      'Negative Keyword Filtering & Budget Waste Elimination',
-      'GA4 Conversion Tracking & Revenue Attribution Setup',
-      'Performance Max (PMax) & YouTube Video Ad Management',
-      'Competitor Ad Spy Research & Bid Strategy Adjustments',
-      'Landing Page Conversion Rate Auditing'
-    ],
-    deliverables: [
-      'Google Search & Display Campaigns',
-      'Conversion Tracking Setup',
-      'Negative Keyword Audit',
-      'Bi-Weekly Strategy Calls',
-      'Monthly ROI Dashboard Access'
-    ],
-    painPoints: [
-      'Wasted budget on irrelevant search clicks',
-      'Low quality lead inquiries from display campaigns',
-      'High cost per acquisition (CPA) eating margins',
-      'Inability to track which search queries generate revenue'
-    ],
-    faqs: [
-      { q: 'Is there a minimum ad budget requirement?', a: 'We manage accounts starting from ₹15,000/month ad spend.' },
-      { q: 'Who owns the Google Ads account?', a: 'You retain 100% ownership of your Google Ads account.' },
-      { q: 'What is the pricing model for Google Ads?', a: 'We charge a percentage of the monthly ad spend with zero lock-in contracts.' },
-      { q: 'Do you create display ad graphics?', a: 'Yes, our in-house design team creates display banners and video ad assets.' }
-    ]
-  },
-  {
-    id: '7',
-    title: 'Meta Ads Management',
-    category: 'Social Acquisition',
-    icon: '📣',
-    description: 'Facebook & Instagram campaigns engineered for real leads.',
-    longDescription: 'Scale your customer acquisition with data-driven Facebook and Instagram ad campaigns. We build custom and lookalike audience models, design high-converting visual ad creatives, write direct-response copy, implement Conversions API (CAPI), and configure retargeting funnels.',
-    pricing: '15% of Ad Spend',
-    whatWeDo: [
-      'Laser-Focused Audience Profiling & Lookalike Audience Building',
-      'High-Converting Ad Creative Design & Video Copywriting',
-      'Meta Pixel & Conversions API (CAPI) Integration',
-      'Multi-Stage Retargeting Funnel Architecture',
-      'A/B Ad Placement & Budget Optimization Testing',
-      'Instant Lead Form Optimization with Verification'
-    ],
-    deliverables: [
-      'Meta Lead Gen Campaigns',
-      'Custom Ad Creatives & Copies',
-      'Pixel & CAPI Setup',
-      'Weekly ROI Reporting',
-      'Ad Account Security Audit'
-    ],
-    painPoints: [
-      'High cost per lead (CPL) and ad fatigue',
-      'Unqualified lead form spam wasting sales team time',
-      'Ad account policy bans disrupting lead generation',
-      'Inaccurate tracking and data loss post-iOS 14 update'
-    ],
-    faqs: [
-      { q: 'Do you design the ad graphics and videos?', a: 'Yes! Creative design and copy are completely included.' },
-      { q: 'How do you prevent bad leads?', a: 'We use custom screening questions and instant OTP verification.' },
-      { q: 'What is the setup time for a new campaign?', a: 'We launch campaigns within 5 to 7 business days after strategy approval.' },
-      { q: 'Do you assist with disabled ad account recovery?', a: 'Yes, we help submit official appeals and configure backup business managers.' }
-    ]
-  },
-  {
-    id: '8',
-    title: 'Website Development',
-    category: 'Web Engineering',
-    icon: '💻',
-    description: 'Modern, fast, SEO-ready websites with WhatsApp integration, SSL and support.',
-    longDescription: 'Custom Next.js, React, and WordPress websites engineered for maximum speed, security, and search engine visibility. Includes mobile-first responsive design, direct WhatsApp instant lead chat integration, SSL security setup, and 1 full year of dedicated cloud hosting maintenance and tech support.',
-    pricing: '₹6,500–₹18,000',
-    whatWeDo: [
-      'Custom Mobile-Responsive Next.js / WordPress Engineering',
-      'High-Converting Landing Page Layouts & Copywriting',
-      'WhatsApp Lead Chatbot & CRM Integration',
-      'Speed Optimization & Core Web Vitals Audit (95+ Google Score)',
-      'SSL Security, Domain Setup & 1-Year Cloud Hosting Maintenance',
-      'Payment Gateway Integration (Razorpay, Stripe) & E-commerce Setup'
-    ],
-    deliverables: [
-      'Custom Designed Website (1-10 Pages)',
-      'WhatsApp Instant Lead Bot',
-      'SSL Security Certificate',
-      '1 Year Free Maintenance & Technical Support',
-      'Full Admin CMS Access & Training Video'
-    ],
-    painPoints: [
-      'Slow loading website speeds causing user drop-offs',
-      'Non-mobile friendly layout alienating mobile traffic',
-      'High developer costs & hidden post-launch maintenance fees',
-      'Outdated design failing to generate direct business leads'
-    ],
-    faqs: [
-      { q: 'Is hosting and domain included?', a: 'Yes, we include 1 year of SSL high-speed cloud hosting and domain setup.' },
-      { q: 'Can I edit content myself later?', a: 'Yes, we provide an easy-to-use CMS dashboard and a 15-minute video tutorial.' },
-      { q: 'How long does development take?', a: 'Single landing pages take 3-5 days. Full corporate sites take 7-14 days.' },
-      { q: 'Is the website optimized for search engines?', a: 'Yes, we build every website with SEO-friendly semantic code, fast loading architecture, and meta tags.' }
-    ]
-  },
-  {
-    id: '9',
-    title: 'Poster Design',
-    category: 'Design & Branding',
-    icon: '🖼️',
-    description: 'Eye-catching social graphics, festival posters and print-ready creatives.',
-    longDescription: 'Engage your audience during holidays and seasonal events with stunning festival posters, discount banners, promotional event flyers, and custom story overlays. We pre-schedule your yearly festival calendar and deliver high-resolution, print-ready files branded with your logo and colors.',
-    pricing: 'From ₹149/design',
-    whatWeDo: [
-      'Indian & International Festival Creatives (Diwali, New Year, Eid, etc.)',
-      'Promotional Discount & Seasonal Offer Banners',
-      'Event & Conference Announcement Flyers',
-      'Social Media Story & Reel Cover Posters',
-      'Physical Banner & Billboard Large-Format Vector Designs',
-      'Real Estate Project Launch & Coming Soon Posters'
-    ],
-    deliverables: [
-      'High-Res Digital Files (RGB)',
-      'Print-Ready PDF Files (CMYK)',
-      'Festival Calendar Pre-Schedules',
-      'Editable Source Files (PSD/AI/Canva)',
-      'Custom Fonts/Branding Template'
-    ],
-    painPoints: [
-      'Missing key festival marketing opportunities due to lack of assets',
-      'Low resolution graphics pixelating when posted or printed',
-      'High cost per design when working with freelance designers',
-      'Inconsistent layout templates making the brand look unstructured'
-    ],
-    faqs: [
-      { q: 'Can I order monthly bulk poster packs?', a: 'Yes, our monthly packages offer 15 to 30 posters at discounted rates.' },
-      { q: 'Are posters customized with my brand logo?', a: 'Yes, every poster includes your logo, brand colors, phone number, and address.' },
-      { q: 'Do you design physical posters for printing?', a: 'Yes, we design in CMYK format at 300 DPI for flawless printing resolution.' },
-      { q: 'What is the turnaround time for festival creatives?', a: 'We typically deliver the entire monthly batch of festival posters 7 days in advance.' }
-    ]
-  },
-  {
-    id: '10',
-    title: 'Reels & Video Production',
-    category: 'Video & Reels',
-    icon: '🎬',
-    description: 'Scripting, editing, trending audio — reels that actually reach.',
-    longDescription: 'High-impact vertical video production tailored for Instagram Reels, YouTube Shorts, and TikTok. We handle the entire creative pipeline including viral hook scripting, fast-paced transitions, custom dynamic caption animations, trending audio sync, and click-worthy cover thumbnails.',
-    pricing: 'From ₹380/video',
-    whatWeDo: [
-      'Viral Hook Scriptwriting & Storyboarding',
-      'Fast-Paced Motion Graphics & Caption Animation',
-      'Trending Instagram & TikTok Audio Research',
-      'Color Grading, Sound Design & Thumbnail Design',
-      'Video Editing for Podcasts, Long-Form Vlogs & Ads',
-      'Voiceover Scripting & Multi-Voice AI Integration'
-    ],
-    deliverables: [
-      'Vertical 9:16 HD Reel Videos',
-      'Animated Subtitles & Emoji Effects',
-      'Trending Sound Track Files',
-      'Custom Cover Thumbnail',
-      'Raw Edited Project Files'
-    ],
-    painPoints: [
-      'Low view counts and drop-offs in first 3 seconds',
-      'Boring video edits lacking motion design and engaging sound',
-      'No time to script videos or research topics',
-      'High studio and equipment costs to film high-quality reels'
-    ],
-    faqs: [
-      { q: 'Do I need to send raw video footage?', a: 'You can send raw phone videos, or we can use HD licensed stock video footage.' },
-      { q: 'What is the video turnaround time?', a: 'Individual reels are delivered within 24 to 48 hours.' },
-      { q: 'Do you help write the video scripts?', a: 'Yes, we draft engaging hook-oriented scripts matching your target niche.' },
-      { q: 'Can you edit long-form videos like YouTube vlogs?', a: 'Yes, we edit long-form videos and slice them into multiple engaging short clips.' }
-    ]
-  },
-  {
-    id: '11',
-    title: 'E-commerce Marketing',
-    category: 'Ecommerce Growth',
-    icon: '🛒',
-    description: 'Full-funnel growth for online stores: catalog ads, retargeting & CRO.',
-    longDescription: 'Accelerate your online store sales. We optimize Google Shopping feeds, run Advantage+ Catalog ads, configure automated abandoned cart email flows via Klaviyo, manage Amazon/Flipkart listings, and perform deep Conversion Rate Optimization (CRO) to maximize your average order value.',
-    pricing: '₹8,000–₹20,000/mo',
-    whatWeDo: [
-      'Google Shopping & Advantage+ Catalog Ads Setup',
-      'Klaviyo Email & SMS Abandoned Cart Automation Flows',
-      'Amazon & Flipkart Marketplace SEO & Product Listing Optimization',
-      'Conversion Rate Optimization (CRO) & Heatmap Audits',
-      'Product Bundling & Upsell Strategy Execution',
-      'Loyalty Program Design & Customer Retention Setup'
-    ],
-    deliverables: [
-      'Shopping & Catalog Ad Setup',
-      'Klaviyo Email Automations',
-      'Marketplace Product SEO',
-      'Monthly ROAS Dashboard',
-      'Discount Codes & Campaign Strategy doc'
-    ],
-    painPoints: [
-      'High cart abandonment rates on Shopify / WooCommerce',
-      'Low ROAS on Meta ads and high customer acquisition cost (CAC)',
-      'High customer acquisition cost (CAC) outstripping customer value',
-      'Poor marketplace ranking on Amazon and Flipkart'
-    ],
-    faqs: [
-      { q: 'What ROAS can I expect?', a: 'Our e-commerce campaigns average between 3.5x to 6.2x ROAS.' },
-      { q: 'Do you work with Shopify and WooCommerce?', a: 'Yes, we are official partners for Shopify, WooCommerce, and Magento.' },
-      { q: 'Do you set up email automations?', a: 'Yes, we set up abandoned cart, welcome series, and customer win-back flows.' },
-      { q: 'Do you manage marketplace ads on Amazon?', a: 'Yes, we configure and optimize Amazon PPC campaigns and listings.' }
-    ]
-  },
-
-  {
-    id: '13',
-    title: 'Lead Generation',
-    category: 'Performance Leads',
-    icon: '🧲',
-    description: 'Performance-driven lead programs across Google, Meta & LinkedIn.',
-    longDescription: "Unleash a predictable, high-quality lead flow. We build high-converting landing pages, deploy pay-per-click lead campaigns across Google, Meta, and LinkedIn, implement instant OTP phone verification, and sync screened, sales-ready prospects directly into your sales team's CRM.",
-    pricing: 'Custom / Pay-per-lead',
-    whatWeDo: [
-      'High-Intent Lead Magnet Landing Page Design',
-      'Multi-Channel PPC Ad Management (Google Search & Meta Ads)',
-      'Lead Screening & Phone Number OTP Verification',
-      'Real-Time CRM & WhatsApp Lead Sync',
-      'Lead Qualification Quiz & Interactive Calculator Setup',
-      'B2B Cold Email Outreach Strategy and Scripting'
-    ],
-    deliverables: [
-      'High Converting Landing Page',
-      'PPC Campaign Management',
-      'Verified Qualified Leads',
-      'Real-Time Lead Dashboard',
-      'Automated Lead Routing Setup'
-    ],
-    painPoints: [
-      'Unpredictable monthly lead pipeline causing sales anxiety',
-      'High upfront agency retainers with zero guaranteed outcomes',
-      'Fake phone numbers and email leads wasting sales time',
-      'Extremely high Cost-Per-Lead (CPL) in competitive niches'
-    ],
-    faqs: [
-      { q: 'How is lead quality verified?', a: 'We use OTP verification and mandatory screening questions.' },
-      { q: 'Do I pay per lead or retainer?', a: 'We offer both performance pay-per-lead models and hybrid models.' },
-      { q: 'Can you target specific B2B industries?', a: 'Yes, we construct targeted LinkedIn and Google search funnels for precise B2B demographics.' },
-      { q: 'Do you help script our sales team follow-ups?', a: 'Yes, we provide instant WhatsApp and email copy scripts to boost lead conversion rates.' }
-    ]
-  },
-  {
-    id: '14',
-    title: 'Content Marketing',
-    category: 'Content Engine',
-    icon: '✍️',
-    description: 'SEO blogs, pillar guides and thought-leadership that build authority.',
-    longDescription: 'Establish absolute authority in your industry. We perform competitor content gap analysis, write comprehensive 1,500+ word SEO blog posts and topic clusters, ghostwrite executive thought-leadership articles for LinkedIn/Medium, and design custom infographics to generate organic traffic.',
-    pricing: '₹5,000–₹15,000/mo',
-    whatWeDo: [
-      'Topic Cluster Keyword Strategy & Competitor Gap Analysis',
-      '1,500+ Word In-Depth SEO Blog Article Production',
-      'Executive Thought Leadership Ghostwriting (LinkedIn / Medium)',
-      'Custom Infographic & Visual Asset Design',
-      'Ebook, Whitepaper, and Lead Magnet Writing',
-      'Monthly Newsletter & Email Campaign Construction'
-    ],
-    deliverables: [
-      '4-8 Long-Form SEO Articles',
-      'Infographic Visual Assets',
-      'Keyword Optimization Strategy',
-      'Internal Linking Architecture',
-      'Thought Leadership Post Package'
-    ],
-    painPoints: [
-      'Lack of topical authority and brand credibility',
-      'Low organic search traffic and high reliance on ads',
-      'Inability to write expert, grammatically sound industry articles',
-      'Inconsistent posting of written materials across media properties'
-    ],
-    faqs: [
-      { q: 'Are articles written by expert human writers?', a: '100%! All articles are crafted by experienced industry copywriters.' },
-      { q: 'Do you publish articles directly to my CMS?', a: 'Yes, we handle formatting, images, meta tags, and publishing.' },
-      { q: 'How do you pick content topics?', a: 'We perform deep competitive gap analyses and target high-search-volume keywords.' },
-      { q: 'Can content marketing generate direct sales leads?', a: 'Yes, by incorporating valuable lead magnets (ebooks, audits) directly inside articles.' }
-    ]
-  },
-  {
-    id: '15',
-    title: 'Local SEO',
-    category: 'Local Search',
-    icon: '📍',
-    description: 'Own the Google map pack: GBP optimisation, reviews and citations.',
-    longDescription: 'Dominate local searches and drive foot traffic. We optimize and verify your Google Business Profile (GBP), build local citations across top directories, set up automated review generation funnels, and implement schema markup to boost maps ranking.',
-    pricing: '₹3,500–₹9,000/mo',
-    whatWeDo: [
-      'Google Business Profile (GBP) Full Optimization & Verification',
-      'Local Map-Pack Rank Boosting & Citation Building',
-      'Automated Review Generation & Response Funnels',
-      'Hyper-Local Service Page Schema Markup',
-      'Local Directory Citation Audit and Indexing',
-      'Geo-Targeted Content and Blog Strategy'
-    ],
-    deliverables: [
-      'GBP Profile Optimization',
-      '50+ Local Directory Citations',
-      'Automated Review Link QR Code',
-      'Monthly Map Rank Report',
-      'Review Generation Strategy template'
-    ],
-    painPoints: [
-      'Not showing up on Google Maps for local queries',
-      'Competitors dominating local search map pack',
-      'Negative Google reviews dragging down search placement',
-      'Inconsistent name, address, phone number (NAP) data across directories'
-    ],
-    faqs: [
-      { q: 'Will this increase phone calls and visits?', a: 'Yes, local map optimization directly boosts calls and direction requests.' },
-      { q: 'Can you help reinstate suspended profiles?', a: 'Yes, we assist with Google Business Profile suspension appeals.' },
-      { q: 'How long until local map rankings improve?', a: 'Maps listings typically start climbing search positions within 30 to 60 days.' },
-      { q: 'Do you manage review responses?', a: 'Yes, we draft keyword-rich, professional replies to all customer reviews.' }
-    ]
-  },
-  {
-    id: '16',
-    title: 'WhatsApp Marketing',
-    category: 'Direct Marketing',
-    icon: '💬',
-    description: "India's most powerful channel — broadcasts, automation & catalogs.",
-    longDescription: "Leverage India's highest engagement channel with 90%+ open rates. We register and set up Meta's official WhatsApp Cloud API, build automated product catalogs, configure abandoned cart reminders, and deploy targeted broadcast campaigns to re-engage past customers.",
-    pricing: '₹2,500–₹6,000/mo',
-    whatWeDo: [
-      'Official Meta WhatsApp Business API Account Setup',
-      'Targeted Broadcast Message Campaign Creation',
-      'Interactive Product Catalog & Shopping Bot Setup',
-      'Automated Abandoned Cart & Payment Reminder Flows',
-      'Customer Support Ticketing and Routing Workflows',
-      'Opt-In Lead Capture Forms & Growth Campaigns'
-    ],
-    deliverables: [
-      'Official WhatsApp API Setup',
-      'Broadcast Campaign Manager',
-      'Interactive Product Catalog',
-      'Automated Chatbot Workflows',
-      'Meta WhatsApp Business Manager Setup'
-    ],
-    painPoints: [
-      'Low email open rates (15-20%) hindering client communications',
-      'Risk of phone bans using unverified software',
-      'No automated customer support setup during weekends',
-      'High cost per SMS with low response rates'
-    ],
-    faqs: [
-      { q: 'Are broadcast messages safe from phone bans?', a: 'Yes, we use official Meta WhatsApp Cloud API avoiding bans.' },
-      { q: 'Can customers place orders inside WhatsApp?', a: 'Yes, using WhatsApp Native Catalog Shopping.' },
-      { q: 'Is there a setup charge for WhatsApp broadcast?', a: 'All setup features are included in our standard onboarding retainer.' },
-      { q: 'Can we send media like images and PDFs in broadcasts?', a: 'Yes, WhatsApp API supports images, videos, documents, and interactive buttons.' }
-    ]
-  },
-  {
-    id: '17',
-    title: 'Logo & Branding',
-    category: 'Design & Branding',
-    icon: '✒️',
-    description: 'Memorable logos & brand identities. Vector files + guidelines included.',
-    longDescription: 'Establish a world-class brand identity. We design 3-5 unique, commercial-copyright vector logo concepts, curate custom typography and color palettes, write comprehensive brand identity style guides, and package complete social media profile kits and corporate stationery.',
-    pricing: '₹850–₹3,500',
-    whatWeDo: [
-      '3-5 Unique Vector Logo Concepts',
-      'Brand Identity Style Guide (Typography, Palette, Usage Rules)',
-      'Social Media Profile Kit (Avatar, Banners, Favicon)',
-      'Business Card & Letterhead Stationery Designs',
-      'Brand Voice and Positioning Strategy Development',
-      'Merchandise and Promotional Item Mockups'
-    ],
-    deliverables: [
-      '3-5 Unique Logo Concepts',
-      'Full Brand Guidelines PDF',
-      'Vector Files (AI, EPS, SVG, PDF)',
-      'Social Media Branding Kit',
-      'Corporate Stationery Assets'
-    ],
-    painPoints: [
-      'Outdated clip-art logos making the brand look cheap',
-      'No brand color consistency across website and print material',
-      'Low resolution file formats causing blurriness on print signs',
-      'Lack of clear brand guidelines resulting in fragmented marketing creatives'
-    ],
-    faqs: [
-      { q: 'Do I own full legal copyright of the logo?', a: 'Yes, 100% full commercial copyright is transferred to you upon delivery.' },
-      { q: 'What files will I receive?', a: 'You receive vector files (AI, EPS, SVG), high-res PNGs (transparent background), and PDFs.' },
-      { q: 'How many design revisions are included?', a: 'We offer 3 complete rounds of design revisions on the chosen logo concept.' },
-      { q: 'Can you help redesign an existing logo?', a: 'Yes, we offer modern brand modernization and logo refinement services.' }
-    ]
-  }
-];
+export const detailed17Services: ComprehensiveServiceItem[] = ALL_17_SERVICES;
 
 interface ServicesGridProps {
   onOpenStrategyModal: (serviceName?: string) => void;
@@ -933,9 +342,9 @@ export const ServicesGrid: React.FC<ServicesGridProps> = ({
             {/* FULL SMM DETAILS SECTION */}
             <div style={{ textAlign: 'center', marginBottom: '4rem' }}>
               <div className="section-tag" style={{ color: '#3B82F6', background: 'rgba(59, 130, 246, 0.1)' }}>SMM HUB & CREATOR NETWORK</div>
-              <h1 style={{ fontFamily: 'Outfit, serif', fontSize: '3.4rem', fontWeight: 900, marginBottom: '1rem', color: '#0F172A', letterSpacing: '-0.02em' }}>
+              <h2 style={{ fontFamily: 'Outfit, serif', fontSize: '3.4rem', fontWeight: 900, marginBottom: '1rem', color: '#0F172A', letterSpacing: '-0.02em' }}>
                 Social Media Marketing & Viral Reach Engine
-              </h1>
+              </h2>
               <p style={{ fontSize: '1.15rem', color: 'var(--text-muted)', lineHeight: 1.7, maxWidth: '750px', margin: '0 auto' }}>
                 Scale your brand's organic and paid presence across Instagram, Facebook, LinkedIn, YouTube, and UGC creator networks to convert followers into paying customers.
               </p>
@@ -1217,59 +626,65 @@ export const ServicesGrid: React.FC<ServicesGridProps> = ({
 
             {/* 17 SERVICE CARDS GRID MATCHING SCREENSHOT 1 & 2 EXACTLY */}
             <div className="responsive-4-grid" style={{ marginBottom: '2.5rem', maxWidth: '1100px', margin: '0 auto 2.5rem auto' }}>
-              {detailed17Services.map((service) => (
-                <div
-                  key={service.id}
-                  style={{
-                    background: '#FFFFFF',
-                    borderTop: '4px solid #FF4E27',
-                    borderLeft: '1px solid #E2E8F0',
-                    borderRight: '1px solid #E2E8F0',
-                    borderBottom: '1px solid #E2E8F0',
-                    borderRadius: '20px',
-                    padding: '1.5rem 1.25rem',
-                    display: 'flex',
-                    flexDirection: 'column',
-                    boxShadow: '0 8px 25px rgba(11, 19, 42, 0.04)',
-                    transition: 'transform 0.3s ease, boxShadow 0.3s ease',
-                    cursor: 'pointer'
-                  }}
-                  onMouseEnter={(e) => {
-                    e.currentTarget.style.transform = 'translateY(-4px)';
-                    e.currentTarget.style.boxShadow = '0 12px 30px rgba(11, 19, 42, 0.08)';
-                  }}
-                  onMouseLeave={(e) => {
-                    e.currentTarget.style.transform = 'translateY(0)';
-                    e.currentTarget.style.boxShadow = '0 8px 25px rgba(11, 19, 42, 0.04)';
-                  }}
-                  onClick={() => {
-                    const slug = SERVICE_ID_TO_SLUG[service.id] || service.id;
-                    if (onNavigate) {
-                      onNavigate('service-details', slug);
-                    } else {
-                      window.location.href = `/services/${slug}`;
-                    }
-                  }}
-                >
-                  <div style={{ fontSize: '2rem', marginBottom: '0.6rem' }}>{service.icon}</div>
-                  <h3 style={{ fontSize: '1.15rem', fontWeight: 800, marginBottom: '0.4rem', color: '#0F172A', fontFamily: 'Outfit, serif', lineHeight: 1.25 }}>
-                    {service.title}
-                  </h3>
-                  <p style={{ fontSize: '0.85rem', color: '#64748B', marginBottom: '1rem', lineHeight: 1.45, flexGrow: 1 }}>
-                    {service.description}
-                  </p>
+              {detailed17Services.map((service) => {
+                const slug = service.slug || SERVICE_ID_TO_SLUG[service.id || ''] || service.id;
+                return (
+                  <a
+                    key={service.id}
+                    href={`/services/${slug}`}
+                    onClick={(e) => {
+                      e.preventDefault();
+                      if (onNavigate) {
+                        onNavigate('service-details', slug);
+                      } else {
+                        window.location.href = `/services/${slug}`;
+                      }
+                    }}
+                    style={{
+                      textDecoration: 'none',
+                      color: 'inherit',
+                      background: '#FFFFFF',
+                      borderTop: '4px solid #FF4E27',
+                      borderLeft: '1px solid #E2E8F0',
+                      borderRight: '1px solid #E2E8F0',
+                      borderBottom: '1px solid #E2E8F0',
+                      borderRadius: '20px',
+                      padding: '1.5rem 1.25rem',
+                      display: 'flex',
+                      flexDirection: 'column',
+                      boxShadow: '0 8px 25px rgba(11, 19, 42, 0.04)',
+                      transition: 'transform 0.3s ease, boxShadow 0.3s ease',
+                      cursor: 'pointer'
+                    }}
+                    onMouseEnter={(e) => {
+                      e.currentTarget.style.transform = 'translateY(-4px)';
+                      e.currentTarget.style.boxShadow = '0 12px 30px rgba(11, 19, 42, 0.08)';
+                    }}
+                    onMouseLeave={(e) => {
+                      e.currentTarget.style.transform = 'translateY(0)';
+                      e.currentTarget.style.boxShadow = '0 8px 25px rgba(11, 19, 42, 0.04)';
+                    }}
+                  >
+                    <div style={{ fontSize: '2rem', marginBottom: '0.6rem' }}>{service.icon}</div>
+                    <h3 style={{ fontSize: '1.15rem', fontWeight: 800, marginBottom: '0.4rem', color: '#0F172A', fontFamily: 'Outfit, serif', lineHeight: 1.25 }}>
+                      {service.title}
+                    </h3>
+                    <p style={{ fontSize: '0.85rem', color: '#64748B', marginBottom: '1rem', lineHeight: 1.45, flexGrow: 1 }}>
+                      {service.description}
+                    </p>
 
-                  {/* PRICE TAG & FULL DETAILS LINK MATCHING SCREENSHOT */}
-                  <div style={{ display: 'flex', flexDirection: 'column', gap: '0.15rem', marginTop: 'auto' }}>
-                    <div style={{ fontFamily: 'Outfit', fontSize: '1.05rem', fontWeight: 800, color: '#3B82F6' }}>
-                      {service.pricing}
+                    {/* PRICE TAG & FULL DETAILS LINK MATCHING SCREENSHOT */}
+                    <div style={{ display: 'flex', flexDirection: 'column', gap: '0.15rem', marginTop: 'auto' }}>
+                      <div style={{ fontFamily: 'Outfit', fontSize: '1.05rem', fontWeight: 800, color: '#3B82F6' }}>
+                        {service.pricing}
+                      </div>
+                      <div style={{ fontSize: '0.78rem', fontWeight: 800, color: '#3B82F6', letterSpacing: '0.05em' }}>
+                        FULL DETAILS →
+                      </div>
                     </div>
-                    <div style={{ fontSize: '0.78rem', fontWeight: 800, color: '#3B82F6', letterSpacing: '0.05em' }}>
-                      FULL DETAILS →
-                    </div>
-                  </div>
-                </div>
-              ))}
+                  </a>
+                );
+              })}
             </div>
 
             {/* VIEW ALL SERVICES & PRICING PILL BUTTON MATCHING SCREENSHOT */}

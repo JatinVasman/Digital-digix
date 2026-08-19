@@ -1,6 +1,16 @@
-# Robots.txt for Digital Digix
+# Robots.txt for Digital Digix (https://digitaldigix.com/)
 User-agent: *
 Allow: /
+Allow: /assets/
+Allow: /blogs/
+Allow: /services/
+Allow: /industries/
+Allow: /digital-marketing/
+Allow: /graphic-design/
+Allow: /legal/
 
-# Sitemap
+# Disallow private internal API endpoints
+Disallow: /api/
+
+# Sitemap Location
 Sitemap: https://digitaldigix.com/sitemap.xml

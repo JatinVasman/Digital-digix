@@ -1965,10 +1965,10 @@ export const LEGAL_SERVICES_DATA: ServiceDetail[] = [
     fees: 'Milestone or hourly billing'
   },
   {
-    title: 'Trademark Infringement Suits',
+    title: 'High Court Trademark Infringement Suits',
     category: 'LITIGATION',
     subCategory: 'IP Litigation & Enforcement',
-    description: 'Trademark Infringement Suits support from our IP Litigation & Enforcement team, handled end-to-end as part of our Litigation practice.',
+    description: 'High Court Trademark Infringement Suits support from our IP Litigation & Enforcement team, handled end-to-end as part of our Litigation practice.',
     explanation: 'If a competitor dilutes or copies your registered trademark, we represent you in filing trademark infringement suits in Commercial divisions of High Courts, obtaining ex-parte search warrants and seizing fake stocks.',
     deliverables: [
       'Filed infringement plaint copy.',
@@ -1991,10 +1991,10 @@ export const LEGAL_SERVICES_DATA: ServiceDetail[] = [
     fees: 'Case-specific billing'
   },
   {
-    title: 'Patent Infringement & Injunctions',
+    title: 'Patent Injunctions & Trial Enforcement',
     category: 'LITIGATION',
     subCategory: 'IP Litigation & Enforcement',
-    description: 'Patent Infringement & Injunctions support from our IP Litigation & Enforcement team, handled end-to-end as part of our Litigation practice.',
+    description: 'Patent Injunctions & Trial Enforcement support from our IP Litigation & Enforcement team, handled end-to-end as part of our Litigation practice.',
     explanation: 'Defend patent exclusivity. We file patent infringement suits in High Courts with jurisdiction, seeking temporary or permanent injunctions to halt competitor sales channels, importations, or manufacture of infringing technologies.',
     deliverables: [
       'High Court commercial plaint.',
@@ -2017,10 +2017,10 @@ export const LEGAL_SERVICES_DATA: ServiceDetail[] = [
     fees: 'Milestone billing'
   },
   {
-    title: 'Copyright Enforcement & Piracy',
+    title: 'Copyright Anti-Piracy Actions & Enforcement',
     category: 'LITIGATION',
     subCategory: 'IP Litigation & Enforcement',
-    description: 'Copyright Enforcement & Piracy support from our IP Litigation & Enforcement team, handled end-to-end as part of our Litigation practice.',
+    description: 'Copyright Anti-Piracy Actions & Enforcement support from our IP Litigation & Enforcement team, handled end-to-end as part of our Litigation practice.',
     explanation: 'Protect creative intellectual works. We handle civil infringement actions in commercial courts, digital piracy blockages, and copyright registry actions to halt the unauthorized reproduction of software code, media, or writings.',
     deliverables: [
       'Filed civil plaints.',
@@ -2043,10 +2043,10 @@ export const LEGAL_SERVICES_DATA: ServiceDetail[] = [
     fees: 'Case-specific billing'
   },
   {
-    title: 'Design Infringement Action',
+    title: 'Design Infringement Action & Mold Seizure',
     category: 'LITIGATION',
     subCategory: 'IP Litigation & Enforcement',
-    description: 'Design Infringement Action support from our IP Litigation & Enforcement team, handled end-to-end as part of our Litigation practice.',
+    description: 'Design Infringement Action & Mold Seizure support from our IP Litigation & Enforcement team, handled end-to-end as part of our Litigation practice.',
     explanation: 'Protect visual product aesthetics. We file civil design piracy lawsuits under Section 22 of the Designs Act in Commercial Courts, seizing copycat mold tools and seeking permanent restraining orders against counterfeit sellers.',
     deliverables: [
       'Filing design piracy plaints.',
@@ -2124,10 +2124,10 @@ export const LEGAL_SERVICES_DATA: ServiceDetail[] = [
     fees: '₹30,000 + GST'
   },
   {
-    title: 'Domain Name & UDRP Disputes',
+    title: 'Domain Name Disputes & UDRP Arbitration',
     category: 'LITIGATION',
     subCategory: 'IP Litigation & Enforcement',
-    description: 'Domain Name & UDRP Disputes support from our IP Litigation & Enforcement team, handled end-to-end as part of our Litigation practice.',
+    description: 'Domain Name Disputes & UDRP Arbitration support from our IP Litigation & Enforcement team, handled end-to-end as part of our Litigation practice.',
     explanation: 'Retrieve hijacked domain names safely. We represent brand owners in filing complaints under the Uniform Domain-Name Dispute-Resolution Policy (UDRP) or the INDRP before designated arbitration panels (WIPO or NIXI).',
     deliverables: [
       'Drafted UDRP/INDRP complaint filings.',
@@ -2460,10 +2460,10 @@ export const LEGAL_SERVICES_DATA: ServiceDetail[] = [
     fees: 'Matrimonial milestone billing'
   },
   {
-    title: 'Trademark Litigation',
+    title: 'Trademark Infringement Legal Actions',
     category: 'INTELLECTUAL PROPERTY',
     subCategory: 'Trademark',
-    description: 'Trademark Litigation support from our Trademark team, handled end-to-end as part of our Intellectual Property practice.',
+    description: 'Trademark Infringement Legal Actions support from our Trademark team, handled end-to-end as part of our Intellectual Property practice.',
     explanation: 'When a competitor dilutes or copies your brand name, logo, or trade dress, we file Passing-Off and Infringement civil actions in Commercial Courts, seeking injunction stay orders and counterfeit product seizures.',
     deliverables: [
       'Filed plaints.',
@@ -2486,10 +2486,10 @@ export const LEGAL_SERVICES_DATA: ServiceDetail[] = [
     fees: 'Milestone billing'
   },
   {
-    title: 'Patent Litigation',
+    title: 'Patent Exclusivity Protection Litigation',
     category: 'INTELLECTUAL PROPERTY',
     subCategory: 'Patent',
-    description: 'Patent Litigation support from our Patent team, handled end-to-end as part of our Intellectual Property practice.',
+    description: 'Patent Exclusivity Protection Litigation support from our Patent team, handled end-to-end as part of our Intellectual Property practice.',
     explanation: 'Stop illegal manufacturing. We file patent infringement actions in High Courts to restrain the unauthorized sale or production of patented technologies, seeking damages and deliveries.',
     deliverables: [
       'High Court plaints.',
@@ -2512,10 +2512,10 @@ export const LEGAL_SERVICES_DATA: ServiceDetail[] = [
     fees: 'Milestone billing'
   },
   {
-    title: 'Design Litigation',
+    title: 'Industrial Design Piracy Lawsuits',
     category: 'INTELLECTUAL PROPERTY',
     subCategory: 'Design',
-    description: 'Design Litigation support from our Design team, handled end-to-end as part of our Intellectual Property practice.',
+    description: 'Industrial Design Piracy Lawsuits support from our Design team, handled end-to-end as part of our Intellectual Property practice.',
     explanation: 'Protect product shapes. We file design piracy lawsuits under Section 22 of the Designs Act in Commercial Courts, confiscating copycat manufacturing molds and obtaining stay orders.',
     deliverables: [
       'Design piracy plaint.',
@@ -2687,16 +2687,29 @@ export const LegalSection: React.FC<LegalSectionProps> = ({
               }}>
                 LEGAL PRACTICE AREAS
               </span>
-              <h2 style={{
-                fontFamily: 'Outfit, sans-serif',
-                fontSize: '3rem',
-                fontWeight: 900,
-                color: '#0F172A',
-                marginBottom: '0.75rem',
-                letterSpacing: '-0.02em'
-              }}>
-                LEGAL SERVICES
-              </h2>
+              {!isHomepage ? (
+                <h1 style={{
+                  fontFamily: 'Outfit, sans-serif',
+                  fontSize: '3rem',
+                  fontWeight: 900,
+                  color: '#0F172A',
+                  marginBottom: '0.75rem',
+                  letterSpacing: '-0.02em'
+                }}>
+                  Legal Practice Marketing & Corporate Solutions
+                </h1>
+              ) : (
+                <h2 style={{
+                  fontFamily: 'Outfit, sans-serif',
+                  fontSize: '3rem',
+                  fontWeight: 900,
+                  color: '#0F172A',
+                  marginBottom: '0.75rem',
+                  letterSpacing: '-0.02em'
+                }}>
+                  Legal Practice Areas
+                </h2>
+              )}
               <p style={{ color: '#64748B', fontSize: '1.05rem', maxWidth: '600px', margin: '0 auto 2rem auto', lineHeight: 1.5 }}>
                 Comprehensive business legal assistance spanning Intellectual Property, Corporate Compliance, and Commercial Litigation.
               </p>

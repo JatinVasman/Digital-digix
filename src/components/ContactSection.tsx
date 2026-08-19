@@ -3,9 +3,10 @@ import { sendEmail } from '../utils/emailService';
 
 interface ContactSectionProps {
   backgroundColor?: string;
+  isStandalone?: boolean;
 }
 
-export const ContactSection: React.FC<ContactSectionProps> = ({ backgroundColor }) => {
+export const ContactSection: React.FC<ContactSectionProps> = ({ backgroundColor, isStandalone = false }) => {
   const [formData, setFormData] = useState({ name: '', email: '', phone: '', message: '' });
   const [loading, setLoading] = useState(false);
   const [submitted, setSubmitted] = useState(false);
@@ -42,7 +43,11 @@ export const ContactSection: React.FC<ContactSectionProps> = ({ backgroundColor 
       <div className="container">
         <div className="section-header">
           <div className="section-tag">CONTACT US</div>
-          <h2 className="section-title">Let's Build Something Amazing Together</h2>
+          {isStandalone ? (
+            <h1 className="section-title">Let's Build Something Amazing Together</h1>
+          ) : (
+            <h2 className="section-title">Let's Build Something Amazing Together</h2>
+          )}
           <p className="section-subtitle">Tell us about your project and our experts will get in touch with you within 24 hours.</p>
         </div>
 
