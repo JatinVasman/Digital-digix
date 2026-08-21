@@ -39,7 +39,7 @@
       <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800;900&display=swap" />
     </noscript>
 
-    <!-- Organization, WebSite & ProfessionalService JSON-LD Schema -->
+    <!-- Organization, WebSite & ProfessionalService JSON-LD Schema (Optimized for indexing & rich results) -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -48,21 +48,134 @@
           "@type": ["Organization", "ProfessionalService"],
           "@id": "https://digitaldigix.com/#organization",
           "name": "Digital Digix",
+          "alternateName": "DigitalDigix",
           "url": "https://digitaldigix.com",
-          "logo": "https://digitaldigix.com/digital_digix_logo.png",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://digitaldigix.com/digital_digix_logo.png",
+            "width": 512,
+            "height": 512
+          },
           "image": "https://digitaldigix.com/digital_digix_logo.png",
-          "description": "India's leading performance marketing, generative engine optimization (GEO/AEO), web development, and B2B growth agency.",
+          "description": "AI-optimized digital agency specializing in performance marketing, search experience optimization (SXO), generative engine optimization (GEO/AEO), advanced SEO, Google & Meta Ads, high-converting web development, and B2B growth funnels.",
           "telephone": "+918586989832",
+          "email": "contact.digitaldigix@gmail.com",
           "priceRange": "₹₹",
+          "foundingDate": "2023",
+          "numberOfEmployees": {
+            "@type": "QuantitativeValue",
+            "minValue": 10,
+            "maxValue": 50
+          },
+          "slogan": "We Build Brands That Get Noticed.",
+          "knowsAbout": [
+            "Search Engine Optimization (SEO)",
+            "Generative Engine Optimization (GEO)",
+            "AI Engine Optimization (AEO)",
+            "Search Experience Optimization (SXO)",
+            "Performance Marketing",
+            "Google Ads Management",
+            "Meta Ads (Facebook & Instagram Advertising)",
+            "Social Media Marketing",
+            "Web Development",
+            "Conversion Rate Optimization (CRO)",
+            "B2B Lead Generation",
+            "E-Commerce Marketing",
+            "WhatsApp Business API Marketing",
+            "Email Marketing Automation",
+            "Influencer Marketing",
+            "UGC Reels & Creator Marketing",
+            "Brand Identity Design",
+            "Local SEO & Google Business Profile Optimization",
+            "AI Automation Systems"
+          ],
           "sameAs": [
             "https://www.instagram.com/digitaldigix",
-            "https://www.linkedin.com/company/digitaldigix"
+            "https://www.linkedin.com/company/digitaldigix",
+            "https://www.linkedin.com/company/digital-digix"
           ],
           "address": {
             "@type": "PostalAddress",
-            "addressLocality": "Lucknow",
+            "addressLocality": "Noida",
             "addressRegion": "Uttar Pradesh",
+            "postalCode": "201301",
             "addressCountry": "IN"
+          },
+          "areaServed": [
+            {
+              "@type": "Country",
+              "name": "India"
+            },
+            {
+              "@type": "Country",
+              "name": "United States"
+            },
+            {
+              "@type": "Country",
+              "name": "United Kingdom"
+            },
+            {
+              "@type": "Country",
+              "name": "United Arab Emirates"
+            }
+          ],
+          "hasOfferCatalog": {
+            "@type": "OfferCatalog",
+            "name": "Digital Marketing & Growth Services",
+            "itemListElement": [
+              {
+                "@type": "OfferCatalog",
+                "name": "SEO & Search Optimization",
+                "itemListElement": [
+                  { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Search Engine Optimization (SEO)" } },
+                  { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Local SEO & Google Maps Ranking" } },
+                  { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Generative Engine Optimization (GEO/AEO)" } }
+                ]
+              },
+              {
+                "@type": "OfferCatalog",
+                "name": "Paid Advertising",
+                "itemListElement": [
+                  { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Google Ads Management & PPC" } },
+                  { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Meta Ads (Facebook & Instagram)" } }
+                ]
+              },
+              {
+                "@type": "OfferCatalog",
+                "name": "Web & App Development",
+                "itemListElement": [
+                  { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Website Development (React, Next.js)" } },
+                  { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Conversion Rate Optimization (CRO)" } }
+                ]
+              },
+              {
+                "@type": "OfferCatalog",
+                "name": "Social & Content Marketing",
+                "itemListElement": [
+                  { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Social Media Marketing & Management" } },
+                  { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "UGC Reels & Creator Marketing" } },
+                  { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Influencer Marketing" } }
+                ]
+              },
+              {
+                "@type": "OfferCatalog",
+                "name": "Lead Generation & Automation",
+                "itemListElement": [
+                  { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "B2B Lead Generation & Account-Based Marketing" } },
+                  { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "WhatsApp Business API Marketing" } },
+                  { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Email Marketing & Automated Funnels" } },
+                  { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "AI Automation Systems" } }
+                ]
+              },
+              {
+                "@type": "OfferCatalog",
+                "name": "Design & Branding",
+                "itemListElement": [
+                  { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Graphic Design Services" } },
+                  { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Brand Identity Design & Positioning" } }
+                ]
+              }
+            ]
           }
         },
         {
@@ -70,13 +183,32 @@
           "@id": "https://digitaldigix.com/#website",
           "url": "https://digitaldigix.com",
           "name": "Digital Digix",
+          "description": "Digital marketing agency blog, service hub, and industry growth resource center.",
           "publisher": {
             "@id": "https://digitaldigix.com/#organization"
           },
+          "inLanguage": "en-US",
           "potentialAction": {
             "@type": "SearchAction",
-            "target": "https://digitaldigix.com/blogs?q={search_term_string}",
+            "target": {
+              "@type": "EntryPoint",
+              "urlTemplate": "https://digitaldigix.com/blogs?q={search_term_string}"
+            },
             "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://digitaldigix.com/#webpage",
+          "url": "https://digitaldigix.com",
+          "name": "Digital Marketing Agency for Business Growth | Digital Digix",
+          "description": "Scale your brand with performance marketing, SEO, high-converting web development, Google Ads, and viral social media funnels. Zero lock-in contracts.",
+          "isPartOf": { "@id": "https://digitaldigix.com/#website" },
+          "about": { "@id": "https://digitaldigix.com/#organization" },
+          "inLanguage": "en-US",
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://digitaldigix.com/digital_digix_logo.png"
           }
         }
       ]
