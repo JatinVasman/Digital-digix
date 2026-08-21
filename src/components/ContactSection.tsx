@@ -4,9 +4,10 @@ import { sendEmail } from '../utils/emailService';
 interface ContactSectionProps {
   backgroundColor?: string;
   isStandalone?: boolean;
+  onOpenContactModal?: () => void;
 }
 
-export const ContactSection: React.FC<ContactSectionProps> = ({ backgroundColor, isStandalone = false }) => {
+export const ContactSection: React.FC<ContactSectionProps> = ({ backgroundColor, isStandalone = false, onOpenContactModal }) => {
   const [formData, setFormData] = useState({ name: '', email: '', phone: '', message: '' });
   const [loading, setLoading] = useState(false);
   const [submitted, setSubmitted] = useState(false);
@@ -97,7 +98,7 @@ export const ContactSection: React.FC<ContactSectionProps> = ({ backgroundColor,
               <div style={{ width: '44px', height: '44px', borderRadius: '50%', background: 'var(--bg-badge)', color: 'var(--primary)', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '1.2rem' }}>✉️</div>
               <div>
                 <div style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>Email Us</div>
-                <a href="mailto:contact.digitaldigix@gmail.com" style={{ fontWeight: 700, color: 'inherit', textDecoration: 'none', transition: 'color 0.2s ease' }} onMouseEnter={(e) => e.currentTarget.style.color = 'var(--primary)'} onMouseLeave={(e) => e.currentTarget.style.color = 'inherit'}>
+                <a href="#contact" onClick={(e) => { e.preventDefault(); if (onOpenContactModal) onOpenContactModal(); }} style={{ fontWeight: 700, color: 'inherit', textDecoration: 'none', transition: 'color 0.2s ease', cursor: 'pointer' }} onMouseEnter={(e) => e.currentTarget.style.color = 'var(--primary)'} onMouseLeave={(e) => e.currentTarget.style.color = 'inherit'}>
                   contact.digitaldigix@gmail.com
                 </a>
               </div>

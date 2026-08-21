@@ -3,6 +3,7 @@ export interface EmailPayload {
   email: string;
   phone?: string;
   message?: string;
+  service?: string;
   website?: string;
   growthGoal?: string;
   planName?: string;

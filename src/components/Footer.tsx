@@ -9,9 +9,10 @@ interface FooterProps {
   onNavigate: (page: PageView, slug?: string) => void;
   onSelectLocation?: (locationName: string) => void;
   onOpenLocationsModal?: () => void;
+  onOpenContactModal?: () => void;
 }
 
-export const Footer: React.FC<FooterProps> = ({ onNavigate, onSelectLocation, onOpenLocationsModal: _onOpenLocationsModal }) => {
+export const Footer: React.FC<FooterProps> = ({ onNavigate, onSelectLocation, onOpenLocationsModal: _onOpenLocationsModal, onOpenContactModal }) => {
   const handleLocationClick = (loc: string) => {
     if (onSelectLocation) {
       onSelectLocation(loc);
@@ -81,7 +82,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate, onSelectLocation, on
             <div style={{ fontSize: '0.875rem', color: '#94A3B8', display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
               <div>📍 Noida, Delhi NCR, India & Global</div>
               <div>📞 +91 85869 89832</div>
-              <div>✉️ <a href="mailto:contact.digitaldigix@gmail.com" style={{ color: 'inherit', textDecoration: 'none', transition: 'color 0.2s ease' }} onMouseEnter={(e) => e.currentTarget.style.color = '#3B82F6'} onMouseLeave={(e) => e.currentTarget.style.color = 'inherit'}>contact.digitaldigix@gmail.com</a></div>
+              <div>✉️ <a href="#contact" onClick={(e) => { e.preventDefault(); if (onOpenContactModal) onOpenContactModal(); }} style={{ color: 'inherit', textDecoration: 'none', transition: 'color 0.2s ease', cursor: 'pointer' }} onMouseEnter={(e) => e.currentTarget.style.color = '#3B82F6'} onMouseLeave={(e) => e.currentTarget.style.color = 'inherit'}>contact.digitaldigix@gmail.com</a></div>
               <a
                 href="https://wa.me/918586989832?text=Hi%2C%20I%20am%20interested%20in%20your%20services"
                 target="_blank"

@@ -2582,6 +2582,7 @@ interface LegalSectionProps {
   initialQuery?: string;
   initialShowResults?: boolean;
   backgroundColor?: string;
+  onOpenContactModal?: (prefilledService?: string) => void;
 }
 
 export const LegalSection: React.FC<LegalSectionProps> = ({ 
@@ -2590,7 +2591,8 @@ export const LegalSection: React.FC<LegalSectionProps> = ({
   onRedirectToLegal,
   initialQuery = '',
   initialShowResults = false,
-  backgroundColor
+  backgroundColor,
+  onOpenContactModal
 }) => {
   const [searchQuery, setSearchQuery] = useState(initialQuery);
   const [showSearchResults, setShowSearchResults] = useState(initialShowResults);
@@ -3729,18 +3731,18 @@ export const LegalSection: React.FC<LegalSectionProps> = ({
           </div>
 
           <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap', alignItems: 'center' }}>
-            <a
-              href="mailto:contact.digitaldigix@gmail.com?subject=Legal%20Terms%20and%20SLA%20Consultation"
+            <button
+              onClick={() => { if (onOpenContactModal) onOpenContactModal('Legal Terms & SLA Consultation'); }}
               className="btn btn-primary"
-              style={{ padding: '0.8rem 1.6rem', fontSize: '0.875rem' }}
+              style={{ padding: '0.8rem 1.6rem', fontSize: '0.875rem', cursor: 'pointer' }}
             >
               Contact Legal Desk 📧
-            </a>
+            </button>
             <button
               className="btn btn-secondary"
               style={{ color: '#FFF', borderColor: 'rgba(255,255,255,0.3)', padding: '0.8rem 1.6rem', fontSize: '0.875rem' }}
               onClick={() => {
-                if (onOpenStrategyModal) onOpenStrategyModal('Legal Terms & SLA Consultation');
+                if (onOpenContactModal) onOpenContactModal('NDA Drafting');
               }}
             >
               Request Sample NDA / SLA ➔
