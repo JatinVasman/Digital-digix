@@ -8,6 +8,7 @@ import { WhyChooseUs } from './components/WhyChooseUs';
 import { LegalSection } from './components/LegalSection';
 import { ContactSection } from './components/ContactSection';
 import { Footer } from './components/Footer';
+import { ContactFormModal } from './components/ContactFormModal';
 
 import { InteractiveStatsBar } from './components/InteractiveStatsBar';
 import { ClientVoices } from './components/ClientVoices';
@@ -52,6 +53,8 @@ export const App: React.FC = () => {
   const [strategyModalNote, setStrategyModalNote] = useState<string>('');
   const [isSearchModalOpen, setIsSearchModalOpen] = useState(false);
   const [isLocationsModalOpen, setIsLocationsModalOpen] = useState(false);
+  const [isContactModalOpen, setIsContactModalOpen] = useState(false);
+  const [contactModalService, setContactModalService] = useState('');
 
   // Selected Location for location landing page
   const [selectedLocation, setSelectedLocation] = useState<string>('Lucknow');
@@ -282,8 +285,9 @@ export const App: React.FC = () => {
               isHomepage={true}
               onRedirectToLegal={handleRedirectToLegal}
               backgroundColor="#F8FAFC"
+              onOpenContactModal={(service) => { setContactModalService(service || ''); setIsContactModalOpen(true); }}
             />
-            <ContactSection backgroundColor="var(--bg-main)" />
+            <ContactSection backgroundColor="var(--bg-main)" onOpenContactModal={() => { setContactModalService(''); setIsContactModalOpen(true); }} />
           </>
         )}
 
@@ -318,6 +322,7 @@ export const App: React.FC = () => {
              initialQuery={initialLegalQuery}
              initialShowResults={initialLegalShowResults}
              backgroundColor="#F8FAFC"
+             onOpenContactModal={(service) => { setContactModalService(service || ''); setIsContactModalOpen(true); }}
            />
          )}
 
@@ -336,7 +341,7 @@ export const App: React.FC = () => {
         )}
 
         {activePage === 'contact' && (
-          <ContactSection isStandalone={true} />
+          <ContactSection isStandalone={true} onOpenContactModal={() => { setContactModalService(''); setIsContactModalOpen(true); }} />
         )}
 
         {activePage === 'location' && (
@@ -414,6 +419,7 @@ export const App: React.FC = () => {
         onNavigate={handleNavigate}
         onSelectLocation={handleSelectLocation}
         onOpenLocationsModal={() => setIsLocationsModalOpen(true)}
+        onOpenContactModal={() => { setContactModalService(''); setIsContactModalOpen(true); }}
       />
 
       {/* POP-UP MODALS */}
@@ -449,6 +455,13 @@ export const App: React.FC = () => {
 
       {/* Floating social media quick contact icons */}
       <FloatingSocials />
+
+      {/* Global Contact Form Modal — accessible from anywhere */}
+      <ContactFormModal
+        isOpen={isContactModalOpen}
+        onClose={() => setIsContactModalOpen(false)}
+        prefilledService={contactModalService}
+      />
     </div>
   );
 };

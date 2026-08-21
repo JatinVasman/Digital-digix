@@ -19,7 +19,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
 
   try {
     const body = typeof req.body === 'string' ? JSON.parse(req.body) : (req.body || {});
-    const { name, email, phone, message, planName, growthGoal, website, formType } = body;
+    const { name, email, phone, message, planName, growthGoal, website, formType, service } = body;
 
     if (!name || !email) {
       return res.status(400).json({ error: 'Name and email are required fields.' });
@@ -77,6 +77,12 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
               <tr>
                 <td class="label">Phone Number</td>
                 <td class="value"><a href="tel:${phone}" style="color: #0f172a; text-decoration: none;">${phone}</a></td>
+              </tr>
+              ` : ''}
+              ${service ? `
+              <tr>
+                <td class="label">Service</td>
+                <td class="value"><span style="background: #fef3c7; color: #92400e; padding: 2px 8px; border-radius: 6px; font-weight: 600;">${service}</span></td>
               </tr>
               ` : ''}
               ${website ? `
