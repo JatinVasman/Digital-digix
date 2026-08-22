@@ -15,7 +15,7 @@ export const WorkShowcaseMarquee: React.FC<WorkShowcaseMarqueeProps> = ({ locati
   const [activeLightboxProject, setActiveLightboxProject] = useState<SocialMediaProject | null>(null);
 
   return (
-    <section style={{ padding: '6rem 0', backgroundColor: 'var(--bg-main)', overflow: 'hidden', borderBottom: '1px solid var(--border-color)', position: 'relative' }}>
+    <section id="showcase" style={{ padding: '6rem 0', backgroundColor: 'var(--bg-main)', overflow: 'hidden', borderBottom: '1px solid var(--border-color)', position: 'relative' }}>
       {/* Ambient background blur blobs */}
       <div style={{ position: 'absolute', top: '20%', left: '-10%', width: '400px', height: '400px', borderRadius: '50%', background: 'radial-gradient(circle, rgba(59, 130, 246, 0.04) 0%, rgba(59, 130, 246, 0) 70%)', filter: 'blur(50px)', zIndex: 0, pointerEvents: 'none' }}></div>
       <div style={{ position: 'absolute', bottom: '20%', right: '-10%', width: '500px', height: '500px', borderRadius: '50%', background: 'radial-gradient(circle, rgba(96, 165, 250, 0.05) 0%, rgba(96, 165, 250, 0) 70%)', filter: 'blur(60px)', zIndex: 0, pointerEvents: 'none' }}></div>
