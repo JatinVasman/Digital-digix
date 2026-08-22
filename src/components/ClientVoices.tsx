@@ -141,7 +141,7 @@ interface ClientVoicesProps {
 
 export const ClientVoices: React.FC<ClientVoicesProps> = ({ backgroundColor }) => {
   return (
-    <section style={{ padding: '6rem 0', backgroundColor: backgroundColor || 'var(--bg-main)', overflow: 'hidden', borderBottom: '1px solid var(--border-color)' }}>
+    <section id="testimonials" style={{ padding: '6rem 0', backgroundColor: backgroundColor || 'var(--bg-main)', overflow: 'hidden', borderBottom: '1px solid var(--border-color)' }}>
       <div style={{ textAlign: 'center', marginBottom: '4rem' }}>
         <span className="section-tag" style={{ color: '#D97706', background: 'rgba(217, 119, 6, 0.1)' }}>CLIENT VOICES</span>
         <h2 style={{ fontSize: '2.8rem', fontWeight: 900, fontFamily: 'Outfit, sans-serif', color: 'var(--secondary)', marginTop: '0.5rem', marginBottom: '1rem' }}>

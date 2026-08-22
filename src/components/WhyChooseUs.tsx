@@ -17,7 +17,7 @@ export const WhyChooseUs: React.FC<WhyChooseUsProps> = ({
 
 
       {/* WHY CHOOSE US SECTION */}
-      <section style={{ padding: '6rem 0', backgroundColor: backgroundColor || 'var(--bg-main)' }}>
+      <section id="why-us" style={{ padding: '6rem 0', backgroundColor: backgroundColor || 'var(--bg-main)' }}>
         <div className="container">
           <div className="section-header">
             <div className="section-tag">WHY DIGITAL DIGIX</div>

@@ -14,6 +14,7 @@ import { InteractiveStatsBar } from './components/InteractiveStatsBar';
 import { ClientVoices } from './components/ClientVoices';
 import { FloatingSocials } from './components/FloatingSocials';
 import { WorkShowcaseMarquee } from './components/WorkShowcaseMarquee';
+import { SectionNavigator } from './components/SectionNavigator';
 
 // Modals
 import { StatCardModal } from './components/StatCardModal';
@@ -255,7 +256,7 @@ export const App: React.FC = () => {
               onNavigateServices={() => handleNavigate('services')}
               onNavigatePortfolio={() => handleNavigate('portfolio')}
             />
-            <div style={{ backgroundColor: 'var(--bg-main)', paddingTop: '4rem', paddingBottom: '2rem' }}>
+            <div id="stats" style={{ backgroundColor: 'var(--bg-main)', paddingTop: '4rem', paddingBottom: '2rem' }}>
               <InteractiveStatsBar
                 onSelectLocation={handleSelectLocation}
                 onOpenStrategyModal={handleOpenStrategyModal}
@@ -455,6 +456,9 @@ export const App: React.FC = () => {
 
       {/* Floating social media quick contact icons */}
       <FloatingSocials />
+
+      {/* ChatGPT-style section navigator — homepage only */}
+      <SectionNavigator activePage={activePage} />
 
       {/* Global Contact Form Modal — accessible from anywhere */}
       <ContactFormModal

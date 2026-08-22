@@ -14,7 +14,7 @@ export const Hero: React.FC<HeroProps> = ({
   onOpenStatModal
 }) => {
   return (
-    <section className="hero-section">
+    <section id="hero" className="hero-section">
       <div className="container hero-grid">
         <div className="hero-content">
           <div className="hero-tag">
