@@ -85,41 +85,41 @@ export const serviceApproachResults: Record<string, { approach: string; typicalR
 
 export const graphicDesignPricingData: PricingCategory[] = [
   {
-    title: "Standard Creatives — ₹150 each",
+    title: "Standard Creatives — ₹200 each",
     subtitle: "Single-page social & digital formats.",
     items: [
-      { name: "Poster Design", price: "₹150" },
-      { name: "Flyer Design", price: "₹150" },
-      { name: "Pamphlet Design", price: "₹150" },
-      { name: "Leaflet Design", price: "₹150" },
-      { name: "Social Media Post Design", price: "₹150" },
-      { name: "Festival Post Design", price: "₹150" },
-      { name: "Promotional Post Design", price: "₹150" },
-      { name: "Product Post Design", price: "₹150" },
-      { name: "Offer Post Design", price: "₹150" },
-      { name: "Event Poster Design", price: "₹150" },
-      { name: "School Admission Creative", price: "₹150" },
-      { name: "Food Promotion Poster", price: "₹150" },
-      { name: "Meta Ad Creative", price: "₹150" },
-      { name: "Google Display Ad", price: "₹150" },
-      { name: "Google Banner Ad", price: "₹150" },
-      { name: "WhatsApp Marketing Creative", price: "₹150" },
-      { name: "App Promotion Creative", price: "₹150" }
+      { name: "Poster Design", price: "₹200" },
+      { name: "Flyer Design", price: "₹200" },
+      { name: "Pamphlet Design", price: "₹200" },
+      { name: "Leaflet Design", price: "₹200" },
+      { name: "Social Media Post Design", price: "₹200" },
+      { name: "Festival Post Design", price: "₹200" },
+      { name: "Promotional Post Design", price: "₹200" },
+      { name: "Product Post Design", price: "₹200" },
+      { name: "Offer Post Design", price: "₹200" },
+      { name: "Event Poster Design", price: "₹200" },
+      { name: "School Admission Creative", price: "₹200" },
+      { name: "Food Promotion Poster", price: "₹200" },
+      { name: "Meta Ad Creative", price: "₹200" },
+      { name: "Google Display Ad", price: "₹200" },
+      { name: "Google Banner Ad", price: "₹200" },
+      { name: "WhatsApp Marketing Creative", price: "₹200" },
+      { name: "App Promotion Creative", price: "₹200" }
     ]
   },
   {
-    title: "Structured Designs — ₹280 each",
+    title: "Structured Designs — ₹340 each",
     subtitle: "Layout complexity — cards, certificates, menus.",
     items: [
-      { name: "Visiting Card Design", price: "₹280" },
-      { name: "Letterhead Design", price: "₹280" },
-      { name: "ID Card Design", price: "₹280" },
-      { name: "Certificate Design", price: "₹280" },
-      { name: "Quotation Design", price: "₹280" },
-      { name: "Carousel Design", price: "₹280" },
-      { name: "Menu Card Design", price: "₹280" },
-      { name: "YouTube Banner Design", price: "₹280" },
-      { name: "Event Invitation Design", price: "₹280" }
+      { name: "Visiting Card Design", price: "₹340" },
+      { name: "Letterhead Design", price: "₹340" },
+      { name: "ID Card Design", price: "₹340" },
+      { name: "Certificate Design", price: "₹340" },
+      { name: "Quotation Design", price: "₹340" },
+      { name: "Carousel Design", price: "₹340" },
+      { name: "Menu Card Design", price: "₹340" },
+      { name: "YouTube Banner Design", price: "₹340" },
+      { name: "Event Invitation Design", price: "₹340" }
     ]
   },
   {
@@ -184,7 +184,7 @@ export const graphicDesignPricingData: PricingCategory[] = [
       { name: "Vector Tracing", price: "₹649" },
       { name: "Photo Retouching", price: "₹430" },
       { name: "Photo Manipulation", price: "₹649" },
-      { name: "AI Image Enhancement", price: "₹150" },
+      { name: "AI Image Enhancement", price: "₹200" },
       { name: "Merchandise Design", price: "₹649" },
       { name: "T-Shirt Design", price: "₹649" },
       { name: "Landing Page Graphics", price: "₹649" },
@@ -197,7 +197,7 @@ export const graphicDesignPricingData: PricingCategory[] = [
 const smmPackagesData = [
   {
     name: 'Starter',
-    price: '3,499',
+    price: '5,999',
     features: [
       '2 Social Platforms',
       '12 Posts/Month',
@@ -211,7 +211,7 @@ const smmPackagesData = [
   },
   {
     name: 'Growth',
-    price: '5,999',
+    price: '7,999',
     features: [
       '3 Social Platforms',
       '20 Posts/Month',
@@ -226,7 +226,7 @@ const smmPackagesData = [
   },
   {
     name: 'Pro',
-    price: '8,999',
+    price: '11,999',
     features: [
       '4 Social Platforms',
       '30 Posts/Month',
@@ -464,7 +464,7 @@ export const ServicesGrid: React.FC<ServicesGridProps> = ({
                 — PAY-AS-YOU-GO —
               </div>
               <p style={{ fontSize: '1rem', color: '#475569', lineHeight: 1.6, margin: 0 }}>
-                Prefer outcomes over retainers? Our pay-per-performance model lets you pay only for leads that meet criteria agreed upfront — budget, location and intent. Single deliverables start tiny: posters from ₹149, reels from ₹380, dashboards from ₹2,000. <a href="https://wa.me/918586989832?text=Hi%2C%20I%20am%20interested%20in%20your%20services" target="_blank" rel="noopener noreferrer" style={{ color: '#3B82F6', fontWeight: 800, textDecoration: 'underline' }}>Request a quote</a> and we'll build a plan around your numbers.
+                Prefer outcomes over retainers? Our pay-per-performance model lets you pay only for leads that meet criteria agreed upfront — budget, location and intent. Single deliverables start tiny: posters from ₹200, reels from ₹380, dashboards from ₹2,000. <a href="https://wa.me/918586989832?text=Hi%2C%20I%20am%20interested%20in%20your%20services" target="_blank" rel="noopener noreferrer" style={{ color: '#3B82F6', fontWeight: 800, textDecoration: 'underline' }}>Request a quote</a> and we'll build a plan around your numbers.
               </p>
             </div>
 
@@ -910,7 +910,7 @@ export const ServicesGrid: React.FC<ServicesGridProps> = ({
                     — PAY-AS-YOU-GO —
                   </div>
                   <p style={{ fontSize: '0.95rem', color: '#475569', lineHeight: 1.6, margin: 0 }}>
-                    Prefer outcomes over retainers? Our pay-per-performance model lets you pay only for leads that meet criteria agreed upfront — budget, location and intent. Single deliverables start tiny: posters from ₹149, reels from ₹380, dashboards from ₹2,000. <a href="https://wa.me/918586989832?text=Hi%2C%20I%20am%20interested%20in%20your%20services" target="_blank" rel="noopener noreferrer" style={{ color: '#3B82F6', fontWeight: 800, textDecoration: 'underline' }}>Request a quote</a> and we'll build a plan around your numbers.
+                    Prefer outcomes over retainers? Our pay-per-performance model lets you pay only for leads that meet criteria agreed upfront — budget, location and intent. Single deliverables start tiny: posters from ₹200, reels from ₹380, dashboards from ₹2,000. <a href="https://wa.me/918586989832?text=Hi%2C%20I%20am%20interested%20in%20your%20services" target="_blank" rel="noopener noreferrer" style={{ color: '#3B82F6', fontWeight: 800, textDecoration: 'underline' }}>Request a quote</a> and we'll build a plan around your numbers.
                   </p>
                 </div>
 
@@ -1012,7 +1012,8 @@ export const ServicesGrid: React.FC<ServicesGridProps> = ({
                         e.currentTarget.style.boxShadow = '0 8px 25px rgba(11, 19, 42, 0.03)';
                       }}
                       onClick={() => {
-                        const slug = cat.title.toLowerCase().replace(' & ', '-').replace(/[^a-z0-9]/g, '-').replace(/-+/g, '-');
+                        const baseTitle = cat.title.split('—')[0].trim();
+                        const slug = baseTitle.toLowerCase().replace(' & ', '-').replace(/[^a-z0-9]/g, '-').replace(/-+/g, '-');
                         if (onNavigate) {
                           onNavigate('graphic-details', slug);
                         } else {

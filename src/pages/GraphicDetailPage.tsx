@@ -155,7 +155,8 @@ export const GraphicDetailPage: React.FC<GraphicDetailPageProps> = ({ categoryId
           borderBottom: '1px solid #E2E8F0'
         }}>
           {graphicDesignPricingData.map((cat, idx) => {
-            const slug = cat.title.toLowerCase().replace(' & ', '-').replace(/[^a-z0-9]/g, '-').replace(/-+/g, '-');
+            const baseTitle = cat.title.split('—')[0].trim();
+            const slug = baseTitle.toLowerCase().replace(' & ', '-').replace(/[^a-z0-9]/g, '-').replace(/-+/g, '-');
             const isActive = categoryId === slug;
             return (
               <button
@@ -183,7 +184,8 @@ export const GraphicDetailPage: React.FC<GraphicDetailPageProps> = ({ categoryId
         {/* All Domains List - One-by-One Stacking */}
         <div style={{ display: 'flex', flexDirection: 'column', gap: '5rem', marginBottom: '5.5rem' }}>
           {graphicDesignPricingData.map((cat, idx) => {
-            const slug = cat.title.toLowerCase().replace(' & ', '-').replace(/[^a-z0-9]/g, '-').replace(/-+/g, '-');
+            const baseTitle = cat.title.split('—')[0].trim();
+            const slug = baseTitle.toLowerCase().replace(' & ', '-').replace(/[^a-z0-9]/g, '-').replace(/-+/g, '-');
             const explanation = explanationData[slug] || {
               desc: cat.subtitle,
               turnaround: '48 Hours',

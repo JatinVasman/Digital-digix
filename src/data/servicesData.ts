@@ -24,7 +24,7 @@ export const ALL_17_SERVICES: ServiceItem[] = [
     icon: '📱',
     description: 'Grow on Instagram, Facebook & LinkedIn with content calendars, viral reels, posting and analytics.',
     longDescription: 'Supercharge your brand presence on Instagram, Facebook, and LinkedIn. We build custom monthly content calendars, write high-converting captions, design scroll-stopping graphics, produce viral reels hooks, and provide comprehensive monthly analytics reports to drive inbound customer leads and sales.',
-    pricing: '₹3,499–₹8,999/mo',
+    pricing: '₹5,999–₹11,999/mo',
     whatWeDo: [
       '360° Social Brand Strategy & Monthly Content Planning',
       'High-Engagement Graphic & Reel Content Production',
@@ -63,7 +63,7 @@ export const ALL_17_SERVICES: ServiceItem[] = [
     icon: '🎨',
     description: 'From social posts and logos to packaging, presentations, pitch decks and corporate branding.',
     longDescription: 'Premium, custom visual assets tailored for B2B and D2C brands. We design social media ad creatives, corporate pitch decks, sales brochures, packaging labels, retail banners, and 3D product mockups with transparent, per-design pricing and ultra-fast 24-hour turnaround times.',
-    pricing: '₹150 onwards',
+    pricing: '₹200 onwards',
     whatWeDo: [
       'Custom Social Media Posts, Stories & Ad Creatives',
       'Corporate Pitch Decks, Sales Brochures & Banners',
@@ -86,7 +86,7 @@ export const ALL_17_SERVICES: ServiceItem[] = [
       'Fragmented visual styles across different company channels'
     ],
     faqs: [
-      { q: 'How is graphic design priced?', a: 'We offer transparent per-design pricing. Standard formats are ₹150, structured designs are ₹280, and multi-page layouts are ₹130/page. No retainers or hidden fees.' },
+      { q: 'How is graphic design priced?', a: 'We offer transparent per-design pricing. Standard formats are ₹200, structured designs are ₹340, and multi-page layouts are ₹130/page. No retainers or hidden fees.' },
       { q: 'Do you offer logo design?', a: 'Yes, we design professional, vector logos starting from ₹850 up to ₹3,500 depending on concepts and design drafts required.' },
       { q: 'How fast is delivery?', a: 'Standard social posts and ad creatives take 24–48 hours. Complex brochures, packaging layouts or multi-page pitch decks take 48–72 hours.' },
       { q: 'Do prices include revisions and final files?', a: 'Yes, all prices include minor revisions to ensure you are happy, and you receive print-ready PDFs as well as editable source files (AI/PSD).' }

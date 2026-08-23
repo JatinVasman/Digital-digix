@@ -16,7 +16,7 @@ interface ServiceDetailPageProps {
 const smmPackagesData = [
   {
     name: 'Starter SMM',
-    price: '3,499',
+    price: '5,999',
     popular: false,
     badge: '',
     features: [
@@ -32,7 +32,7 @@ const smmPackagesData = [
   },
   {
     name: 'Growth Booster',
-    price: '5,999',
+    price: '7,999',
     popular: true,
     badge: 'MOST POPULAR',
     features: [
@@ -48,7 +48,7 @@ const smmPackagesData = [
   },
   {
     name: 'Pro Domination',
-    price: '8,999',
+    price: '11,999',
     popular: false,
     badge: 'BEST VALUE',
     features: [
@@ -74,7 +74,7 @@ const partnershipTiersData = [
 const smmFaqsData = [
   { q: 'Is there a minimum contract commitment?', a: 'No lock-ins. All our retainers and service packages operate on a rolling month-to-month commitment. You can cancel, downgrade or scale up at any time with 7 days notice.' },
   { q: 'Who designs the social posts and writes the copies?', a: 'All creatives, hooks and copy scripts are produced by our in-house copywriters and design specialists under senior marketing management guidance. Nothing is outsourced.' },
-  { q: 'What is pay-as-you-go performance marketing?', a: 'If you prefer outcomes, we set up performance models where you pay per qualified lead generated, or purchase graphic assets individually (posters from ₹149, reels from ₹380, dashboards from ₹2000).' },
+  { q: 'What is pay-as-you-go performance marketing?', a: 'If you prefer outcomes, we set up performance models where you pay per qualified lead generated, or purchase graphic assets individually (posters from ₹200, reels from ₹380, dashboards from ₹2000).' },
   { q: 'How long does onboarding take?', a: 'We can onboard your social channels and launch your first week content calendar within 48 hours of completing the strategy checklist and signing off on templates.' }
 ];
 
@@ -416,7 +416,7 @@ export const ServiceDetailPage: React.FC<ServiceDetailPageProps> = ({ serviceId,
                 — PAY-AS-YOU-GO —
               </div>
               <p style={{ fontSize: '1rem', color: '#475569', lineHeight: 1.6, margin: 0 }}>
-                Prefer outcomes over retainers? Our pay-per-performance model lets you pay only for leads that meet criteria agreed upfront — budget, location and intent. Single deliverables start tiny: posters from ₹149, reels from ₹380, dashboards from ₹2,000. <a href="https://wa.me/918586989832?text=Hi%2C%20I%20am%20interested%20in%20your%20services" target="_blank" rel="noopener noreferrer" style={{ color: '#3B82F6', fontWeight: 800, textDecoration: 'underline' }}>Request a quote</a> and we'll build a plan around your numbers.
+                Prefer outcomes over retainers? Our pay-per-performance model lets you pay only for leads that meet criteria agreed upfront — budget, location and intent. Single deliverables start tiny: posters from ₹200, reels from ₹380, dashboards from ₹2,000. <a href="https://wa.me/918586989832?text=Hi%2C%20I%20am%20interested%20in%20your%20services" target="_blank" rel="noopener noreferrer" style={{ color: '#3B82F6', fontWeight: 800, textDecoration: 'underline' }}>Request a quote</a> and we'll build a plan around your numbers.
               </p>
             </div>
 
@@ -572,7 +572,8 @@ export const ServiceDetailPage: React.FC<ServiceDetailPageProps> = ({ serviceId,
                     e.currentTarget.style.boxShadow = '0 8px 25px rgba(11, 19, 42, 0.03)';
                   }}
                   onClick={() => {
-                    const slug = cat.title.toLowerCase().replace(' & ', '-').replace(/[^a-z0-9]/g, '-').replace(/-+/g, '-');
+                    const baseTitle = cat.title.split('—')[0].trim();
+                    const slug = baseTitle.toLowerCase().replace(' & ', '-').replace(/[^a-z0-9]/g, '-').replace(/-+/g, '-');
                     onNavigate('graphic-details', slug);
                   }}
                 >

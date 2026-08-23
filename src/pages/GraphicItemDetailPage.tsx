@@ -111,7 +111,8 @@ export const GraphicItemDetailPage: React.FC<GraphicItemDetailPageProps> = ({ it
     window.scrollTo(0, 0);
     if (!matchedItem) return;
 
-    const pageTitle = `${matchedItem.name} Services — ₹${matchedItem.price} | Digital Digix`;
+    const formattedPrice = matchedItem.price.startsWith('₹') ? matchedItem.price : `₹${matchedItem.price}`;
+    const pageTitle = `${matchedItem.name} Services — ${formattedPrice} | Digital Digix`;
     const pageDesc = customDesc;
     const canonicalUrl = `https://digitaldigix.com/graphic-design/${itemId}`;
 
@@ -147,7 +148,7 @@ export const GraphicItemDetailPage: React.FC<GraphicItemDetailPageProps> = ({ it
           },
           "offers": {
             "@type": "Offer",
-            "price": matchedItem.price ? matchedItem.price.replace(/[^0-9,]/g, '') : "149",
+            "price": matchedItem.price ? matchedItem.price.replace(/[^0-9]/g, '') : "200",
             "priceCurrency": "INR",
             "availability": "https://schema.org/InStock",
             "url": canonicalUrl
