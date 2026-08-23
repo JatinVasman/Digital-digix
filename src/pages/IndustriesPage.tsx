@@ -4304,7 +4304,7 @@ export const IndustriesPage: React.FC<IndustriesPageProps> = ({ industryId, onNa
                     Graphic Design & Branding
                   </h4>
                   <p style={{ fontSize: '0.875rem', color: '#64748B', lineHeight: 1.6, margin: 0 }}>
-                    Posters, logos, packaging and brand identity — from ₹150 per design.
+                    Posters, logos, packaging and brand identity — from ₹200 per design.
                   </p>
                   <div style={{ marginTop: '1rem', fontSize: '0.8rem', fontWeight: 800, color: '#FF4E27' }}>
                     Explore Graphic Design Catalog ➔

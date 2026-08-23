@@ -156,7 +156,7 @@ export const SERVICES_SEO: Record<string, PageSeoMeta> = {
   },
   'graphic-design': {
     title: 'Graphic Design Services — Per-Design Rates & Fast Turnaround | Digital Digix',
-    description: 'Bespoke social creatives, packaging, logos, sales brochures, and 3D mockups. Clear transparent pricing starting at ₹150 with rapid 24-48 hour turnaround.',
+    description: 'Bespoke social creatives, packaging, logos, sales brochures, and 3D mockups. Clear transparent pricing starting at ₹200 with rapid 24-48 hour turnaround.',
     keywords: ['graphic design services', 'per design pricing', 'social media creatives', 'brochure design', 'product packaging design'],
     canonicalPath: '/services/graphic-design',
     h1: 'Graphic Design Services',

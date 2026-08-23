@@ -97,7 +97,7 @@ export const LocationPage: React.FC<LocationPageProps> = ({ locationName, onNavi
     },
     {
       q: `How much does digital marketing cost in ${displayName}?`,
-      a: `Our services start from ₹150 for graphic designs up to transparent monthly performance retainers tailored to your specific budget and growth goals in ${displayName}.`
+      a: `Our services start from ₹200 for graphic designs up to transparent monthly performance retainers tailored to your specific budget and growth goals in ${displayName}.`
     },
     {
       q: `Which industries do you work with in ${displayName}?`,
@@ -232,7 +232,7 @@ export const LocationPage: React.FC<LocationPageProps> = ({ locationName, onNavi
               <div style={{ fontSize: '2.2rem', marginBottom: '1rem' }}>🎨</div>
               <h3 style={{ fontSize: '1.2rem', fontWeight: 800, color: '#0F172A', marginBottom: '0.5rem' }}>Graphic Design & Branding</h3>
               <p style={{ fontSize: '0.875rem', color: '#64748B', lineHeight: 1.6, margin: 0 }}>
-                Posters, logos, packaging and brand identity — from ₹150 per design.
+                Posters, logos, packaging and brand identity — from ₹200 per design.
               </p>
             </div>
 
@@ -264,7 +264,7 @@ export const LocationPage: React.FC<LocationPageProps> = ({ locationName, onNavi
             <div style={{ background: '#F8F6F0', borderRadius: '18px', padding: '2rem 1.75rem', border: '1px solid #EFECE6' }}>
               <h3 style={{ fontSize: '1.15rem', fontWeight: 800, color: '#0F172A', marginBottom: '0.6rem' }}>Transparent Pricing</h3>
               <p style={{ fontSize: '0.875rem', color: '#64748B', lineHeight: 1.6, margin: 0 }}>
-                Clear, scope-based pricing with no hidden charges — from graphic design at ₹150 to full monthly retainers.
+                Clear, scope-based pricing with no hidden charges — from graphic design at ₹200 to full monthly retainers.
               </p>
             </div>
 

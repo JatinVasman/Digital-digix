@@ -12,7 +12,7 @@ export const SmmPage: React.FC<SmmPageProps> = ({ onNavigate }) => {
   const smmPackages = [
     {
       name: 'Starter',
-      price: '3,499',
+      price: '5,999',
       features: [
         '2 Social Platforms',
         '12 Posts/Month',
@@ -26,7 +26,7 @@ export const SmmPage: React.FC<SmmPageProps> = ({ onNavigate }) => {
     },
     {
       name: 'Growth',
-      price: '5,999',
+      price: '7,999',
       features: [
         '3 Social Platforms',
         '20 Posts/Month',
@@ -41,7 +41,7 @@ export const SmmPage: React.FC<SmmPageProps> = ({ onNavigate }) => {
     },
     {
       name: 'Pro',
-      price: '8,999',
+      price: '11,999',
       features: [
         '4 Social Platforms',
         '30 Posts/Month',
@@ -315,7 +315,7 @@ export const SmmPage: React.FC<SmmPageProps> = ({ onNavigate }) => {
             — PAY-AS-YOU-GO —
           </div>
           <p style={{ fontSize: '1rem', color: '#475569', lineHeight: 1.6, margin: 0 }}>
-            Prefer outcomes over retainers? Our pay-per-performance model lets you pay only for leads that meet criteria agreed upfront — budget, location and intent. Single deliverables start tiny: posters from ₹149, reels from ₹380, dashboards from ₹2,000. <a href="https://wa.me/918586989832?text=Hi%2C%20I%20am%20interested%20in%20your%20services" target="_blank" rel="noopener noreferrer" style={{ color: '#3B82F6', fontWeight: 800, textDecoration: 'underline' }}>Request a quote</a> and we'll build a plan around your numbers.
+            Prefer outcomes over retainers? Our pay-per-performance model lets you pay only for leads that meet criteria agreed upfront — budget, location and intent. Single deliverables start tiny: posters from ₹200, reels from ₹380, dashboards from ₹2,000. <a href="https://wa.me/918586989832?text=Hi%2C%20I%20am%20interested%20in%20your%20services" target="_blank" rel="noopener noreferrer" style={{ color: '#3B82F6', fontWeight: 800, textDecoration: 'underline' }}>Request a quote</a> and we'll build a plan around your numbers.
           </p>
         </div>
 
