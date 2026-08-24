@@ -185,7 +185,7 @@ Executing a structured Personal Branding Ads strategy is the most effective appr
 
 Executing enterprise-grade personal brand advertising requires video content strategy, campaign setup precision, landing page optimization, and reputation management discipline. Partnering with a dedicated digital growth agency enables founders and experts to focus on leading their businesses while performance marketing specialists scale their authority and client lead pipeline.
 
-Ready to build a high-authority personal brand ad strategy for your executive team? Digital Digix can help you construct a complete founder marketing plan. Contact our performance marketing specialists today to schedule your strategy consultation.
+Ready to build a high-authority personal brand ad strategy for your executive team? Business Volunteers can help you construct a complete founder marketing plan. Contact our performance marketing specialists today to schedule your strategy consultation.
 
 ---
 

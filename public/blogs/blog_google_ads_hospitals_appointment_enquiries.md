@@ -201,7 +201,7 @@ Executing a structured Google Ads strategy is the single fastest way for a hospi
 
 Executing enterprise-grade hospital Google Ads management requires PPC precision, medical regulatory knowledge, healthcare copywriting, and call conversion analytics. Partnering with a dedicated digital growth agency enables your clinical team to focus on delivering exceptional medical care while paid media experts scale your appointment pipeline.
 
-Ready to generate more relevant patient appointment enquiries through Google Ads? Digital Digix can help you construct a complete paid search strategy. Contact our PPC growth specialists today to schedule your consultation.
+Ready to generate more relevant patient appointment enquiries through Google Ads? Business Volunteers can help you construct a complete paid search strategy. Contact our PPC growth specialists today to schedule your consultation.
 
 ---
 

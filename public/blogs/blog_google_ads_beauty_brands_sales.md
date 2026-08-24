@@ -257,7 +257,7 @@ Google Ads is the most effective performance marketing channel for beauty brands
 
 Executing a high-return Google Ads campaign requires technical PPC management, continuous Quality Score optimization, regulatory compliance, and conversion-focused e-commerce design. Partnering with a dedicated digital growth agency enables your leadership team to focus on product formulation and brand strategy while performance marketing experts scale your online sales.
 
-Ready to launch a high-converting Google Ads strategy for your beauty brand? Digital Digix can help you build an integrated PPC campaign. Contact our Google Ads specialists today to schedule your consultation.
+Ready to launch a high-converting Google Ads strategy for your beauty brand? Business Volunteers can help you build an integrated PPC campaign. Contact our Google Ads specialists today to schedule your consultation.
 
 ---
 

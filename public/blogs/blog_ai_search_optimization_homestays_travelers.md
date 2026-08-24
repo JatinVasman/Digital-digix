@@ -78,7 +78,7 @@ Embedding structured JSON-LD Schema code into your homestay website's header is 
 {
   "@context": "https://schema.org",
   "@type": "BedAndBreakfast",
-  "name": "Digital Digix Villa Homestay - Chikmagalur",
+  "name": "Business Volunteers Villa Homestay - Chikmagalur",
   "url": "https://brand.com/booking",
   "logo": "https://brand.com/logo.png",
   "image": "https://brand.com/images/villa-pool.jpg",
@@ -244,7 +244,7 @@ Executing a specialized AI search optimization strategy is the single most futur
 
 Executing enterprise-grade AI search optimization requires data science capabilities, technical web development, destination SEO precision, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your host team to focus on delivering exceptional guest experiences while optimization experts scale your digital visibility.
 
-Ready to position your homestay business for conversational AI search discovery? Digital Digix can help you construct a complete AI search strategy. Contact our optimization specialists today to schedule your consultation.
+Ready to position your homestay business for conversational AI search discovery? Business Volunteers can help you construct a complete AI search strategy. Contact our optimization specialists today to schedule your consultation.
 
 ---
 

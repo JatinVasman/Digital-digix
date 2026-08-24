@@ -264,7 +264,7 @@ Building a high-growth, high-margin BPO company, customer support contact center
 
 Executing an enterprise-grade digital marketing strategy requires technical management, continuous campaign optimization, and customer-focused landing page design. Partnering with a dedicated digital growth agency enables your BPO management to focus on delivering flawless service SLAs while growth experts scale your client pipeline.
 
-Ready to transform your BPO company's marketing into a reliable source of qualified international B2B inquiries and full contact center seats? Digital Digix can help you build a complete digital strategy. Contact our BPO marketing specialists today to schedule your consultation.
+Ready to transform your BPO company's marketing into a reliable source of qualified international B2B inquiries and full contact center seats? Business Volunteers can help you build a complete digital strategy. Contact our BPO marketing specialists today to schedule your consultation.
 
 ---
 

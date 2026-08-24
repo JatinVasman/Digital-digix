@@ -209,7 +209,7 @@ Executing a specialized search engine optimization strategy is the single most r
 
 Executing enterprise-grade healthcare SEO requires technical web architecture, search engine precision, ethical content creation, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your medical team to focus on diagnostic accuracy and patient care while SEO experts scale your organic patient pipeline.
 
-Ready to achieve top Google rankings for your diagnostic center? Digital Digix can help you construct a complete search engine strategy. Contact our healthcare SEO specialists today to schedule your consultation.
+Ready to achieve top Google rankings for your diagnostic center? Business Volunteers can help you construct a complete search engine strategy. Contact our healthcare SEO specialists today to schedule your consultation.
 
 ---
 

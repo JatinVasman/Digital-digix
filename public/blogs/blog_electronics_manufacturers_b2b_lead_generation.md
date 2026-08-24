@@ -203,7 +203,7 @@ Executing a structured B2B lead generation strategy is the single most effective
 
 Executing enterprise-grade manufacturing lead generation requires technical web architecture, search engine precision, ethical copywriting, and CRM integration. Partnering with a dedicated digital growth agency enables your engineering team to focus on production quality while marketing experts scale your buyer pipeline.
 
-Ready to generate more B2B inquiries, distributor accounts, and OEM contracts for your electronics manufacturing business? Digital Digix can help you construct a complete lead generation strategy. Contact our industrial growth specialists today to schedule your consultation.
+Ready to generate more B2B inquiries, distributor accounts, and OEM contracts for your electronics manufacturing business? Business Volunteers can help you construct a complete lead generation strategy. Contact our industrial growth specialists today to schedule your consultation.
 
 ---
 

@@ -12,7 +12,7 @@ The pharma landscape is heavily regulated, but digital transformation is non-neg
 - **Patient Empowerment:** Patients don't just take a prescription blindly anymore. They Google the drug name, check for side effects, and look for alternatives.
 - **Sales Force Effectiveness:** Digital tools empower MRs, turning them from simple brochure-deliverers into valuable scientific partners for doctors.
 
-Here is the Digital Digix master plan for compliant and effective pharma digital marketing in 2026.
+Here is the Business Volunteers master plan for compliant and effective pharma digital marketing in 2026.
 
 ---
 
@@ -166,7 +166,7 @@ Integrate your webinar platform with your CRM. If Dr. Sharma attends a webinar o
 The traditional pharmaceutical playbook is obsolete. In 2026, the companies that thrive will be those that respect the doctor's time by providing high-value digital scientific content, empower their MRs with data, and engage patients with empathy and education. Digital transformation in pharma isn't just about marketing; it's about better healthcare communication.
 
 **Ready to build a compliant digital engine for your pharma brand?**
-Digital Digix has helped over 2,700 clients navigate complex B2B and healthcare digital landscapes. We build secure, compliant, and high-ROI digital strategies.
+Business Volunteers has helped over 2,700 clients navigate complex B2B and healthcare digital landscapes. We build secure, compliant, and high-ROI digital strategies.
 
 📞 **Call us today: +91 85869 89832**
-🌐 **Visit: [digitaldigix.com](https://digitaldigix.com)**
+🌐 **Visit: [businessvolunteers.online](https://businessvolunteers.online)**

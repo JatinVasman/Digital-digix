@@ -200,7 +200,7 @@ Executing a structured marketing strategy is the single most effective investmen
 
 Executing enterprise-grade healthcare marketing requires technical web architecture, local SEO precision, ethical content creation, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your medical team to focus on diagnostic accuracy and patient care while marketing experts scale your appointment pipeline.
 
-Ready to attract more patient appointments and home sample collection bookings for your diagnostic center? Digital Digix can help you construct a complete marketing strategy. Contact our healthcare growth specialists today to schedule your consultation.
+Ready to attract more patient appointments and home sample collection bookings for your diagnostic center? Business Volunteers can help you construct a complete marketing strategy. Contact our healthcare growth specialists today to schedule your consultation.
 
 ---
 

@@ -221,7 +221,7 @@ Building a high-converting B2B sales funnel is the single most effective investm
 
 Executing enterprise-grade manufacturing funnel optimization requires messaging precision, UX design expertise, web architecture, and CRM integration. Partnering with a dedicated digital growth agency enables your engineering team to focus on production quality while marketing experts scale your buyer pipeline.
 
-Ready to build a predictable, high-converting B2B sales funnel for your electronics manufacturing business? Digital Digix can help you construct a complete funnel strategy. Contact our industrial growth specialists today to schedule your consultation.
+Ready to build a predictable, high-converting B2B sales funnel for your electronics manufacturing business? Business Volunteers can help you construct a complete funnel strategy. Contact our industrial growth specialists today to schedule your consultation.
 
 ---
 

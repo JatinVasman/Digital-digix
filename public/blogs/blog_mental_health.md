@@ -12,7 +12,7 @@ India is witnessing a mental health awakening, particularly among Gen Z and Mill
 - **The Shift to Teletherapy:** Post-pandemic, online therapy is not just accepted; it is often preferred for its privacy and convenience. Your market is no longer just your pin code; it is the entire country.
 - **Authenticity over Aesthetics:** Patients are looking for relatable, evidence-based guidance, not just generic motivational quotes.
 
-Here is the Digital Digix guide to ethically growing your mental health practice in 2026.
+Here is the Business Volunteers guide to ethically growing your mental health practice in 2026.
 
 ---
 
@@ -177,7 +177,7 @@ A budget of ₹15,000 to ₹20,000 a month on targeted Google Ads is a solid sta
 The demand for mental health support in India is at an all-time high, but the barrier to seeking help remains steep. In 2026, digital marketing for therapists isn't about aggressive sales; it is about creating digital safe spaces. By using Google Ads to capture those in immediate need, and Instagram to gently educate and destigmatize, you can build a practice that is both profitable and profoundly impactful.
 
 **Ready to connect with the patients who need you?**
-Digital Digix has helped over 2,700 clients, including leading mental health professionals, build ethical digital practices. 
+Business Volunteers has helped over 2,700 clients, including leading mental health professionals, build ethical digital practices. 
 
 📞 **Call us today: +91 85869 89832**
-🌐 **Visit: [digitaldigix.com](https://digitaldigix.com)**
+🌐 **Visit: [businessvolunteers.online](https://businessvolunteers.online)**

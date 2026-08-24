@@ -274,7 +274,7 @@ Building a high-growth, high-margin advertising agency or creative firm in 2026 
 
 Executing an enterprise-grade digital marketing strategy requires technical management, continuous campaign optimization, and structured lead funnel design. Partnering with a dedicated digital growth agency enables your leadership team to focus on delivering world-class client campaigns while growth experts scale your client acquisition pipeline.
 
-Ready to transform your advertising agency’s marketing into a reliable source of qualified brand leads and retainer contracts? Digital Digix can help you build a complete digital strategy. Contact our agency growth specialists today to schedule your consultation.
+Ready to transform your advertising agency’s marketing into a reliable source of qualified brand leads and retainer contracts? Business Volunteers can help you build a complete digital strategy. Contact our agency growth specialists today to schedule your consultation.
 
 ---
 

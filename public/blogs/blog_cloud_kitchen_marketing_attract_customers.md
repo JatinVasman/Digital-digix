@@ -197,7 +197,7 @@ Executing a structured digital marketing strategy is the single most effective i
 
 Executing an enterprise-grade cloud kitchen marketing strategy requires messaging precision, Food SEO expertise, web architecture, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your culinary team to focus on food quality while growth experts scale your customer acquisition.
 
-Ready to attract more customers to your cloud kitchen brand? Digital Digix can help you construct a complete food marketing strategy. Contact our customer acquisition specialists today to schedule your consultation.
+Ready to attract more customers to your cloud kitchen brand? Business Volunteers can help you construct a complete food marketing strategy. Contact our customer acquisition specialists today to schedule your consultation.
 
 ---
 

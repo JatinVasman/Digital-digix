@@ -213,7 +213,7 @@ Building a custom marketing dashboard system is the single most effective invest
 
 Developing enterprise-grade marketing dashboards requires data integration expertise, UX/UI design precision, software development skills, and multi-channel advertising experience. Partnering with a dedicated digital growth and technology agency enables your internal team to focus on creative strategy while analytics experts build your decision-support infrastructure.
 
-Ready to gain total clarity over your marketing performance and scale your ROI? Digital Digix can help you construct a complete marketing dashboard strategy. Contact our technology specialists today to schedule your consultation.
+Ready to gain total clarity over your marketing performance and scale your ROI? Business Volunteers can help you construct a complete marketing dashboard strategy. Contact our technology specialists today to schedule your consultation.
 
 ---
 

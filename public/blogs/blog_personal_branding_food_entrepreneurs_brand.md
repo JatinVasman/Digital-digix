@@ -165,7 +165,7 @@ Personal branding is the single most valuable long-term asset a cloud kitchen ow
 
 Building and maintaining an authoritative founder brand requires technical setup, strategic content planning, and structured funnel management. Partnering with a specialized digital growth agency enables you to build personal authority and scale virtual restaurant revenues while staying focused on delivering world-class food.
 
-Ready to build an authoritative personal brand that drives direct orders for your cloud kitchen? Digital Digix can help you build a complete personal branding and digital acquisition strategy. Contact our growth team today to schedule your consultation.
+Ready to build an authoritative personal brand that drives direct orders for your cloud kitchen? Business Volunteers can help you build a complete personal branding and digital acquisition strategy. Contact our growth team today to schedule your consultation.
 
 ---
 

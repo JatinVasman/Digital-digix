@@ -221,7 +221,7 @@ Building a high-converting lead generation funnel is the single most effective i
 
 Executing enterprise-grade contractor funnel optimization requires messaging precision, UX design expertise, web architecture, and CRM integration. Partnering with a dedicated digital growth agency enables your field crew to focus on delivering quality service while marketing experts scale your location pipelines.
 
-Ready to build a predictable, high-converting lead generation funnel for your home service business? Digital Digix can help you construct a complete funnel strategy. Contact our local service growth specialists today to schedule your consultation.
+Ready to build a predictable, high-converting lead generation funnel for your home service business? Business Volunteers can help you construct a complete funnel strategy. Contact our local service growth specialists today to schedule your consultation.
 
 ---
 

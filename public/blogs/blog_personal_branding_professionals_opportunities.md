@@ -206,7 +206,7 @@ Personal branding is the single most valuable long-term asset an independent con
 
 Building and maintaining an authoritative digital brand requires technical setup, strategic content planning, and structured lead funnel management. Partnering with a specialized digital growth agency enables you to build personal authority and scale client retainers while staying focused on delivering world-class service.
 
-Ready to build an authoritative personal brand that attracts high-value corporate clients? Digital Digix can help you build a complete personal branding and digital acquisition strategy. Contact our growth team today to schedule your consultation.
+Ready to build an authoritative personal brand that attracts high-value corporate clients? Business Volunteers can help you build a complete personal branding and digital acquisition strategy. Contact our growth team today to schedule your consultation.
 
 ---
 

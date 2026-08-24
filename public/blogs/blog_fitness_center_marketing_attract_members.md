@@ -257,7 +257,7 @@ Building a profitable, sustainable fitness business in 2026 requires moving beyo
 
 Executing an end-to-end digital strategy requires technical expertise, consistent management, and ongoing data analysis. Partnering with an experienced digital agency allows you to focus on running your gym and serving your members while growth experts manage your acquisition pipeline.
 
-Ready to transform your fitness center’s online marketing into a consistent source of qualified leads and paid memberships? Digital Digix can help you build a complete digital strategy. Contact our team today to schedule your strategic growth consultation.
+Ready to transform your fitness center’s online marketing into a consistent source of qualified leads and paid memberships? Business Volunteers can help you build a complete digital strategy. Contact our team today to schedule your strategic growth consultation.
 
 ---
 

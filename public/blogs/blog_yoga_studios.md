@@ -13,7 +13,7 @@ The wellness industry in India has exploded, but the way people find their welln
 - **The Online/Offline Hybrid:** Post-2020, consumers expect flexibility. If they miss an in-studio class, they want an online link.
 - **Community is Currency:** A yoga studio is not a gym; it's a community. Digital platforms allow you to nurture this community 24/7.
 
-Here is the Digital Digix blueprint to pack your yoga classes in 2026.
+Here is the Business Volunteers blueprint to pack your yoga classes in 2026.
 
 ---
 
@@ -177,7 +177,7 @@ Yoga can be hard for beginners. Implement a strong 30-day WhatsApp nurture seque
 The mat is ready, the studio is clean, and the knowledge is within you. The only missing piece is a digital bridge to connect your expertise with the people in your city who desperately need it. In 2026, a yoga studio's growth is driven by local SEO, targeted Meta ads, and a deeply nurtured WhatsApp community.
 
 **Ready to pack your studio and focus just on teaching?**
-Digital Digix has helped over 2,700 businesses, including top wellness centers in India. We handle the digital heavy lifting so you can focus on the practice. 
+Business Volunteers has helped over 2,700 businesses, including top wellness centers in India. We handle the digital heavy lifting so you can focus on the practice. 
 
 📞 **Call us today: +91 85869 89832**
-🌐 **Visit: [digitaldigix.com](https://digitaldigix.com)**
+🌐 **Visit: [businessvolunteers.online](https://businessvolunteers.online)**

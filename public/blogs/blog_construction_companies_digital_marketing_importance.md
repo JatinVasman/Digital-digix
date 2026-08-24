@@ -62,7 +62,7 @@ A complete digital marketing architecture for general contractors, civil enginee
 ```
 Integrated Digital Growth Architecture for Construction Companies:
 +-----------------------------------------------------------------------------------+
-|              DIGITAL DIGIX CONSTRUCTION GROWTH ENGINE                             |
+|              BUSINESS VOLUNTEERS CONSTRUCTION GROWTH ENGINE                             |
 +-----------------------------------------------------------------------------------+
 |  1. LOCAL SEO & GOOGLE MAPS ➔ Top rankings for "best civil contractor near me"    |
 |  2. HIGH-INTENT GOOGLE ADS  ➔ Instant project leads for commercial & residential  |
@@ -213,7 +213,7 @@ Executing a comprehensive digital marketing strategy is the single most valuable
 
 Executing an enterprise-grade construction marketing strategy requires messaging precision, Construction SEO expertise, web architecture, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your engineering team to focus on building excellence while growth experts scale your project pipeline.
 
-Ready to build an authoritative digital marketing strategy for your construction company? Digital Digix can help you construct a complete growth engine. Contact our construction marketing specialists today to schedule your consultation.
+Ready to build an authoritative digital marketing strategy for your construction company? Business Volunteers can help you construct a complete growth engine. Contact our construction marketing specialists today to schedule your consultation.
 
 ---
 

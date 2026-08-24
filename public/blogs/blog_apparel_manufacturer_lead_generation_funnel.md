@@ -223,7 +223,7 @@ Building a high-growth, high-margin apparel manufacturing company, garment expor
 
 Executing an enterprise-grade lead generation engine requires technical marketing management, continuous campaign optimization, and structured sales funnel design. Partnering with a dedicated digital growth agency enables your leadership team to focus on manufacturing world-class garments while growth experts scale your pipeline.
 
-Ready to build a predictable, high-converting lead generation engine for your apparel manufacturing business? Digital Digix can help you construct a complete digital acquisition funnel. Contact our lead generation specialists today to schedule your consultation.
+Ready to build a predictable, high-converting lead generation engine for your apparel manufacturing business? Business Volunteers can help you construct a complete digital acquisition funnel. Contact our lead generation specialists today to schedule your consultation.
 
 ---
 

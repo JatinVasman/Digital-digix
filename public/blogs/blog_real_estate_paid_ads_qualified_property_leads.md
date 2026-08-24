@@ -207,7 +207,7 @@ Executing a structured Real Estate Paid Ads strategy is the most effective appro
 
 Executing enterprise-grade real estate ad management requires campaign architecture precision, visual ad creative production, landing page optimization, and CRM tracking integration. Partnering with a dedicated digital growth agency enables your executive team to focus on building projects and closing sales while performance marketing experts scale your property lead generation pipeline.
 
-Ready to generate more qualified property leads and site visits for your real estate business? Digital Digix can help you construct a complete performance marketing plan. Contact our real estate advertising specialists today to schedule your strategy consultation.
+Ready to generate more qualified property leads and site visits for your real estate business? Business Volunteers can help you construct a complete performance marketing plan. Contact our real estate advertising specialists today to schedule your strategy consultation.
 
 ---
 

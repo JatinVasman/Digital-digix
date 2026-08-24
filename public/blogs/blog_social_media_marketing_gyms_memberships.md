@@ -236,7 +236,7 @@ Social media marketing is one of the most powerful tools available to modern fit
 
 Building and managing a successful social media acquisition system requires continuous video production, campaign management, and technical lead automation. Partnering with a dedicated digital growth agency enables you to focus on running your gym and managing your team while growth experts build your membership pipeline.
 
-Ready to turn your gym’s social media presence into a reliable source of qualified leads and paid memberships? Digital Digix can help you build a complete social acquisition strategy. Contact our social media team today to schedule your strategic growth consultation.
+Ready to turn your gym’s social media presence into a reliable source of qualified leads and paid memberships? Business Volunteers can help you build a complete social acquisition strategy. Contact our social media team today to schedule your strategic growth consultation.
 
 ---
 

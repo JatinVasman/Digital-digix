@@ -208,7 +208,7 @@ Digital branding is the most effective commercial strategy for business owners, 
 
 Executing an enterprise-grade digital branding strategy requires technical web architecture, creative excellence, SEO mastery, and multi-channel consistency. Partnering with a dedicated branding and digital growth agency enables your leadership team to focus on core operations while growth experts build your digital market authority.
 
-Ready to build an authoritative digital brand that attracts high-value customers? Digital Digix can help you construct a complete digital brand strategy. Contact our digital branding specialists today to schedule your consultation.
+Ready to build an authoritative digital brand that attracts high-value customers? Business Volunteers can help you construct a complete digital brand strategy. Contact our digital branding specialists today to schedule your consultation.
 
 ---
 

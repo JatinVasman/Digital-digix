@@ -70,11 +70,11 @@ export const Header: React.FC<HeaderProps> = ({
     <div className={`header-wrapper ${isScrolled ? 'header-wrapper--scrolled' : ''} ${isVisible ? 'header-wrapper--visible' : 'header-wrapper--hidden'}`}>
       <header className="header">
         <div className="header-container">
-          {/* OFFICIAL DIGITAL DIGIX LOGO */}
+          {/* OFFICIAL BUSINESS VOLUNTEERS LOGO */}
           <div className="logo" onClick={() => onNavigate('home')} style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', cursor: 'pointer', flexShrink: 0 }}>
             <img
-              src="/digital_digix_logo.png"
-              alt="Digital Digix Logo"
+              src="/businessvolunteers/logo.png"
+              alt="Business Volunteers Logo"
               width="38"
               height="38"
               decoding="async"
@@ -88,7 +88,7 @@ export const Header: React.FC<HeaderProps> = ({
               }}
             />
             <span style={{ fontFamily: 'Outfit, sans-serif', fontWeight: 900, fontSize: '1.3rem', letterSpacing: '-0.02em', color: 'var(--secondary)', whiteSpace: 'nowrap' }}>
-              Digital Digix
+              Business Volunteers
             </span>
           </div>
 
@@ -170,7 +170,7 @@ export const Header: React.FC<HeaderProps> = ({
                       onMouseEnter={(e) => (e.currentTarget.style.backgroundColor = '#FFF1EE')}
                       onMouseLeave={(e) => (e.currentTarget.style.backgroundColor = 'transparent')}
                     >
-                      About Digital Digix
+                      About Business Volunteers
                     </a>
 
                     <a
@@ -245,7 +245,7 @@ export const Header: React.FC<HeaderProps> = ({
                       onMouseEnter={(e) => (e.currentTarget.style.backgroundColor = '#FFF1EE')}
                       onMouseLeave={(e) => (e.currentTarget.style.backgroundColor = 'transparent')}
                     >
-                      Why Digital Digix
+                      Why Business Volunteers
                     </a>
 
                     <a
@@ -394,10 +394,10 @@ export const Header: React.FC<HeaderProps> = ({
 
                   {isAboutDropdownOpen && (
                     <div className="mobile-drawer-sublinks">
-                      <button onClick={() => handleMobileNav('about')}>About Digital Digix</button>
+                      <button onClick={() => handleMobileNav('about')}>About Business Volunteers</button>
                       <button onClick={() => handleMobileNav('about', 'founder')}>Founder — Harsh Chaudhary</button>
                       <button onClick={() => handleMobileNav('about', 'co-founder')}>Co-Founder — Khwahish Sahai</button>
-                      <button onClick={() => handleMobileNav('about', 'why-us')}>Why Digital Digix</button>
+                      <button onClick={() => handleMobileNav('about', 'why-us')}>Why Business Volunteers</button>
                       <button onClick={() => handleMobileNav('about', 'team')}>Our Team</button>
                     </div>
                   )}

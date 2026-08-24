@@ -78,10 +78,10 @@ Embedding structured JSON-LD Schema code into every location page header is the 
 {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  "name": "Digital Digix Fitness - Sector 29 Gurgaon",
-  "url": "https://digitaldigix.com/locations/gurgaon/sec-29",
-  "logo": "https://digitaldigix.com/digital_digix_logo.png",
-  "image": "https://digitaldigix.com/images/gurgaon-outlet.jpg",
+  "name": "Business Volunteers Fitness - Sector 29 Gurgaon",
+  "url": "https://businessvolunteers.online/locations/gurgaon/sec-29",
+  "logo": "https://businessvolunteers.online/digital_digix_logo.png",
+  "image": "https://businessvolunteers.online/images/gurgaon-outlet.jpg",
   "telephone": "+919876543210",
   "address": {
     "@type": "PostalAddress",
@@ -233,7 +233,7 @@ Executing a specialized AI search optimization strategy is the single most futur
 
 Executing enterprise-grade AI search optimization requires data science capabilities, technical web development, local SEO precision, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your operations team to focus on customer service while optimization experts scale your digital visibility.
 
-Ready to position your franchise business for conversational AI search discovery? Digital Digix can help you construct a complete AI search strategy. Contact our optimization specialists today to schedule your consultation.
+Ready to position your franchise business for conversational AI search discovery? Business Volunteers can help you construct a complete AI search strategy. Contact our optimization specialists today to schedule your consultation.
 
 ---
 

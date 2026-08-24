@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
-const DOMAIN = 'https://digitaldigix.com';
+const DOMAIN = 'https://businessvolunteers.online';
 const today = new Date().toISOString().split('T')[0];
 
 const seenUrls = new Set();

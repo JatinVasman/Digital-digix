@@ -41,7 +41,7 @@ export const Hero: React.FC<HeroProps> = ({
         <div className="hero-building-wrapper">
           <img
             src="/building.jpg"
-            alt="Digital Digix Headquarters Facade"
+            alt="Business Volunteers Headquarters Facade"
             className="hero-building-img"
             fetchPriority="high"
             decoding="async"

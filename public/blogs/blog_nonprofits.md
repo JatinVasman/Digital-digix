@@ -130,7 +130,7 @@ Metrics matter in the non-profit sector. Track these KPIs:
 3. **Return on Ad Spend (ROAS) / Return on Investment:** Are your campaigns generating more funds than they cost?
 4. **Website Conversion Rate:** Out of 100 website visitors, how many donate?
 
-At Digital Digix, we build dashboards tailored for NGOs to track donor journeys precisely.
+At Business Volunteers, we build dashboards tailored for NGOs to track donor journeys precisely.
 
 ---
 
@@ -199,7 +199,7 @@ Digital marketing for non-profits in India is about bridging the gap between tho
 
 Need help navigating Google Ad Grants or setting up high-converting donation campaigns?
 
-**Digital Digix** is a founder-led digital marketing agency in Noida, India, serving 89+ industries, including the non-profit sector. With over 2,700 clients, we know how to maximize your marketing budget for maximum social impact. We offer transparent strategies, no lock-in contracts, and scalable solutions.
+**Business Volunteers** is a founder-led digital marketing agency in Noida, India, serving 89+ industries, including the non-profit sector. With over 2,700 clients, we know how to maximize your marketing budget for maximum social impact. We offer transparent strategies, no lock-in contracts, and scalable solutions.
 
 📞 **Call us today: +91 85869 89832**
-🌐 **Visit: [digitaldigix.com](https://digitaldigix.com)**
+🌐 **Visit: [businessvolunteers.online](https://businessvolunteers.online)**

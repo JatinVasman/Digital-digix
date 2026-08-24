@@ -218,7 +218,7 @@ Building a high-converting B2B lead generation funnel is the single most effecti
 
 Executing an enterprise-grade cybersecurity funnel optimization program requires messaging precision, UX design expertise, web architecture, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your internal engineering team to focus on security operations while marketing experts scale your sales pipeline.
 
-Ready to build a predictable, high-converting B2B lead generation funnel for your cybersecurity business? Digital Digix can help you construct a complete funnel strategy. Contact our growth specialists today to schedule your consultation.
+Ready to build a predictable, high-converting B2B lead generation funnel for your cybersecurity business? Business Volunteers can help you construct a complete funnel strategy. Contact our growth specialists today to schedule your consultation.
 
 ---
 

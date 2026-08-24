@@ -165,7 +165,7 @@ Personal branding is the single most valuable long-term asset a practicing docto
 
 Building and maintaining an authoritative doctor brand requires technical setup, strategic content planning, and structured funnel management. Partnering with a specialized digital growth agency enables you to build personal authority and scale practice revenues while staying focused on delivering world-class clinical care.
 
-Ready to build an authoritative personal brand that drives qualified patient consultations for your clinic? Digital Digix can help you build a complete personal branding and digital acquisition strategy. Contact our growth team today to schedule your consultation.
+Ready to build an authoritative personal brand that drives qualified patient consultations for your clinic? Business Volunteers can help you build a complete personal branding and digital acquisition strategy. Contact our growth team today to schedule your consultation.
 
 ---
 

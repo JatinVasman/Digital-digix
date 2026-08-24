@@ -224,7 +224,7 @@ Building a high-growth, high-margin accounting firm or CA practice in 2026 requi
 
 Executing an enterprise-grade lead generation engine requires technical marketing management, continuous campaign optimization, and structured sales funnel design. Partnering with a dedicated digital growth agency enables your practice leadership to focus on delivering high-value financial advisory services while growth experts scale your client pipeline.
 
-Ready to build a predictable, high-converting lead generation engine for your accounting firm? Digital Digix can help you construct a complete digital acquisition funnel. Contact our lead generation specialists today to schedule your consultation.
+Ready to build a predictable, high-converting lead generation engine for your accounting firm? Business Volunteers can help you construct a complete digital acquisition funnel. Contact our lead generation specialists today to schedule your consultation.
 
 ---
 

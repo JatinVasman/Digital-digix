@@ -109,7 +109,7 @@ Doctor-Led Performance Marketing Architecture:
 ```
 
 ### 3 Ways to Use Doctor Assets in Paid Advertising
-1. **Doctor Video Ads:** Run Meta and Google ads featuring a 30-second video of the specialist introducing their department: *"Hi, I'm Dr. Rajesh Sharma, Chief Joint Surgeon at Digital Digix Hospital. If you are experiencing chronic knee pain and seeking a 4.8-star rated orthopedic team with 18+ years of experience, tap below to check availability and schedule a consultation."*
+1. **Doctor Video Ads:** Run Meta and Google ads featuring a 30-second video of the specialist introducing their department: *"Hi, I'm Dr. Rajesh Sharma, Chief Joint Surgeon at Business Volunteers Hospital. If you are experiencing chronic knee pain and seeking a 4.8-star rated orthopedic team with 18+ years of experience, tap below to check availability and schedule a consultation."*
 2. **Personalized Automated Greetings:** Configure your WhatsApp intake automation to deliver messages written from the doctor's team perspective: *"Hi [Name], Dr. Sharma's clinic team here. Thank you for reaching out! We look forward to welcoming you for your consultation."*
 3. **Doctor Video Introductions on Booking Pages:** Embed a 30-second video of the specialist on department booking pages allowing prospective patients to meet their doctor before scheduling.
 
@@ -173,7 +173,7 @@ Overcoming Doctor Branding Fears:
 
 Search habits are evolving as patients and caregivers use conversational AI search platforms—such as **ChatGPT**, **Google AI Overviews**, **Perplexity AI**, and **Google Gemini**—to research medical specialists:
 
-> *"Who is the top orthopedic surgeon at Digital Digix Hospital in Hyderabad, and what is their academic background, clinical experience, and patient feedback?"*
+> *"Who is the top orthopedic surgeon at Business Volunteers Hospital in Hyderabad, and what is their academic background, clinical experience, and patient feedback?"*
 
 ```
 AI Entity Verification Model for Healthcare Leaders:
@@ -219,7 +219,7 @@ In a highly competitive healthcare marketplace, combining doctor personal brandi
 
 Building an authoritative doctor brand requires strategic consistency, clinical compliance, and professional digital management. Partnering with a specialized digital growth agency allows medical specialists to build personal authority and scale appointment pipelines without distracting from daily patient care.
 
-Ready to build an authoritative personal brand that drives direct patient appointments for your medical practice or hospital? Digital Digix can help you construct a complete doctor branding strategy. Contact our healthcare growth team today to schedule your consultation.
+Ready to build an authoritative personal brand that drives direct patient appointments for your medical practice or hospital? Business Volunteers can help you construct a complete doctor branding strategy. Contact our healthcare growth team today to schedule your consultation.
 
 ---
 

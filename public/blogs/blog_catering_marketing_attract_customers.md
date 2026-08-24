@@ -69,7 +69,7 @@ Local Map Discovery Pipeline:
 
 ### 4 Rules for Google Maps Dominance
 1. **Optimize Primary Categories:** Select accurate categories such as *"Caterer"*, *"Wedding Caterer"*, or *"Corporate Caterer"*.
-2. **Encourage Detailed Client Reviews:** Ask satisfied clients to post reviews mentioning specific event details (e.g., *"Digital Digix Catering managed our 500-guest wedding in Cyber City with incredible live counters and flawless service"*). Keywords boost map relevance.
+2. **Encourage Detailed Client Reviews:** Ask satisfied clients to post reviews mentioning specific event details (e.g., *"Business Volunteers Catering managed our 500-guest wedding in Cyber City with incredible live counters and flawless service"*). Keywords boost map relevance.
 3. **Upload Weekly Event Photos:** Upload crisp photos of live cooking setups, buffet counters, plated courses, and clean kitchen prep areas.
 4. **Maintain NAP Uniformity:** Ensure your Name, Address, and Phone number match across all online directories.
 
@@ -197,7 +197,7 @@ Executing a structured catering marketing framework is the single most effective
 
 Executing an enterprise-grade catering marketing strategy requires visual content creation, local SEO precision, technical web architecture, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your management team to focus on culinary excellence while growth experts fill your booking calendar.
 
-Ready to build an acquisition-driven marketing strategy for your catering company? Digital Digix can help you construct a complete hospitality growth engine. Contact our catering marketing specialists today to schedule your consultation.
+Ready to build an acquisition-driven marketing strategy for your catering company? Business Volunteers can help you construct a complete hospitality growth engine. Contact our catering marketing specialists today to schedule your consultation.
 
 ---
 

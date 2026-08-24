@@ -201,7 +201,7 @@ Executing a structured Google Ads strategy is the single fastest way for an even
 
 Executing enterprise-grade event Google Ads management requires PPC precision, technical web development, creative copywriting, and conversion analytics. Partnering with a dedicated digital growth agency enables your creative team to focus on event execution while paid media experts scale your buyer pipeline.
 
-Ready to generate more qualified event bookings through Google Ads? Digital Digix can help you construct a complete paid search strategy. Contact our PPC growth specialists today to schedule your consultation.
+Ready to generate more qualified event bookings through Google Ads? Business Volunteers can help you construct a complete paid search strategy. Contact our PPC growth specialists today to schedule your consultation.
 
 ---
 

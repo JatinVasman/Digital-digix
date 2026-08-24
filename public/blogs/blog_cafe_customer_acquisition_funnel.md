@@ -199,7 +199,7 @@ Building a high-converting customer acquisition funnel is the single most effect
 
 Executing an enterprise-grade cafe acquisition funnel requires technical web architecture, visual messaging precision, SEO mastery, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your management team to focus on serving guests while growth experts build your acquisition engine.
 
-Ready to build a predictable, high-converting customer acquisition funnel for your cafe? Digital Digix can help you construct a complete marketing and sales strategy. Contact our lead generation specialists today to schedule your consultation.
+Ready to build a predictable, high-converting customer acquisition funnel for your cafe? Business Volunteers can help you construct a complete marketing and sales strategy. Contact our lead generation specialists today to schedule your consultation.
 
 ---
 

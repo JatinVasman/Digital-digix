@@ -162,7 +162,7 @@ Personal branding is the single most valuable long-term career asset a chemical 
 
 Building and maintaining an authoritative expert brand requires strategic setup, clear positioning, and professional digital management. Partnering with a specialized digital growth agency enables you to build personal authority and attract enterprise opportunities while staying focused on technical excellence.
 
-Ready to build an authoritative personal brand that attracts high-value B2B opportunities in the chemical industry? Digital Digix can help you build a complete personal branding and digital strategy. Contact our growth team today to schedule your consultation.
+Ready to build an authoritative personal brand that attracts high-value B2B opportunities in the chemical industry? Business Volunteers can help you build a complete personal branding and digital strategy. Contact our growth team today to schedule your consultation.
 
 ---
 

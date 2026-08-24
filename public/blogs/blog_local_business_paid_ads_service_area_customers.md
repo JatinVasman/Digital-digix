@@ -198,7 +198,7 @@ Executing a structured Local Business Paid Ads strategy is the most effective dr
 
 Executing enterprise-grade local ad management requires geo-targeting setup precision, visual ad creative production, landing page optimization, and review integration discipline. Partnering with a dedicated digital growth agency enables your executive team to focus on serving local clients while performance marketing experts scale your local customer acquisition pipeline.
 
-Ready to generate more local customers and appointment bookings for your business? Digital Digix can help you construct a complete local performance marketing plan. Contact our local advertising specialists today to schedule your strategy consultation.
+Ready to generate more local customers and appointment bookings for your business? Business Volunteers can help you construct a complete local performance marketing plan. Contact our local advertising specialists today to schedule your strategy consultation.
 
 ---
 

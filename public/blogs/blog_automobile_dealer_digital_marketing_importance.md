@@ -262,7 +262,7 @@ Building a high-growth, high-margin automobile dealership or vehicle retail grou
 
 ```
 +-----------------------------------------------------------------------------------+
-|             DIGITAL DIGIX INTEGRATED AUTOMOBILE DEALER GROWTH SYSTEM              |
+|             BUSINESS VOLUNTEERS INTEGRATED AUTOMOBILE DEALER GROWTH SYSTEM              |
 +-----------------------------------------------------------------------------------+
 |  1. ATTRACT   ➔ Local SEO, Google Maps 3-Pack, Search PPC & Radius Video Ads      |
 |  2. ENGAGE    ➔ Mobile Landing Pages, Video Model Walkarounds, Principal Authority|
@@ -307,7 +307,7 @@ Building a high-growth, profitable automobile dealership, pre-owned car retail g
 
 Executing an enterprise-grade digital marketing strategy requires specialized technical management, continuous campaign optimization, and structured customer acquisition design. Partnering with a dedicated digital growth agency enables your dealership management to focus on delivering world-class sales experiences while growth experts scale your customer pipeline.
 
-Ready to position your automobile dealership at the forefront of local digital acquisition and keep your test-drive fleet busy? Digital Digix can help you build a complete digital growth strategy. Contact our automotive retail specialists today to schedule your consultation.
+Ready to position your automobile dealership at the forefront of local digital acquisition and keep your test-drive fleet busy? Business Volunteers can help you build a complete digital growth strategy. Contact our automotive retail specialists today to schedule your consultation.
 
 ---
 

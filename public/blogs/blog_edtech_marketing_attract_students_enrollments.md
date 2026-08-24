@@ -277,7 +277,7 @@ Scaling enrollments for an EdTech company in 2026 requires moving beyond fragmen
 
 Executing an end-to-end EdTech marketing strategy requires deep technical expertise, continuous ad campaign optimization, and structured lead funnel management. Partnering with a specialized digital growth agency enables your leadership team to focus on developing world-class educational content while growth experts scale your enrollment pipeline.
 
-Ready to transform your EdTech platform’s marketing into a reliable source of qualified student leads and paid enrollments? Digital Digix can help you build a complete growth strategy. Contact our EdTech marketing specialists today to schedule your consultation.
+Ready to transform your EdTech platform’s marketing into a reliable source of qualified student leads and paid enrollments? Business Volunteers can help you build a complete growth strategy. Contact our EdTech marketing specialists today to schedule your consultation.
 
 ---
 

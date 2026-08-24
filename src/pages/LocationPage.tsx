@@ -34,8 +34,8 @@ export const LocationPage: React.FC<LocationPageProps> = ({ locationName, onNavi
     window.scrollTo(0, 0);
 
     const slug = cleanLocationRaw || displayName.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
-    const canonicalUrl = `https://digitaldigix.com/digital-marketing/${slug}`;
-    const pageTitle = `Digital Marketing & SEO Agency in ${displayName} | Digital Digix`;
+    const canonicalUrl = `https://businessvolunteers.online/digital-marketing/${slug}`;
+    const pageTitle = `Digital Marketing & SEO Agency in ${displayName} | Business Volunteers`;
     const pageDesc = `Local SEO, Performance Marketing, and Google Maps optimization services for businesses in ${displayName} and surrounding regions.`;
 
     document.title = pageTitle;
@@ -62,23 +62,23 @@ export const LocationPage: React.FC<LocationPageProps> = ({ locationName, onNavi
         {
           "@type": "ProfessionalService",
           "@id": `${canonicalUrl}#localbusiness`,
-          "name": `Digital Digix - ${displayName}`,
+          "name": `Business Volunteers - ${displayName}`,
           "url": canonicalUrl,
           "description": pageDesc,
           "telephone": "+918586989832",
           "areaServed": displayName,
           "provider": {
             "@type": "Organization",
-            "name": "Digital Digix",
-            "url": "https://digitaldigix.com"
+            "name": "Business Volunteers",
+            "url": "https://businessvolunteers.online"
           }
         },
         {
           "@type": "BreadcrumbList",
           "@id": `${canonicalUrl}#breadcrumb`,
           "itemListElement": [
-            { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://digitaldigix.com/" },
-            { "@type": "ListItem", "position": 2, "name": "Locations", "item": "https://digitaldigix.com/digital-marketing" },
+            { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://businessvolunteers.online/" },
+            { "@type": "ListItem", "position": 2, "name": "Locations", "item": "https://businessvolunteers.online/digital-marketing" },
             { "@type": "ListItem", "position": 3, "name": displayName, "item": canonicalUrl }
           ]
         }
@@ -93,7 +93,7 @@ export const LocationPage: React.FC<LocationPageProps> = ({ locationName, onNavi
   const faqs = [
     {
       q: `Do you offer digital marketing services in ${displayName}?`,
-      a: `Yes! Digital Digix provides full-spectrum performance marketing, SEO, Meta ads, Google ads, social media management, and custom web design directly for businesses operating in ${displayName}.`
+      a: `Yes! Business Volunteers provides full-spectrum performance marketing, SEO, Meta ads, Google ads, social media management, and custom web design directly for businesses operating in ${displayName}.`
     },
     {
       q: `How much does digital marketing cost in ${displayName}?`,
@@ -125,10 +125,10 @@ export const LocationPage: React.FC<LocationPageProps> = ({ locationName, onNavi
         {/* 2. TOP SUMMARY NOTIFICATION BOX (MATCHING SCREENSHOT 2) */}
         <div style={{ background: '#FFFFFF', border: '1px solid #E2E8F0', borderRadius: '16px', padding: '1.5rem 2rem', marginBottom: '2.5rem', boxShadow: '0 4px 15px rgba(0,0,0,0.03)' }}>
           <h3 style={{ fontSize: '1.1rem', fontWeight: 800, color: '#0F172A', marginBottom: '0.4rem' }}>
-            Digital Marketing Services in {displayName} | Digital Digix
+            Digital Marketing Services in {displayName} | Business Volunteers
           </h3>
           <p style={{ fontSize: '0.925rem', color: '#64748B', lineHeight: 1.6, margin: 0 }}>
-            Looking for a results-driven digital marketing agency in {displayName}? Digital Digix offers SEO, social media, Google & Meta ads, web design and graphic design for businesses in {displayName}. Get a free quote on WhatsApp.
+            Looking for a results-driven digital marketing agency in {displayName}? Business Volunteers offers SEO, social media, Google & Meta ads, web design and graphic design for businesses in {displayName}. Get a free quote on WhatsApp.
           </p>
         </div>
 
@@ -146,7 +146,7 @@ export const LocationPage: React.FC<LocationPageProps> = ({ locationName, onNavi
           </h1>
 
           <p style={{ fontSize: '1.1rem', color: '#475569', lineHeight: 1.7, maxWidth: '820px', marginBottom: '2rem' }}>
-            Digital Digix is a founder-led digital marketing agency helping businesses in {displayName} grow online with SEO, Google & Meta ads, social media, websites and graphic design. We combine local market understanding with proven, data-driven execution — so your brand in {displayName} gets found, gets leads and gets results.
+            Business Volunteers is a founder-led digital marketing agency helping businesses in {displayName} grow online with SEO, Google & Meta ads, social media, websites and graphic design. We combine local market understanding with proven, data-driven execution — so your brand in {displayName} gets found, gets leads and gets results.
           </p>
 
           <div style={{ display: 'flex', gap: '1.25rem', flexWrap: 'wrap' }}>
@@ -244,7 +244,7 @@ export const LocationPage: React.FC<LocationPageProps> = ({ locationName, onNavi
           <div style={{ textAlign: 'center', marginBottom: '3rem' }}>
             <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '1rem', marginBottom: '0.5rem' }}>
               <span style={{ width: '40px', height: '1px', background: '#3B82F6', opacity: 0.6 }}></span>
-              <span style={{ fontSize: '0.75rem', fontWeight: 800, color: '#3B82F6', letterSpacing: '0.15em', textTransform: 'uppercase' }}>WHY DIGITAL DIGIX</span>
+              <span style={{ fontSize: '0.75rem', fontWeight: 800, color: '#3B82F6', letterSpacing: '0.15em', textTransform: 'uppercase' }}>WHY BUSINESS VOLUNTEERS</span>
               <span style={{ width: '40px', height: '1px', background: '#3B82F6', opacity: 0.6 }}></span>
             </div>
             <h2 style={{ fontFamily: 'Outfit, serif', fontSize: '2.8rem', fontWeight: 900, color: '#0F172A' }}>

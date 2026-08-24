@@ -20,7 +20,7 @@ export const WhyChooseUs: React.FC<WhyChooseUsProps> = ({
       <section id="why-us" style={{ padding: '6rem 0', backgroundColor: backgroundColor || 'var(--bg-main)' }}>
         <div className="container">
           <div className="section-header">
-            <div className="section-tag">WHY DIGITAL DIGIX</div>
+            <div className="section-tag">WHY BUSINESS VOLUNTEERS</div>
             <h2>Built For Growth. Backed By Data.</h2>
             <p className="section-subtitle">
               We combine creative excellence with rigorous performance marketing to deliver measurable ROI.

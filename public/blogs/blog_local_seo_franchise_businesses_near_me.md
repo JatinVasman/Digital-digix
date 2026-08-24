@@ -199,7 +199,7 @@ Executing a hyper-local search engine strategy is the single most effective comm
 
 Executing enterprise-grade local franchise SEO requires map optimization precision, web architecture expertise, local review governance, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your store teams to focus on customer service while marketing experts scale your local search rankings.
 
-Ready to dominate "near me" search results for all your franchise locations? Digital Digix can help you construct a complete local search strategy. Contact our local SEO specialists today to schedule your consultation.
+Ready to dominate "near me" search results for all your franchise locations? Business Volunteers can help you construct a complete local search strategy. Contact our local SEO specialists today to schedule your consultation.
 
 ---
 

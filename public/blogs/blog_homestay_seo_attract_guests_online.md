@@ -67,7 +67,7 @@ Google Business Profile (GBP) is a critical driver of local map visibility and d
 ```
 High-Ranking Homestay Google Business Profile Blueprint:
 +---------------------------------------------------------------------------------+
-| BUSINESS NAME: Property Name - Destination (e.g., Digital Digix Homestay Coorg)  |
+| BUSINESS NAME: Property Name - Destination (e.g., Business Volunteers Homestay Coorg)  |
 | PRIMARY CATEGORY: Homestay / Bed & Breakfast / Hotel / Villa                     |
 | SECONDARY CATEGORIES: Farmstay, Resort, Vacation Home Rental                     |
 |                                                                                 |
@@ -111,7 +111,7 @@ Embed structured JSON-LD Schema code into your homestay website's header:
 {
   "@context": "https://schema.org",
   "@type": "BedAndBreakfast",
-  "name": "Digital Digix Heritage Homestay - Coorg",
+  "name": "Business Volunteers Heritage Homestay - Coorg",
   "url": "https://brand.com/booking",
   "telephone": "+919876543210",
   "priceRange": "₹4,500 - ₹12,000",
@@ -237,7 +237,7 @@ Executing a dedicated search engine optimization strategy is the single most rel
 
 Executing enterprise-grade homestay SEO requires technical web architecture, local search precision, travel content creation, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your host team to focus on delivering exceptional guest experiences while SEO experts scale your destination rankings.
 
-Ready to achieve top Google Maps and search rankings for your homestay business? Digital Digix can help you construct a complete SEO strategy. Contact our hospitality SEO specialists today to schedule your consultation.
+Ready to achieve top Google Maps and search rankings for your homestay business? Business Volunteers can help you construct a complete SEO strategy. Contact our hospitality SEO specialists today to schedule your consultation.
 
 ---
 

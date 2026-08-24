@@ -112,9 +112,9 @@ export const GraphicItemDetailPage: React.FC<GraphicItemDetailPageProps> = ({ it
     if (!matchedItem) return;
 
     const formattedPrice = matchedItem.price.startsWith('₹') ? matchedItem.price : `₹${matchedItem.price}`;
-    const pageTitle = `${matchedItem.name} Services — ${formattedPrice} | Digital Digix`;
+    const pageTitle = `${matchedItem.name} Services — ${formattedPrice} | Business Volunteers`;
     const pageDesc = customDesc;
-    const canonicalUrl = `https://digitaldigix.com/graphic-design/${itemId}`;
+    const canonicalUrl = `https://businessvolunteers.online/graphic-design/${itemId}`;
 
     document.title = pageTitle;
 
@@ -144,7 +144,7 @@ export const GraphicItemDetailPage: React.FC<GraphicItemDetailPageProps> = ({ it
           "description": pageDesc,
           "brand": {
             "@type": "Brand",
-            "name": "Digital Digix"
+            "name": "Business Volunteers"
           },
           "offers": {
             "@type": "Offer",
@@ -158,8 +158,8 @@ export const GraphicItemDetailPage: React.FC<GraphicItemDetailPageProps> = ({ it
           "@type": "BreadcrumbList",
           "@id": `${canonicalUrl}#breadcrumb`,
           "itemListElement": [
-            { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://digitaldigix.com/" },
-            { "@type": "ListItem", "position": 2, "name": "Graphic Design", "item": "https://digitaldigix.com/graphic-design" },
+            { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://businessvolunteers.online/" },
+            { "@type": "ListItem", "position": 2, "name": "Graphic Design", "item": "https://businessvolunteers.online/graphic-design" },
             { "@type": "ListItem", "position": 3, "name": matchedItem.name, "item": canonicalUrl }
           ]
         }

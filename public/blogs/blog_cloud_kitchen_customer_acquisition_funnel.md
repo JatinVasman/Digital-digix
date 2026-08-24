@@ -206,7 +206,7 @@ Building a high-converting customer acquisition funnel is the single most effect
 
 Executing an enterprise-grade cloud kitchen customer acquisition funnel requires messaging precision, Food SEO expertise, web architecture, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your culinary team to focus on food quality while growth experts build your ordering pipeline.
 
-Ready to build a predictable, high-converting customer acquisition funnel for your cloud kitchen? Digital Digix can help you construct a complete marketing and conversion strategy. Contact our customer acquisition specialists today to schedule your consultation.
+Ready to build a predictable, high-converting customer acquisition funnel for your cloud kitchen? Business Volunteers can help you construct a complete marketing and conversion strategy. Contact our customer acquisition specialists today to schedule your consultation.
 
 ---
 

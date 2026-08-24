@@ -78,10 +78,10 @@ Embedding structured JSON-LD Schema code into your home service website's header
 {
   "@context": "https://schema.org",
   "@type": "Electrician",
-  "name": "Digital Digix Electrical - Sector 56 Gurgaon",
-  "url": "https://digitaldigix.com/locations/gurgaon-sec-56",
-  "logo": "https://digitaldigix.com/digital_digix_logo.png",
-  "image": "https://digitaldigix.com/images/electrical-van.jpg",
+  "name": "Business Volunteers Electrical - Sector 56 Gurgaon",
+  "url": "https://businessvolunteers.online/locations/gurgaon-sec-56",
+  "logo": "https://businessvolunteers.online/digital_digix_logo.png",
+  "image": "https://businessvolunteers.online/images/electrical-van.jpg",
   "telephone": "+919876543210",
   "areaServed": {
     "@type": "AdministrativeArea",
@@ -237,7 +237,7 @@ Executing a specialized AI search optimization strategy is the single most futur
 
 Executing enterprise-grade AI search optimization requires data science capabilities, technical web development, local SEO precision, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your field crew to focus on delivering quality service while optimization experts scale your digital visibility.
 
-Ready to position your home service business for conversational AI search discovery? Digital Digix can help you construct a complete AI search strategy. Contact our optimization specialists today to schedule your consultation.
+Ready to position your home service business for conversational AI search discovery? Business Volunteers can help you construct a complete AI search strategy. Contact our optimization specialists today to schedule your consultation.
 
 ---
 

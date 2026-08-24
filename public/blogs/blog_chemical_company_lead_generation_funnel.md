@@ -206,7 +206,7 @@ Building a high-converting lead generation funnel is the single most effective c
 
 Executing an enterprise-grade chemical lead funnel requires technical messaging precision, B2B SEO expertise, web architecture, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your management team to focus on manufacturing excellence while growth experts build your buyer pipeline.
 
-Ready to build a predictable, high-converting lead generation funnel for your chemical company? Digital Digix can help you construct a complete marketing and sales strategy. Contact our lead generation specialists today to schedule your consultation.
+Ready to build a predictable, high-converting lead generation funnel for your chemical company? Business Volunteers can help you construct a complete marketing and sales strategy. Contact our lead generation specialists today to schedule your consultation.
 
 ---
 

@@ -78,7 +78,7 @@ Embedding structured JSON-LD Schema code into your hospital website's header is 
 {
   "@context": "https://schema.org",
   "@type": "Hospital",
-  "name": "Digital Digix Multispecialty Hospital",
+  "name": "Business Volunteers Multispecialty Hospital",
   "url": "https://hospital.com/appointment",
   "logo": "https://hospital.com/logo.png",
   "image": "https://hospital.com/images/facility.jpg",
@@ -238,7 +238,7 @@ Executing a specialized AI search optimization strategy is the single most futur
 
 Executing enterprise-grade AI search optimization requires data science capabilities, technical web development, healthcare SEO precision, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your medical team to focus on delivering exceptional patient care while optimization experts scale your digital visibility.
 
-Ready to position your hospital or healthcare organization for conversational AI search discovery? Digital Digix can help you construct a complete AI search strategy. Contact our optimization specialists today to schedule your consultation.
+Ready to position your hospital or healthcare organization for conversational AI search discovery? Business Volunteers can help you construct a complete AI search strategy. Contact our optimization specialists today to schedule your consultation.
 
 ---
 

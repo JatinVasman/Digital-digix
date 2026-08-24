@@ -89,7 +89,7 @@ export const BlogPostPage: React.FC<BlogPostPageProps> = ({ slug, onNavigate, on
           '',
           `## Ready to Accelerate Your Growth?`,
           '',
-          `At **Digital Digix**, we engineer end-to-end digital marketing and growth systems for 2,700+ businesses across 89+ industries. Schedule a free 30-minute strategic consultation with our growth specialists today to build your custom growth roadmap.`
+          `At **Business Volunteers**, we engineer end-to-end digital marketing and growth systems for 2,700+ businesses across 89+ industries. Schedule a free 30-minute strategic consultation with our growth specialists today to build your custom growth roadmap.`
         ].join('\n');
 
         setContent(fallback);
@@ -111,7 +111,7 @@ export const BlogPostPage: React.FC<BlogPostPageProps> = ({ slug, onNavigate, on
         description: blog.excerpt,
         datePublished: blog.date,
         tags: [blog.keyword, blog.keyword2, ...blog.tags].filter(Boolean) as string[],
-        author: 'Digital Digix'
+        author: 'Business Volunteers'
       });
     } else if (slug) {
       updatePageSeo('blog-post', slug);

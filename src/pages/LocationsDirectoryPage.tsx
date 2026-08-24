@@ -57,7 +57,7 @@ export const LocationsDirectoryPage: React.FC<LocationsDirectoryPageProps> = ({ 
           </h1>
 
           <p style={{ fontSize: '1.1rem', color: '#475569', lineHeight: 1.7, maxWidth: '850px', marginBottom: '2.25rem' }}>
-            Digital Digix delivers data-driven performance marketing, Local SEO, Meta & Google PPC ads, social media management, and custom web engineering across Tier 1 Metros, Tier 2 Growth Hubs, Tier 3 & Tier 4 local markets in India, as well as International business hubs.
+            Business Volunteers delivers data-driven performance marketing, Local SEO, Meta & Google PPC ads, social media management, and custom web engineering across Tier 1 Metros, Tier 2 Growth Hubs, Tier 3 & Tier 4 local markets in India, as well as International business hubs.
           </p>
 
           {/* SEARCH BAR & CATEGORY TABS CONTAINER */}

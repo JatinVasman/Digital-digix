@@ -213,7 +213,7 @@ export const PortfolioGallery: React.FC<PortfolioGalleryProps> = ({ onOpenStrate
             <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '2.5rem' }}>
               <img 
                 src={selectedSocialProject.cardImage} 
-                alt={`${selectedSocialProject.name} - ${selectedSocialProject.niche} Growth Case Study by Digital Digix`} 
+                alt={`${selectedSocialProject.name} - ${selectedSocialProject.niche} Growth Case Study by Business Volunteers`} 
                 loading="lazy"
                 decoding="async"
                 width="450"

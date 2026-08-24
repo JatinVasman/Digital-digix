@@ -215,7 +215,7 @@ Brand content marketing is one of the most effective commercial assets available
 
 Building and managing an enterprise-grade content marketing engine requires continuous technical SEO, high-quality visual video production, messaging precision, and structured funnel design. Partnering with a dedicated branding and digital growth agency enables your leadership team to focus on core operations while growth experts scale your market authority.
 
-Ready to build an acquisition-driven content marketing strategy for your business? Digital Digix can help you construct a complete digital growth engine. Contact our content marketing specialists today to schedule your consultation.
+Ready to build an acquisition-driven content marketing strategy for your business? Business Volunteers can help you construct a complete digital growth engine. Contact our content marketing specialists today to schedule your consultation.
 
 ---
 

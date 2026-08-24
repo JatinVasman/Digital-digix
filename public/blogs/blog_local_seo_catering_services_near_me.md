@@ -129,7 +129,7 @@ Review Generation & Ranking Pipeline:
 
 ### How to Request Reviews Professionally
 * **Post-Event WhatsApp Follow-Up:** Send a personalized WhatsApp message 24 hours after a successful event thanking the host and providing a direct 1-click Google review link.
-* **Guide the Review Content:** Encourage clients to mention specific event details (e.g., *"Digital Digix Catering managed our 300-guest corporate summit in Cyber City with incredible live counters and punctual service"*). Review keywords boost your local search relevance.
+* **Guide the Review Content:** Encourage clients to mention specific event details (e.g., *"Business Volunteers Catering managed our 300-guest corporate summit in Cyber City with incredible live counters and punctual service"*). Review keywords boost your local search relevance.
 * **Never Buy Fake Reviews:** Purchasing fake reviews violates Google guidelines and leads to profile suspensions. Focus exclusively on authentic client feedback.
 
 ---
@@ -204,7 +204,7 @@ Executing a specialized Local SEO strategy is the most effective commercial inve
 
 Executing an enterprise-grade Local SEO strategy requires technical web architecture, directory management precision, review workflows, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your management team to focus on culinary excellence while growth experts build your local map dominance.
 
-Ready to dominate local search results and attract high-ticket event bookings? Digital Digix can help you construct a complete Local SEO strategy. Contact our local search specialists today to schedule your consultation.
+Ready to dominate local search results and attract high-ticket event bookings? Business Volunteers can help you construct a complete Local SEO strategy. Contact our local search specialists today to schedule your consultation.
 
 ---
 

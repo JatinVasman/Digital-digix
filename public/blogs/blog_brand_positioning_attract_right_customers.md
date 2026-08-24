@@ -119,7 +119,7 @@ Positioning is significantly reinforced when backed by founder thought leadershi
 ```
 
 ### Actionable Founder Positioning Tactics
-* **Focused Social Media Profiles:** Ensure founder social bios mirror company positioning (e.g., *"Founder @ Digital Digix | Helping Real Estate & Tech Brands Scale via Performance SEO & GEO"*).
+* **Focused Social Media Profiles:** Ensure founder social bios mirror company positioning (e.g., *"Founder @ Business Volunteers | Helping Real Estate & Tech Brands Scale via Performance SEO & GEO"*).
 * **Niche Educational Content:** Share LinkedIn posts and YouTube videos focusing exclusively on your targeted industry niche.
 
 Applying strategic [Internal Link: Personal Branding] techniques helps founders turn personal authority into category dominance.
@@ -197,7 +197,7 @@ Strategic brand positioning is the single most effective lever available to busi
 
 Executing an enterprise-grade brand positioning program requires strategic clarity, market research, messaging precision, and digital execution. Partnering with a dedicated branding and digital growth agency enables your leadership team to focus on core operations while growth experts build your category leadership.
 
-Ready to position your business as a recognized market leader and attract your ideal customers? Digital Digix can help you build a complete brand positioning strategy. Contact our positioning specialists today to schedule your consultation.
+Ready to position your business as a recognized market leader and attract your ideal customers? Business Volunteers can help you build a complete brand positioning strategy. Contact our positioning specialists today to schedule your consultation.
 
 ---
 

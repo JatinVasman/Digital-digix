@@ -60,7 +60,7 @@ export function resolveSeoMetadata(page: PageView, slug?: string, context?: SeoD
       const svc = slug ? getServiceBySlug(slug) : undefined;
       const cleanSlug = svc?.slug || (slug ? (SERVICE_ID_TO_SLUG[slug] || slug.toLowerCase()) : 'seo');
       seo = SERVICES_SEO[cleanSlug] || (svc ? {
-        title: `${svc.title} Services — Pricing, Strategy & Results | Digital Digix`,
+        title: `${svc.title} Services — Pricing, Strategy & Results | Business Volunteers`,
         description: svc.longDescription || svc.description,
         keywords: [svc.title.toLowerCase(), `${svc.title.toLowerCase()} agency`, `${svc.category.toLowerCase()}`],
         canonicalPath: `/services/${svc.slug}`,
@@ -68,8 +68,8 @@ export function resolveSeoMetadata(page: PageView, slug?: string, context?: SeoD
         ogType: 'website',
         primaryKeyword: `${svc.title.toLowerCase()} services`
       } : {
-        title: `${context?.title || 'Service Details'} | Digital Digix`,
-        description: context?.description || 'Explore specialized digital marketing and software engineering capabilities by Digital Digix.',
+        title: `${context?.title || 'Service Details'} | Business Volunteers`,
+        description: context?.description || 'Explore specialized digital marketing and software engineering capabilities by Business Volunteers.',
         keywords: ['digital marketing services', 'growth engineering', 'performance agency'],
         canonicalPath: `/services/${cleanSlug}`,
         h1: context?.h1 || `${context?.title || 'Service Details'}`,
@@ -176,7 +176,7 @@ export function resolveSeoMetadata(page: PageView, slug?: string, context?: SeoD
 
   // Override from explicit context if provided
   if (context?.title && page !== 'service-details' && page !== 'location' && page !== '404') {
-    seo.title = `${context.title} | Digital Digix`;
+    seo.title = `${context.title} | Business Volunteers`;
     seo.h1 = context.title;
   }
   if (context?.description) {
@@ -185,7 +185,7 @@ export function resolveSeoMetadata(page: PageView, slug?: string, context?: SeoD
 
   const cleanPath = getRoutePath(page, slug);
   const normalizedPath = cleanPath === '/' ? '' : cleanPath;
-  const canonicalUrl = `https://digitaldigix.com${normalizedPath}`;
+  const canonicalUrl = `https://businessvolunteers.online${normalizedPath}`;
 
   return { seo, breadcrumbs, canonicalUrl };
 }
@@ -215,7 +215,7 @@ export function updatePageSeo(page: PageView, slug?: string, context?: SeoDynami
   // 3. Description, Keywords, Author, Robots
   setMetaTag('name', 'description', seo.description);
   setMetaTag('name', 'keywords', seo.keywords.join(', '));
-  setMetaTag('name', 'author', 'Digital Digix');
+  setMetaTag('name', 'author', 'Business Volunteers');
   setMetaTag('name', 'robots', seo.isNoIndex ? 'noindex, nofollow' : 'index, follow');
 
   // 4. Canonical URL
@@ -228,13 +228,13 @@ export function updatePageSeo(page: PageView, slug?: string, context?: SeoDynami
   canonicalEl.setAttribute('href', canonicalUrl);
 
   // 5. Open Graph Metadata
-  const ogImage = context?.ogImage || 'https://digitaldigix.com/digital_digix_logo.png';
+  const ogImage = context?.ogImage || 'https://businessvolunteers.online/businessvolunteers/logo.png';
   setMetaTag('property', 'og:title', seo.title);
   setMetaTag('property', 'og:description', seo.description);
   setMetaTag('property', 'og:url', canonicalUrl);
   setMetaTag('property', 'og:type', seo.ogType || 'website');
   setMetaTag('property', 'og:image', ogImage);
-  setMetaTag('property', 'og:site_name', 'Digital Digix');
+  setMetaTag('property', 'og:site_name', 'Business Volunteers');
   setMetaTag('property', 'og:locale', 'en_US');
 
   // 6. Twitter Card Metadata
@@ -245,7 +245,7 @@ export function updatePageSeo(page: PageView, slug?: string, context?: SeoDynami
   setMetaTag('name', 'twitter:image', ogImage);
 
   // 7. Dynamic JSON-LD Structured Data Schema Generation
-  const scriptId = 'digitaldigix-dynamic-schema';
+  const scriptId = 'businessvolunteers-dynamic-schema';
   let scriptEl = document.getElementById(scriptId) as HTMLScriptElement | null;
   if (!scriptEl) {
     scriptEl = document.createElement('script');
@@ -258,34 +258,38 @@ export function updatePageSeo(page: PageView, slug?: string, context?: SeoDynami
   const graph: any[] = [
     {
       "@type": "Organization",
-      "@id": "https://digitaldigix.com/#organization",
-      "name": "Digital Digix",
-      "url": "https://digitaldigix.com",
-      "logo": "https://digitaldigix.com/digital_digix_logo.png",
-      "image": "https://digitaldigix.com/digital_digix_logo.png",
+      "@id": "https://businessvolunteers.online/#organization",
+      "name": "Business Volunteers",
+      "url": "https://businessvolunteers.online",
+      "logo": "https://businessvolunteers.online/businessvolunteers/logo.png",
+      "image": "https://businessvolunteers.online/businessvolunteers/logo.png",
       "description": "India's leading performance marketing, generative engine optimization (GEO/AEO), web development, and B2B growth agency.",
       "telephone": "+918586989832",
       "priceRange": "₹₹",
       "sameAs": [
-        "https://www.instagram.com/digitaldigix",
-        "https://www.linkedin.com/company/digitaldigix"
+        "https://www.instagram.com/thebusinessvolunteers/",
+        "https://www.linkedin.com/company/business-volunteers1",
+        "https://www.facebook.com/people/BusinessVolunteers/61579138254807/",
+        "https://www.youtube.com/@TheBusinessVolunteers"
       ],
       "address": {
         "@type": "PostalAddress",
+        "streetAddress": "Sector 62",
         "addressLocality": "Noida",
         "addressRegion": "Uttar Pradesh",
+        "postalCode": "201309",
         "addressCountry": "IN"
       }
     },
     {
       "@type": "WebSite",
-      "@id": "https://digitaldigix.com/#website",
-      "url": "https://digitaldigix.com",
-      "name": "Digital Digix",
-      "publisher": { "@id": "https://digitaldigix.com/#organization" },
+      "@id": "https://businessvolunteers.online/#website",
+      "url": "https://businessvolunteers.online",
+      "name": "Business Volunteers",
+      "publisher": { "@id": "https://businessvolunteers.online/#organization" },
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://digitaldigix.com/blogs?q={search_term_string}",
+        "target": "https://businessvolunteers.online/blogs?q={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
@@ -295,7 +299,7 @@ export function updatePageSeo(page: PageView, slug?: string, context?: SeoDynami
       "url": canonicalUrl,
       "name": seo.title,
       "description": seo.description,
-      "isPartOf": { "@id": "https://digitaldigix.com/#website" }
+      "isPartOf": { "@id": "https://businessvolunteers.online/#website" }
     }
   ];
 
@@ -308,7 +312,7 @@ export function updatePageSeo(page: PageView, slug?: string, context?: SeoDynami
         "@type": "ListItem",
         "position": idx + 1,
         "name": b.name,
-        "item": `https://digitaldigix.com${b.path === '/' ? '' : b.path}`
+        "item": `https://businessvolunteers.online${b.path === '/' ? '' : b.path}`
       }))
     });
   }
@@ -321,7 +325,7 @@ export function updatePageSeo(page: PageView, slug?: string, context?: SeoDynami
       "name": seo.h1,
       "serviceType": context?.category || seo.primaryKeyword || "Digital Marketing",
       "description": seo.description,
-      "provider": { "@id": "https://digitaldigix.com/#organization" }
+      "provider": { "@id": "https://businessvolunteers.online/#organization" }
     };
     if (context?.verifiedPrice) {
       serviceSchema.offers = {
@@ -338,12 +342,12 @@ export function updatePageSeo(page: PageView, slug?: string, context?: SeoDynami
     graph.push({
       "@type": "ProfessionalService",
       "@id": `${canonicalUrl}#localbusiness`,
-      "name": `Digital Digix - ${cityName}`,
+      "name": `Business Volunteers - ${cityName}`,
       "url": canonicalUrl,
       "description": seo.description,
       "telephone": "+918586989832",
       "areaServed": cityName,
-      "provider": { "@id": "https://digitaldigix.com/#organization" }
+      "provider": { "@id": "https://businessvolunteers.online/#organization" }
     });
   }
 
@@ -358,10 +362,10 @@ export function updatePageSeo(page: PageView, slug?: string, context?: SeoDynami
       "dateModified": context?.dateModified || "2026-08-15",
       "author": {
         "@type": "Organization",
-        "name": context?.author || "Digital Digix",
-        "url": "https://digitaldigix.com"
+        "name": context?.author || "Business Volunteers",
+        "url": "https://businessvolunteers.online"
       },
-      "publisher": { "@id": "https://digitaldigix.com/#organization" },
+      "publisher": { "@id": "https://businessvolunteers.online/#organization" },
       "keywords": context?.tags?.join(', ') || seo.keywords.join(', ')
     });
   }

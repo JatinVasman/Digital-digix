@@ -45,7 +45,7 @@ Different social media networks serve distinct hospital marketing objectives and
 ```
 Multi-Platform Hospital Social Strategy Architecture:
 +-----------------------------------------------------------------------------------+
-|               DIGITAL DIGIX MULTI-PLATFORM HOSPITAL SOCIAL ENGINE                 |
+|               BUSINESS VOLUNTEERS MULTI-PLATFORM HOSPITAL SOCIAL ENGINE                 |
 +-----------------------------------------------------------------------------------+
 |  1. INSTAGRAM (HEALTH SEARCHERS) ➔ Doctor Q&A Reels & symptom awareness tips      |
 |  2. FACEBOOK (FAMILY CARE)       ➔ Health guides, patient reviews & community news|
@@ -203,7 +203,7 @@ Executing a specialized social media marketing strategy is one of the most effec
 
 Executing enterprise-grade hospital social marketing requires strategic governance, video editing excellence, brand consistency, and multi-channel integration. Partnering with a dedicated digital growth agency enables your clinical team to focus on delivering exceptional patient care while social experts scale your digital presence.
 
-Ready to build an authoritative online brand and generate more direct appointment bookings for your hospital? Digital Digix can help you construct a complete social media strategy. Contact our healthcare social growth specialists today to schedule your consultation.
+Ready to build an authoritative online brand and generate more direct appointment bookings for your hospital? Business Volunteers can help you construct a complete social media strategy. Contact our healthcare social growth specialists today to schedule your consultation.
 
 ---
 

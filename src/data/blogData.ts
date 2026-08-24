@@ -15,7 +15,7 @@ export interface BlogPost {
   imageColor?: string; // gradient color theme for card banner
 }
 
-// All BV category tags (89 industries + strategy topics)
+// All Business Volunteers category tags (89 industries + strategy topics)
 export const BV_CATEGORIES = [
   'All',
   'AI Search',
@@ -128,7 +128,7 @@ export const BANNER_COLORS = [
   'linear-gradient(135deg, #6e2c00 0%, #ca6f1e 100%)',
 ];
 
-// === STRATEGY / PILLAR BLOGS (added from BV keyword analysis) ===
+// === STRATEGY / PILLAR BLOGS (Business Volunteers keyword analysis) ===
 export const STRATEGY_BLOGS: BlogPost[] = [
   {
     slug: 'blog_hospitals_digital_marketing_importance',

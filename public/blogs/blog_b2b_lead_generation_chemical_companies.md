@@ -197,7 +197,7 @@ Executing a structured B2B lead generation framework is the single most effectiv
 
 Executing an enterprise-grade chemical lead generation strategy requires technical messaging precision, B2B SEO expertise, web architecture, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your management team to focus on manufacturing excellence while growth experts expand your buyer pipeline.
 
-Ready to build an acquisition-driven B2B lead generation strategy for your chemical company? Digital Digix can help you construct a complete industrial growth engine. Contact our B2B chemical marketing specialists today to schedule your consultation.
+Ready to build an acquisition-driven B2B lead generation strategy for your chemical company? Business Volunteers can help you construct a complete industrial growth engine. Contact our B2B chemical marketing specialists today to schedule your consultation.
 
 ---
 

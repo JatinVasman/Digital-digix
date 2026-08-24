@@ -259,7 +259,7 @@ Building a market-leading architecture firm, design studio, or interior architec
 
 Executing an enterprise-grade Architecture SEO program requires technical expertise, continuous keyword monitoring, and structured portfolio presentation. Partnering with a dedicated digital growth agency enables your design leadership to focus on creating world-class architecture while growth experts scale your organic digital presence.
 
-Ready to position your architecture firm at the top of organic search results and drive continuous project inquiries? Digital Digix can help you build a complete organic growth strategy. Contact our SEO specialists today to schedule your domain audit.
+Ready to position your architecture firm at the top of organic search results and drive continuous project inquiries? Business Volunteers can help you build a complete organic growth strategy. Contact our SEO specialists today to schedule your domain audit.
 
 ---
 

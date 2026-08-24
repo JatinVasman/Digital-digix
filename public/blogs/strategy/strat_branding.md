@@ -252,19 +252,19 @@ Yes — because brand is not just looks. You can compete on brand experience (be
 
 ---
 
-## Build a Brand That Lasts with Digital Digix
+## Build a Brand That Lasts with Business Volunteers
 
-Brand building is the highest-leverage investment an Indian SMB can make — but it requires expertise, creativity, and consistency that goes beyond a nice logo. **Digital Digix** offers comprehensive branding services for Indian businesses: brand strategy workshops, naming and positioning, complete visual identity design, brand guidelines creation, brand voice development, and brand application across all digital channels.
+Brand building is the highest-leverage investment an Indian SMB can make — but it requires expertise, creativity, and consistency that goes beyond a nice logo. **Business Volunteers** offers comprehensive branding services for Indian businesses: brand strategy workshops, naming and positioning, complete visual identity design, brand guidelines creation, brand voice development, and brand application across all digital channels.
 
 We've built brands for Indian SMBs that have gone on to command premium pricing, attract better customers, and grow through referrals rather than constant advertising.
 
-🌐 **Visit:** [digitaldigix.com](https://digitaldigix.com)
+🌐 **Visit:** [businessvolunteers.online](https://businessvolunteers.online)
 📲 **WhatsApp us** for a free brand audit — we'll assess your current brand identity across 12 dimensions and show you exactly how to strengthen it.
 
-Connect with fellow Indian entrepreneurs who are building enduring brands at **[Digital Digix](https://digitaldigix.com)** — a community dedicated to business growth, mentorship, and peer learning for Indian SMBs.
+Connect with fellow Indian entrepreneurs who are building enduring brands at **[Business Volunteers](https://businessvolunteers.online)** — a community dedicated to business growth, mentorship, and peer learning for Indian SMBs.
 
 *A great product gets you started. A great brand keeps you growing. Let's build yours.*
 
 ---
 
-*© 2026 Digital Digix. All rights reserved. Empowering Indian SMBs to build brands that stand out, command premium, and last.*
+*© 2026 Business Volunteers. All rights reserved. Empowering Indian SMBs to build brands that stand out, command premium, and last.*

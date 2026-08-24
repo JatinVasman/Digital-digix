@@ -261,7 +261,7 @@ Building a high-growth, high-margin architecture firm, design studio, or interio
 
 Executing an enterprise-grade digital marketing strategy requires technical management, continuous campaign optimization, and conversion-focused portfolio presentation. Partnering with a dedicated digital growth agency enables your design leadership to focus on creating world-class architecture while growth experts scale your project pipeline.
 
-Ready to transform your architecture firm's marketing into a reliable source of qualified client inquiries and high-value design commissions? Digital Digix can help you build a complete digital strategy. Contact our architecture growth specialists today to schedule your consultation.
+Ready to transform your architecture firm's marketing into a reliable source of qualified client inquiries and high-value design commissions? Business Volunteers can help you build a complete digital strategy. Contact our architecture growth specialists today to schedule your consultation.
 
 ---
 

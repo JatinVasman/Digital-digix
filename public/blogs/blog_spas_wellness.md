@@ -13,7 +13,7 @@ The Indian wellness market has shifted from being a luxury to a necessity for st
 - **Impulse vs. Intent:** Spa bookings come in two forms. Intent (someone searching "massage therapy near me" for a backache) and Impulse (someone seeing an aesthetic Instagram reel and deciding they need a pamper day).
 - **The Weekend Rush:** Most spas are empty on weekdays and full on weekends. Digital marketing helps you run targeted weekday promotions to stabilize revenue.
 
-Here is the complete Digital Digix strategy to keep your spa fully booked in 2026.
+Here is the complete Business Volunteers strategy to keep your spa fully booked in 2026.
 
 ---
 
@@ -176,7 +176,7 @@ Absolutely. E-commerce is a great secondary revenue stream. Upsell the oils used
 Your spa provides an incredible service, but in 2026, the battle is won before the client even arrives. A premium digital presence, aggressive local SEO, and a retention strategy built on WhatsApp will transform your spa from a weekend-only business to a consistently booked wellness destination. 
 
 **Ready to keep your therapists booked solid?**
-Digital Digix has helped over 2,700 clients, including premium spas and wellness chains across India. Let us build your booking engine.
+Business Volunteers has helped over 2,700 clients, including premium spas and wellness chains across India. Let us build your booking engine.
 
 📞 **Call us today: +91 85869 89832**
-🌐 **Visit: [digitaldigix.com](https://digitaldigix.com)**
+🌐 **Visit: [businessvolunteers.online](https://businessvolunteers.online)**

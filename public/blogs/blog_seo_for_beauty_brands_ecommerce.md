@@ -265,7 +265,7 @@ Building a market-leading beauty brand, D2C cosmetic store, skincare line, or pe
 
 Executing an enterprise-grade Beauty SEO program requires technical expertise, continuous keyword monitoring, compliance adherence, and conversion-focused e-commerce design. Partnering with a dedicated digital growth agency enables your management team to focus on product formulation and brand strategy while growth experts scale your organic digital presence.
 
-Ready to position your beauty brand at the top of organic search results and drive continuous online sales? Digital Digix can help you build a complete organic growth strategy. Contact our SEO specialists today to schedule your domain audit.
+Ready to position your beauty brand at the top of organic search results and drive continuous online sales? Business Volunteers can help you build a complete organic growth strategy. Contact our SEO specialists today to schedule your domain audit.
 
 ---
 

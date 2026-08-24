@@ -97,11 +97,11 @@ Schema markup provides search engine crawlers with explicit data regarding your 
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "Industrial Grade Waterproofing Chemical Additive",
-  "url": "https://digitaldigix.com",
+  "url": "https://businessvolunteers.online",
   "description": "High-performance construction chemical admixture for concrete waterproofing in Gurgaon.",
   "manufacturer": {
     "@type": "Organization",
-    "name": "Digital Digix Chemical Manufacturing Ltd",
+    "name": "Business Volunteers Chemical Manufacturing Ltd",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Gurgaon",
@@ -199,7 +199,7 @@ Executing a specialized Industrial SEO strategy is the most effective commercial
 
 Executing an enterprise-grade Industrial SEO strategy requires technical web architecture, catalog management precision, review workflows, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your management team to focus on manufacturing excellence while growth experts build your search dominance.
 
-Ready to dominate industrial search results and attract high-ticket B2B chemical contracts? Digital Digix can help you construct a complete Industrial SEO strategy. Contact our search specialists today to schedule your consultation.
+Ready to dominate industrial search results and attract high-ticket B2B chemical contracts? Business Volunteers can help you construct a complete Industrial SEO strategy. Contact our search specialists today to schedule your consultation.
 
 ---
 

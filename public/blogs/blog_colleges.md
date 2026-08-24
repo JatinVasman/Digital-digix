@@ -124,7 +124,7 @@ Colleges spend lakhs on digital marketing. Tracking the ROI is non-negotiable.
 3. **Cost per Enrollment/Admission:** The ultimate metric. Total ad spend divided by total final admissions.
 4. **Lead to Application Ratio:** Helps measure the effectiveness of your tele-counseling team.
 
-At Digital Digix, we build advanced CRM integrations so the management board can see exactly which marketing channel is driving actual admissions, not just junk leads.
+At Business Volunteers, we build advanced CRM integrations so the management board can see exactly which marketing channel is driving actual admissions, not just junk leads.
 
 ---
 
@@ -193,7 +193,7 @@ The competition for quality students is fiercer than ever. Colleges that rely on
 
 Ready to transform your college's admission strategy?
 
-**Digital Digix** is a founder-led digital marketing agency in Noida, India, specializing in the higher education sector. We manage multi-crore ad budgets for top universities and colleges, driving high-quality applications and reducing the cost per admission. With 89+ industries served, we bring unparalleled expertise to your digital growth.
+**Business Volunteers** is a founder-led digital marketing agency in Noida, India, specializing in the higher education sector. We manage multi-crore ad budgets for top universities and colleges, driving high-quality applications and reducing the cost per admission. With 89+ industries served, we bring unparalleled expertise to your digital growth.
 
 📞 **Call us today: +91 85869 89832**
-🌐 **Visit: [digitaldigix.com](https://digitaldigix.com)**
+🌐 **Visit: [businessvolunteers.online](https://businessvolunteers.online)**

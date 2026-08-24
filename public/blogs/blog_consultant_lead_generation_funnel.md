@@ -199,7 +199,7 @@ Building a high-converting B2B lead generation funnel is the single most effecti
 
 Executing an enterprise-grade consulting lead funnel requires technical web architecture, messaging precision, SEO mastery, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your leadership team to focus on serving clients while growth experts build your acquisition engine.
 
-Ready to build a predictable, high-converting lead generation funnel for your consulting firm? Digital Digix can help you construct a complete marketing and sales strategy. Contact our lead generation specialists today to schedule your consultation.
+Ready to build a predictable, high-converting lead generation funnel for your consulting firm? Business Volunteers can help you construct a complete marketing and sales strategy. Contact our lead generation specialists today to schedule your consultation.
 
 ---
 

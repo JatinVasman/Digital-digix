@@ -132,7 +132,7 @@ export const LeadershipModal: React.FC<LeadershipModalProps> = ({ person, onClos
                 <div>
                   <span className="section-tag" style={{ fontSize: '0.75rem', marginBottom: '0.4rem', display: 'inline-block' }}>FOUNDER & CEO</span>
                   <h2 style={{ fontSize: '2.4rem', fontWeight: 900, color: '#0F172A', marginBottom: '0.2rem', lineHeight: 1.15 }}>Harsh Chaudhary</h2>
-                  <p style={{ color: 'var(--primary)', fontWeight: 700, fontSize: '1rem', margin: 0 }}>Founder & CEO, Digital Digix & Digital Digix</p>
+                  <p style={{ color: 'var(--primary)', fontWeight: 700, fontSize: '1rem', margin: 0 }}>Founder & CEO, Business Volunteers</p>
                   <p style={{ color: '#64748B', fontWeight: 500, fontSize: '0.85rem', marginTop: '0.2rem', marginBottom: '0.8rem' }}>Growth Strategist & Performance Marketing Architect</p>
                   <a
                     href="https://www.linkedin.com/in/heyharsh2026/"
@@ -162,7 +162,7 @@ export const LeadershipModal: React.FC<LeadershipModalProps> = ({ person, onClos
                 <div style={{ width: '100%', height: '1.5px', background: '#E2E8F0' }} />
 
                 <p style={{ color: '#334155', fontSize: '0.975rem', lineHeight: 1.7, margin: 0 }}>
-                  Harsh Chaudhary is the Founder & CEO of Digital Digix, a results-driven digital marketing and branding agency helping businesses build a powerful presence and achieve measurable growth. With a strong passion for strategy, creativity, and data, he has helped 100+ businesses clarify their brand, connect with the right audience, and scale consistently through performance marketing and content systems that actually work.
+                  Harsh Chaudhary is the Founder & CEO of Business Volunteers, a results-driven digital marketing and branding agency helping businesses build a powerful presence and achieve measurable growth. With a strong passion for strategy, creativity, and data, he has helped 100+ businesses clarify their brand, connect with the right audience, and scale consistently through performance marketing and content systems that actually work.
                 </p>
 
                 {/* Areas of Expertise */}
@@ -221,7 +221,7 @@ export const LeadershipModal: React.FC<LeadershipModalProps> = ({ person, onClos
                     My journey started with a simple belief — digital should create real impact, not just vanity metrics. Over the years, I've worked with brands across different industries, helping them grow from zero to measurable success through the right mix of strategy, creativity, and execution.
                   </p>
                   <p style={{ color: '#475569', fontSize: '0.875rem', lineHeight: 1.6, margin: 0 }}>
-                    Digital Digix is not just my company — it's my mission to empower businesses with the right digital systems, so they can grow with confidence and clarity.
+                    Business Volunteers is not just my company — it's my mission to empower businesses with the right digital systems, so they can grow with confidence and clarity.
                   </p>
                 </div>
 
@@ -302,7 +302,7 @@ export const LeadershipModal: React.FC<LeadershipModalProps> = ({ person, onClos
                 <div>
                   <span className="section-tag" style={{ fontSize: '0.75rem', marginBottom: '0.4rem', display: 'inline-block', background: 'rgba(16, 185, 129, 0.15)', color: 'var(--green-accent)' }}>CO-FOUNDER & CREATIVE DIRECTOR</span>
                   <h2 style={{ fontSize: '2.4rem', fontWeight: 900, color: '#0F172A', marginBottom: '0.2rem', lineHeight: 1.15 }}>Khwahish Sahai</h2>
-                  <p style={{ color: 'var(--green-accent)', fontWeight: 700, fontSize: '1rem', margin: 0 }}>Co-Founder & Creative Director, Digital Digix</p>
+                  <p style={{ color: 'var(--green-accent)', fontWeight: 700, fontSize: '1rem', margin: 0 }}>Co-Founder & Creative Director, Business Volunteers</p>
                   <p style={{ color: '#64748B', fontWeight: 500, fontSize: '0.85rem', marginTop: '0.2rem', marginBottom: '0.8rem' }}>Brand Storytelling & Visual UX Director</p>
                   <a
                     href="https://www.linkedin.com/in/khwahish-sahai/"
@@ -332,7 +332,7 @@ export const LeadershipModal: React.FC<LeadershipModalProps> = ({ person, onClos
                 <div style={{ width: '100%', height: '1.5px', background: '#E2E8F0' }} />
 
                 <p style={{ color: '#334155', fontSize: '0.975rem', lineHeight: 1.7, margin: 0 }}>
-                  Khwahish Sahai is the Co-Founder & Creative Director of Digital Digix. She directs brand design, UI/UX aesthetics, video storytelling, and visual creative direction. Khwahish ensures every single client campaign captures audience attention instantly with scroll-stopping ad creatives, custom vector illustrations, premium landing page UI layouts, and compelling brand positionings.
+                  Khwahish Sahai is the Co-Founder & Creative Director of Business Volunteers. She directs brand design, UI/UX aesthetics, video storytelling, and visual creative direction. Khwahish ensures every single client campaign captures audience attention instantly with scroll-stopping ad creatives, custom vector illustrations, premium landing page UI layouts, and compelling brand positionings.
                 </p>
 
                 {/* Areas of Expertise */}
@@ -391,7 +391,7 @@ export const LeadershipModal: React.FC<LeadershipModalProps> = ({ person, onClos
                     My journey in creative direction began with a simple belief — design shouldn't just look pretty; it must achieve a commercial purpose. Over the years, I've designed identities for startup brands and large businesses, combining visual excellence with direct-response optimization.
                   </p>
                   <p style={{ color: '#475569', fontSize: '0.875rem', lineHeight: 1.6, margin: 0 }}>
-                    At Digital Digix, I guide our design team to make sure every logo, ad frame, and web template commands authority and captures attention instantly.
+                    At Business Volunteers, I guide our design team to make sure every logo, ad frame, and web template commands authority and captures attention instantly.
                   </p>
                 </div>
 
@@ -405,7 +405,7 @@ export const LeadershipModal: React.FC<LeadershipModalProps> = ({ person, onClos
           <div>
             <div style={{ textAlign: 'center', marginBottom: '2rem' }}>
               <span className="section-tag">SEEN. HEARD. CHOSEN.</span>
-              <h2 style={{ fontSize: '2.5rem', fontWeight: 900, margin: '0.5rem 0', fontFamily: 'Outfit, sans-serif' }}>Why Choose Digital Digix?</h2>
+              <h2 style={{ fontSize: '2.5rem', fontWeight: 900, margin: '0.5rem 0', fontFamily: 'Outfit, sans-serif' }}>Why Choose Business Volunteers?</h2>
               <p style={{ color: 'var(--text-muted)', fontSize: '1rem', maxWidth: '600px', margin: '0 auto' }}>4 Unique Pillars That Separate Us From Standard Agencies</p>
             </div>
 
@@ -413,7 +413,7 @@ export const LeadershipModal: React.FC<LeadershipModalProps> = ({ person, onClos
               <div className="modal-whyus-card animate-fade-slide delay-1" style={{ background: 'var(--bg-subtle)', padding: '1.5rem', borderRadius: '20px', border: '1px solid var(--border-color)' }}>
                 <h4 style={{ fontWeight: 800, color: 'var(--primary)', marginBottom: '0.6rem', fontSize: '1.15rem', display: 'flex', alignItems: 'center', gap: '0.4rem' }}>👑 1. Founder-Led Accounts</h4>
                 <p style={{ fontSize: '0.85rem', color: 'var(--text-muted)', lineHeight: 1.6 }}>
-                  Unlike typical agencies that hand your brand over to junior interns, Digital Digix guarantees that senior founders Harsh Chaudhary (CEO) and Khwahish Sahai (Creative Director) directly drive strategy, review ad creatives, audit campaigns, and lead weekly performance calls for peak execution standard.
+                  Unlike typical agencies that hand your brand over to junior interns, Business Volunteers guarantees that senior founders Harsh Chaudhary (CEO) and Khwahish Sahai (Creative Director) directly drive strategy, review ad creatives, audit campaigns, and lead weekly performance calls for peak execution standard.
                 </p>
               </div>
 
@@ -477,7 +477,7 @@ export const LeadershipModal: React.FC<LeadershipModalProps> = ({ person, onClos
               <div style={{ textAlign: 'center', marginBottom: '1.5rem' }}>
                 <span className="section-tag" style={{ color: '#3B82F6', background: 'rgba(59, 130, 246, 0.1)' }}>HONEST COMPARISON</span>
                 <h3 style={{ fontFamily: 'Outfit, sans-serif', fontSize: '1.8rem', fontWeight: 900, color: 'var(--secondary)', margin: '0.4rem 0' }}>
-                  Digital Digix vs Freelancers vs Big Agencies vs In-House
+                  Business Volunteers vs Freelancers vs Big Agencies vs In-House
                 </h3>
                 <p style={{ fontSize: '0.9rem', color: 'var(--text-muted)' }}>How the four paths really stack up — judge for yourself.</p>
               </div>
@@ -487,7 +487,7 @@ export const LeadershipModal: React.FC<LeadershipModalProps> = ({ person, onClos
                   <thead>
                     <tr style={{ backgroundColor: '#0F172A', color: '#FFFFFF' }}>
                       <th style={{ padding: '1rem 1.25rem', fontWeight: 800, textTransform: 'uppercase', letterSpacing: '0.05em' }}>Aspect</th>
-                      <th style={{ padding: '1rem 1.25rem', fontWeight: 800, textTransform: 'uppercase', letterSpacing: '0.05em', color: '#3B82F6' }}>Digital Digix</th>
+                      <th style={{ padding: '1rem 1.25rem', fontWeight: 800, textTransform: 'uppercase', letterSpacing: '0.05em', color: '#3B82F6' }}>Business Volunteers</th>
                       <th style={{ padding: '1rem 1.25rem', fontWeight: 800, textTransform: 'uppercase', letterSpacing: '0.05em', color: '#94A3B8' }}>Freelancers</th>
                       <th style={{ padding: '1rem 1.25rem', fontWeight: 800, textTransform: 'uppercase', letterSpacing: '0.05em', color: '#94A3B8' }}>Big Agencies</th>
                       <th style={{ padding: '1rem 1.25rem', fontWeight: 800, textTransform: 'uppercase', letterSpacing: '0.05em', color: '#94A3B8' }}>In-House Team</th>

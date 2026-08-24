@@ -71,14 +71,14 @@ Schema markup is machine-readable code embedded in your website that explicitly 
 {
   "@context": "https://schema.org",
   "@type": "CateringService",
-  "name": "Digital Digix Catering Services",
-  "url": "https://digitaldigix.com",
-  "logo": "https://digitaldigix.com/digital_digix_logo.png",
+  "name": "Business Volunteers Catering Services",
+  "url": "https://businessvolunteers.online",
+  "logo": "https://businessvolunteers.online/digital_digix_logo.png",
   "description": "Premium multi-cuisine wedding, corporate, and event catering services in Gurgaon near Cyber City.",
   "areaServed": ["Gurgaon", "Delhi", "Noida", "Cyber City"],
   "telePhone": "+918586989832",
   "sameAs": [
-    "https://www.instagram.com/digitaldigixcatering",
+    "https://www.instagram.com/businessvolunteers",
     "https://www.weddingwire.in/caterers/digital-digix-catering"
   ]
 }
@@ -95,9 +95,9 @@ AI models prefer content structured with direct, factual answers. Web pages cont
 ```
 AEO Formatting Model for Catering Services:
 +---------------------------------------------------------------------------------+
-| [H2 QUESTION] What catering services and cuisines does Digital Digix provide?   |
+| [H2 QUESTION] What catering services and cuisines does Business Volunteers provide?   |
 +---------------------------------------------------------------------------------+
-| [DIRECT ANSWER] Digital Digix Catering Services provides multi-cuisine wedding  |
+| [DIRECT ANSWER] Business Volunteers Catering Services provides multi-cuisine wedding  |
 | banquets, corporate lunch catering, live food counters, artisanal desserts, and |
 | outdoor party catering in Gurgaon near Cyber City.                             |
 +---------------------------------------------------------------------------------+
@@ -130,7 +130,7 @@ Multi-Platform Entity Citation Map:
 ### Managing Sentiment Across Directory Touchpoints
 To ensure AI models view your catering company as a trusted entity:
 * **Maintain High Rating Scores Across Review Portals:** Sustaining positive ratings on Google Business Profile, WeddingWire, WedMeGood, and Zomato builds strong entity trust.
-* **Encourage Detailed Client Reviews:** Encourage clients to write detailed reviews mentioning specific event details (e.g., *"Digital Digix Catering managed our 500-guest wedding in Cyber City with incredible live counters and punctual service"*). AI models parse review text to verify catering specialization claims.
+* **Encourage Detailed Client Reviews:** Encourage clients to write detailed reviews mentioning specific event details (e.g., *"Business Volunteers Catering managed our 500-guest wedding in Cyber City with incredible live counters and punctual service"*). AI models parse review text to verify catering specialization claims.
 * **Maintain Character-for-Character Brand Uniformity:** Ensure your company Name, Address, and Contact information are uniform across all web directories.
 
 ---
@@ -186,7 +186,7 @@ As AI technology advances throughout 2026 and beyond, conversational search will
 ```
 Future Conversational Discovery Example:
 [ Corporate Planner to Voice AI ]: "Find me a top-rated corporate catering company near Cyber City Gurgaon with multi-cuisine lunch menus, ISO hygiene certification, and 5-star Google reviews."
-[ Voice AI System ]: "I found Digital Digix Catering Services. They maintain a 4.9-star rating across verified reviews, specialize in corporate lunch catering and live counters, hold ISO hygiene credentials, and serve the Cyber City area. Would you like me to connect you via WhatsApp to receive their corporate menu package?"
+[ Voice AI System ]: "I found Business Volunteers Catering Services. They maintain a 4.9-star rating across verified reviews, specialize in corporate lunch catering and live counters, hold ISO hygiene credentials, and serve the Cyber City area. Would you like me to connect you via WhatsApp to receive their corporate menu package?"
 ```
 
 Catering companies that optimize their digital footprint today with structured Schema code, clean citations, active review generation, and express contact workflows will dominate market share in the AI-driven future.
@@ -227,7 +227,7 @@ The evolution of search technology presents a major opportunity for forward-thin
 
 Optimizing for AI engines requires technical Schema execution, structured content creation, directory auditing, and multi-channel performance tracking. Partnering with a specialized digital growth agency allows your management team to build an authoritative digital presence while focusing on delivering world-class culinary hospitality.
 
-Ready to prepare your catering business for the future of search and attract a steady stream of high-ticket event bookings? Digital Digix can help you build an integrated AI search and digital growth strategy. Contact our growth team today to schedule your consultation.
+Ready to prepare your catering business for the future of search and attract a steady stream of high-ticket event bookings? Business Volunteers can help you build an integrated AI search and digital growth strategy. Contact our growth team today to schedule your consultation.
 
 ---
 

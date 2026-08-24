@@ -45,7 +45,7 @@ Different social media networks serve distinct franchise marketing objectives an
 ```
 Multi-Platform Franchise Social Strategy Architecture:
 +-----------------------------------------------------------------------------------+
-|             DIGITAL DIGIX MULTI-PLATFORM FRANCHISE SOCIAL ENGINE                  |
+|             BUSINESS VOLUNTEERS MULTI-PLATFORM FRANCHISE SOCIAL ENGINE                  |
 +-----------------------------------------------------------------------------------+
 |  1. INSTAGRAM (LOCAL CONSUMERS)  ➔ Short-form video Reels, store updates & deals    |
 |  2. FACEBOOK (NEIGHBORHOOD GROUPS)➔ Community news, parent groups & local events   |
@@ -205,7 +205,7 @@ Executing a specialized social media marketing strategy is one of the most effec
 
 Executing enterprise-grade franchise social marketing requires strategic governance, video editing excellence, brand consistency, and multi-channel integration. Partnering with a dedicated digital growth agency enables your operations team to focus on business expansion while social experts scale your brand presence.
 
-Ready to build a consistent online brand and generate more local store customers for your franchise business? Digital Digix can help you construct a complete social media strategy. Contact our social growth specialists today to schedule your consultation.
+Ready to build a consistent online brand and generate more local store customers for your franchise business? Business Volunteers can help you construct a complete social media strategy. Contact our social growth specialists today to schedule your consultation.
 
 ---
 

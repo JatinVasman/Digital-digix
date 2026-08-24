@@ -265,7 +265,7 @@ Building a scalable, profitable EdTech company in 2026 requires moving beyond fr
 
 Executing an enterprise-grade lead generation strategy requires technical setup, continuous campaign optimization, and structured lead funnel management. Partnering with a specialized digital growth agency enables your leadership team to focus on developing world-class educational content while growth experts scale your enrollment pipeline.
 
-Ready to build a high-converting student lead generation funnel that delivers qualified, paying enrollments to your EdTech company? Digital Digix can help you build a complete performance marketing strategy. Contact our growth team today to schedule your consultation.
+Ready to build a high-converting student lead generation funnel that delivers qualified, paying enrollments to your EdTech company? Business Volunteers can help you build a complete performance marketing strategy. Contact our growth team today to schedule your consultation.
 
 ---
 

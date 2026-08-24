@@ -216,7 +216,7 @@ In a highly competitive financial services market, personal branding for bank ow
 
 Building an authoritative personal brand requires strategic consistency, clear positioning, and professional digital management. Partnering with a specialized digital growth agency allows banking leadership to build personal authority and scale organizational revenues without distracting from financial risk management.
 
-Ready to build an authoritative personal brand that fills your bank branches with loyal customers? Digital Digix can help you build a complete personal branding and digital strategy. Contact our growth team today to schedule your consultation.
+Ready to build an authoritative personal brand that fills your bank branches with loyal customers? Business Volunteers can help you build a complete personal branding and digital strategy. Contact our growth team today to schedule your consultation.
 
 ---
 

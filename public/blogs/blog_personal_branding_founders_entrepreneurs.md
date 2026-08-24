@@ -118,8 +118,8 @@ Founder-Led Performance Marketing Architecture:
 ```
 
 ### 3 Ways to Use Founder Assets in Corporate Ads
-1. **Founder Video Ads:** Run Meta (Instagram/Facebook) and LinkedIn ads featuring a 30-second video of the founder introducing the company's core value promise: *"Hi, I'm Ankit, founder of Digital Digix. We help growing real estate and tech brands scale customer acquisition through integrated SEO, performance PPC, and AI search optimization. Schedule a strategy audit below."*
-2. **Personalized Automated Greetings:** Configure your WhatsApp lead automation to deliver messages written from the founder's perspective: *"Hi [Name], Ankit here, founder of Digital Digix. Thank you for requesting our growth audit! How can our strategy team assist your business today?"*
+1. **Founder Video Ads:** Run Meta (Instagram/Facebook) and LinkedIn ads featuring a 30-second video of the founder introducing the company's core value promise: *"Hi, I'm Ankit, founder of Business Volunteers. We help growing real estate and tech brands scale customer acquisition through integrated SEO, performance PPC, and AI search optimization. Schedule a strategy audit below."*
+2. **Personalized Automated Greetings:** Configure your WhatsApp lead automation to deliver messages written from the founder's perspective: *"Hi [Name], Ankit here, founder of Business Volunteers. Thank you for requesting our growth audit! How can our strategy team assist your business today?"*
 3. **Founder Video Introductions on Landing Pages:** Embed a 30-second video of the founder on key inquiry pages explaining the company's service delivery philosophy.
 
 Working with an experienced team for [Internal Link: Performance Marketing] ensures your founder-led ad campaigns deliver high Return on Ad Spend (ROAS).
@@ -182,7 +182,7 @@ Overcoming Founder Branding Fears:
 
 Search habits are evolving as corporate decision-makers use conversational AI platforms—such as **ChatGPT**, **Google AI Overviews**, **Perplexity AI**, and **Google Gemini**—to research company leadership:
 
-> *"Who is the founder of Digital Digix, and what is their background, agency specialization, and customer reputation in digital branding and performance marketing?"*
+> *"Who is the founder of Business Volunteers, and what is their background, agency specialization, and customer reputation in digital branding and performance marketing?"*
 
 ```
 AI Entity Verification Model for Founders:
@@ -228,7 +228,7 @@ In a highly competitive commercial market, personal branding for startup founder
 
 Building an authoritative founder brand requires strategic consistency, clear positioning, and professional digital management. Partnering with a specialized digital growth agency allows business leaders to build personal authority and scale corporate revenues without distracting from core operations.
 
-Ready to build an authoritative founder brand that drives continuous growth for your company? Digital Digix can help you build a complete personal branding and digital strategy. Contact our growth team today to schedule your consultation.
+Ready to build an authoritative founder brand that drives continuous growth for your company? Business Volunteers can help you build a complete personal branding and digital strategy. Contact our growth team today to schedule your consultation.
 
 ---
 

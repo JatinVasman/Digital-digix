@@ -258,7 +258,7 @@ Building a high-growth architectural practice requires combining these individua
 
 ```
 +-----------------------------------------------------------------------------------+
-|              DIGITAL DIGIX INTEGRATED ARCHITECTURE FIRM GROWTH SYSTEM             |
+|              BUSINESS VOLUNTEERS INTEGRATED ARCHITECTURE FIRM GROWTH SYSTEM             |
 +-----------------------------------------------------------------------------------+
 |  1. ATTRACT   ➔ Local SEO, Google Maps 3-Pack, B2B Search PPC & LinkedIn Ads     |
 |  2. ENGAGE    ➔ Mobile Landing Pages, Portfolio Decks, Principal Personal Brand   |
@@ -303,7 +303,7 @@ Building a high-growth, high-margin architecture firm, architectural studio, or 
 
 Executing an enterprise-grade digital marketing strategy requires specialized technical management, continuous campaign optimization, and conversion-focused portfolio presentation. Partnering with a dedicated digital growth agency enables your design leadership to focus on creating world-class architecture while growth experts scale your project pipeline.
 
-Ready to position your architecture firm at the forefront of digital client acquisition and secure high-value commercial design commissions? Digital Digix can help you build a complete digital strategy. Contact our architecture growth specialists today to schedule your consultation.
+Ready to position your architecture firm at the forefront of digital client acquisition and secure high-value commercial design commissions? Business Volunteers can help you build a complete digital strategy. Contact our architecture growth specialists today to schedule your consultation.
 
 ---
 

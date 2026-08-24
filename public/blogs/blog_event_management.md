@@ -138,7 +138,7 @@ Don't spend money blindly. Track these Key Performance Indicators (KPIs):
 3. **Return on Ad Spend (ROAS):** For every ₹1 spent on ads, how much revenue is generated?
 4. **Organic Traffic Growth:** Are more people finding you via Google Search?
 
-At Digital Digix, we set up real-time Looker Studio dashboards so you can see exactly where your marketing budget is going.
+At Business Volunteers, we set up real-time Looker Studio dashboards so you can see exactly where your marketing budget is going.
 
 ---
 
@@ -208,7 +208,7 @@ The era of relying solely on your vendor network and offline contacts is over. T
 
 Ready to fill your calendar with premium events? 
 
-**Digital Digix** is a founder-led digital marketing agency in Noida, India, specializing in growing event management companies. With experience across 89+ industries and over 2,700 clients, we know exactly what it takes to make your brand shine. We offer transparent pricing, no lock-in contracts, and post-pay options.
+**Business Volunteers** is a founder-led digital marketing agency in Noida, India, specializing in growing event management companies. With experience across 89+ industries and over 2,700 clients, we know exactly what it takes to make your brand shine. We offer transparent pricing, no lock-in contracts, and post-pay options.
 
 📞 **Call us today: +91 85869 89832**
-🌐 **Visit: [digitaldigix.com](https://digitaldigix.com)**
+🌐 **Visit: [businessvolunteers.online](https://businessvolunteers.online)**

@@ -66,7 +66,7 @@ export const AboutUs: React.FC<AboutUsProps> = ({
         {/* 1. HERO HEADER & TAGLINE */}
         <div className="section-header" style={{ textAlign: 'center', maxWidth: '850px', margin: '0 auto 4rem auto' }}>
           <div className="section-tag" style={{ letterSpacing: '0.1em' }}>
-            SEEN. HEARD. CHOSEN. — ABOUT DIGITAL DIGIX
+            SEEN. HEARD. CHOSEN. — ABOUT BUSINESS VOLUNTEERS
           </div>
           {isStandalone ? (
             <h1 style={{ fontSize: '3.2rem', fontWeight: 900, marginBottom: '1.25rem', lineHeight: 1.15, fontFamily: 'Outfit, sans-serif' }}>
@@ -94,7 +94,7 @@ export const AboutUs: React.FC<AboutUsProps> = ({
           <div className="responsive-4-grid" style={{ maxWidth: '1000px', margin: '0 auto' }}>
             <div className="differentiator-card" onClick={() => { if (onOpenLeaderModal) onOpenLeaderModal('why-us'); }}>
               <div style={{ fontSize: '1.75rem', marginBottom: '0.5rem', color: 'var(--primary)' }}>👑</div>
-              <h4 style={{ fontSize: '1.15rem', fontWeight: 800, marginBottom: '0.4rem', color: 'var(--secondary)', fontFamily: 'Outfit, sans-serif' }}>Founder-Led Accounts</h4>
+              <h4 style={{ fontSize: '1.15rem', fontWeight: 800, marginBottom: '0.4rem', color: 'var(--secondary)', fontFamily: 'Outfit, sans-serif' }}>Founder-Led & Hands-On</h4>
               <p style={{ fontSize: '0.85rem', color: 'var(--text-muted)', lineHeight: 1.55 }}>
                 Senior founders Harsh Chaudhary (CEO) and Khwahish Sahai (Creative Director) directly manage and oversee your campaigns.
               </p>
@@ -110,7 +110,7 @@ export const AboutUs: React.FC<AboutUsProps> = ({
 
             <div className="differentiator-card" onClick={() => { if (onOpenLeaderModal) onOpenLeaderModal('why-us'); }}>
               <div style={{ fontSize: '1.75rem', marginBottom: '0.5rem', color: 'var(--primary)' }}>💳</div>
-              <h4 style={{ fontSize: '1.15rem', fontWeight: 800, marginBottom: '0.4rem', color: 'var(--secondary)', fontFamily: 'Outfit, sans-serif' }}>Post-Pay Flexibility</h4>
+              <h4 style={{ fontSize: '1.15rem', fontWeight: 800, marginBottom: '0.4rem', color: 'var(--secondary)', fontFamily: 'Outfit, sans-serif' }}>Post-Pay Available on Selected Projects</h4>
               <p style={{ fontSize: '0.85rem', color: 'var(--text-muted)', lineHeight: 1.55 }}>
                 Flexible milestone-based payment structures aligned directly with campaign execution and performance deliverables.
               </p>
@@ -118,7 +118,7 @@ export const AboutUs: React.FC<AboutUsProps> = ({
 
             <div className="differentiator-card" onClick={() => { if (onOpenLeaderModal) onOpenLeaderModal('why-us'); }}>
               <div style={{ fontSize: '1.75rem', marginBottom: '0.5rem', color: 'var(--primary)' }}>📊</div>
-              <h4 style={{ fontSize: '1.15rem', fontWeight: 800, marginBottom: '0.4rem', color: 'var(--secondary)', fontFamily: 'Outfit, sans-serif' }}>Data Science Meets Design</h4>
+              <h4 style={{ fontSize: '1.15rem', fontWeight: 800, marginBottom: '0.4rem', color: 'var(--secondary)', fontFamily: 'Outfit, sans-serif' }}>Transparent KPI Dashboards</h4>
               <p style={{ fontSize: '0.85rem', color: 'var(--text-muted)', lineHeight: 1.55 }}>
                 Custom real-time KPI and revenue dashboards giving you 100% complete transparency into ad spend, leads, and ROAS.
               </p>
@@ -130,7 +130,7 @@ export const AboutUs: React.FC<AboutUsProps> = ({
         <div style={{ marginBottom: '5rem' }}>
           <div style={{ textAlign: 'center', marginBottom: '3rem' }}>
             <span className="section-tag">EXECUTIVE LEADERSHIP</span>
-            <h3 style={{ fontSize: '2.5rem', fontWeight: 900 }}>Meet the Founders Behind Digital Digix</h3>
+            <h3 style={{ fontSize: '2.5rem', fontWeight: 900 }}>Meet the Founders Behind Business Volunteers</h3>
             <p style={{ color: 'var(--text-muted)', fontSize: '1rem' }}>Direct founder oversight on every client strategy</p>
           </div>
 

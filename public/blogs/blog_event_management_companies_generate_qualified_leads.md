@@ -203,7 +203,7 @@ Executing a structured lead generation strategy is the single most effective com
 
 Executing enterprise-grade event lead generation requires technical web architecture, search engine precision, visual content creation, and CRM integration. Partnering with a dedicated digital growth agency enables your creative team to focus on event execution while marketing experts scale your inquiry pipeline.
 
-Ready to generate more wedding bookings, corporate event retainers, and real estate launch contracts for your event management business? Digital Digix can help you construct a complete lead generation strategy. Contact our event growth specialists today to schedule your consultation.
+Ready to generate more wedding bookings, corporate event retainers, and real estate launch contracts for your event management business? Business Volunteers can help you construct a complete lead generation strategy. Contact our event growth specialists today to schedule your consultation.
 
 ---
 

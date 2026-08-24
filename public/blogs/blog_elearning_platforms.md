@@ -2,7 +2,7 @@
 
 My e-learning platform covers CA and UPSC content with 50+ excellent faculty members. But Unacademy and PhysicsWallah have marketing budgets I can't match, and we're losing student registrations every month. We know our teaching is superior, but students are drawn to the platforms with the loudest marketing and the biggest YouTube presence. In the hyper-competitive Indian EdTech market of 2026, having great teachers isn't enough; you need a flawless digital funnel to acquire and retain students.
 
-At Digital Digix, a founder-led digital marketing agency in Noida serving 89+ industries, we've helped independent e-learning platforms, coaching institutes, and creators build sustainable growth engines that compete with the giants without burning millions in VC funding. Here is the blueprint.
+At Business Volunteers, a founder-led digital marketing agency in Noida serving 89+ industries, we've helped independent e-learning platforms, coaching institutes, and creators build sustainable growth engines that compete with the giants without burning millions in VC funding. Here is the blueprint.
 
 ## Why Digital Marketing Matters for E-Learning NOW
 
@@ -209,9 +209,9 @@ The Indian EdTech market is vast but ruthless. To scale your platform in 2026, y
 
 Ready to scale your enrollments?
 
-**Digital Digix** is India's leading founder-led digital marketing agency based in Noida, serving over 89+ industries including top EdTech platforms. We offer expert App Store Optimization, YouTube growth strategy, Meta Lead Generation, and WhatsApp automation with no lock-in contracts and post-pay options.
+**Business Volunteers** is India's leading founder-led digital marketing agency based in Noida, serving over 89+ industries including top EdTech platforms. We offer expert App Store Optimization, YouTube growth strategy, Meta Lead Generation, and WhatsApp automation with no lock-in contracts and post-pay options.
 
 📞 **Contact us today:** +91 85869 89832
-🌐 **Visit us:** [digitaldigix.com](https://digitaldigix.com)
+🌐 **Visit us:** [businessvolunteers.online](https://businessvolunteers.online)
 
-*Tags: #EdTechMarketing #ELearningIndia #DigitalMarketing #StudentAcquisition #AppMarketing #DigitalDigix*
+*Tags: #EdTechMarketing #ELearningIndia #DigitalMarketing #StudentAcquisition #AppMarketing #BusinessVolunteers*

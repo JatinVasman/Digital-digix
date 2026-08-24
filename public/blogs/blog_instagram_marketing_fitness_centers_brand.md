@@ -38,7 +38,7 @@ High-Converting Instagram Profile Blueprint:
 |                💪 50+ Modern Machines | Certified Personal Trainers              |
 |                📍 B-12, Sector 62, Noida (Near Metro)                           |
 |  ACTION LINK ➔ 👇 Claim Your Free 3-Day VIP Access Pass Here                   |
-|                [https://digitaldigix.com/trial-pass]                    |
+|                [https://businessvolunteers.online/trial-pass]                    |
 +---------------------------------------------------------------------------------+
 |  HIGHLIGHTS  ➔ [📍 Location] [🏋️ Gym Tour] [💪 Results] [⭐ Reviews] [🎟️ Pass] |
 +---------------------------------------------------------------------------------+
@@ -233,7 +233,7 @@ Instagram marketing is one of the most effective commercial growth assets availa
 
 Building and executing a high-converting Instagram strategy requires ongoing video creation, ad optimization, and technical lead automation. Partnering with a dedicated digital growth agency enables you to focus on running your gym and serving your members while growth experts scale your digital membership pipeline.
 
-Ready to turn your gym’s Instagram presence into a reliable source of qualified leads and paid memberships? Digital Digix can help you build a complete social acquisition strategy. Contact our growth team today to schedule your consultation.
+Ready to turn your gym’s Instagram presence into a reliable source of qualified leads and paid memberships? Business Volunteers can help you build a complete social acquisition strategy. Contact our growth team today to schedule your consultation.
 
 ---
 

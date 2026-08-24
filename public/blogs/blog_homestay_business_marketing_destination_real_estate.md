@@ -200,7 +200,7 @@ Executing a structured digital marketing strategy tailored for destination searc
 
 Executing enterprise-grade commercial homestay marketing requires web architecture precision, destination search expertise, hospitality governance, and CRM integration. Partnering with a dedicated digital growth agency enables your host team to focus on delivering quality service while marketing experts scale your business pipeline.
 
-Ready to attract more corporate retreat buyouts and secure high-value property management accounts for your homestay business? Digital Digix can help you construct a complete B2B marketing strategy. Contact our hospitality growth specialists today to schedule your consultation.
+Ready to attract more corporate retreat buyouts and secure high-value property management accounts for your homestay business? Business Volunteers can help you construct a complete B2B marketing strategy. Contact our hospitality growth specialists today to schedule your consultation.
 
 ---
 

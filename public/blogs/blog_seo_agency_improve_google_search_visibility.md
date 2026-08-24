@@ -211,7 +211,7 @@ Executing a structured search engine optimization strategy with a specialized SE
 
 Executing enterprise-grade SEO requires technical precision, search engine expertise, creative copywriting, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your internal leadership team to focus on core operations while SEO experts scale your organic pipeline.
 
-Ready to achieve top Google rankings and generate more organic leads for your business? Digital Digix can help you construct a complete search engine strategy. Contact our SEO growth specialists today to schedule your consultation.
+Ready to achieve top Google rankings and generate more organic leads for your business? Business Volunteers can help you construct a complete search engine strategy. Contact our SEO growth specialists today to schedule your consultation.
 
 ---
 

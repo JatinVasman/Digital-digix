@@ -203,7 +203,7 @@ Executing a structured B2B lead generation strategy is the single most effective
 
 Executing enterprise-grade cybersecurity lead generation requires messaging precision, technical web development, SEO expertise, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your internal engineering team to focus on security operations while marketing experts scale your client acquisition.
 
-Ready to generate more qualified B2B leads for your cybersecurity business? Digital Digix can help you construct a complete lead generation strategy. Contact our growth specialists today to schedule your consultation.
+Ready to generate more qualified B2B leads for your cybersecurity business? Business Volunteers can help you construct a complete lead generation strategy. Contact our growth specialists today to schedule your consultation.
 
 ---
 

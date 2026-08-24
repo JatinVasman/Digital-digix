@@ -23,9 +23,9 @@ export const LegalDetailsPage: React.FC<LegalDetailsPageProps> = ({
     window.scrollTo(0, 0);
     if (!service) return;
 
-    const pageTitle = `${service.title} — Legal Marketing & Practice Growth | Digital Digix`;
+    const pageTitle = `${service.title} — Legal Marketing & Practice Growth | Business Volunteers`;
     const pageDesc = service.description || service.explanation;
-    const canonicalUrl = `https://digitaldigix.com/legal/${cleanQuery}`;
+    const canonicalUrl = `https://businessvolunteers.online/legal/${cleanQuery}`;
 
     document.title = pageTitle;
 
@@ -55,16 +55,16 @@ export const LegalDetailsPage: React.FC<LegalDetailsPageProps> = ({
           "description": pageDesc,
           "provider": {
             "@type": "Organization",
-            "name": "Digital Digix",
-            "url": "https://digitaldigix.com"
+            "name": "Business Volunteers",
+            "url": "https://businessvolunteers.online"
           }
         },
         {
           "@type": "BreadcrumbList",
           "@id": `${canonicalUrl}#breadcrumb`,
           "itemListElement": [
-            { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://digitaldigix.com/" },
-            { "@type": "ListItem", "position": 2, "name": "Legal Marketing", "item": "https://digitaldigix.com/legal" },
+            { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://businessvolunteers.online/" },
+            { "@type": "ListItem", "position": 2, "name": "Legal Marketing", "item": "https://businessvolunteers.online/legal" },
             { "@type": "ListItem", "position": 3, "name": service.title, "item": canonicalUrl }
           ]
         }

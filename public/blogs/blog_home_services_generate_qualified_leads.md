@@ -206,7 +206,7 @@ Executing a structured lead generation strategy is the single most effective com
 
 Executing enterprise-grade home service lead generation requires web architecture precision, local search expertise, trade governance, and CRM integration. Partnering with a dedicated digital growth agency enables your field crew to focus on delivering quality service while marketing experts scale your business pipeline.
 
-Ready to generate more qualified leads and booked jobs for your home service business? Digital Digix can help you construct a complete lead generation strategy. Contact our local service growth specialists today to schedule your consultation.
+Ready to generate more qualified leads and booked jobs for your home service business? Business Volunteers can help you construct a complete lead generation strategy. Contact our local service growth specialists today to schedule your consultation.
 
 ---
 

@@ -221,7 +221,7 @@ Building a high-converting guest acquisition and booking funnel is the single mo
 
 Executing enterprise-grade homestay funnel optimization requires messaging precision, UX design expertise, web architecture, and CRM integration. Partnering with a dedicated digital growth agency enables your host team to focus on delivering exceptional guest experiences while marketing experts scale your location pipelines.
 
-Ready to build a predictable, high-converting guest acquisition funnel for your homestay business? Digital Digix can help you construct a complete funnel strategy. Contact our hospitality growth specialists today to schedule your consultation.
+Ready to build a predictable, high-converting guest acquisition funnel for your homestay business? Business Volunteers can help you construct a complete funnel strategy. Contact our hospitality growth specialists today to schedule your consultation.
 
 ---
 

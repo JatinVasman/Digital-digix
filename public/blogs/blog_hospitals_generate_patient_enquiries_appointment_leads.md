@@ -215,7 +215,7 @@ Executing a structured lead generation strategy is the single most effective com
 
 Executing enterprise-grade hospital lead generation requires technical web precision, medical compliance knowledge, healthcare copywriting, and CRM integration. Partnering with a dedicated digital growth agency enables your clinical team to focus on delivering world-class patient care while marketing experts scale your appointment pipeline.
 
-Ready to generate more qualified appointment enquiries for your hospital or healthcare organization? Digital Digix can help you construct a complete lead generation strategy. Contact our hospital growth specialists today to schedule your consultation.
+Ready to generate more qualified appointment enquiries for your hospital or healthcare organization? Business Volunteers can help you construct a complete lead generation strategy. Contact our hospital growth specialists today to schedule your consultation.
 
 ---
 

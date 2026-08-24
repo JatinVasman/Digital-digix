@@ -218,7 +218,7 @@ Building a high-converting patient appointment funnel is the single most effecti
 
 Executing an enterprise-grade diagnostic funnel optimization program requires messaging precision, UX design expertise, web architecture, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your medical team to focus on testing accuracy and patient care while marketing experts scale your appointment pipeline.
 
-Ready to build a predictable, high-converting patient appointment funnel for your diagnostic center? Digital Digix can help you construct a complete funnel strategy. Contact our healthcare growth specialists today to schedule your consultation.
+Ready to build a predictable, high-converting patient appointment funnel for your diagnostic center? Business Volunteers can help you construct a complete funnel strategy. Contact our healthcare growth specialists today to schedule your consultation.
 
 ---
 

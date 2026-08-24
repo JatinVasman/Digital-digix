@@ -201,7 +201,7 @@ Executing a structured Google Ads strategy is the single fastest way for a franc
 
 Executing enterprise-grade franchise Google Ads management requires PPC precision, local search expertise, creative copywriting, and conversion analytics. Partnering with a dedicated digital growth agency enables your operations team to focus on customer service while paid media experts scale your location pipelines.
 
-Ready to generate more local customers and qualified franchisee inquiries through Google Ads? Digital Digix can help you construct a complete paid search strategy. Contact our PPC growth specialists today to schedule your consultation.
+Ready to generate more local customers and qualified franchisee inquiries through Google Ads? Business Volunteers can help you construct a complete paid search strategy. Contact our PPC growth specialists today to schedule your consultation.
 
 ---
 

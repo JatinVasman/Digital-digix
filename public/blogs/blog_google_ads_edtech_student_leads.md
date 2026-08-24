@@ -229,7 +229,7 @@ Scaling enrollments for an EdTech company in 2026 requires building a discipline
 
 Executing enterprise-grade Google Ads campaigns requires specialized PPC expertise, continuous conversion rate optimization, and structured lead funnel management. Partnering with a specialized digital growth agency enables your leadership team to focus on developing world-class educational content while growth experts scale your enrollment pipeline.
 
-Ready to transform your EdTech company’s Google Ads into a predictable source of qualified student leads and enrollments? Digital Digix can help you build a complete performance marketing strategy. Contact our Google PPC specialists today to schedule your account audit.
+Ready to transform your EdTech company’s Google Ads into a predictable source of qualified student leads and enrollments? Business Volunteers can help you build a complete performance marketing strategy. Contact our Google PPC specialists today to schedule your account audit.
 
 ---
 

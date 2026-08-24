@@ -236,7 +236,7 @@ Social media marketing is one of the most powerful student acquisition assets av
 
 Building and managing a high-converting social media acquisition engine requires ongoing video production, ad campaign management, and technical lead automation. Partnering with a dedicated digital growth agency enables your leadership team to focus on developing world-class educational content while growth experts scale your enrollment pipeline.
 
-Ready to turn your EdTech platform’s social media presence into a reliable source of qualified student leads and paid enrollments? Digital Digix can help you build a complete social acquisition strategy. Contact our social media team today to schedule your consultation.
+Ready to turn your EdTech platform’s social media presence into a reliable source of qualified student leads and paid enrollments? Business Volunteers can help you build a complete social acquisition strategy. Contact our social media team today to schedule your consultation.
 
 ---
 

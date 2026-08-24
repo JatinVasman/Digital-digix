@@ -257,7 +257,7 @@ Building a market-leading accounting firm or CA practice in 2026 requires establ
 
 Executing an enterprise-grade accounting SEO program requires deep technical expertise, continuous keyword monitoring, and structured content production. Partnering with a dedicated digital growth agency enables your practice leadership to focus on delivering high-value financial advisory services while growth experts scale your organic digital presence.
 
-Ready to position your accounting firm at the top of organic search results and drive continuous corporate client inquiries? Digital Digix can help you build a complete organic growth strategy. Contact our SEO specialists today to schedule your domain audit.
+Ready to position your accounting firm at the top of organic search results and drive continuous corporate client inquiries? Business Volunteers can help you build a complete organic growth strategy. Contact our SEO specialists today to schedule your domain audit.
 
 ---
 

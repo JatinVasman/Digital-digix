@@ -217,7 +217,7 @@ In a highly competitive cosmetics and skincare market, personal branding for bea
 
 Building an authoritative founder brand requires strategic consistency, clear positioning, and professional digital management. Partnering with a specialized digital growth agency allows beauty entrepreneurs to build personal authority and scale e-commerce revenues without distracting from product formulation and business operations.
 
-Ready to build an authoritative founder brand that drives continuous online sales for your beauty company? Digital Digix can help you build a complete personal branding and digital strategy. Contact our growth team today to schedule your consultation.
+Ready to build an authoritative founder brand that drives continuous online sales for your beauty company? Business Volunteers can help you build a complete personal branding and digital strategy. Contact our growth team today to schedule your consultation.
 
 ---
 

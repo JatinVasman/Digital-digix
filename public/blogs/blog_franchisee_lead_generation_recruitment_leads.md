@@ -200,7 +200,7 @@ Executing a structured digital marketing strategy tailored for franchisee recrui
 
 Executing enterprise-grade franchisee lead generation requires web architecture precision, search engine expertise, brand governance, and CRM integration. Partnering with a dedicated digital growth agency enables your corporate operations team to focus on network support while marketing experts scale your franchisee recruitment pipeline.
 
-Ready to recruit more qualified franchisees and expand your brand into new territories? Digital Digix can help you construct a complete franchisee lead generation strategy. Contact our franchise growth specialists today to schedule your consultation.
+Ready to recruit more qualified franchisees and expand your brand into new territories? Business Volunteers can help you construct a complete franchisee lead generation strategy. Contact our franchise growth specialists today to schedule your consultation.
 
 ---
 
