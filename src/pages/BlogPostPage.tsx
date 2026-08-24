@@ -195,11 +195,11 @@ export const BlogPostPage: React.FC<BlogPostPageProps> = ({ slug, onNavigate, on
               {related.map(r => (
                 <a
                   key={r.slug}
-                  href={`/blogs/${encodeURIComponent(r.slug)}`}
+                  href={`/blogs/${r.slug.replace(/^strategy\//, '')}`}
                   className="bpp-related-item"
                   onClick={(e) => {
                     e.preventDefault();
-                    onNavigate('blog-post', r.slug);
+                    onNavigate('blog-post', r.slug.replace(/^strategy\//, ''));
                   }}
                   style={{ textDecoration: 'none', display: 'flex', flexDirection: 'column', textAlign: 'left' }}
                 >

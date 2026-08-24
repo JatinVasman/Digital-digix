@@ -154,9 +154,14 @@ export function parseRoute(pathname: string, search: string): RouteInfo {
 
   if (first === 'blogs' || first === 'blog') {
     if (second) {
-      return { page: 'blog-post', slug: rawSegments.slice(1).join('/') };
+      let slug = decodeURIComponent(rawSegments.slice(1).join('/')).replace(/^strategy\//, '');
+      return { page: 'blog-post', slug };
     }
     return { page: 'blog' };
+  }
+
+  if (first === 'html-sitemap' || first === 'sitemap') {
+    return { page: 'html-sitemap' };
   }
 
   if (first === 'about' || first === 'about-us') {
@@ -276,8 +281,13 @@ export function getRoutePath(page: PageView, slug?: string): string {
     }
     case 'blog':
       return '/blogs';
-    case 'blog-post':
-      return slug ? `/blogs/${encodeURIComponent(slug)}` : '/blogs';
+    case 'blog-post': {
+      if (!slug) return '/blogs';
+      const cleanSlug = slug.replace(/^strategy\//, '').replace(/[^a-zA-Z0-9_-]+/g, '-');
+      return `/blogs/${cleanSlug}`;
+    }
+    case 'html-sitemap':
+      return '/html-sitemap';
     case 'about': {
       if (!slug) return '/about';
       let cleanSlug = slug.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');

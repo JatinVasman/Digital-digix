@@ -38,6 +38,7 @@ import { ServiceDetailPage } from './pages/ServiceDetailPage';
 import { GraphicDetailPage } from './pages/GraphicDetailPage';
 import { GraphicItemDetailPage } from './pages/GraphicItemDetailPage';
 import { LocationsDirectoryPage } from './pages/LocationsDirectoryPage';
+import { HtmlSitemapPage } from './pages/HtmlSitemapPage';
 import { NotFoundPage } from './pages/NotFoundPage';
 import { updatePageSeo } from './utils/seoManager';
 import { parseRoute, getRoutePath } from './utils/routes';
@@ -404,6 +405,13 @@ export const App: React.FC = () => {
           <LocationsDirectoryPage
             onNavigate={handleNavigate}
             onSelectLocation={handleSelectLocation}
+          />
+        )}
+
+        {activePage === 'html-sitemap' && (
+          <HtmlSitemapPage
+            onNavigate={handleNavigate}
+            onOpenStrategyModal={handleOpenStrategyModal}
           />
         )}
 

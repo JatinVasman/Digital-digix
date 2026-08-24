@@ -133,6 +133,9 @@ const fallbackCities = [
 ];
 fallbackCities.forEach(c => addUrl(`/digital-marketing/${c}`, 'monthly', '0.7'));
 
+// Also add HTML Sitemap page
+addUrl('/html-sitemap', 'weekly', '0.7');
+
 // 7. All Blog Posts from blogData.ts & public/blogs directory
 const blogDataPath = path.join(process.cwd(), 'src', 'data', 'blogData.ts');
 if (fs.existsSync(blogDataPath)) {
@@ -141,28 +144,21 @@ if (fs.existsSync(blogDataPath)) {
   for (const match of slugMatches) {
     const slug = match[1];
     if (slug) {
-      addUrl(`/blogs/${encodeURIComponent(slug)}`, 'monthly', '0.8');
+      const cleanSlug = slug.replace(/^strategy\//, '').replace(/[^a-zA-Z0-9_-]+/g, '-');
+      addUrl(`/blogs/${cleanSlug}`, 'monthly', '0.8');
     }
   }
 }
 
-// Also scan markdown files in public/blogs/ and public/blogs/strategy/
+// Also scan markdown files in public/blogs/
 const blogsDir = path.join(process.cwd(), 'public', 'blogs');
 if (fs.existsSync(blogsDir)) {
   const rootFiles = fs.readdirSync(blogsDir).filter(f => f.endsWith('.md'));
   rootFiles.forEach(f => {
     const slug = f.replace(/\.md$/, '');
-    addUrl(`/blogs/${encodeURIComponent(slug)}`, 'monthly', '0.8');
+    const cleanSlug = slug.replace(/^strategy\//, '').replace(/[^a-zA-Z0-9_-]+/g, '-');
+    addUrl(`/blogs/${cleanSlug}`, 'monthly', '0.8');
   });
-
-  const stratDir = path.join(blogsDir, 'strategy');
-  if (fs.existsSync(stratDir)) {
-    const stratFiles = fs.readdirSync(stratDir).filter(f => f.endsWith('.md'));
-    stratFiles.forEach(f => {
-      const slug = `strategy/${f.replace(/\.md$/, '')}`;
-      addUrl(`/blogs/${encodeURIComponent(slug)}`, 'monthly', '0.8');
-    });
-  }
 }
 
 // Generate valid XML

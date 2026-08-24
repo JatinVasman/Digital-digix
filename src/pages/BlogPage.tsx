@@ -171,10 +171,10 @@ export const BlogPage: React.FC<BlogPageProps> = ({ onNavigate, onOpenStrategyMo
                   className="bv-card"
                 >
                   <a
-                    href={`/blogs/${encodeURIComponent(blog.slug)}`}
+                    href={`/blogs/${blog.slug.replace(/^strategy\//, '')}`}
                     onClick={(e) => {
                       e.preventDefault();
-                      onNavigate('blog-post', blog.slug);
+                      onNavigate('blog-post', blog.slug.replace(/^strategy\//, ''));
                     }}
                     style={{ textDecoration: 'none', color: 'inherit', display: 'flex', flexDirection: 'column', height: '100%' }}
                   >
