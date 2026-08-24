@@ -221,7 +221,7 @@ Building a high-converting membership marketing funnel is the single most effect
 
 Executing enterprise-grade gym funnel optimization requires messaging precision, UX design expertise, web architecture, and CRM integration. Partnering with a dedicated digital growth agency enables your coaching team to focus on training members while marketing experts scale your location pipelines.
 
-Ready to build a predictable, high-converting membership marketing funnel for your gym? Digital Digix can help you construct a complete funnel strategy. Contact our gym growth specialists today to schedule your consultation.
+Ready to build a predictable, high-converting membership marketing funnel for your gym? Business Volunteers can help you construct a complete funnel strategy. Contact our gym growth specialists today to schedule your consultation.
 
 ---
 

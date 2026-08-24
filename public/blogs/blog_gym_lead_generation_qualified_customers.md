@@ -271,7 +271,7 @@ Generating a continuous volume of qualified members is the key to scaling a prof
 
 Building and operating an end-to-end lead generation system requires technical setup, campaign management, and constant data optimization. Partnering with a specialized digital agency enables you to focus on delivering outstanding fitness experiences while growth experts manage your acquisition pipeline.
 
-Ready to build a reliable lead generation engine that delivers qualified, paying members to your gym? Digital Digix can help you build a complete digital strategy. Contact our growth team today to schedule your strategic consultation.
+Ready to build a reliable lead generation engine that delivers qualified, paying members to your gym? Business Volunteers can help you build a complete digital strategy. Contact our growth team today to schedule your strategic consultation.
 
 ---
 

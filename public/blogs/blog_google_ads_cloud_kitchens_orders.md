@@ -187,7 +187,7 @@ Executing a targeted Google Ads strategy is the fastest, most scalable way for a
 
 Executing an enterprise-grade cloud kitchen PPC campaign requires technical ad management, landing page design, conversion tracking, and continuous campaign optimization. Partnering with a dedicated digital growth agency enables your culinary team to focus on food quality while growth experts build your paid acquisition pipeline.
 
-Ready to launch a high-performance Google Ads campaign that drives direct orders for your cloud kitchen? Digital Digix can help you construct a complete paid search strategy. Contact our PPC specialists today to schedule your consultation.
+Ready to launch a high-performance Google Ads campaign that drives direct orders for your cloud kitchen? Business Volunteers can help you construct a complete paid search strategy. Contact our PPC specialists today to schedule your consultation.
 
 ---
 

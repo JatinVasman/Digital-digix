@@ -232,7 +232,7 @@ The evolution of search technology presents a major opportunity for forward-thin
 
 Optimizing for AI engines requires technical Schema execution, structured content creation, directory auditing, and multi-channel performance tracking. Partnering with a specialized digital growth agency allows you to build an authoritative digital presence while focusing on delivering exceptional fitness experiences to your members.
 
-Ready to prepare your fitness business for the future of search and attract a steady stream of qualified members? Digital Digix can help you build an integrated AI search and digital growth strategy. Contact our growth team today to schedule your consultation.
+Ready to prepare your fitness business for the future of search and attract a steady stream of qualified members? Business Volunteers can help you build an integrated AI search and digital growth strategy. Contact our growth team today to schedule your consultation.
 
 ---
 

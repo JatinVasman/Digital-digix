@@ -212,7 +212,7 @@ Building a custom data dashboard architecture is the single most effective step 
 
 Executing enterprise-grade data dashboards requires data engineering expertise, UI/UX design precision, software development capabilities, and multi-channel integration experience. Partnering with a dedicated digital growth and technology agency enables your leadership team to focus on strategic execution while analytics experts scale your business intelligence infrastructure.
 
-Ready to gain total performance visibility and master your KPIs? Digital Digix can help you construct a complete data dashboard strategy. Contact our technology specialists today to schedule your consultation.
+Ready to gain total performance visibility and master your KPIs? Business Volunteers can help you construct a complete data dashboard strategy. Contact our technology specialists today to schedule your consultation.
 
 ---
 

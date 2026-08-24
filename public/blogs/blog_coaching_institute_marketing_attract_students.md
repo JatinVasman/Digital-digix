@@ -197,7 +197,7 @@ Executing a structured digital marketing strategy is the single most effective i
 
 Executing an enterprise-grade education marketing strategy requires messaging precision, Education SEO expertise, web architecture, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your academic team to focus on teaching excellence while growth experts scale your student acquisition.
 
-Ready to attract more qualified students to your coaching institute ethically? Digital Digix can help you construct a complete education marketing strategy. Contact our student acquisition specialists today to schedule your consultation.
+Ready to attract more qualified students to your coaching institute ethically? Business Volunteers can help you construct a complete education marketing strategy. Contact our student acquisition specialists today to schedule your consultation.
 
 ---
 

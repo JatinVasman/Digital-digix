@@ -221,7 +221,7 @@ Building a high-converting patient acquisition funnel is the single most effecti
 
 Executing enterprise-grade hospital funnel optimization requires messaging precision, UX design expertise, web architecture, and CRM integration. Partnering with a dedicated digital growth agency enables your clinical team to focus on delivering world-class medical care while marketing experts scale your appointment pipeline.
 
-Ready to build a predictable, high-converting patient acquisition funnel for your hospital or healthcare organization? Digital Digix can help you construct a complete funnel strategy. Contact our hospital growth specialists today to schedule your consultation.
+Ready to build a predictable, high-converting patient acquisition funnel for your hospital or healthcare organization? Business Volunteers can help you construct a complete funnel strategy. Contact our hospital growth specialists today to schedule your consultation.
 
 ---
 

@@ -79,7 +79,7 @@ export const InteractiveStatsBar: React.FC<InteractiveStatsBarProps> = ({
           margin: '0 auto 4rem auto'
         }}
       >
-        {/* CARD 1: HAPPY CLIENTS */}
+        {/* CARD 1: HAPPY CLIENTS / CLIENTS GUIDED */}
         <div
           onClick={() => setActiveModal('clients')}
           style={{
@@ -103,7 +103,7 @@ export const InteractiveStatsBar: React.FC<InteractiveStatsBarProps> = ({
             <AnimatedCounter target={2700} suffix="+" />
           </div>
           <div style={{ fontSize: '0.925rem', fontWeight: 800, color: '#0F172A', marginTop: '0.2rem', marginBottom: '0.1rem' }}>
-            Happy Clients
+            Clients Guided
           </div>
           <div style={{ fontSize: '0.78rem', color: '#64748B', fontWeight: 500 }}>
             Across 89 Industries
@@ -165,7 +165,7 @@ export const InteractiveStatsBar: React.FC<InteractiveStatsBarProps> = ({
             <AnimatedCounter target={4.9} suffix="★" decimals={1} />
           </div>
           <div style={{ fontSize: '0.925rem', fontWeight: 800, color: '#0F172A', marginTop: '0.2rem', marginBottom: '0.1rem' }}>
-            Client Rating
+            Average Rating
           </div>
           <div style={{ fontSize: '0.78rem', color: '#64748B', fontWeight: 500 }}>
             Google & Clutch Verified
@@ -218,18 +218,18 @@ export const InteractiveStatsBar: React.FC<InteractiveStatsBarProps> = ({
               <div style={{ width: '44px', height: '44px', borderRadius: '12px', background: '#FFF8F6', color: '#FF4E27', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '1.4rem' }}>🤝</div>
               <div>
                 <span className="section-tag" style={{ fontSize: '0.7rem', marginBottom: '0.15rem' }}>CLIENT TRUST</span>
-                <h3 style={{ fontSize: '1.6rem', fontWeight: 800, color: '#0F172A' }}>2,700+ Happy Clients</h3>
+                <h3 style={{ fontSize: '1.6rem', fontWeight: 800, color: '#0F172A' }}>2,700+ Clients Guided</h3>
               </div>
             </div>
 
             <p style={{ color: '#475569', fontSize: '0.925rem', lineHeight: 1.6, marginBottom: '1.5rem' }}>
-              From high-growth D2C brands and dental clinics to real estate developers and edtech platforms across 89 industries, Digital Digix delivers founder-led performance marketing.
+              From high-growth D2C brands and healthcare clinics to real estate developers and edtech platforms across 89 industries, Business Volunteers delivers founder-led performance marketing.
             </p>
 
             <div style={{ background: '#F8FAFC', padding: '1.25rem', borderRadius: '16px', border: '1px solid #E2E8F0', marginBottom: '1.5rem' }}>
               <h4 style={{ fontSize: '0.875rem', fontWeight: 800, marginBottom: '0.75rem', color: '#0F172A' }}>Top Client Verticals:</h4>
               <ul style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '0.5rem', fontSize: '0.85rem', color: '#475569' }}>
-                <li>✓ Healthcare & Dental Clinics</li>
+                <li>✓ Healthcare & Clinics</li>
                 <li>✓ Real Estate & Developers</li>
                 <li>✓ E-Commerce & D2C Brands</li>
                 <li>✓ Food & Hospitality</li>
@@ -246,7 +246,7 @@ export const InteractiveStatsBar: React.FC<InteractiveStatsBarProps> = ({
                 if (onOpenStrategyModal) onOpenStrategyModal('Client Growth Partnership');
               }}
             >
-              Partner With Digital Digix ➔
+              Partner With Business Volunteers ➔
             </button>
           </div>
         </div>
@@ -266,7 +266,7 @@ export const InteractiveStatsBar: React.FC<InteractiveStatsBarProps> = ({
               <div style={{ width: '44px', height: '44px', borderRadius: '12px', background: '#F0FDF4', color: '#10B981', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '1.4rem' }}>🚀</div>
               <div>
                 <span className="section-tag" style={{ fontSize: '0.7rem', marginBottom: '0.15rem' }}>PROJECT PORTFOLIO</span>
-                <h3 style={{ fontSize: '1.6rem', fontWeight: 800, color: '#0F172A' }}>500+ Delivered Projects</h3>
+                <h3 style={{ fontSize: '1.6rem', fontWeight: 800, color: '#0F172A' }}>250+ Delivered Projects</h3>
               </div>
             </div>
 

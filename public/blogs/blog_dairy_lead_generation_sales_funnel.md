@@ -218,7 +218,7 @@ Building a high-converting customer and sales funnel is the single most effectiv
 
 Executing an enterprise-grade dairy funnel optimization program requires messaging precision, UX design expertise, web architecture, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your farm team to focus on milk production while marketing experts scale your customer sales.
 
-Ready to build a predictable, high-converting customer funnel for your dairy business? Digital Digix can help you construct a complete funnel strategy. Contact our growth specialists today to schedule your consultation.
+Ready to build a predictable, high-converting customer funnel for your dairy business? Business Volunteers can help you construct a complete funnel strategy. Contact our growth specialists today to schedule your consultation.
 
 ---
 

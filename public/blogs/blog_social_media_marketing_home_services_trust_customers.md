@@ -45,7 +45,7 @@ Different social media networks serve distinct home service marketing objectives
 ```
 Multi-Platform Contractor Social Strategy Architecture:
 +-----------------------------------------------------------------------------------+
-|             DIGITAL DIGIX MULTI-PLATFORM HOME SERVICE SOCIAL ENGINE               |
+|             BUSINESS VOLUNTEERS MULTI-PLATFORM HOME SERVICE SOCIAL ENGINE               |
 +-----------------------------------------------------------------------------------+
 |  1. INSTAGRAM (LOCAL HOMEOWNERS) ➔ Project before/after Reels & maintenance tips   |
 |  2. FACEBOOK (NEIGHBORHOOD GROUPS)➔ Local community news, HOA reviews & events     |
@@ -203,7 +203,7 @@ Executing a specialized social media marketing strategy is one of the most effec
 
 Executing enterprise-grade contractor social marketing requires strategic governance, video editing excellence, brand consistency, and multi-channel integration. Partnering with a dedicated digital growth agency enables your field crew to focus on delivering quality service while social experts scale your business presence.
 
-Ready to build an authoritative online brand and generate more quote requests for your home service business? Digital Digix can help you construct a complete social media strategy. Contact our social growth specialists today to schedule your consultation.
+Ready to build an authoritative online brand and generate more quote requests for your home service business? Business Volunteers can help you construct a complete social media strategy. Contact our social growth specialists today to schedule your consultation.
 
 ---
 

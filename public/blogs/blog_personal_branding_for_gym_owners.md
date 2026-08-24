@@ -108,8 +108,8 @@ Owner-Led Performance Marketing Architecture:
 ```
 
 ### 3 Ways to Use Owner Assets in Paid Advertising
-1. **Owner Video Ads:** Run Meta and Google ads featuring a 30-second video of the gym founder introducing their local commitment: *"Hi, I'm Vikram, founder of Digital Digix Fitness in Sector 29 Gurgaon. If you are looking for a clean, modern gym with certified personal trainers and 4.9-star Google reviews, tap below to claim your free 3-day VIP pass."*
-2. **Personalized Automated Greetings:** Configure your WhatsApp lead automation to deliver messages written from the owner's perspective: *"Hi [Name], Vikram here. Thank you for reaching out to Digital Digix Fitness Gurgaon! My team looks forward to welcoming you."*
+1. **Owner Video Ads:** Run Meta and Google ads featuring a 30-second video of the gym founder introducing their local commitment: *"Hi, I'm Vikram, founder of Business Volunteers Fitness in Sector 29 Gurgaon. If you are looking for a clean, modern gym with certified personal trainers and 4.9-star Google reviews, tap below to claim your free 3-day VIP pass."*
+2. **Personalized Automated Greetings:** Configure your WhatsApp lead automation to deliver messages written from the owner's perspective: *"Hi [Name], Vikram here. Thank you for reaching out to Business Volunteers Fitness Gurgaon! My team looks forward to welcoming you."*
 3. **Owner Video Introductions on Landing Pages:** Embed a 30-second video of the owner on location pages allowing prospective members to meet the head coach before booking a visit.
 
 Working with an experienced team for [Internal Link: Google Ads] ensures your owner-led ad campaigns deliver high Return on Ad Spend (ROAS).
@@ -172,7 +172,7 @@ Overcoming Fitness Owner Branding Fears:
 
 Search habits are evolving as local residents use conversational AI search platforms—such as **ChatGPT**, **Google AI Overviews**, **Perplexity AI**, and **Google Gemini**—to research local fitness leaders:
 
-> *"Who is the founder of Digital Digix Fitness in Gurgaon Sector 29, and what is their coaching background, certified credentials, and local customer reputation?"*
+> *"Who is the founder of Business Volunteers Fitness in Gurgaon Sector 29, and what is their coaching background, certified credentials, and local customer reputation?"*
 
 ```
 AI Entity Verification Model for Fitness Leaders:
@@ -218,7 +218,7 @@ In a highly competitive fitness marketplace, combining personal branding with co
 
 Building an authoritative owner brand requires strategic consistency, clear positioning, and professional digital management. Partnering with a specialized digital growth agency allows gym owners to build personal authority and scale membership revenues without distracting from daily coaching operations.
 
-Ready to build an authoritative personal brand that drives membership sales for your fitness business? Digital Digix can help you construct a complete personal branding and customer acquisition strategy. Contact our gym growth team today to schedule your consultation.
+Ready to build an authoritative personal brand that drives membership sales for your fitness business? Business Volunteers can help you construct a complete personal branding and customer acquisition strategy. Contact our gym growth team today to schedule your consultation.
 
 ---
 

@@ -233,10 +233,10 @@ The digital age offers an unprecedented opportunity for NGOs in India. The tools
 
 ---
 **Ready to amplify your NGO's impact and unlock Google Ad Grants?**
-Digital Digix is a founder-led digital marketing agency in Noida, serving 89+ industries including the non-profit sector. With over 2,700 clients, we specialize in managing Google Ad Grants compliance, running emotional Meta ad campaigns, and building transparent, high-converting NGO websites. We offer flexible, post-pay models with no lock-in contracts.
+Business Volunteers is a founder-led digital marketing agency in Noida, serving 89+ industries including the non-profit sector. With over 2,700 clients, we specialize in managing Google Ad Grants compliance, running emotional Meta ad campaigns, and building transparent, high-converting NGO websites. We offer flexible, post-pay models with no lock-in contracts.
 
-**Contact Digital Digix today!**
+**Contact Business Volunteers today!**
 📞 +91 85869 89832
-🌐 [digitaldigix.com](https://digitaldigix.com)
+🌐 [businessvolunteers.online](https://businessvolunteers.online)
 
 *Tags: digital marketing for ngos, ngo fundraising strategies, google ad grants india, non profit marketing, csr partnership marketing, volunteer recruitment seo, ngo digital strategy*

@@ -274,7 +274,7 @@ Building a high-growth, high-margin accounting firm or CA practice in 2026 requi
 
 Executing an enterprise-grade digital marketing strategy requires technical management, continuous campaign optimization, and structured lead funnel design. Partnering with a dedicated digital growth agency enables your practice leadership to focus on delivering high-value financial advisory services while growth experts scale your client acquisition pipeline.
 
-Ready to transform your accounting firm’s marketing into a reliable source of qualified corporate leads and retainer contracts? Digital Digix can help you build a complete digital strategy. Contact our financial marketing specialists today to schedule your consultation.
+Ready to transform your accounting firm’s marketing into a reliable source of qualified corporate leads and retainer contracts? Business Volunteers can help you build a complete digital strategy. Contact our financial marketing specialists today to schedule your consultation.
 
 ---
 

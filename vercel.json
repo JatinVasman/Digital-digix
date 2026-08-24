@@ -5,10 +5,54 @@
       "has": [
         {
           "type": "host",
+          "value": "www.businessvolunteers.online"
+        }
+      ],
+      "destination": "https://businessvolunteers.online/$1",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "digitaldigix.in"
+        }
+      ],
+      "destination": "https://businessvolunteers.online/$1",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.digitaldigix.in"
+        }
+      ],
+      "destination": "https://businessvolunteers.online/$1",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "digitaldigix.com"
+        }
+      ],
+      "destination": "https://businessvolunteers.online/$1",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
           "value": "www.digitaldigix.com"
         }
       ],
-      "destination": "https://digitaldigix.com/$1",
+      "destination": "https://businessvolunteers.online/$1",
       "permanent": true
     },
     {

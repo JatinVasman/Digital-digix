@@ -587,7 +587,7 @@ img { max-width: 100%; height: auto; display: block; }
   .card-clicks { left: 0; }
 }
 /* ============================================================
-   BV-STYLE BLOG PAGE — NORDIC ICE BLUE & NAVY THEME
+   BUSINESS VOLUNTEERS BLOG PAGE — NORDIC ICE BLUE & NAVY THEME
    ============================================================ */
 
 /* === PAGE WRAPPER === */
@@ -731,7 +731,7 @@ img { max-width: 100%; height: auto; display: block; }
   gap: 24px;
 }
 
-/* === BV BLOG CARD === */
+/* === BUSINESS VOLUNTEERS BLOG CARD === */
 .bv-card {
   background: #fff;
   border: 1.5px solid #E2E8F0;

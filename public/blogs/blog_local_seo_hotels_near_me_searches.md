@@ -42,7 +42,7 @@ Your Google Business Profile (GBP) is the single most critical asset for local h
 ```
 Optimized Hotel Google Business Profile Blueprint:
 +---------------------------------------------------------------------------------+
-|  1. Exact Business Name  ➔ Legal Property Name (Digital Digix Heritage Resort)   |
+|  1. Exact Business Name  ➔ Legal Property Name (Business Volunteers Heritage Resort)   |
 |  2. Precise Category     ➔ Hotel / Resort / Heritage Hotel / Boutique Hotel     |
 |  3. Verified NAP & GPS   ➔ Complete physical address, postal code & map pin      |
 |  4. Direct Booking Link  ➔ Official website booking engine URL                  |
@@ -206,7 +206,7 @@ Executing a dedicated local SEO strategy is the single most effective investment
 
 Executing enterprise-grade local hotel SEO requires technical precision, location data management, review governance, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your hotel management team to focus on delivering exceptional guest hospitality while marketing experts scale your local map rankings.
 
-Ready to dominate local "near me" searches and generate more direct room bookings for your hotel or resort? Digital Digix can help you construct a complete local SEO strategy. Contact our local search specialists today to schedule your consultation.
+Ready to dominate local "near me" searches and generate more direct room bookings for your hotel or resort? Business Volunteers can help you construct a complete local SEO strategy. Contact our local search specialists today to schedule your consultation.
 
 ---
 

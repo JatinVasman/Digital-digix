@@ -242,10 +242,10 @@ The higher education sector in India is experiencing a paradigm shift. Students 
 
 ---
 **Ready to transform your university's admissions?**
-Digital Digix is a founder-led digital marketing agency in Noida, serving 89+ industries including top educational institutions. With over 2,700 clients, we specialize in high-impact lead generation, local SEO, and WhatsApp automation for universities. We offer flexible, post-pay models with no lock-in contracts.
+Business Volunteers is a founder-led digital marketing agency in Noida, serving 89+ industries including top educational institutions. With over 2,700 clients, we specialize in high-impact lead generation, local SEO, and WhatsApp automation for universities. We offer flexible, post-pay models with no lock-in contracts.
 
-**Contact Digital Digix today!**
+**Contact Business Volunteers today!**
 📞 +91 85869 89832
-🌐 [digitaldigix.com](https://digitaldigix.com)
+🌐 [businessvolunteers.online](https://businessvolunteers.online)
 
 *Tags: digital marketing for universities, university marketing strategy, higher education marketing india, student recruitment strategies, education lead generation, university SEO, google ads for colleges*

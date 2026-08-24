@@ -46,7 +46,7 @@ Your Google Business Profile (GBP) is the primary driver of "near me" search vis
 ```
 Optimized Hospital Google Business Profile Architecture:
 +---------------------------------------------------------------------------------+
-|  1. Exact Business Name  ➔ Brand Name - Location (Digital Digix Hospital)      |
+|  1. Exact Business Name  ➔ Brand Name - Location (Business Volunteers Hospital)      |
 |  2. Precise Primary Category➔ Hospital / Emergency Care Center / Medical Center |
 |  3. Verified Physical Address➔ Exact physical building address & GPS coordinates|
 |  4. Direct Dispatch Phone  ➔ Emergency hotline answered by responsive staff      |
@@ -141,7 +141,7 @@ Corporate & Community Location Search Funnel:
 ```
 
 ### Dominating Community & Corporate Local Search
-* **Branch-Specific GBP Profiles:** Optimize Google Business Profiles for each hospital branch (e.g., *"Digital Digix Hospital - Sector 4"*).
+* **Branch-Specific GBP Profiles:** Optimize Google Business Profiles for each hospital branch (e.g., *"Business Volunteers Hospital - Sector 4"*).
 * **Geotargeted Specialty Keywords:** Target queries like *"multispecialty hospital near Gachibowli"* or *"maternity hospital near Whitefield"*.
 * **Local Doctor Bios:** Feature authentic attending doctors with patient reviews and direct appointment links on branch location pages.
 
@@ -200,7 +200,7 @@ Executing a hyper-local and emergency search engine strategy is the single most 
 
 Executing enterprise-grade local hospital SEO requires map optimization precision, web architecture expertise, local review governance, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your medical leadership to focus on delivering exceptional healthcare while marketing experts scale your local search rankings.
 
-Ready to dominate "near me" and local search results for your hospital or healthcare organization? Digital Digix can help you construct a complete local search strategy. Contact our local SEO specialists today to schedule your consultation.
+Ready to dominate "near me" and local search results for your hospital or healthcare organization? Business Volunteers can help you construct a complete local search strategy. Contact our local SEO specialists today to schedule your consultation.
 
 ---
 

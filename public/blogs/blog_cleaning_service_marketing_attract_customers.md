@@ -197,7 +197,7 @@ Executing a structured digital marketing strategy is the single most effective i
 
 Executing an enterprise-grade cleaning marketing strategy requires messaging precision, Local SEO expertise, web architecture, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your management team to focus on service excellence while growth experts scale your customer acquisition.
 
-Ready to attract more residential and commercial clients to your cleaning service? Digital Digix can help you construct a complete marketing strategy. Contact our customer acquisition specialists today to schedule your consultation.
+Ready to attract more residential and commercial clients to your cleaning service? Business Volunteers can help you construct a complete marketing strategy. Contact our customer acquisition specialists today to schedule your consultation.
 
 ---
 

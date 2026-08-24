@@ -78,9 +78,9 @@ Embedding structured JSON-LD Schema code into your website's header is the most 
 {
   "@context": "https://schema.org",
   "@type": "DiagnosticLab",
-  "name": "Digital Digix Pathology & Imaging Center",
-  "url": "https://digitaldigix.com",
-  "logo": "https://digitaldigix.com/digital_digix_logo.png",
+  "name": "Business Volunteers Pathology & Imaging Center",
+  "url": "https://businessvolunteers.online",
+  "logo": "https://businessvolunteers.online/digital_digix_logo.png",
   "description": "NABL-accredited diagnostic center offering blood testing, home sample collection, MRI scans, and digital report delivery.",
   "address": {
     "@type": "PostalAddress",
@@ -239,7 +239,7 @@ Executing a specialized AI search optimization strategy is the single most futur
 
 Executing enterprise-grade AI search optimization requires data science capabilities, technical web development, SEO precision, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your medical team to focus on laboratory testing accuracy while optimization experts scale your digital visibility.
 
-Ready to position your diagnostic center for conversational AI search discovery? Digital Digix can help you construct a complete AI search strategy. Contact our optimization specialists today to schedule your consultation.
+Ready to position your diagnostic center for conversational AI search discovery? Business Volunteers can help you construct a complete AI search strategy. Contact our optimization specialists today to schedule your consultation.
 
 ---
 

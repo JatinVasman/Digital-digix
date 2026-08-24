@@ -205,7 +205,7 @@ Building a custom real estate dashboard architecture is the single most effectiv
 
 Developing enterprise-grade real estate dashboards requires real estate CRM integration expertise, UI/UX design precision, data engineering capabilities, and property sales process understanding. Partnering with a dedicated digital growth and technology agency enables your sales team to focus on closing property bookings while analytics experts build your decision-support infrastructure.
 
-Ready to gain total clarity over your property leads, site visits, and unit sales? Digital Digix can help you construct a complete real estate dashboard strategy. Contact our technology specialists today to schedule your consultation.
+Ready to gain total clarity over your property leads, site visits, and unit sales? Business Volunteers can help you construct a complete real estate dashboard strategy. Contact our technology specialists today to schedule your consultation.
 
 ---
 

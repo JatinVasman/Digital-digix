@@ -2,7 +2,7 @@
 
 My Hyundai dealership in Nashik has run 7 years with excellent service. But OLX Autos, CarDekho, and CarWale have changed how Indians buy cars — customers arrive more informed than my salespeople. They already know the on-road price, the discounts available in the next city, and the resale value of their old car. The power has shifted. If you run a car dealership in India today, you are no longer just competing with the Maruti showroom across the street; you are competing with digital platforms that capture the customer's attention months before they even decide to take a test drive.
 
-Welcome to the ultimate guide on digital marketing for automobile dealers in India for 2026. At Digital Digix, a founder-led digital marketing agency based in Noida serving 89+ industries, we've helped countless automotive businesses shift gears and accelerate their sales using targeted digital strategies.
+Welcome to the ultimate guide on digital marketing for automobile dealers in India for 2026. At Business Volunteers, a founder-led digital marketing agency based in Noida serving 89+ industries, we've helped countless automotive businesses shift gears and accelerate their sales using targeted digital strategies.
 
 ## Why Digital Marketing Matters for Automobile Dealers in India NOW
 
@@ -56,7 +56,7 @@ When someone searches "Hyundai showroom Noida," they are ready to buy. Google Ad
 | Display (Retargeting) | Stay top of mind | ₹15,000 - ₹25,000 | ₹100 - ₹250 |
 | Performance Max | Multi-channel reach | ₹25,000 - ₹50,000 | ₹250 - ₹500 |
 
-*(Note: Actual CPCs vary based on location and competition. Contact Digital Digix for a custom audit).*
+*(Note: Actual CPCs vary based on location and competition. Contact Business Volunteers for a custom audit).*
 
 ---
 
@@ -211,9 +211,9 @@ The Indian automobile buyer has evolved, and your dealership must evolve with th
 
 Ready to dominate your city's auto sales?
 
-**Digital Digix** is India's leading founder-led digital marketing agency based in Noida, serving over 89+ industries including top auto dealerships. We offer expert Local SEO, Google Ads, Meta Ads, and WhatsApp automation with no lock-in contracts and post-pay options.
+**Business Volunteers** is India's leading founder-led digital marketing agency based in Noida, serving over 89+ industries including top auto dealerships. We offer expert Local SEO, Google Ads, Meta Ads, and WhatsApp automation with no lock-in contracts and post-pay options.
 
 📞 **Contact us today:** +91 85869 89832
-🌐 **Visit us:** [digitaldigix.com](https://digitaldigix.com)
+🌐 **Visit us:** [businessvolunteers.online](https://businessvolunteers.online)
 
 *Tags: #AutomobileMarketing #DigitalMarketingIndia #AutoDealers #CarSales #GoogleAds #LocalSEO*

@@ -26,12 +26,12 @@ function resendDevPlugin() {
               }
 
               const apiKey = env.RESEND_API_KEY || process.env.RESEND_API_KEY;
-              const receiverEmail = env.RECEIVER_EMAIL || process.env.RECEIVER_EMAIL || 'contact.digitaldigix@gmail.com';
+              const receiverEmail = env.RECEIVER_EMAIL || process.env.RECEIVER_EMAIL || 'contact.businessvolunteers@gmail.com';
 
               const isStrategy = formType === 'strategy' || !!planName || !!growthGoal;
               const subject = isStrategy
                 ? `🚀 New Strategy Booking: ${name} (${planName || 'General Strategy'})`
-                : `📩 New Contact Inquiry from ${name} - Digital Digix`;
+                : `📩 New Contact Inquiry from ${name} - Business Volunteers`;
 
               const htmlContent = `
                 <!DOCTYPE html>
@@ -59,7 +59,7 @@ function resendDevPlugin() {
                   <div class="container">
                     <div class="header">
                       <div class="badge">${isStrategy ? 'Strategy Session' : 'Contact Lead'}</div>
-                      <h1>Digital Digix Website Inquiry</h1>
+                      <h1>Business Volunteers Website Inquiry</h1>
                       <p>${isStrategy ? 'New consultation request submitted' : 'New lead received via contact form'}</p>
                     </div>
                     
@@ -133,7 +133,7 @@ function resendDevPlugin() {
 
               const resend = new Resend(apiKey);
               const response = await resend.emails.send({
-                from: 'Digital Digix Contact <onboarding@resend.dev>',
+                from: 'Business Volunteers Contact <onboarding@resend.dev>',
                 to: [receiverEmail],
                 replyTo: email,
                 subject: subject,

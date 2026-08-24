@@ -233,7 +233,7 @@ Partnering with a specialized branding agency is one of the most fundamental str
 
 Executing enterprise-grade industrial branding requires strategic clarity, design precision, technical excellence, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your internal leadership team to focus on manufacturing quality while branding experts scale your digital equity.
 
-Ready to build a strong, recognizable B2B brand for your electronics manufacturing business? Digital Digix can help you construct a complete brand strategy. Contact our industrial growth specialists today to schedule your consultation.
+Ready to build a strong, recognizable B2B brand for your electronics manufacturing business? Business Volunteers can help you construct a complete brand strategy. Contact our industrial growth specialists today to schedule your consultation.
 
 ---
 

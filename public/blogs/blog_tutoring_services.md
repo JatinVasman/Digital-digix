@@ -125,7 +125,7 @@ Don't rely on guesswork to grow your tutoring business.
 3. **Student Retention Rate:** How long does a student stay with you? (Months/Years).
 4. **Referral Rate:** What percentage of your new business comes from existing parents?
 
-At Digital Digix, we help tutoring agencies set up simple CRM systems to track these metrics efficiently.
+At Business Volunteers, we help tutoring agencies set up simple CRM systems to track these metrics efficiently.
 
 ---
 
@@ -194,7 +194,7 @@ The tutoring market in India is shifting from unorganized, word-of-mouth network
 
 Ready to dominate your local tutoring market?
 
-**Digital Digix** is a founder-led digital marketing agency in Noida, India. We have helped numerous tutoring agencies and individual educators scale their student base through highly targeted local marketing. With experience across 89+ industries, we offer transparent pricing, no lock-in contracts, and post-pay options.
+**Business Volunteers** is a founder-led digital marketing agency in Noida, India. We have helped numerous tutoring agencies and individual educators scale their student base through highly targeted local marketing. With experience across 89+ industries, we offer transparent pricing, no lock-in contracts, and post-pay options.
 
 📞 **Call us today: +91 85869 89832**
-🌐 **Visit: [digitaldigix.com](https://digitaldigix.com)**
+🌐 **Visit: [businessvolunteers.online](https://businessvolunteers.online)**

@@ -216,7 +216,7 @@ In a highly competitive global outsourcing market, personal branding for BPO com
 
 Building an authoritative personal brand requires strategic consistency, clear positioning, and professional digital management. Partnering with a specialized digital growth agency allows BPO management to build personal authority and scale agency revenue without distracting from daily contact floor operations.
 
-Ready to build an authoritative personal brand that fills your contact center bays with loyal corporate clients? Digital Digix can help you build a complete personal branding and digital strategy. Contact our growth team today to schedule your consultation.
+Ready to build an authoritative personal brand that fills your contact center bays with loyal corporate clients? Business Volunteers can help you build a complete personal branding and digital strategy. Contact our growth team today to schedule your consultation.
 
 ---
 

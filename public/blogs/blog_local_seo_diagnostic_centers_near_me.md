@@ -211,7 +211,7 @@ Executing a dedicated local SEO strategy is the single most effective way for a 
 
 Executing enterprise-grade local healthcare SEO requires search engine precision, technical web development, ethical content creation, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your medical team to focus on laboratory testing accuracy and patient care while local SEO experts scale your appointment pipeline.
 
-Ready to dominate local search results for your diagnostic center? Digital Digix can help you construct a complete local SEO strategy. Contact our local growth specialists today to schedule your consultation.
+Ready to dominate local search results for your diagnostic center? Business Volunteers can help you construct a complete local SEO strategy. Contact our local growth specialists today to schedule your consultation.
 
 ---
 

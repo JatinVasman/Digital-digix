@@ -257,7 +257,7 @@ Building a market-leading EdTech company in 2026 requires establishing a dominan
 
 Executing an enterprise-grade EdTech SEO program requires deep technical expertise, continuous keyword monitoring, and structured content production. Partnering with a dedicated digital growth agency enables your leadership team to focus on developing world-class educational content while growth experts scale your organic digital presence.
 
-Ready to position your EdTech company at the top of organic search results and drive continuous student enrollments? Digital Digix can help you build a complete organic growth strategy. Contact our SEO specialists today to schedule your domain audit.
+Ready to position your EdTech company at the top of organic search results and drive continuous student enrollments? Business Volunteers can help you build a complete organic growth strategy. Contact our SEO specialists today to schedule your domain audit.
 
 ---
 

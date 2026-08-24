@@ -216,7 +216,7 @@ Building an end-to-end guest acquisition and retention funnel is the single most
 
 Executing enterprise-grade hospitality funnels requires technical web architecture, rate distribution knowledge, CRM integration, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your hotel team to focus on delivering exceptional guest hospitality while marketing experts scale your conversion funnel.
 
-Ready to build a high-converting guest acquisition and booking funnel for your hotel or resort? Digital Digix can help you construct a complete hospitality funnel strategy. Contact our growth specialists today to schedule your consultation.
+Ready to build a high-converting guest acquisition and booking funnel for your hotel or resort? Business Volunteers can help you construct a complete hospitality funnel strategy. Contact our growth specialists today to schedule your consultation.
 
 ---
 

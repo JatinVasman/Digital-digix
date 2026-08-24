@@ -206,7 +206,7 @@ Executing a structured lead generation strategy is the single most effective com
 
 Executing enterprise-grade gym lead generation requires web architecture precision, local search expertise, video content creation, and CRM integration. Partnering with a dedicated digital growth agency enables your coaching team to focus on training members while marketing experts scale your business pipeline.
 
-Ready to generate more trial pass requests and long-term members for your fitness center? Digital Digix can help you construct a complete lead generation strategy. Contact our gym growth specialists today to schedule your consultation.
+Ready to generate more trial pass requests and long-term members for your fitness center? Business Volunteers can help you construct a complete lead generation strategy. Contact our gym growth specialists today to schedule your consultation.
 
 ---
 

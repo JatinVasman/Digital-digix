@@ -187,7 +187,7 @@ Dominating local search results for "near me" beauty queries is the most direct 
 
 Executing an enterprise-grade local SEO strategy requires ongoing profile management, technical schema implementation, and structured review generation. Partnering with a dedicated digital growth agency enables your management team to focus on customer service and beauty treatments while growth experts scale your local client pipeline.
 
-Ready to position your beauty store or salon at the top of Google Maps for "beauty store near me" searches? Digital Digix can help you build a complete local SEO growth strategy. Contact our local SEO specialists today to schedule your consultation.
+Ready to position your beauty store or salon at the top of Google Maps for "beauty store near me" searches? Business Volunteers can help you build a complete local SEO growth strategy. Contact our local SEO specialists today to schedule your consultation.
 
 ---
 

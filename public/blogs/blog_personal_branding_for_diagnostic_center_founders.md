@@ -48,7 +48,7 @@ High-Converting Social Media Profile Blueprint:
 | [Cover Image: State-of-the-Art Laboratory & Accredited Team Photo]             |
 | [Profile Photo: Founder Professional Medical / Executive Headshot]              |
 |                                                                                 |
-| NAME: Dr. Ankit Sharma | Founder @ Digital Digix Diagnostics                   |
+| NAME: Dr. Ankit Sharma | Founder @ Business Volunteers Diagnostics                   |
 | HEADLINE: Delivering NABL-Accredited Pathology & Imaging Services               |
 |           Guaranteeing 100% Test Accuracy & Fast Digital Reports in Gurgaon      |
 |                                                                                 |
@@ -58,7 +58,7 @@ High-Converting Social Media Profile Blueprint:
 ```
 
 ### 4 Rules of Social Media Execution for Healthcare Founders
-1. **Optimize Your Headline for Clear Clinical Value:** State explicitly *WHO you serve, WHAT clinical standards you deliver, and HOW patients can book* (e.g., *"Founder @ Digital Digix Diagnostics | NABL-Accredited Blood Testing & Imaging in Gurgaon"*).
+1. **Optimize Your Headline for Clear Clinical Value:** State explicitly *WHO you serve, WHAT clinical standards you deliver, and HOW patients can book* (e.g., *"Founder @ Business Volunteers Diagnostics | NABL-Accredited Blood Testing & Imaging in Gurgaon"*).
 2. **Publish Short Educational Videos:** Share 15-to-30 second video Reels detailing test preparation rules, lab hygiene protocols, and preventive health tips.
 3. **Showcase Patient Reviews & Accreditations:** Feature verified patient feedback and authentic accreditation certificates transparently.
 4. **Engage with Local Physicians & Corporate HR Leaders:** Partner with local doctors, corporate wellness managers, and health coaches to co-create educational content on preventive healthcare.
@@ -154,7 +154,7 @@ A common challenge for growing diagnostic businesses is ensuring that an owner's
 
 ### 3 Rules of Hybrid Brand Building
 * **Highlight Operating Medical Staff:** Feature senior pathologists, radiologists, phlebotomists, and lab technicians in social media videos and blog articles.
-* **Systematize Quality Standards:** Brand your company's proprietary testing standards (e.g., *"The Digital Digix 4-Stage Zero-Error Testing Protocol"*), making the quality commitment bigger than any single person.
+* **Systematize Quality Standards:** Brand your company's proprietary testing standards (e.g., *"The Business Volunteers 4-Stage Zero-Error Testing Protocol"*), making the quality commitment bigger than any single person.
 * **Route All Bookings Through Central Automated Systems:** Ensure social media CTAs direct patients into automated WhatsApp workflows and website booking portals.
 
 ---
@@ -210,7 +210,7 @@ Executing a dedicated personal branding strategy is the single most effective in
 
 Building an authoritative personal brand requires strategic consistency, messaging precision, technical web architecture, and professional digital management. Partnering with a dedicated digital growth agency enables healthcare founders to build personal authority and scale corporate revenues without distracting from daily laboratory operations.
 
-Ready to build an authoritative personal brand that drives patient appointments for your diagnostic center? Digital Digix can help you construct a complete personal branding and patient acquisition strategy. Contact our healthcare growth team today to schedule your consultation.
+Ready to build an authoritative personal brand that drives patient appointments for your diagnostic center? Business Volunteers can help you construct a complete personal branding and patient acquisition strategy. Contact our healthcare growth team today to schedule your consultation.
 
 ---
 

@@ -261,7 +261,7 @@ Building a high-growth, high-margin auto service center, car repair workshop, or
 
 Executing an enterprise-grade digital marketing strategy requires technical management, continuous campaign optimization, and customer-focused landing page design. Partnering with a dedicated digital growth agency enables your workshop management to focus on servicing vehicles flawlessly while growth experts scale your customer pipeline.
 
-Ready to transform your auto service center's marketing into a reliable source of qualified service bookings and full repair bays? Digital Digix can help you build a complete digital strategy. Contact our automotive growth specialists today to schedule your consultation.
+Ready to transform your auto service center's marketing into a reliable source of qualified service bookings and full repair bays? Business Volunteers can help you build a complete digital strategy. Contact our automotive growth specialists today to schedule your consultation.
 
 ---
 

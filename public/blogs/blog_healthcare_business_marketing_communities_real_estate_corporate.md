@@ -200,7 +200,7 @@ Executing a structured digital marketing strategy tailored for corporate employe
 
 Executing enterprise-grade commercial hospital marketing requires web architecture precision, B2B search expertise, healthcare governance, and CRM integration. Partnering with a dedicated digital growth agency enables your medical leadership to focus on delivering world-class care while marketing experts scale your business pipeline.
 
-Ready to attract more corporate health contracts and secure high-value real estate partnerships for your hospital? Digital Digix can help you construct a complete B2B marketing strategy. Contact our healthcare growth specialists today to schedule your consultation.
+Ready to attract more corporate health contracts and secure high-value real estate partnerships for your hospital? Business Volunteers can help you construct a complete B2B marketing strategy. Contact our healthcare growth specialists today to schedule your consultation.
 
 ---
 

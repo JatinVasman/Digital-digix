@@ -187,7 +187,7 @@ Executing a targeted Google Ads strategy is the fastest, most scalable way for a
 
 Executing an enterprise-grade catering PPC campaign requires technical ad management, landing page design, conversion tracking, and continuous campaign optimization. Partnering with a dedicated digital growth agency enables your management team to focus on culinary excellence while growth experts build your paid acquisition pipeline.
 
-Ready to launch a high-performance Google Ads campaign that drives qualified event leads for your catering company? Digital Digix can help you construct a complete paid search strategy. Contact our PPC specialists today to schedule your consultation.
+Ready to launch a high-performance Google Ads campaign that drives qualified event leads for your catering company? Business Volunteers can help you construct a complete paid search strategy. Contact our PPC specialists today to schedule your consultation.
 
 ---
 

@@ -42,7 +42,7 @@ A successful hotel social media strategy tailors content formats to match platfo
 ```
 Multi-Platform Hospitality Visual Architecture:
 +-----------------------------------------------------------------------------------+
-|               DIGITAL DIGIX HOTEL SOCIAL MEDIA ENGINE                             |
+|               BUSINESS VOLUNTEERS HOTEL SOCIAL MEDIA ENGINE                             |
 +-----------------------------------------------------------------------------------+
 |  1. INSTAGRAM (REELS & STORIES) ➔ Room walkthroughs, pool views & dining showcases|
 |  2. FACEBOOK (COMMUNITY ADVERTISING)➔ Family packages, local events & retargeting |
@@ -206,7 +206,7 @@ Executing a structured social media marketing strategy is the single most effect
 
 Executing enterprise-grade hotel social media marketing requires video production discipline, brand governance, privacy compliance, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your hotel management team to focus on delivering exceptional guest hospitality while marketing experts scale your visual brand reach.
 
-Ready to elevate your hotel's visual brand and generate more direct room bookings through social media? Digital Digix can help you construct a complete hospitality social media strategy. Contact our social growth specialists today to schedule your consultation.
+Ready to elevate your hotel's visual brand and generate more direct room bookings through social media? Business Volunteers can help you construct a complete hospitality social media strategy. Contact our social growth specialists today to schedule your consultation.
 
 ---
 

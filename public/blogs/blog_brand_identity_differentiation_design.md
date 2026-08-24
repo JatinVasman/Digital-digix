@@ -202,7 +202,7 @@ Building a strong, distinctive brand identity is the single most effective way t
 
 Executing a comprehensive brand identity design program requires creative vision, strategic positioning, technical precision, and multi-channel consistency. Partnering with a dedicated branding and digital growth agency enables your leadership team to focus on core operations while design experts craft your visual market identity.
 
-Ready to transform your visual identity and outshine your competitors? Digital Digix can help you build a complete brand identity system. Contact our design specialists today to schedule your consultation.
+Ready to transform your visual identity and outshine your competitors? Business Volunteers can help you build a complete brand identity system. Contact our design specialists today to schedule your consultation.
 
 ---
 

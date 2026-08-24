@@ -3639,7 +3639,7 @@ export const LegalSection: React.FC<LegalSectionProps> = ({
                 <h3 style={{ fontSize: '1.45rem', fontWeight: 900, color: 'var(--secondary)', fontFamily: 'Outfit, sans-serif' }}>Privacy Policy & Data Protection Compliance</h3>
               </div>
               <p style={{ color: 'var(--text-muted)', lineHeight: 1.6, fontSize: '0.9rem', marginBottom: '1.15rem' }}>
-                Digital Digix strictly adheres to international data privacy standards including India's Digital Personal Data Protection (DPDP) Act 2023 and the General Data Protection Regulation (GDPR).
+                Business Volunteers strictly adheres to international data privacy standards including India's Digital Personal Data Protection (DPDP) Act 2023 and the General Data Protection Regulation (GDPR).
               </p>
               <ul style={{ display: 'flex', flexDirection: 'column', gap: '0.55rem', color: 'var(--text-muted)', fontSize: '0.85rem', paddingLeft: 0, listStyle: 'none' }}>
                 <li>✓ <strong>Encrypted Data Transfer</strong>: All customer lead data and CRM connections use 256-bit SSL encryption.</li>
@@ -3674,7 +3674,7 @@ export const LegalSection: React.FC<LegalSectionProps> = ({
                 <h3 style={{ fontSize: '1.45rem', fontWeight: 900, color: 'var(--secondary)', fontFamily: 'Outfit, sans-serif' }}>Zero Lock-In Contract Terms</h3>
               </div>
               <p style={{ color: 'var(--text-muted)', lineHeight: 1.6, fontSize: '0.9rem', marginBottom: '1.15rem' }}>
-                Unlike traditional agencies that tie businesses into 6 to 12-month lock-in contracts, Digital Digix operates on a 100% month-to-month performance basis.
+                Unlike traditional agencies that tie businesses into 6 to 12-month lock-in contracts, Business Volunteers operates on a 100% month-to-month performance basis.
               </p>
               <ul style={{ display: 'flex', flexDirection: 'column', gap: '0.55rem', color: 'var(--text-muted)', fontSize: '0.85rem', paddingLeft: 0, listStyle: 'none' }}>
                 <li>✓ <strong>Cancel Anytime</strong>: Give 14 days notice at any point with zero exit penalties or cancellation fees.</li>
@@ -3706,7 +3706,7 @@ export const LegalSection: React.FC<LegalSectionProps> = ({
                 <h3 style={{ fontSize: '1.45rem', fontWeight: 900, color: 'var(--secondary)', fontFamily: 'Outfit, sans-serif' }}>100% IP & Commercial Copyright Transfer</h3>
               </div>
               <p style={{ color: 'var(--text-muted)', lineHeight: 1.6, fontSize: '0.9rem', marginBottom: '1.15rem' }}>
-                You retain full legal ownership of all assets created by Digital Digix during your engagement.
+                You retain full legal ownership of all assets created by Business Volunteers during your engagement.
               </p>
               <ul style={{ display: 'flex', flexDirection: 'column', gap: '0.55rem', color: 'var(--text-muted)', fontSize: '0.85rem', paddingLeft: 0, listStyle: 'none' }}>
                 <li>✓ <strong>Source Code & Vector Files</strong>: Full delivery of editable Adobe Illustrator, Photoshop, Next.js, and Figma files.</li>

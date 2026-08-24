@@ -249,7 +249,7 @@ Dominating local search results for "gym near me" queries is the most reliable, 
 
 Executing a high-yield local SEO strategy requires specialized technical management, directory auditing, and ongoing performance monitoring. Partnering with a dedicated digital growth agency allows you to focus on delivering outstanding workout experiences while experts scale your local search visibility.
 
-Ready to position your facility at the top of Google Maps and attract a steady stream of local members? Digital Digix can help you build a complete local search strategy. Contact our local SEO specialists today to schedule your domain audit.
+Ready to position your facility at the top of Google Maps and attract a steady stream of local members? Business Volunteers can help you build a complete local search strategy. Contact our local SEO specialists today to schedule your domain audit.
 
 ---
 

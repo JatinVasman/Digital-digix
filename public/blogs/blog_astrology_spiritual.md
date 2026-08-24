@@ -224,10 +224,10 @@ The wisdom of astrology is timeless, but the methods of sharing it must evolve. 
 
 ---
 **Ready to scale your astrology or spiritual practice online?**
-Digital Digix is a founder-led digital marketing agency in Noida, serving 89+ industries including astrology, Vastu, and spiritual coaching. With over 2,700 clients, we specialize in YouTube growth, high-intent Google Ads, and automated WhatsApp booking systems for consultants. We offer flexible, post-pay models with no lock-in contracts.
+Business Volunteers is a founder-led digital marketing agency in Noida, serving 89+ industries including astrology, Vastu, and spiritual coaching. With over 2,700 clients, we specialize in YouTube growth, high-intent Google Ads, and automated WhatsApp booking systems for consultants. We offer flexible, post-pay models with no lock-in contracts.
 
-**Contact Digital Digix today!**
+**Contact Business Volunteers today!**
 📞 +91 85869 89832
-🌐 [digitaldigix.com](https://digitaldigix.com)
+🌐 [businessvolunteers.online](https://businessvolunteers.online)
 
 *Tags: digital marketing for astrologers, astrology marketing strategy, grow astrology business, vastu consultant marketing, spiritual marketing, online astrology consultations, youtube for astrologers*

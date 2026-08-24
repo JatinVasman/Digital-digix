@@ -206,7 +206,7 @@ Building a high-converting patient acquisition funnel is the single most effecti
 
 Executing an enterprise-grade patient acquisition funnel requires messaging precision, Healthcare SEO expertise, web architecture, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your medical team to focus on patient care while growth experts build your appointment pipeline.
 
-Ready to build a predictable, ethical patient acquisition funnel for your clinic? Digital Digix can help you construct a complete marketing and conversion strategy. Contact our acquisition specialists today to schedule your consultation.
+Ready to build a predictable, ethical patient acquisition funnel for your clinic? Business Volunteers can help you construct a complete marketing and conversion strategy. Contact our acquisition specialists today to schedule your consultation.
 
 ---
 

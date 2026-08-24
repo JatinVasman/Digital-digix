@@ -206,7 +206,7 @@ Building a high-converting student lead generation funnel is the single most eff
 
 Executing an enterprise-grade higher education lead generation funnel requires messaging precision, Education SEO expertise, web architecture, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your academic team to focus on educational excellence while growth experts build your admissions pipeline.
 
-Ready to build a predictable, ethical student lead generation funnel for your college? Digital Digix can help you construct a complete marketing and conversion strategy. Contact our student recruitment specialists today to schedule your consultation.
+Ready to build a predictable, ethical student lead generation funnel for your college? Business Volunteers can help you construct a complete marketing and conversion strategy. Contact our student recruitment specialists today to schedule your consultation.
 
 ---
 

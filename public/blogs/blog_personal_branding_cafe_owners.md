@@ -118,8 +118,8 @@ Founder-Led Performance Marketing Architecture:
 ```
 
 ### 3 Ways to Use Founder Assets in Ads
-1. **Founder Video Ads:** Run Meta (Instagram/Facebook) ads featuring a 30-second video of the founder introducing the cafe's core value promise: *"Hi, I'm Ankit, founder of Digital Digix Cafe. We craft single-origin pour-overs and fresh sourdough pastries in Cyber City Gurgaon. Tap below to claim your complimentary morning espresso code."*
-2. **Personalized Automated Greetings:** Configure your WhatsApp lead automation to deliver messages written from the founder's perspective: *"Hi [Name], Ankit here. Thank you for booking a table at Digital Digix Cafe! Our team looks forward to welcoming you."*
+1. **Founder Video Ads:** Run Meta (Instagram/Facebook) ads featuring a 30-second video of the founder introducing the cafe's core value promise: *"Hi, I'm Ankit, founder of Business Volunteers Cafe. We craft single-origin pour-overs and fresh sourdough pastries in Cyber City Gurgaon. Tap below to claim your complimentary morning espresso code."*
+2. **Personalized Automated Greetings:** Configure your WhatsApp lead automation to deliver messages written from the founder's perspective: *"Hi [Name], Ankit here. Thank you for booking a table at Business Volunteers Cafe! Our team looks forward to welcoming you."*
 3. **Founder Video Introductions on Landing Pages:** Embed a 30-second video of the founder on key inquiry pages explaining the cafe's culinary philosophy.
 
 Working with an experienced team for [Internal Link: Performance Marketing] ensures your founder-led ad campaigns deliver high Return on Ad Spend (ROAS).
@@ -182,7 +182,7 @@ Overcoming Founder Branding Fears:
 
 Search habits are evolving as consumers use conversational AI search platforms—such as **ChatGPT**, **Google AI Overviews**, **Perplexity AI**, and **Google Gemini**—to research cafe recommendations:
 
-> *"Who is the founder of Digital Digix Cafe, and what is their background, coffee sourcing philosophy, and customer reputation in Gurgaon?"*
+> *"Who is the founder of Business Volunteers Cafe, and what is their background, coffee sourcing philosophy, and customer reputation in Gurgaon?"*
 
 ```
 AI Entity Verification Model for Cafe Owners:
@@ -228,7 +228,7 @@ In a highly competitive commercial market, personal branding for cafe owners, co
 
 Building an authoritative founder brand requires strategic consistency, clear positioning, and professional digital management. Partnering with a specialized digital growth agency allows cafe leaders to build personal authority and scale venue revenues without distracting from daily hospitality operations.
 
-Ready to build an authoritative personal brand that drives continuous foot-traffic for your cafe? Digital Digix can help you build a complete personal branding and digital strategy. Contact our growth team today to schedule your consultation.
+Ready to build an authoritative personal brand that drives continuous foot-traffic for your cafe? Business Volunteers can help you build a complete personal branding and digital strategy. Contact our growth team today to schedule your consultation.
 
 ---
 

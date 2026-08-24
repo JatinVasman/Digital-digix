@@ -59,7 +59,7 @@ Clinic Site SEO Architecture:
 ```
 
 ### Essential On-Page SEO Elements for Clinic Pages
-1. **Targeted H1 & Title Tags:** Include primary commercial keywords naturally in page H1 headings and meta title tags (e.g., `<title>Dermatology Clinic in Gurgaon | Skin Specialist | Digital Digix</title>`).
+1. **Targeted H1 & Title Tags:** Include primary commercial keywords naturally in page H1 headings and meta title tags (e.g., `<title>Dermatology Clinic in Gurgaon | Skin Specialist | Business Volunteers</title>`).
 2. **Sub-2 Second Mobile Page Speed:** Google prioritizes fast-loading mobile pages. Sub-2 second load times improve search rankings and lower bounce rates.
 3. **Structured Doctor Profiles:** Detail clear doctor qualifications, medical board registrations, fellowship training, and clinical specializations on individual practitioner pages.
 4. **Frictionless Conversion Triggers:** Include prominent CTAs for instant consultation forms, phone calls, and 1-click WhatsApp booking links.
@@ -80,7 +80,7 @@ Topic Cluster Model for Clinic SEO Authority:
 [ Sub-Article: "Post-Treatment Care Checklist for Skin Rejuvenation Procedures" ]
                                      │
                                      ▼ (Internal Keyword Link)
-[ Specialty Hub Page: "Digital Digix Dermatology & Skin Care Clinic" ]
+[ Specialty Hub Page: "Business Volunteers Dermatology & Skin Care Clinic" ]
 ```
 
 ### 3 Content Rules for Healthcare Topic Cluster Authority
@@ -111,8 +111,8 @@ Schema markup provides search engines with explicit data regarding your clinic e
 {
   "@context": "https://schema.org",
   "@type": "MedicalClinic",
-  "name": "Digital Digix Specialty Clinic",
-  "url": "https://digitaldigix.com",
+  "name": "Business Volunteers Specialty Clinic",
+  "url": "https://businessvolunteers.online",
   "description": "Multi-specialty medical clinic offering advanced dermatology, dental, and orthopedic care in Gurgaon.",
   "address": {
     "@type": "PostalAddress",
@@ -222,7 +222,7 @@ Executing a specialized SEO strategy is the single most valuable investment a cl
 
 Executing an enterprise-grade clinic SEO strategy requires technical web architecture, creative messaging precision, keyword expertise, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your medical team to focus on patient care while growth experts build your organic search dominance.
 
-Ready to build an authoritative SEO engine that drives qualified appointment enquiries for your clinic? Digital Digix can help you construct a complete search strategy. Contact our SEO specialists today to schedule your consultation.
+Ready to build an authoritative SEO engine that drives qualified appointment enquiries for your clinic? Business Volunteers can help you construct a complete search strategy. Contact our SEO specialists today to schedule your consultation.
 
 ---
 

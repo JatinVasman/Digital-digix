@@ -51,7 +51,7 @@ Generating high-intent leads consistently requires leveraging multiple digital a
 ```
 Integrated Lead Generation Channel Architecture:
 +-----------------------------------------------------------------------------------+
-|                  DIGITAL DIGIX MULTI-CHANNEL LEAD ARCHITECTURE                    |
+|                  BUSINESS VOLUNTEERS MULTI-CHANNEL LEAD ARCHITECTURE                    |
 +-----------------------------------------------------------------------------------+
 |  1. ORGANIC SEARCH (SEO)    ➔ Captures high-intent commercial search queries    |
 |  2. PAID SEARCH (GOOGLE PPC) ➔ Targets immediate buyer intent keywords            |
@@ -212,7 +212,7 @@ Executing a structured digital marketing lead generation strategy is the single 
 
 Executing enterprise-grade lead generation requires strategic clarity, technical precision, UX design excellence, and conversion analytics. Partnering with a dedicated digital growth agency enables your internal team to focus on closing sales and delivering services while marketing experts scale your pipeline.
 
-Ready to generate more qualified leads for your business? Digital Digix can help you construct a complete lead generation strategy. Contact our growth specialists today to schedule your consultation.
+Ready to generate more qualified leads for your business? Business Volunteers can help you construct a complete lead generation strategy. Contact our growth specialists today to schedule your consultation.
 
 ---
 

@@ -118,8 +118,8 @@ Founder-Led Performance Marketing Architecture:
 ```
 
 ### 3 Ways to Use Founder Assets in Ads
-1. **Founder Video Ads:** Run Meta and Google ads featuring a 30-second video of the founder introducing the college's core value promise: *"Hi, I'm Dr. Ankit, director of Digital Digix Engineering College. If you are seeking accredited BTech programs with advanced AI labs, tap below to schedule a free campus visit."*
-2. **Personalized Automated Greetings:** Configure your WhatsApp lead automation to deliver messages written from the founder's perspective: *"Hi [Name], Dr. Ankit here. Thank you for reaching out to Digital Digix College! Our admissions team looks forward to guiding you."*
+1. **Founder Video Ads:** Run Meta and Google ads featuring a 30-second video of the founder introducing the college's core value promise: *"Hi, I'm Dr. Ankit, director of Business Volunteers Engineering College. If you are seeking accredited BTech programs with advanced AI labs, tap below to schedule a free campus visit."*
+2. **Personalized Automated Greetings:** Configure your WhatsApp lead automation to deliver messages written from the founder's perspective: *"Hi [Name], Dr. Ankit here. Thank you for reaching out to Business Volunteers College! Our admissions team looks forward to guiding you."*
 3. **Founder Video Introductions on Landing Pages:** Embed a 30-second video of the founder on course landing pages allowing prospective families to hear their vision before applying.
 
 Working with an experienced team for [Internal Link: Performance Marketing] ensures your founder-led ad campaigns deliver high Return on Ad Spend (ROAS).
@@ -182,7 +182,7 @@ Overcoming Founder Branding Fears:
 
 Search habits are evolving as students and parents use conversational AI search platforms—such as **ChatGPT**, **Google AI Overviews**, **Perplexity AI**, and **Google Gemini**—to research educational recommendations:
 
-> *"Who is the founder of Digital Digix Engineering College, and what is their academic background, research vision, and institutional reputation in Gurgaon near Cyber City?"*
+> *"Who is the founder of Business Volunteers Engineering College, and what is their academic background, research vision, and institutional reputation in Gurgaon near Cyber City?"*
 
 ```
 AI Entity Verification Model for College Founders:
@@ -228,7 +228,7 @@ In a highly competitive higher education landscape, personal branding for colleg
 
 Building an authoritative founder brand requires strategic consistency, clear positioning, and professional digital management. Partnering with a specialized digital growth agency allows college leaders to build personal authority and scale institutional revenues without distracting from academic excellence.
 
-Ready to build an authoritative personal brand that drives enrolled students for your college? Digital Digix can help you build a complete personal branding and digital strategy. Contact our growth team today to schedule your consultation.
+Ready to build an authoritative personal brand that drives enrolled students for your college? Business Volunteers can help you build a complete personal branding and digital strategy. Contact our growth team today to schedule your consultation.
 
 ---
 

@@ -226,7 +226,7 @@ Building a high-growth, high-margin auto service center, car repair workshop, or
 
 Executing an enterprise-grade lead generation engine requires technical marketing management, continuous campaign optimization, and structured sales funnel design. Partnering with a dedicated digital growth agency enables your workshop management to focus on servicing vehicles flawlessly while growth experts scale your pipeline.
 
-Ready to build a predictable, high-converting lead generation engine for your auto service center? Digital Digix can help you construct a complete digital acquisition funnel. Contact our lead generation specialists today to schedule your consultation.
+Ready to build a predictable, high-converting lead generation engine for your auto service center? Business Volunteers can help you construct a complete digital acquisition funnel. Contact our lead generation specialists today to schedule your consultation.
 
 ---
 

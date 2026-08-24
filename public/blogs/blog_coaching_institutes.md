@@ -129,7 +129,7 @@ You must track the entire funnel, from the first click to the final fee payment.
 3. **Walk-in to Admission Conversion Rate:** How effective is your counseling team?
 4. **Return on Ad Spend (ROAS):** Tracked by comparing total ad spend to total admission revenue generated.
 
-At Digital Digix, we integrate your ad accounts directly with your Lead Management System (LMS) to provide real-time ROI tracking.
+At Business Volunteers, we integrate your ad accounts directly with your Lead Management System (LMS) to provide real-time ROI tracking.
 
 ---
 
@@ -199,7 +199,7 @@ The coaching industry is evolving, and relying solely on legacy brand value or l
 
 Ready to maximize your admissions for the 2026 season?
 
-**Digital Digix** is a founder-led digital marketing agency in Noida, India. We specialize in the education sector, helping coaching institutes across the country lower their acquisition costs and scale their admissions. With experience across 89+ industries and 2,700+ clients, we deliver transparent, data-driven growth.
+**Business Volunteers** is a founder-led digital marketing agency in Noida, India. We specialize in the education sector, helping coaching institutes across the country lower their acquisition costs and scale their admissions. With experience across 89+ industries and 2,700+ clients, we deliver transparent, data-driven growth.
 
 📞 **Call us today: +91 85869 89832**
-🌐 **Visit: [digitaldigix.com](https://digitaldigix.com)**
+🌐 **Visit: [businessvolunteers.online](https://businessvolunteers.online)**

@@ -216,7 +216,7 @@ In a highly competitive garment manufacturing market, personal branding for comp
 
 Building an authoritative personal brand requires strategic consistency, clear positioning, and professional digital management. Partnering with a specialized digital growth agency allows leadership to build personal authority and scale business revenue without distracting from core factory operations.
 
-Ready to build an authoritative personal brand that drives high-volume bulk contracts for your apparel manufacturing business? Digital Digix can help you build a complete personal branding and digital strategy. Contact our growth team today to schedule your consultation.
+Ready to build an authoritative personal brand that drives high-volume bulk contracts for your apparel manufacturing business? Business Volunteers can help you build a complete personal branding and digital strategy. Contact our growth team today to schedule your consultation.
 
 ---
 

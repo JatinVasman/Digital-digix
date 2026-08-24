@@ -30,8 +30,8 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate, onSelectLocation, on
           <div>
             <div style={{ fontSize: '1.6rem', fontWeight: 900, color: '#FFF', display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '1rem' }}>
               <img
-                src="/digital_digix_logo.png"
-                alt="Digital Digix Logo"
+                src="/businessvolunteers/logo.png"
+                alt="Business Volunteers Logo"
                 width="42"
                 height="42"
                 loading="lazy"
@@ -45,11 +45,11 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate, onSelectLocation, on
                 }}
               />
               <span style={{ fontFamily: 'Outfit, sans-serif', fontWeight: 900, fontSize: '1.5rem', color: '#FFFFFF' }}>
-                Digital Digix
+                Business Volunteers
               </span>
             </div>
             <p style={{ fontSize: '0.9rem', color: '#94A3B8', lineHeight: 1.6, marginBottom: '1.5rem' }}>
-              Seen. Heard. Chosen. India's leading performance digital agency delivering data-driven ROI with zero lock-in contracts and founder-led execution.
+              Founder-led digital marketing agency in Noida serving 89+ industries — SEO, Google & Meta ads, social media, web design, and graphic design.
             </p>
           </div>
 
@@ -80,9 +80,10 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate, onSelectLocation, on
           <div>
             <h4 style={{ fontSize: '1rem', fontWeight: 800, color: '#FFF', marginBottom: '1.25rem' }}>Direct Contact</h4>
             <div style={{ fontSize: '0.875rem', color: '#94A3B8', display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
-              <div>📍 Noida, Delhi NCR, India & Global</div>
+              <div>📍 <strong>Primary Office:</strong> Sector 62, Noida, UP, 201309, India</div>
+              <div>📍 <strong>Delhi NCR:</strong> New Ashok Nagar, Delhi, 110096, India</div>
               <div>📞 +91 85869 89832</div>
-              <div>✉️ <a href="#contact" onClick={(e) => { e.preventDefault(); if (onOpenContactModal) onOpenContactModal(); }} style={{ color: 'inherit', textDecoration: 'none', transition: 'color 0.2s ease', cursor: 'pointer' }} onMouseEnter={(e) => e.currentTarget.style.color = '#3B82F6'} onMouseLeave={(e) => e.currentTarget.style.color = 'inherit'}>contact.digitaldigix@gmail.com</a></div>
+              <div>✉️ <a href="#contact" onClick={(e) => { e.preventDefault(); if (onOpenContactModal) onOpenContactModal(); }} style={{ color: 'inherit', textDecoration: 'none', transition: 'color 0.2s ease', cursor: 'pointer' }} onMouseEnter={(e) => e.currentTarget.style.color = '#3B82F6'} onMouseLeave={(e) => e.currentTarget.style.color = 'inherit'}>contact.businessvolunteers@gmail.com</a></div>
               <a
                 href="https://wa.me/918586989832?text=Hi%2C%20I%20am%20interested%20in%20your%20services"
                 target="_blank"
@@ -232,10 +233,10 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate, onSelectLocation, on
 
         </div>
 
-        {/* BOTTOM COPYRIGHT BAR: ALL RIGHTS TO DIGITAL DIGIX */}
+        {/* BOTTOM COPYRIGHT BAR: ALL RIGHTS TO BUSINESS VOLUNTEERS */}
         <div style={{ height: '1px', background: '#261F1C', margin: '3rem 0 1.5rem 0' }}></div>
         <div style={{ textAlign: 'center', fontSize: '0.85rem', color: '#94A3B8' }}>
-          © 2012 <a href="https://digitaldigix.com" target="_blank" rel="noopener noreferrer" style={{ color: '#D97706', fontWeight: 800, textDecoration: 'none', transition: 'opacity 0.2s' }} onMouseEnter={(e) => e.currentTarget.style.opacity = '0.85'} onMouseLeave={(e) => e.currentTarget.style.opacity = '1'}>Digital Digix</a>. All Rights Reserved.
+          © 2025 <a href="https://businessvolunteers.online" target="_blank" rel="noopener noreferrer" style={{ color: '#D97706', fontWeight: 800, textDecoration: 'none', transition: 'opacity 0.2s' }} onMouseEnter={(e) => e.currentTarget.style.opacity = '0.85'} onMouseLeave={(e) => e.currentTarget.style.opacity = '1'}>Business Volunteers</a>. All Rights Reserved.
         </div>
 
       </div>

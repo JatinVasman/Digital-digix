@@ -110,8 +110,8 @@ Owner-Led Performance Marketing Architecture:
 ```
 
 ### 3 Ways to Use Owner Assets in Paid Advertising
-1. **Owner Video Ads:** Run Meta and Google ads featuring a 30-second video of the franchisee introducing their local commitment: *"Hi, I'm Rahul, owner of Digital Digix Fitness in Sector 29 Gurgaon. If you are looking for a clean, modern gym with certified personal trainers and 5-star customer ratings, tap below to claim your free 3-day pass."*
-2. **Personalized Automated Greetings:** Configure your WhatsApp lead automation to deliver messages written from the owner's perspective: *"Hi [Name], Rahul here. Thank you for reaching out to Digital Digix Fitness Gurgaon! My team looks forward to welcoming you."*
+1. **Owner Video Ads:** Run Meta and Google ads featuring a 30-second video of the franchisee introducing their local commitment: *"Hi, I'm Rahul, owner of Business Volunteers Fitness in Sector 29 Gurgaon. If you are looking for a clean, modern gym with certified personal trainers and 5-star customer ratings, tap below to claim your free 3-day pass."*
+2. **Personalized Automated Greetings:** Configure your WhatsApp lead automation to deliver messages written from the owner's perspective: *"Hi [Name], Rahul here. Thank you for reaching out to Business Volunteers Fitness Gurgaon! My team looks forward to welcoming you."*
 3. **Owner Video Introductions on Landing Pages:** Embed a 30-second video of the owner on location pages allowing prospective customers to meet the local team before booking a visit.
 
 Working with an experienced team for [Internal Link: Google Ads] ensures your owner-led ad campaigns deliver high Return on Ad Spend (ROAS).
@@ -174,7 +174,7 @@ Overcoming Franchisee Branding Fears:
 
 Search habits are evolving as local consumers use conversational AI search platforms—such as **ChatGPT**, **Google AI Overviews**, **Perplexity AI**, and **Google Gemini**—to research local business leaders:
 
-> *"Who is the owner of Digital Digix Fitness in Gurgaon Sector 29, and what is their local business experience, customer rating, and community reputation?"*
+> *"Who is the owner of Business Volunteers Fitness in Gurgaon Sector 29, and what is their local business experience, customer rating, and community reputation?"*
 
 ```
 AI Entity Verification Model for Owner Brands:
@@ -220,7 +220,7 @@ In a highly competitive multi-location marketplace, combining personal branding 
 
 Building an authoritative owner brand requires strategic consistency, clear positioning, and professional digital management. Partnering with a specialized digital growth agency allows franchise owners to build personal authority and scale local store revenues without distracting from daily store operations.
 
-Ready to build an authoritative personal brand that drives store sales for your franchise business? Digital Digix can help you construct a complete personal branding and customer acquisition strategy. Contact our franchise growth team today to schedule your consultation.
+Ready to build an authoritative personal brand that drives store sales for your franchise business? Business Volunteers can help you construct a complete personal branding and customer acquisition strategy. Contact our franchise growth team today to schedule your consultation.
 
 ---
 

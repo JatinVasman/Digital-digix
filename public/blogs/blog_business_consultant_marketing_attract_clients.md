@@ -200,7 +200,7 @@ Executing a structured client acquisition strategy is the most effective commerc
 
 Executing an enterprise-grade consulting marketing program requires strategic clarity, messaging precision, SEO mastery, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your leadership team to focus on serving clients while growth experts build your pipeline.
 
-Ready to attract high-value corporate clients and scale your consulting practice? Digital Digix can help you construct a complete marketing and acquisition strategy. Contact our consulting growth specialists today to schedule your consultation.
+Ready to attract high-value corporate clients and scale your consulting practice? Business Volunteers can help you construct a complete marketing and acquisition strategy. Contact our consulting growth specialists today to schedule your consultation.
 
 ---
 

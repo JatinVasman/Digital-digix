@@ -211,7 +211,7 @@ Dominating local search results for "accountant near me" queries is the most dir
 
 Executing an enterprise-grade local SEO strategy requires ongoing profile management, technical schema implementation, and structured review generation. Partnering with a dedicated digital growth agency enables your practice leadership to focus on delivering high-value financial advisory services while growth experts scale your local client pipeline.
 
-Ready to position your accounting firm at the top of Google Maps and capture ready-to-hire local business clients? Digital Digix can help you build a complete local SEO growth strategy. Contact our local SEO specialists today to schedule your consultation.
+Ready to position your accounting firm at the top of Google Maps and capture ready-to-hire local business clients? Business Volunteers can help you build a complete local SEO growth strategy. Contact our local SEO specialists today to schedule your consultation.
 
 ---
 

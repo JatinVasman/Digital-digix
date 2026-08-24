@@ -206,7 +206,7 @@ Building a high-converting construction lead generation funnel is the single mos
 
 Executing an enterprise-grade construction lead generation funnel requires messaging precision, Construction SEO expertise, web architecture, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your engineering team to focus on building excellence while growth experts build your project pipeline.
 
-Ready to build a predictable, ethical construction lead generation funnel for your business? Digital Digix can help you construct a complete marketing and conversion strategy. Contact our construction growth specialists today to schedule your consultation.
+Ready to build a predictable, ethical construction lead generation funnel for your business? Business Volunteers can help you construct a complete marketing and conversion strategy. Contact our construction growth specialists today to schedule your consultation.
 
 ---
 

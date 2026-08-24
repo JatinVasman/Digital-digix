@@ -204,7 +204,7 @@ Building a high-converting direct booking engine is the single most profitable i
 
 Executing enterprise-grade direct booking marketing requires web design precision, rate distribution knowledge, brand governance, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your hotel team to focus on delivering exceptional guest hospitality while marketing experts scale your direct reservation volume.
 
-Ready to increase direct room bookings and reduce commission costs for your hotel property? Digital Digix can help you construct a complete direct booking strategy. Contact our hotel growth specialists today to schedule your consultation.
+Ready to increase direct room bookings and reduce commission costs for your hotel property? Business Volunteers can help you construct a complete direct booking strategy. Contact our hotel growth specialists today to schedule your consultation.
 
 ---
 

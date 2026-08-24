@@ -216,7 +216,7 @@ In an increasingly competitive fitness market, personal branding for gym owners 
 
 Building a strong personal brand requires consistency, strategic positioning, and professional digital management. Partnering with a specialized growth agency allows you to build personal authority and scale your business without distracting from your daily operations.
 
-Ready to build an authoritative personal brand that drives members and commercial growth to your gym? Digital Digix can help you develop a complete personal branding and digital strategy. Contact our team today to schedule your strategic growth session.
+Ready to build an authoritative personal brand that drives members and commercial growth to your gym? Business Volunteers can help you develop a complete personal branding and digital strategy. Contact our team today to schedule your strategic growth session.
 
 ---
 

@@ -185,7 +185,7 @@ Dominating local search results for "near me" architectural queries is the most 
 
 Executing an enterprise-grade local SEO strategy requires ongoing profile management, technical schema implementation, and structured review generation. Partnering with a dedicated digital growth agency enables your design leadership to focus on creating world-class architecture while growth experts scale your local client pipeline.
 
-Ready to position your architecture firm at the top of Google Maps and capture ready-to-commission property developers and homeowners? Digital Digix can help you build a complete local SEO growth strategy. Contact our local SEO specialists today to schedule your consultation.
+Ready to position your architecture firm at the top of Google Maps and capture ready-to-commission property developers and homeowners? Business Volunteers can help you build a complete local SEO growth strategy. Contact our local SEO specialists today to schedule your consultation.
 
 ---
 

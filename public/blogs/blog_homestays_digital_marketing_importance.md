@@ -48,7 +48,7 @@ A successful homestay marketing strategy combines local destination dominance wi
 ```
 Integrated Homestay Business Growth Architecture:
 +-----------------------------------------------------------------------------------+
-|                  DIGITAL DIGIX HOMESTAY GROWTH ARCHITECTURE                       |
+|                  BUSINESS VOLUNTEERS HOMESTAY GROWTH ARCHITECTURE                       |
 +-----------------------------------------------------------------------------------+
 |  1. DESTINATION & MAPS SEO ➔ Rank #1 for "homestay in [Destination]" & map terms  |
 |  2. HIGH-INTENT GOOGLE ADS   ➔ Capture immediate vacation & weekend stay queries  |
@@ -209,7 +209,7 @@ Executing a dedicated digital marketing strategy is the single most effective co
 
 Executing enterprise-grade homestay marketing requires local search precision, web architecture expertise, brand governance, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your host team to focus on delivering exceptional guest experiences while marketing experts scale your booking pipeline.
 
-Ready to generate more direct bookings and attract qualified guests for your homestay business? Digital Digix can help you construct a complete digital marketing strategy. Contact our hospitality growth specialists today to schedule your consultation.
+Ready to generate more direct bookings and attract qualified guests for your homestay business? Business Volunteers can help you construct a complete digital marketing strategy. Contact our hospitality growth specialists today to schedule your consultation.
 
 ---
 

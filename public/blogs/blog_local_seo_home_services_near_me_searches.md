@@ -45,7 +45,7 @@ Your Google Business Profile (GBP) is the primary driver of "near me" search vis
 ```
 Optimized Home Service Google Business Profile Architecture:
 +---------------------------------------------------------------------------------+
-|  1. Exact Business Name  ➔ Brand Name - Service (e.g., Digital Digix Plumbing)|
+|  1. Exact Business Name  ➔ Brand Name - Service (e.g., Business Volunteers Plumbing)|
 |  2. Precise Primary Category➔ Plumber / Electrician / HVAC Contractor           |
 |  3. Verified Service Areas ➔ Specific cities, postal codes & neighborhoods     |
 |  4. Direct Dispatch Phone  ➔ Verified phone line answered by responsive staff   |
@@ -199,7 +199,7 @@ Executing a hyper-local search engine strategy is the single most effective comm
 
 Executing enterprise-grade local home service SEO requires map optimization precision, web architecture expertise, local review governance, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your field crew to focus on delivering quality service while marketing experts scale your local search rankings.
 
-Ready to dominate "near me" search results for your home service business? Digital Digix can help you construct a complete local search strategy. Contact our local SEO specialists today to schedule your consultation.
+Ready to dominate "near me" search results for your home service business? Business Volunteers can help you construct a complete local search strategy. Contact our local SEO specialists today to schedule your consultation.
 
 ---
 

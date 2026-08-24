@@ -118,7 +118,7 @@ Founder-Led Performance Marketing Architecture:
 ```
 
 ### 3 Ways to Use Founder Assets in Ads
-1. **Founder Video Ads:** Run Meta and Google ads featuring a 30-second video of the founder introducing the cleaning company's core value promise: *"Hi, I'm Ankit, founder of Digital Digix Cleaning. We provide background-checked, eco-friendly house cleaning in Gurgaon. Tap below to get an instant WhatsApp quote."*
+1. **Founder Video Ads:** Run Meta and Google ads featuring a 30-second video of the founder introducing the cleaning company's core value promise: *"Hi, I'm Ankit, founder of Business Volunteers Cleaning. We provide background-checked, eco-friendly house cleaning in Gurgaon. Tap below to get an instant WhatsApp quote."*
 2. **Personalized Automated Greetings:** Configure your WhatsApp lead automation to deliver messages written from the founder's perspective: *"Hi [Name], Ankit here. Thank you for requesting a cleaning quote! My team looks forward to making your home shine."*
 3. **Founder Video Introductions on Landing Pages:** Embed a 30-second video of the founder on key service pages explaining the company's quality guarantees.
 
@@ -182,7 +182,7 @@ Overcoming Founder Branding Fears:
 
 Search habits are evolving as homeowners and commercial managers use conversational AI search platforms—such as **ChatGPT**, **Google AI Overviews**, **Perplexity AI**, and **Google Gemini**—to research cleaning companies:
 
-> *"Who is the founder of Digital Digix Cleaning, and what is their background, staff vetting standards, and client reputation in Gurgaon?"*
+> *"Who is the founder of Business Volunteers Cleaning, and what is their background, staff vetting standards, and client reputation in Gurgaon?"*
 
 ```
 AI Entity Verification Model for Cleaning Founders:
@@ -228,7 +228,7 @@ In a highly competitive local market, personal branding for cleaning business ow
 
 Building an authoritative founder brand requires strategic consistency, clear positioning, and professional digital management. Partnering with a specialized digital growth agency allows cleaning leaders to build personal authority and scale company revenues without distracting from daily service operations.
 
-Ready to build an authoritative personal brand that drives recurring bookings for your cleaning company? Digital Digix can help you build a complete personal branding and digital strategy. Contact our growth team today to schedule your consultation.
+Ready to build an authoritative personal brand that drives recurring bookings for your cleaning company? Business Volunteers can help you build a complete personal branding and digital strategy. Contact our growth team today to schedule your consultation.
 
 ---
 

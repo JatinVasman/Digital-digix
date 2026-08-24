@@ -217,7 +217,7 @@ In a highly competitive online education market, personal branding for EdTech fo
 
 Building an authoritative personal brand requires strategic consistency, clear positioning, and professional digital management. Partnering with a specialized digital growth agency allows you to build personal authority and scale your business without distracting from daily operations.
 
-Ready to build an authoritative personal brand that drives student enrollments and enterprise growth for your EdTech company? Digital Digix can help you build a complete personal branding and digital strategy. Contact our team today to schedule your consultation.
+Ready to build an authoritative personal brand that drives student enrollments and enterprise growth for your EdTech company? Business Volunteers can help you build a complete personal branding and digital strategy. Contact our team today to schedule your consultation.
 
 ---
 

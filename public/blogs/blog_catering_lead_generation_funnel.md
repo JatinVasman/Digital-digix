@@ -206,7 +206,7 @@ Building a high-converting lead generation funnel is the single most effective c
 
 Executing an enterprise-grade catering lead funnel requires technical web architecture, visual messaging precision, SEO mastery, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your management team to focus on culinary excellence while growth experts build your acquisition engine.
 
-Ready to build a predictable, high-converting lead generation funnel for your catering company? Digital Digix can help you construct a complete marketing and sales strategy. Contact our lead generation specialists today to schedule your consultation.
+Ready to build a predictable, high-converting lead generation funnel for your catering company? Business Volunteers can help you construct a complete marketing and sales strategy. Contact our lead generation specialists today to schedule your consultation.
 
 ---
 

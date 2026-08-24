@@ -187,7 +187,7 @@ Executing a targeted Google Ads strategy is the fastest, most scalable way for a
 
 Executing an enterprise-grade education PPC campaign requires technical ad management, landing page design, conversion tracking, and continuous campaign optimization. Partnering with a dedicated digital growth agency enables your academic team to focus on teaching excellence while growth experts build your paid acquisition pipeline.
 
-Ready to launch a high-performance Google Ads campaign that drives qualified admission enquiries for your coaching institute? Digital Digix can help you construct a complete paid search strategy. Contact our PPC specialists today to schedule your consultation.
+Ready to launch a high-performance Google Ads campaign that drives qualified admission enquiries for your coaching institute? Business Volunteers can help you construct a complete paid search strategy. Contact our PPC specialists today to schedule your consultation.
 
 ---
 

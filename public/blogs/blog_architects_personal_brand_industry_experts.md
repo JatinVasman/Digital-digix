@@ -216,7 +216,7 @@ In a highly competitive design market, personal branding for principal architect
 
 Building an authoritative personal brand requires strategic consistency, clear positioning, and professional digital management. Partnering with a specialized digital growth agency allows design leadership to build personal authority and scale practice revenue without distracting from core studio operations.
 
-Ready to build an authoritative personal brand that drives high-value design commissions for your architecture firm? Digital Digix can help you build a complete personal branding and digital strategy. Contact our growth team today to schedule your consultation.
+Ready to build an authoritative personal brand that drives high-value design commissions for your architecture firm? Business Volunteers can help you build a complete personal branding and digital strategy. Contact our growth team today to schedule your consultation.
 
 ---
 

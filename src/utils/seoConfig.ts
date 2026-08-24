@@ -15,7 +15,7 @@ export interface PageSeoMeta {
 
 export const STATIC_PAGES_SEO: Record<string, PageSeoMeta> = {
   '/': {
-    title: 'Digital Marketing Agency for Business Growth | Digital Digix',
+    title: 'Digital Marketing Agency for Business Growth | Business Volunteers',
     description: 'Scale your brand with performance marketing, SEO, high-converting web development, Google Ads, and viral social media funnels. Zero lock-in contracts.',
     keywords: ['digital marketing agency', 'performance marketing agency', 'SEO services', 'Google ads management', 'web development', 'social media marketing', 'India'],
     canonicalPath: '/',
@@ -25,7 +25,7 @@ export const STATIC_PAGES_SEO: Record<string, PageSeoMeta> = {
     primaryKeyword: 'digital marketing agency'
   },
   '/services': {
-    title: 'Digital Marketing & Growth Services — Pricing & Strategy | Digital Digix',
+    title: 'Digital Marketing & Growth Services — Pricing & Strategy | Business Volunteers',
     description: 'Explore full-suite digital marketing services: SEO, Google & Meta Ads, Web Development, UGC Reels, WhatsApp Funnels, and Graphic Design with transparent pricing.',
     keywords: ['digital marketing services', 'performance marketing packages', 'SEO services', 'PPC agency', 'web development services'],
     canonicalPath: '/services',
@@ -35,27 +35,27 @@ export const STATIC_PAGES_SEO: Record<string, PageSeoMeta> = {
     primaryKeyword: 'digital marketing services'
   },
   '/about': {
-    title: 'About Digital Digix — Leadership, Mission & Performance Marketing',
-    description: 'Learn about Digital Digix leadership, engineering philosophy, and founder-led performance marketing methodology driving measurable client growth across 89+ sectors.',
-    keywords: ['about digital digix', 'digital marketing leadership', 'Harsh Chaudhary', 'Khwahish Sahai', 'growth agency founders'],
+    title: 'About Business Volunteers — Leadership, Mission & Performance Marketing',
+    description: 'Learn about Business Volunteers leadership, engineering philosophy, and founder-led performance marketing methodology driving measurable client growth across 89+ sectors.',
+    keywords: ['about business volunteers', 'digital marketing leadership', 'Harsh Chaudhary', 'Khwahish Sahai', 'growth agency founders'],
     canonicalPath: '/about',
-    h1: 'About Digital Digix — Leadership, Mission & Performance Marketing',
+    h1: 'About Business Volunteers — Leadership, Mission & Performance Marketing',
     ogType: 'website',
     searchIntent: 'Informational / Navigational — Learning about company leadership and credibility',
-    primaryKeyword: 'about digital digix'
+    primaryKeyword: 'about business volunteers'
   },
   '/contact': {
-    title: 'Contact Digital Digix — Free 30-Min Growth Strategy Consultation',
-    description: 'Schedule a free 30-minute growth strategy session with Digital Digix marketing specialists. Direct access to founders, zero lock-in terms, and fast onboarding.',
+    title: 'Contact Business Volunteers — Free 30-Min Growth Strategy Consultation',
+    description: 'Schedule a free 30-minute growth strategy session with Business Volunteers marketing specialists. Direct access to founders, zero lock-in terms, and fast onboarding.',
     keywords: ['contact digital marketing agency', 'free marketing consultation', 'book strategy session', 'digital marketing quote'],
     canonicalPath: '/contact',
-    h1: 'Contact Digital Digix — Free 30-Min Strategy Consultation',
+    h1: 'Contact Business Volunteers — Free 30-Min Strategy Consultation',
     ogType: 'website',
     searchIntent: 'Transactional — Booking consultation or getting a proposal',
     primaryKeyword: 'contact digital marketing agency'
   },
   '/portfolio': {
-    title: 'Client Case Studies & Verified Growth Results | Digital Digix',
+    title: 'Client Case Studies & Verified Growth Results | Business Volunteers',
     description: 'Discover verified client case studies, ROAS performance metrics, and growth results delivered across SEO, Google Ads, Meta Ads, and custom web applications.',
     keywords: ['digital marketing case studies', 'marketing agency results', 'ROAS case studies', 'SEO portfolio', 'client success stories'],
     canonicalPath: '/portfolio',
@@ -65,7 +65,7 @@ export const STATIC_PAGES_SEO: Record<string, PageSeoMeta> = {
     primaryKeyword: 'digital marketing case studies'
   },
   '/industries': {
-    title: '89+ Industry Digital Marketing & Growth Solutions | Digital Digix',
+    title: '89+ Industry Digital Marketing & Growth Solutions | Business Volunteers',
     description: 'Specialized digital marketing, SEO, and lead generation frameworks tailored for 89+ industries including Healthcare, Real Estate, E-Commerce, Education, and Tech.',
     keywords: ['industry digital marketing', 'healthcare marketing', 'real estate marketing', 'b2b marketing', 'ecommerce growth solutions'],
     canonicalPath: '/industries',
@@ -75,17 +75,17 @@ export const STATIC_PAGES_SEO: Record<string, PageSeoMeta> = {
     primaryKeyword: 'industry digital marketing'
   },
   '/blogs': {
-    title: 'Digital Marketing, SEO & AI Search Insights Blog | Digital Digix',
+    title: 'Digital Marketing, SEO & AI Search Insights Blog | Business Volunteers',
     description: 'Read expert articles and in-depth pillar guides on SEO, AI search optimization (GEO/AEO), Google Ads scaling, social media growth, and B2B marketing funnels.',
     keywords: ['digital marketing blog', 'SEO guides', 'generative engine optimization blog', 'PPC strategies', 'growth marketing articles'],
     canonicalPath: '/blogs',
-    h1: 'The Digital Digix Blog',
+    h1: 'The Business Volunteers Blog',
     ogType: 'website',
     searchIntent: 'Informational — Researching digital marketing tactics and SEO strategies',
     primaryKeyword: 'digital marketing blog'
   },
   '/smm': {
-    title: 'Social Media Marketing Agency & Viral Reels Strategy | Digital Digix',
+    title: 'Social Media Marketing Agency & Viral Reels Strategy | Business Volunteers',
     description: 'Full-funnel organic and paid social media management for Instagram, LinkedIn, and Facebook designed to build brand authority and generate qualified buyer leads.',
     keywords: ['social media marketing agency', 'SMM services', 'Instagram reels marketing', 'LinkedIn B2B marketing', 'social media management pricing'],
     canonicalPath: '/smm',
@@ -95,7 +95,7 @@ export const STATIC_PAGES_SEO: Record<string, PageSeoMeta> = {
     primaryKeyword: 'social media marketing agency'
   },
   '/legal': {
-    title: 'Legal Marketing & Corporate Practice Growth Solutions | Digital Digix',
+    title: 'Legal Marketing & Corporate Practice Growth Solutions | Business Volunteers',
     description: 'Specialized digital marketing, client acquisition funnels, and personal branding tailored for Law Firms, Advocates, Corporate Lawyers, and CA/CS professionals.',
     keywords: ['legal marketing agency', 'law firm digital marketing', 'lawyer SEO services', 'trademark filing marketing', 'corporate legal growth'],
     canonicalPath: '/legal',
@@ -105,8 +105,8 @@ export const STATIC_PAGES_SEO: Record<string, PageSeoMeta> = {
     primaryKeyword: 'legal marketing agency'
   },
   '/digital-marketing': {
-    title: 'Domestic & Global Locations Directory | Digital Digix',
-    description: 'Explore Digital Digix digital marketing coverage across 500+ Indian cities and international markets including Tier 1 metros, Tier 2/3 hubs, USA, UK, and Dubai.',
+    title: 'Domestic & Global Locations Directory | Business Volunteers',
+    description: 'Explore Business Volunteers digital marketing coverage across 500+ Indian cities and international markets including Tier 1 metros, Tier 2/3 hubs, USA, UK, and Dubai.',
     keywords: ['digital marketing locations', 'SEO agency India', 'digital marketing agency Delhi NCR', 'digital marketing Mumbai', 'local marketing directory'],
     canonicalPath: '/digital-marketing',
     h1: 'Explore Our Complete Digital Marketing Locations Directory',
@@ -115,7 +115,7 @@ export const STATIC_PAGES_SEO: Record<string, PageSeoMeta> = {
     primaryKeyword: 'digital marketing locations'
   },
   '/graphic-design': {
-    title: 'Graphic Design Services & Per-Design Transparent Pricing | Digital Digix',
+    title: 'Graphic Design Services & Per-Design Transparent Pricing | Business Volunteers',
     description: 'Custom social media creatives, corporate pitch decks, brochures, packaging labels, and logos with transparent per-design pricing and 24-hour turnaround.',
     keywords: ['graphic design services', 'per design pricing', 'social media post design', 'logo design services', 'packaging design India'],
     canonicalPath: '/graphic-design',
@@ -125,7 +125,7 @@ export const STATIC_PAGES_SEO: Record<string, PageSeoMeta> = {
     primaryKeyword: 'graphic design services'
   },
   '/404': {
-    title: '404 - Page Not Found | Digital Digix',
+    title: '404 - Page Not Found | Business Volunteers',
     description: 'The requested page could not be found. Explore our services, industry marketing hubs, blogs, or contact our team.',
     keywords: ['404', 'not found'],
     canonicalPath: '/404',
@@ -137,7 +137,7 @@ export const STATIC_PAGES_SEO: Record<string, PageSeoMeta> = {
 
 export const SERVICES_SEO: Record<string, PageSeoMeta> = {
   'seo': {
-    title: 'SEO Services & Search Engine Optimization Agency | Digital Digix',
+    title: 'SEO Services & Search Engine Optimization Agency | Business Volunteers',
     description: 'Dominate Google search results with technical SEO, Generative Engine Optimization (GEO/AEO), high-intent keyword ranking, and data-driven link building.',
     keywords: ['SEO services', 'search engine optimization agency', 'technical SEO', 'generative engine optimization', 'GEO agency India', 'local SEO'],
     canonicalPath: '/services/seo',
@@ -146,7 +146,7 @@ export const SERVICES_SEO: Record<string, PageSeoMeta> = {
     primaryKeyword: 'SEO services'
   },
   'social-media-marketing': {
-    title: 'Social Media Marketing Agency & SMM Retainers | Digital Digix',
+    title: 'Social Media Marketing Agency & SMM Retainers | Business Volunteers',
     description: 'Build brand presence and drive inbound leads on Instagram, Facebook, and LinkedIn with custom content calendars, viral reels, and active community moderation.',
     keywords: ['social media marketing agency', 'SMM retainers', 'Instagram marketing agency', 'LinkedIn lead generation', 'reels content strategy'],
     canonicalPath: '/services/social-media-marketing',
@@ -155,7 +155,7 @@ export const SERVICES_SEO: Record<string, PageSeoMeta> = {
     primaryKeyword: 'social media marketing agency'
   },
   'graphic-design': {
-    title: 'Graphic Design Services — Per-Design Rates & Fast Turnaround | Digital Digix',
+    title: 'Graphic Design Services — Per-Design Rates & Fast Turnaround | Business Volunteers',
     description: 'Bespoke social creatives, packaging, logos, sales brochures, and 3D mockups. Clear transparent pricing starting at ₹200 with rapid 24-48 hour turnaround.',
     keywords: ['graphic design services', 'per design pricing', 'social media creatives', 'brochure design', 'product packaging design'],
     canonicalPath: '/services/graphic-design',
@@ -164,7 +164,7 @@ export const SERVICES_SEO: Record<string, PageSeoMeta> = {
     primaryKeyword: 'graphic design services'
   },
   'ugc-reels-creator-marketing': {
-    title: 'UGC Reels & Creator Marketing Agency | Digital Digix',
+    title: 'UGC Reels & Creator Marketing Agency | Business Volunteers',
     description: 'Drive social conversions with authentic User-Generated Content (UGC) videos scripted by direct-response copywriters and filmed by vetted creators.',
     keywords: ['UGC reels agency', 'creator marketing', 'user generated content India', 'viral reels agency', 'short form video ads'],
     canonicalPath: '/services/ugc-reels-creator-marketing',
@@ -173,7 +173,7 @@ export const SERVICES_SEO: Record<string, PageSeoMeta> = {
     primaryKeyword: 'UGC reels creator marketing'
   },
   'dashboard-kpi-systems': {
-    title: 'Dashboard & KPI Systems — Live Marketing Analytics | Digital Digix',
+    title: 'Dashboard & KPI Systems — Live Marketing Analytics | Business Volunteers',
     description: 'Eliminate blind spots with custom real-time business intelligence dashboards connecting Google Ads, Meta Ads, CRM data, and revenue metrics in one unified view.',
     keywords: ['dashboard KPI systems', 'marketing analytics dashboard', 'custom BI dashboards', 'Looker Studio dashboards', 'revenue tracking dashboard'],
     canonicalPath: '/services/dashboard-kpi-systems',
@@ -182,7 +182,7 @@ export const SERVICES_SEO: Record<string, PageSeoMeta> = {
     primaryKeyword: 'dashboard KPI systems'
   },
   'google-ads': {
-    title: 'Google Ads Management & PPC Advertising Agency | Digital Digix',
+    title: 'Google Ads Management & PPC Advertising Agency | Business Volunteers',
     description: 'Capture high-intent search traffic and maximize ROAS with expert Google Ads management spanning Search, Performance Max, YouTube Ads, and Display campaigns.',
     keywords: ['Google Ads management', 'PPC advertising agency', 'Google Ads agency India', 'high ROAS PPC', 'Performance Max management'],
     canonicalPath: '/services/google-ads',
@@ -191,7 +191,7 @@ export const SERVICES_SEO: Record<string, PageSeoMeta> = {
     primaryKeyword: 'Google Ads management'
   },
   'meta-ads': {
-    title: 'Meta Ads Agency — Facebook & Instagram Advertising | Digital Digix',
+    title: 'Meta Ads Agency — Facebook & Instagram Advertising | Business Volunteers',
     description: 'Scale customer acquisition with high-converting Facebook and Instagram ad campaigns. Data-driven creative testing, Advantage+ funnels, and retargeting systems.',
     keywords: ['Meta ads agency', 'Facebook advertising agency', 'Instagram ads management', 'paid social agency', 'Advantage plus ads'],
     canonicalPath: '/services/meta-ads',
@@ -200,7 +200,7 @@ export const SERVICES_SEO: Record<string, PageSeoMeta> = {
     primaryKeyword: 'Meta ads agency'
   },
   'web-development': {
-    title: 'Website Development Services for Growing Businesses | Digital Digix',
+    title: 'Website Development Services for Growing Businesses | Business Volunteers',
     description: 'Custom, high-converting web applications built with React, Next.js, and mobile-first responsive architecture. Optimized for fast loading speeds, SEO, and conversions.',
     keywords: ['website development services', 'custom web app development', 'Next.js web development', 'React web development', 'conversion rate optimized websites'],
     canonicalPath: '/services/web-development',
@@ -209,7 +209,7 @@ export const SERVICES_SEO: Record<string, PageSeoMeta> = {
     primaryKeyword: 'website development services'
   },
   'whatsapp-marketing': {
-    title: 'WhatsApp Marketing & WhatsApp Business API Solutions | Digital Digix',
+    title: 'WhatsApp Marketing & WhatsApp Business API Solutions | Business Volunteers',
     description: 'Automate customer support, lead qualification, and promotional broadcast sequences with official WhatsApp Business API integration and CRM automation.',
     keywords: ['WhatsApp marketing', 'WhatsApp Business API', 'WhatsApp automation agency', 'lead qualification bot', 'broadcast messaging'],
     canonicalPath: '/services/whatsapp-marketing',
@@ -218,7 +218,7 @@ export const SERVICES_SEO: Record<string, PageSeoMeta> = {
     primaryKeyword: 'WhatsApp marketing'
   },
   'email-marketing': {
-    title: 'Email Marketing Services & Automated Lead Funnels | Digital Digix',
+    title: 'Email Marketing Services & Automated Lead Funnels | Business Volunteers',
     description: 'Turn subscribers into repeat buyers with behavioral email automation, newsletter management, high-converting copy, and inbox deliverability optimization.',
     keywords: ['email marketing services', 'automated email funnels', 'retention marketing agency', 'Klaviyo email agency', 'B2B email automation'],
     canonicalPath: '/services/email-marketing',
@@ -227,7 +227,7 @@ export const SERVICES_SEO: Record<string, PageSeoMeta> = {
     primaryKeyword: 'email marketing services'
   },
   'influencer-marketing': {
-    title: 'Influencer Marketing Agency — Creator Collaborations | Digital Digix',
+    title: 'Influencer Marketing Agency — Creator Collaborations | Business Volunteers',
     description: 'Boost brand trust and reach through vetted micro and macro influencer campaigns across Instagram, YouTube, and LinkedIn with full contract and ROI tracking.',
     keywords: ['influencer marketing agency', 'creator collaborations', 'micro influencer campaigns', 'YouTube sponsorships', 'Instagram influencer management'],
     canonicalPath: '/services/influencer-marketing',
@@ -236,7 +236,7 @@ export const SERVICES_SEO: Record<string, PageSeoMeta> = {
     primaryKeyword: 'influencer marketing agency'
   },
   'b2b-lead-generation': {
-    title: 'B2B Lead Generation & Account-Based Funnels | Digital Digix',
+    title: 'B2B Lead Generation & Account-Based Funnels | Business Volunteers',
     description: 'Fill sales calendars with qualified decision-maker meetings using multi-touch outbound funnels, LinkedIn automation, targeted email, and CRM workflows.',
     keywords: ['B2B lead generation', 'account based marketing', 'LinkedIn B2B prospecting', 'qualified appointment setting', 'sales pipeline agency'],
     canonicalPath: '/services/b2b-lead-generation',
@@ -245,7 +245,7 @@ export const SERVICES_SEO: Record<string, PageSeoMeta> = {
     primaryKeyword: 'B2B lead generation'
   },
   'ecommerce-scaling': {
-    title: 'E-commerce Marketing & Scaling Services | Digital Digix',
+    title: 'E-commerce Marketing & Scaling Services | Business Volunteers',
     description: 'Scale D2C and e-commerce store revenue with full-funnel paid media, high-converting product pages, shopping feed management, and retention systems.',
     keywords: ['ecommerce marketing agency', 'D2C scaling', 'Shopify growth agency', 'Google shopping ads', 'ecommerce performance marketing'],
     canonicalPath: '/services/ecommerce-scaling',
@@ -254,7 +254,7 @@ export const SERVICES_SEO: Record<string, PageSeoMeta> = {
     primaryKeyword: 'ecommerce marketing'
   },
   'cro': {
-    title: 'Conversion Rate Optimization (CRO) Services | Digital Digix',
+    title: 'Conversion Rate Optimization (CRO) Services | Business Volunteers',
     description: 'Increase conversion rates and maximize revenue per visitor with data-driven A/B testing, user journey audits, heuristic analysis, and UX enhancements.',
     keywords: ['conversion rate optimization', 'CRO services', 'landing page optimization', 'A/B testing agency', 'website conversion audit'],
     canonicalPath: '/services/cro',
@@ -263,7 +263,7 @@ export const SERVICES_SEO: Record<string, PageSeoMeta> = {
     primaryKeyword: 'conversion rate optimization'
   },
   'local-seo': {
-    title: 'Local SEO Services & Google Maps Ranking Agency | Digital Digix',
+    title: 'Local SEO Services & Google Maps Ranking Agency | Business Volunteers',
     description: 'Dominate local "near me" searches and Google Maps 3-pack rankings with verified Google Business Profile optimization, local citations, and geo-targeted landing pages.',
     keywords: ['local SEO services', 'Google Business Profile optimization', 'Google maps ranking', 'near me searches', 'local business SEO agency'],
     canonicalPath: '/services/local-seo',
@@ -272,7 +272,7 @@ export const SERVICES_SEO: Record<string, PageSeoMeta> = {
     primaryKeyword: 'local SEO services'
   },
   'ai-automation-systems': {
-    title: 'AI Automation Systems for Sales & Operations | Digital Digix',
+    title: 'AI Automation Systems for Sales & Operations | Business Volunteers',
     description: 'Deploy AI-powered customer service agents, automated lead nurturing workflows, and smart CRM integrations to cut manual labor and accelerate response times.',
     keywords: ['AI automation systems', 'AI business automation', 'CRM AI integration', 'conversational AI agents', 'marketing automation'],
     canonicalPath: '/services/ai-automation-systems',
@@ -281,7 +281,7 @@ export const SERVICES_SEO: Record<string, PageSeoMeta> = {
     primaryKeyword: 'AI automation systems'
   },
   'brand-identity-design': {
-    title: 'Brand Identity Design & Strategic Positioning | Digital Digix',
+    title: 'Brand Identity Design & Strategic Positioning | Business Volunteers',
     description: 'Craft unforgettable brand identities, guidelines, typography systems, and visual positioning that establish instant authority and command premium pricing.',
     keywords: ['brand identity design', 'branding agency', 'corporate brand guidelines', 'visual identity system', 'brand positioning agency'],
     canonicalPath: '/services/brand-identity-design',
@@ -312,7 +312,7 @@ export function getLocationSeo(citySlug: string): PageSeoMeta {
     .join(' ');
 
   return {
-    title: `Digital Marketing Agency in ${formattedName} | Digital Digix`,
+    title: `Digital Marketing Agency in ${formattedName} | Business Volunteers`,
     description: `Leading digital marketing agency in ${formattedName}. Performance marketing, local SEO, Google Ads, Meta Ads, and web design tailored for ${formattedName} businesses.`,
     keywords: [
       `digital marketing agency in ${formattedName}`,
@@ -347,7 +347,7 @@ export function getIndustrySeo(industrySlug: string, industryName?: string): Pag
     .join(' ');
 
   return {
-    title: `Digital Marketing for ${name} — Client Acquisition & Growth | Digital Digix`,
+    title: `Digital Marketing for ${name} — Client Acquisition & Growth | Business Volunteers`,
     description: `Tailored digital marketing, SEO, and performance ad frameworks for ${name}. Drive verified client inquiries, build brand authority, and scale revenue.`,
     keywords: [
       `digital marketing for ${name.toLowerCase()}`,
@@ -378,9 +378,9 @@ export function getBlogPostSeo(blogSlug: string, contextTitle?: string, contextD
 
   if (blog) {
     return {
-      title: `${blog.title} | Digital Digix`,
-      description: blog.excerpt || `Read our in-depth framework on ${blog.title}. Proven digital growth, SEO, and performance marketing strategies from Digital Digix.`,
-      keywords: [blog.keyword, blog.keyword2, ...(blog.tags || []), 'Digital Digix'].filter(Boolean) as string[],
+      title: `${blog.title} | Business Volunteers`,
+      description: blog.excerpt || `Read our in-depth framework on ${blog.title}. Proven digital growth, SEO, and performance marketing strategies from Business Volunteers.`,
+      keywords: [blog.keyword, blog.keyword2, ...(blog.tags || []), 'Business Volunteers'].filter(Boolean) as string[],
       canonicalPath: `/blogs/${encodeURIComponent(blog.slug)}`,
       h1: blog.title,
       ogType: 'article',
@@ -391,7 +391,7 @@ export function getBlogPostSeo(blogSlug: string, contextTitle?: string, contextD
 
   const fallbackTitle = contextTitle || decoded.split(/[-_]+/).map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ') || 'Digital Marketing Strategy Guide';
   return {
-    title: `${fallbackTitle} | Digital Digix`,
+    title: `${fallbackTitle} | Business Volunteers`,
     description: contextDesc || 'Read practical frameworks on digital marketing, SEO, Generative AI search, and B2B growth funnels.',
     keywords: ['digital marketing blog', 'SEO insights', 'growth strategies'],
     canonicalPath: `/blogs/${encodeURIComponent(rawSlug || 'guide')}`,
@@ -413,7 +413,7 @@ export function getGraphicDesignItemSeo(itemSlug: string, itemName?: string): Pa
     .join(' ');
 
   return {
-    title: `${name} Services — Formats, Pricing & Turnaround | Digital Digix`,
+    title: `${name} Services — Formats, Pricing & Turnaround | Business Volunteers`,
     description: `Professional ${name.toLowerCase()} services with fast 24-48 hour turnaround, print-ready source files, and transparent per-design pricing.`,
     keywords: [
       `${name.toLowerCase()}`,
@@ -440,7 +440,7 @@ export function getLegalServiceSeo(serviceSlug: string, serviceName?: string): P
     .join(' ');
 
   return {
-    title: `${name} — Legal Practice Marketing & Compliance | Digital Digix`,
+    title: `${name} — Legal Practice Marketing & Compliance | Business Volunteers`,
     description: `Specialized digital acquisition and client intake workflows for ${name.toLowerCase()}. Build trusted authority and acquire high-value commercial clients.`,
     keywords: [
       `${name.toLowerCase()}`,

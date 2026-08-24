@@ -192,7 +192,7 @@ Rebranding is one of the most powerful strategic growth levers available to busi
 
 Executing an enterprise-grade rebranding program requires strategic alignment, technical SEO precision, creative design excellence, and multi-channel launch management. Partnering with a dedicated branding and digital growth agency enables your leadership team to focus on core operations while growth experts manage your brand transformation.
 
-Ready to reposition your business for category leadership and accelerate commercial growth? Digital Digix can help you build a complete rebranding strategy. Contact our branding specialists today to schedule your consultation.
+Ready to reposition your business for category leadership and accelerate commercial growth? Business Volunteers can help you build a complete rebranding strategy. Contact our branding specialists today to schedule your consultation.
 
 ---
 

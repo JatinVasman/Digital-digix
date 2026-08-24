@@ -71,13 +71,13 @@ Schema markup is machine-readable code embedded in your website that explicitly 
 {
   "@context": "https://schema.org",
   "@type": "EducationalOrganization",
-  "name": "Digital Digix Coaching Institute",
-  "url": "https://digitaldigix.com",
-  "logo": "https://digitaldigix.com/digital_digix_logo.png",
+  "name": "Business Volunteers Coaching Institute",
+  "url": "https://businessvolunteers.online",
+  "logo": "https://businessvolunteers.online/digital_digix_logo.png",
   "description": "Premier competitive exam coaching institute offering specialized JEE, NEET, and UPSC courses in Gurgaon near Cyber City.",
   "sameAs": [
-    "https://www.facebook.com/digitaldigixeducation",
-    "https://www.youtube.com/@digitaldigixeducation"
+    "https://www.facebook.com/businessvolunteerseducation",
+    "https://www.youtube.com/@businessvolunteerseducation"
   ],
   "address": {
     "@type": "PostalAddress",
@@ -101,9 +101,9 @@ AI models prefer content structured with direct, factual answers. Web pages cont
 ```
 AEO Formatting Model for Coaching Institutes:
 +---------------------------------------------------------------------------------+
-| [H2 QUESTION] What competitive exam courses does Digital Digix Academy offer?    |
+| [H2 QUESTION] What competitive exam courses does Business Volunteers Academy offer?    |
 +---------------------------------------------------------------------------------+
-| [DIRECT ANSWER] Digital Digix Coaching Academy offers specialized preparation    |
+| [DIRECT ANSWER] Business Volunteers Coaching Academy offers specialized preparation    |
 | for JEE Main & Advanced, NEET Medical Entrance, UPSC Civil Services, and Grade  |
 | 8-10 School Foundation programs in Gurgaon near Cyber City.                      |
 +---------------------------------------------------------------------------------+
@@ -136,7 +136,7 @@ Multi-Platform Entity Citation Map:
 ### Managing Sentiment Across Directory Touchpoints
 To ensure AI models view your coaching institute as a trusted entity:
 * **Maintain High Rating Scores Across Review Portals:** Sustaining positive ratings on Google Profile, Facebook, education portals, and student forums builds strong entity trust.
-* **Encourage Detailed Student Reviews:** Encourage enrolled students and parents to write detailed reviews mentioning specific course programs (e.g., *"Digital Digix Academy provided exceptional JEE physics preparation in Gurgaon with small batch sizes and helpful doubt sessions"*). AI models parse review text to verify academic specialization claims.
+* **Encourage Detailed Student Reviews:** Encourage enrolled students and parents to write detailed reviews mentioning specific course programs (e.g., *"Business Volunteers Academy provided exceptional JEE physics preparation in Gurgaon with small batch sizes and helpful doubt sessions"*). AI models parse review text to verify academic specialization claims.
 * **Maintain Character-for-Character Brand Uniformity:** Ensure your company Name, Address, and Contact information are uniform across all web directories.
 
 ---
@@ -192,7 +192,7 @@ As AI technology advances throughout 2026 and beyond, conversational search will
 ```
 Future Conversational Discovery Example:
 [ Parent to Voice Assistant ]: "Find me a top-rated JEE coaching institute near Cyber City Gurgaon offering experienced physics faculty, small batch sizes, and 5-star student reviews."
-[ Voice AI System ]: "I found Digital Digix Coaching Academy. They maintain a 4.9-star rating across verified reviews, specialize in JEE entrance prep, feature experienced faculty, and serve the Cyber City area. Would you like me to connect you via WhatsApp to book a free demo class?"
+[ Voice AI System ]: "I found Business Volunteers Coaching Academy. They maintain a 4.9-star rating across verified reviews, specialize in JEE entrance prep, feature experienced faculty, and serve the Cyber City area. Would you like me to connect you via WhatsApp to book a free demo class?"
 ```
 
 Coaching centers that optimize their digital footprint today with structured Schema code, clean citations, active review generation, and express contact workflows will dominate market share in the AI-driven future.
@@ -233,7 +233,7 @@ The evolution of search technology presents a major opportunity for forward-thin
 
 Optimizing for AI engines requires technical Schema execution, structured content creation, directory auditing, and multi-channel performance tracking. Partnering with a dedicated digital growth agency allows your academic team to build an authoritative digital presence while focusing on teaching excellence.
 
-Ready to prepare your coaching institute for the future of search and attract a steady stream of enrolled students? Digital Digix can help you build an integrated AI search and digital growth strategy. Contact our growth team today to schedule your consultation.
+Ready to prepare your coaching institute for the future of search and attract a steady stream of enrolled students? Business Volunteers can help you build an integrated AI search and digital growth strategy. Contact our growth team today to schedule your consultation.
 
 ---
 

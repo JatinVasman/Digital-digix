@@ -71,16 +71,16 @@ Schema markup is machine-readable code embedded in your website that explicitly 
 {
   "@context": "https://schema.org",
   "@type": "Restaurant",
-  "name": "Digital Digix Cloud Kitchen",
-  "url": "https://digitaldigix.com",
-  "logo": "https://digitaldigix.com/digital_digix_logo.png",
+  "name": "Business Volunteers Cloud Kitchen",
+  "url": "https://businessvolunteers.online",
+  "logo": "https://businessvolunteers.online/digital_digix_logo.png",
   "description": "Delivery-only cloud kitchen offering healthy lunch bowls, gourmet burgers, and artisanal desserts in Gurgaon near Cyber City.",
   "servesCuisine": ["Healthy", "Burgers", "Continental"],
   "areaServed": ["Gurgaon", "Delhi", "Noida", "Cyber City"],
   "telePhone": "+918586989832",
   "sameAs": [
-    "https://www.instagram.com/digitaldigixkitchen",
-    "https://www.facebook.com/digitaldigixkitchen"
+    "https://www.instagram.com/businessvolunteers",
+    "https://www.facebook.com/businessvolunteers"
   ]
 }
 ```
@@ -96,9 +96,9 @@ AI models prefer content structured with direct, factual answers. Web pages cont
 ```
 AEO Formatting Model for Cloud Kitchens:
 +---------------------------------------------------------------------------------+
-| [H2 QUESTION] What food categories does Digital Digix Kitchen offer?            |
+| [H2 QUESTION] What food categories does Business Volunteers Kitchen offer?            |
 +---------------------------------------------------------------------------------+
-| [DIRECT ANSWER] Digital Digix Cloud Kitchen offers healthy lunch bowls, gourmet |
+| [DIRECT ANSWER] Business Volunteers Cloud Kitchen offers healthy lunch bowls, gourmet |
 | burgers, artisanal pizzas, and low-carb meal plans delivered in Gurgaon near   |
 | Cyber City.                                                                     |
 +---------------------------------------------------------------------------------+
@@ -131,7 +131,7 @@ Multi-Platform Entity Citation Map:
 ### Managing Sentiment Across Directory Touchpoints
 To ensure AI models view your cloud kitchen as a trusted entity:
 * **Maintain High Rating Scores Across Review Portals:** Sustaining positive ratings on Google Profile (where eligible), Swiggy, Zomato, Facebook, and Justdial builds strong entity trust.
-* **Encourage Detailed Customer Reviews:** Encourage diners to write detailed reviews mentioning specific menu items (e.g., *"Digital Digix Kitchen delivered an exceptional healthy bowl in Cyber City with complete freshness and sturdy eco-packaging"*). AI models parse review text to verify culinary specialization claims.
+* **Encourage Detailed Customer Reviews:** Encourage diners to write detailed reviews mentioning specific menu items (e.g., *"Business Volunteers Kitchen delivered an exceptional healthy bowl in Cyber City with complete freshness and sturdy eco-packaging"*). AI models parse review text to verify culinary specialization claims.
 * **Maintain Character-for-Character Brand Uniformity:** Ensure your company Name, Address (or registered office), and Contact information are uniform across all web directories.
 
 ---
@@ -187,7 +187,7 @@ As AI technology advances throughout 2026 and beyond, conversational search will
 ```
 Future Conversational Discovery Example:
 [ Customer to Voice Assistant ]: "Find me a top-rated cloud kitchen near Cyber City Gurgaon offering organic healthy bowl delivery, sustainable packaging, and 5-star reviews."
-[ Voice AI System ]: "I found Digital Digix Cloud Kitchen. They maintain a 4.9-star rating across verified reviews, specialize in organic healthy bowls, use eco-friendly packaging, and serve the Cyber City area. Would you like me to connect you via WhatsApp to place a direct order?"
+[ Voice AI System ]: "I found Business Volunteers Cloud Kitchen. They maintain a 4.9-star rating across verified reviews, specialize in organic healthy bowls, use eco-friendly packaging, and serve the Cyber City area. Would you like me to connect you via WhatsApp to place a direct order?"
 ```
 
 Cloud kitchens that optimize their digital footprint today with structured Schema code, clean citations, active review generation, and express contact workflows will dominate market share in the AI-driven future.
@@ -228,7 +228,7 @@ The evolution of search technology presents a major opportunity for forward-thin
 
 Optimizing for AI engines requires technical Schema execution, structured content creation, directory auditing, and multi-channel performance tracking. Partnering with a dedicated digital growth agency allows your culinary team to build an authoritative digital presence while focusing on food quality excellence.
 
-Ready to prepare your cloud kitchen for the future of search and attract a steady stream of direct orders? Digital Digix can help you build an integrated AI search and digital growth strategy. Contact our growth team today to schedule your consultation.
+Ready to prepare your cloud kitchen for the future of search and attract a steady stream of direct orders? Business Volunteers can help you build an integrated AI search and digital growth strategy. Contact our growth team today to schedule your consultation.
 
 ---
 

@@ -109,8 +109,8 @@ Host-Led Performance Marketing Architecture:
 ```
 
 ### 3 Ways to Use Host Assets in Paid Advertising
-1. **Host Video Ads:** Run Meta and Google ads featuring a 30-second video of the property host introducing their location: *"Hi, I'm Rajesh, founder of Digital Digix Heritage Homestay in Coorg. If you are looking for a 4.9-star rated plantation retreat with home-cooked organic meals and private pool suites, tap below to check availability and book direct."*
-2. **Personalized Automated Greetings:** Configure your WhatsApp lead automation to deliver messages written from the host's perspective: *"Hi [Name], Rajesh here. Thank you for reaching out to Digital Digix Homestay! My family looks forward to welcoming you."*
+1. **Host Video Ads:** Run Meta and Google ads featuring a 30-second video of the property host introducing their location: *"Hi, I'm Rajesh, founder of Business Volunteers Heritage Homestay in Coorg. If you are looking for a 4.9-star rated plantation retreat with home-cooked organic meals and private pool suites, tap below to check availability and book direct."*
+2. **Personalized Automated Greetings:** Configure your WhatsApp lead automation to deliver messages written from the host's perspective: *"Hi [Name], Rajesh here. Thank you for reaching out to Business Volunteers Homestay! My family looks forward to welcoming you."*
 3. **Host Video Introductions on Booking Pages:** Embed a 30-second video of the host on room booking pages allowing prospective guests to meet their host before placing a deposit.
 
 Working with an experienced team for [Internal Link: Google Ads] ensures your host-led ad campaigns deliver high Return on Ad Spend (ROAS).
@@ -173,7 +173,7 @@ Overcoming Host Branding Fears:
 
 Search habits are evolving as travelers and vacationers use conversational AI search platforms—such as **ChatGPT**, **Google AI Overviews**, **Perplexity AI**, and **Google Gemini**—to research property hosts:
 
-> *"Who is the host of Digital Digix Heritage Homestay in Coorg, and what is their hosting background, property reputation, and guest feedback?"*
+> *"Who is the host of Business Volunteers Heritage Homestay in Coorg, and what is their hosting background, property reputation, and guest feedback?"*
 
 ```
 AI Entity Verification Model for Hospitality Leaders:
@@ -219,7 +219,7 @@ In a highly competitive hospitality marketplace, combining host personal brandin
 
 Building an authoritative host brand requires strategic consistency, clear positioning, and professional digital management. Partnering with a specialized digital growth agency allows homestay hosts to build personal authority and scale booking revenues without distracting from daily guest hospitality.
 
-Ready to build an authoritative host brand that drives direct bookings for your homestay business? Digital Digix can help you construct a complete personal branding and guest acquisition strategy. Contact our hospitality growth team today to schedule your consultation.
+Ready to build an authoritative host brand that drives direct bookings for your homestay business? Business Volunteers can help you construct a complete personal branding and guest acquisition strategy. Contact our hospitality growth team today to schedule your consultation.
 
 ---
 

@@ -259,7 +259,7 @@ Building a high-growth accounting practice requires combining these individual c
 
 ```
 +-----------------------------------------------------------------------------------+
-|               DIGITAL DIGIX INTEGRATED ACCOUNTING GROWTH SYSTEM                   |
+|               BUSINESS VOLUNTEERS INTEGRATED ACCOUNTING GROWTH SYSTEM                   |
 +-----------------------------------------------------------------------------------+
 |  1. ATTRACT   ➔ Local SEO, Google Maps 3-Pack, High-Intent PPC & LinkedIn Ads     |
 |  2. ENGAGE    ➔ Mobile Landing Pages, Tax Planning Guides, Partner Branding       |
@@ -304,7 +304,7 @@ Building a high-growth, high-margin accounting firm or CA practice in 2026 requi
 
 Executing an enterprise-grade digital marketing strategy requires specialized technical management, continuous campaign optimization, and structured lead funnel design. Partnering with a dedicated digital growth agency enables your practice leadership to focus on delivering high-value financial advisory services while growth experts scale your client acquisition pipeline.
 
-Ready to position your accounting firm at the forefront of digital acquisition and secure high-value corporate clients? Digital Digix can help you build a complete digital strategy. Contact our financial marketing specialists today to schedule your consultation.
+Ready to position your accounting firm at the forefront of digital acquisition and secure high-value corporate clients? Business Volunteers can help you build a complete digital strategy. Contact our financial marketing specialists today to schedule your consultation.
 
 ---
 

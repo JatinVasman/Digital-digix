@@ -201,7 +201,7 @@ Executing a structured Google Ads strategy is the single fastest way for a gym o
 
 Executing enterprise-grade gym Google Ads management requires PPC precision, local search expertise, creative copywriting, and conversion analytics. Partnering with a dedicated digital growth agency enables your coaching team to focus on training members while paid media experts scale your location pipelines.
 
-Ready to generate more trial pass requests and long-term members through Google Ads? Digital Digix can help you construct a complete paid search strategy. Contact our PPC growth specialists today to schedule your consultation.
+Ready to generate more trial pass requests and long-term members through Google Ads? Business Volunteers can help you construct a complete paid search strategy. Contact our PPC growth specialists today to schedule your consultation.
 
 ---
 

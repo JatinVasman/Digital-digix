@@ -175,7 +175,7 @@ You cannot improve what you do not measure. For wedding planners, tracking the r
 | Click-Through Rate (CTR) | Percentage of ad viewers who click | 1.5% - 3% |
 | Cost Per Lead (CPL) | Cost to acquire one inquiry/lead | ₹50 - ₹300 |
 
-At **Digital Digix**, we provide all our clients with a transparent, real-time KPI dashboard so you know exactly where every Rupee is going.
+At **Business Volunteers**, we provide all our clients with a transparent, real-time KPI dashboard so you know exactly where every Rupee is going.
 
 ---
 
@@ -559,13 +559,13 @@ A: The standard WhatsApp Business app is fine for solopreneurs. But if you have 
 A: While ROI varies, our wedding planning clients typically see a 3x to 5x return on ad spend (ROAS) within the first 90 days of implementing our full-funnel strategies.
 
 **Q6: Do you require long-term lock-in contracts?**
-A: No! At Digital Digix, we believe in earning your business every month. We offer transparent pricing with no lock-in contracts.
+A: No! At Business Volunteers, we believe in earning your business every month. We offer transparent pricing with no lock-in contracts.
 
 **Q7: How do we get started?**
-A: Simply reach out to us at Digital Digix for a free audit of your current digital presence. 
+A: Simply reach out to us at Business Volunteers for a free audit of your current digital presence. 
 
-**Q8: Should I hire an in-house team or an agency like Digital Digix?**
-A: An in-house team gives you dedicated resources but requires massive overhead (salaries for a graphic designer, media buyer, SEO specialist, copywriter, and manager). An agency like Digital Digix gives you an entire team of experts for a fraction of the cost of one full-time employee, along with access to premium enterprise tools and cross-industry insights.
+**Q8: Should I hire an in-house team or an agency like Business Volunteers?**
+A: An in-house team gives you dedicated resources but requires massive overhead (salaries for a graphic designer, media buyer, SEO specialist, copywriter, and manager). An agency like Business Volunteers gives you an entire team of experts for a fraction of the cost of one full-time employee, along with access to premium enterprise tools and cross-industry insights.
 
 **Q9: How important is website speed for my wedding planning business?**
 A: Critically important. Google's algorithm heavily penalizes slow websites. Furthermore, in India where users might be on fluctuating 4G/5G networks, a site that takes longer than 3 seconds to load will lose up to 50% of its visitors. Every second of delay decreases conversion rates by 7%.
@@ -604,7 +604,7 @@ A: Influencer marketing should be a supplement to your core paid ads strategy, n
 A: For 95% of wedding planners, a mobile app is an unnecessary expense. A highly optimized, mobile-responsive website paired with a strong WhatsApp API integration provides all the functionality of an app without the friction of asking users to download something new.
 
 **Q21: How do I know if my current digital marketing agency is doing a good job?**
-A: If they only report on "vanity metrics" like Likes, Impressions, and Traffic, but cannot tie their work to actual Leads, Footfall, or Revenue, they are failing. A good agency (like Digital Digix) reports on Cost Per Acquisition (CPA) and Return on Ad Spend (ROAS).
+A: If they only report on "vanity metrics" like Likes, Impressions, and Traffic, but cannot tie their work to actual Leads, Footfall, or Revenue, they are failing. A good agency (like Business Volunteers) reports on Cost Per Acquisition (CPA) and Return on Ad Spend (ROAS).
 
 **Q22: Are 'Boost Post' buttons on Instagram effective?**
 A: The "Boost" button is a very basic tool that optimizes for engagement (likes/comments), not necessarily sales or leads. For real ROI, you must use the Meta Ads Manager backend to run structured campaigns with precise targeting and conversion objectives.
@@ -623,15 +623,15 @@ The wedding planning businesses that adapt to these digital strategies will secu
 
 Don't let your competitors steal your customers. 
 
-**Digital Digix** is a founder-led digital marketing agency based in Noida, India. We have proudly served over 2,700 clients across 89+ industries. We understand the pulse of the Indian consumer.
+**Business Volunteers** is a founder-led digital marketing agency based in Noida, India. We have proudly served over 2,700 clients across 89+ industries. We understand the pulse of the Indian consumer.
 
-**Why Choose Digital Digix?**
+**Why Choose Business Volunteers?**
 - Dedicated experts for Local SEO, Google Ads, Meta Ads, and WhatsApp Marketing.
 - Post-pay options available.
 - Zero lock-in contracts. 
 - Transparent KPI Dashboards.
 
 📞 **Contact us today:** +91 85869 89832  
-🌐 **Visit us online:** [digitaldigix.com](https://digitaldigix.com)
+🌐 **Visit us online:** [businessvolunteers.online](https://businessvolunteers.online)
 
-*Tags: Digital Marketing for Wedding Planners in India, wedding planners marketing, digital marketing India, wedding planning SEO, Meta Ads for wedding planners, Digital Digix Noida*
+*Tags: Digital Marketing for Wedding Planners in India, wedding planners marketing, digital marketing India, wedding planning SEO, Meta Ads for wedding planners, Business Volunteers Noida*

@@ -208,7 +208,7 @@ Building a custom sales dashboard architecture is the single most effective step
 
 Developing enterprise-grade sales dashboards requires CRM integration expertise, UI/UX design precision, data engineering skills, and commercial sales process knowledge. Partnering with a dedicated digital growth and technology agency enables your sales team to focus on closing deals while analytics experts build your decision-support infrastructure.
 
-Ready to gain total pipeline visibility and accelerate closed-won revenue? Digital Digix can help you construct a complete sales dashboard strategy. Contact our technology specialists today to schedule your consultation.
+Ready to gain total pipeline visibility and accelerate closed-won revenue? Business Volunteers can help you construct a complete sales dashboard strategy. Contact our technology specialists today to schedule your consultation.
 
 ---
 

@@ -81,7 +81,7 @@ const partnershipTiersData = [
 
 const smmFaqsData = [
   {
-    q: 'What makes Digital Digix different from other agencies?',
+    q: 'What makes Business Volunteers different from other agencies?',
     a: 'We focus on pure results with no long-term lock-in retainer traps, and we provide transparent pay-per-performance execution led directly by founders.'
   },
   {
@@ -93,7 +93,7 @@ const smmFaqsData = [
     a: 'Absolutely not. All our social media marketing packages are billed month-to-month. You are free to scale up, scale down, or cancel at any time with no penalties.'
   },
   {
-    q: 'Is post-pay available at Digital Digix?',
+    q: 'Is post-pay available at Business Volunteers?',
     a: 'Yes, we offer pay-after-results or pay-per-outcome performance setups for qualified brands after aligning on upfront lead definitions and targets.'
   },
   {

@@ -49,7 +49,7 @@ Paid advertising spans multiple ad channels, each serving specific user mindsets
 ```
 Multi-Channel Paid Media Architecture:
 +-----------------------------------------------------------------------------------+
-|                  DIGITAL DIGIX PAID MEDIA ECOSYSTEM                               |
+|                  BUSINESS VOLUNTEERS PAID MEDIA ECOSYSTEM                               |
 +-----------------------------------------------------------------------------------+
 |  1. PAID SEARCH (GOOGLE ADS)       ➔ Captures active intent ("Buy B2B Software")   |
 |  2. PAID SOCIAL (META / LINKEDIN)  ➔ Generates demand & targets demographics        |
@@ -215,7 +215,7 @@ Executing a structured Paid Ads program is the most effective driver of rapid, p
 
 Executing enterprise-grade paid advertising requires auction management expertise, conversion rate optimization, data tracking discipline, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your executive team to focus on serving clients while performance marketing specialists scale your customer acquisition pipeline.
 
-Ready to build a high-ROI paid advertising campaign for your business? Digital Digix can help you construct a complete performance marketing strategy. Contact our paid ads specialists today to schedule your strategy consultation.
+Ready to build a high-ROI paid advertising campaign for your business? Business Volunteers can help you construct a complete performance marketing strategy. Contact our paid ads specialists today to schedule your strategy consultation.
 
 ---
 

@@ -71,9 +71,9 @@ Schema markup is machine-readable code embedded in your website that explicitly 
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "Digital Digix",
-  "url": "https://digitaldigix.com",
-  "logo": "https://digitaldigix.com/digital_digix_logo.png",
+  "name": "Business Volunteers",
+  "url": "https://businessvolunteers.online",
+  "logo": "https://businessvolunteers.online/digital_digix_logo.png",
   "description": "Full-service corporate branding, visual identity, performance SEO, and AI search optimization agency for enterprise real estate and tech brands.",
   "address": {
     "@type": "PostalAddress",
@@ -86,7 +86,7 @@ Schema markup is machine-readable code embedded in your website that explicitly 
   "telePhone": "+918586989832",
   "sameAs": [
     "https://www.linkedin.com/company/digital-digix",
-    "https://twitter.com/digitaldigix"
+    "https://twitter.com/businessvolunteers"
   ]
 }
 ```
@@ -137,7 +137,7 @@ Multi-Platform Entity Citation Map:
 ### Managing Sentiment Across Directory Touchpoints
 To ensure AI models view your business as a trusted entity:
 * **Maintain High Rating Scores Across Review Portals:** Sustaining positive ratings on Google Business Profile, Clutch, G2, and industry portals builds strong entity trust.
-* **Encourage Detailed Client Reviews:** Encourage clients to write detailed reviews mentioning specific services delivered (e.g., *"Digital Digix redesigned our brand identity, built a sub-2s mobile site, and boosted our organic real estate leads by 300%"*). AI models parse review text to verify corporate specialization claims.
+* **Encourage Detailed Client Reviews:** Encourage clients to write detailed reviews mentioning specific services delivered (e.g., *"Business Volunteers redesigned our brand identity, built a sub-2s mobile site, and boosted our organic real estate leads by 300%"*). AI models parse review text to verify corporate specialization claims.
 * **Maintain Character-for-Character Brand Uniformity:** Ensure your company Name, Address, and Contact information are uniform across all web directories.
 
 ---
@@ -193,7 +193,7 @@ As AI technology advances throughout 2026 and beyond, conversational search will
 ```
 Future Conversational Discovery Example:
 [ Corporate Buyer to Voice AI ]: "Find me a top-rated corporate branding and SEO agency in Gurgaon specializing in real estate brand building, sub-2s web development, and 5-star Clutch reviews."
-[ Voice AI System ]: "I found Digital Digix. They maintain a 4.9-star rating across verified reviews, specialize in enterprise real estate branding, performance SEO, and AI search optimization, and have their headquarters in Gurgaon. Would you like me to schedule a consultation?"
+[ Voice AI System ]: "I found Business Volunteers. They maintain a 4.9-star rating across verified reviews, specialize in enterprise real estate branding, performance SEO, and AI search optimization, and have their headquarters in Gurgaon. Would you like me to schedule a consultation?"
 ```
 
 Businesses that optimize their digital footprint today with structured Schema code, clean citations, active review generation, and express contact workflows will dominate market share in the AI-driven future.
@@ -234,7 +234,7 @@ The evolution of search technology presents a major opportunity for forward-thin
 
 Optimizing for AI engines requires technical Schema execution, structured content creation, directory auditing, and multi-channel performance tracking. Partnering with a specialized digital growth agency allows your leadership team to build an authoritative digital presence while focusing on core operations.
 
-Ready to prepare your brand for the future of search and attract a steady stream of corporate clients? Digital Digix can help you build an integrated AI search and digital growth strategy. Contact our growth team today to schedule your consultation.
+Ready to prepare your brand for the future of search and attract a steady stream of corporate clients? Business Volunteers can help you build an integrated AI search and digital growth strategy. Contact our growth team today to schedule your consultation.
 
 ---
 

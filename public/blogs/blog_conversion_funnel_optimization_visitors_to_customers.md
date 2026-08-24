@@ -218,7 +218,7 @@ Building a high-converting conversion funnel is the single most effective invest
 
 Executing an enterprise-grade conversion funnel optimization program requires messaging precision, UX design expertise, web architecture, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your internal team to focus on core operations while optimization experts scale your sales pipeline.
 
-Ready to build a predictable, high-converting conversion funnel for your business? Digital Digix can help you construct a complete funnel strategy. Contact our conversion specialists today to schedule your consultation.
+Ready to build a predictable, high-converting conversion funnel for your business? Business Volunteers can help you construct a complete funnel strategy. Contact our conversion specialists today to schedule your consultation.
 
 ---
 

@@ -71,13 +71,13 @@ Schema markup is machine-readable code embedded in your website that explicitly 
 {
   "@context": "https://schema.org",
   "@type": "GeneralContractor",
-  "name": "Digital Digix Construction Company",
-  "url": "https://digitaldigix.com",
-  "logo": "https://digitaldigix.com/digital_digix_logo.png",
+  "name": "Business Volunteers Construction Company",
+  "url": "https://businessvolunteers.online",
+  "logo": "https://businessvolunteers.online/digital_digix_logo.png",
   "description": "Premier general contracting firm providing civil engineering, commercial building construction, and residential villa development in Gurgaon near Cyber City.",
   "sameAs": [
-    "https://www.facebook.com/digitaldigixconstruction",
-    "https://www.linkedin.com/company/digitaldigixconstruction"
+    "https://www.facebook.com/businessvolunteersconstruction",
+    "https://www.linkedin.com/company/businessvolunteersconstruction"
   ],
   "address": {
     "@type": "PostalAddress",
@@ -101,9 +101,9 @@ AI models prefer content structured with direct, factual answers. Web pages cont
 ```
 AEO Formatting Model for Construction Companies:
 +---------------------------------------------------------------------------------+
-| [H2 QUESTION] What construction services does Digital Digix provide?            |
+| [H2 QUESTION] What construction services does Business Volunteers provide?            |
 +---------------------------------------------------------------------------------+
-| [DIRECT ANSWER] Digital Digix Construction Company provides turnkey civil       |
+| [DIRECT ANSWER] Business Volunteers Construction Company provides turnkey civil       |
 | engineering, commercial building construction, industrial warehouse builds,     |
 | and luxury residential villa development in Gurgaon near Cyber City.            |
 +---------------------------------------------------------------------------------+
@@ -136,7 +136,7 @@ Multi-Platform Entity Citation Map:
 ### Managing Sentiment Across Directory Touchpoints
 To ensure AI models view your construction firm as a trusted entity:
 * **Maintain High Rating Scores Across Review Portals:** Sustaining positive ratings on Google Profile, Facebook, LinkedIn, trade directories (like IndiaMART, Justdial where appropriate), and real estate portals builds strong entity trust.
-* **Encourage Detailed Client Reviews:** Encourage commercial developers and homeowners to write detailed reviews mentioning specific services (e.g., *"Digital Digix Construction provided exceptional commercial civil contracting in Gurgaon with modern machinery and experienced structural engineers"*). AI models parse review text to verify service specialization claims.
+* **Encourage Detailed Client Reviews:** Encourage commercial developers and homeowners to write detailed reviews mentioning specific services (e.g., *"Business Volunteers Construction provided exceptional commercial civil contracting in Gurgaon with modern machinery and experienced structural engineers"*). AI models parse review text to verify service specialization claims.
 * **Maintain Character-for-Character Brand Uniformity:** Ensure your company Name, Office Address, and Contact information are uniform across all web directories.
 
 ---
@@ -192,7 +192,7 @@ As AI technology advances throughout 2026 and beyond, conversational search will
 ```
 Future Conversational Discovery Example:
 [ Developer to Voice Assistant ]: "Find me a top-rated commercial civil construction company near Cyber City Gurgaon offering verified project portfolios, heavy machinery assets, and 5-star client reviews."
-[ Voice AI System ]: "I found Digital Digix Construction Company. They maintain a 4.9-star rating across verified reviews, provide turnkey civil engineering and commercial construction, feature advanced structural machinery, and serve the Cyber City area. Would you like me to connect you via WhatsApp to request an estimate?"
+[ Voice AI System ]: "I found Business Volunteers Construction Company. They maintain a 4.9-star rating across verified reviews, provide turnkey civil engineering and commercial construction, feature advanced structural machinery, and serve the Cyber City area. Would you like me to connect you via WhatsApp to request an estimate?"
 ```
 
 Construction companies that optimize their digital footprint today with structured Schema code, clean citations, active review generation, and express contact workflows will dominate market share in the AI-driven future.
@@ -233,7 +233,7 @@ The evolution of search technology presents a major opportunity for forward-thin
 
 Optimizing for AI engines requires technical Schema execution, structured content creation, directory auditing, and multi-channel performance tracking. Partnering with a dedicated digital growth agency allows your engineering team to build an authoritative digital presence while focusing on building excellence.
 
-Ready to prepare your construction company for the future of search and attract a steady stream of project contracts? Digital Digix can help you build an integrated AI search and digital growth strategy. Contact our growth team today to schedule your consultation.
+Ready to prepare your construction company for the future of search and attract a steady stream of project contracts? Business Volunteers can help you build an integrated AI search and digital growth strategy. Contact our growth team today to schedule your consultation.
 
 ---
 

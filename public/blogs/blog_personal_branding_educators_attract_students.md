@@ -207,7 +207,7 @@ Personal branding is the single most valuable long-term asset an online educator
 
 Building and maintaining a professional digital brand requires technical setup, strategic content planning, and structured lead funnel management. Partnering with a specialized digital growth agency enables you to build personal authority and scale your course enrollments while staying focused on delivering world-class instruction.
 
-Ready to build an authoritative personal brand that attracts dedicated online students to your courses? Digital Digix can help you build a complete personal branding and digital acquisition strategy. Contact our growth team today to schedule your consultation.
+Ready to build an authoritative personal brand that attracts dedicated online students to your courses? Business Volunteers can help you build a complete personal branding and digital acquisition strategy. Contact our growth team today to schedule your consultation.
 
 ---
 

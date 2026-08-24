@@ -99,7 +99,7 @@ export const ContactSection: React.FC<ContactSectionProps> = ({ backgroundColor,
               <div>
                 <div style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>Email Us</div>
                 <a href="#contact" onClick={(e) => { e.preventDefault(); if (onOpenContactModal) onOpenContactModal(); }} style={{ fontWeight: 700, color: 'inherit', textDecoration: 'none', transition: 'color 0.2s ease', cursor: 'pointer' }} onMouseEnter={(e) => e.currentTarget.style.color = 'var(--primary)'} onMouseLeave={(e) => e.currentTarget.style.color = 'inherit'}>
-                  contact.digitaldigix@gmail.com
+                  contact.businessvolunteers@gmail.com
                 </a>
               </div>
             </div>
@@ -123,9 +123,10 @@ export const ContactSection: React.FC<ContactSectionProps> = ({ backgroundColor,
             <div style={{ display: 'flex', alignItems: 'center', gap: '1rem', background: 'var(--bg-card)', border: '1px solid var(--border-color)', borderRadius: '14px', padding: '1.25rem' }}>
               <div style={{ width: '44px', height: '44px', borderRadius: '50%', background: 'var(--bg-badge)', color: 'var(--primary)', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '1.2rem' }}>📍</div>
               <div>
-                <div style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>Head Office</div>
-                <div style={{ fontWeight: 700 }}>Digital Digix, Delhi NCR, India</div>
-                <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>Working Hours: Mon - Sat: 9AM - 7PM</div>
+                <div style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>Office Locations</div>
+                <div style={{ fontWeight: 700, fontSize: '0.9rem' }}>Primary: Sector 62, Noida, UP, 201309, India</div>
+                <div style={{ fontWeight: 600, fontSize: '0.85rem', color: 'var(--text-muted)' }}>Delhi NCR: New Ashok Nagar, Delhi, 110096, India</div>
+                <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)', marginTop: '0.2rem' }}>Mon – Sat: 09:00 AM – 06:00 PM IST • Guaranteed response within 2 hours</div>
               </div>
             </div>
           </div>

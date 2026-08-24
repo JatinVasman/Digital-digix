@@ -229,7 +229,7 @@ Building a market-leading beauty brand, D2C cosmetic store, skincare line, or pr
 
 Executing an enterprise-grade beauty marketing program requires technical setup, visual content creation, compliance adherence, and structured e-commerce funnel design. Partnering with a dedicated digital growth agency enables your team to focus on product development while growth experts scale your online sales.
 
-Ready to transform your beauty brand's marketing into a reliable source of online orders and loyal customers? Digital Digix can help you build a complete digital strategy. Contact our beauty marketing specialists today to schedule your consultation.
+Ready to transform your beauty brand's marketing into a reliable source of online orders and loyal customers? Business Volunteers can help you build a complete digital strategy. Contact our beauty marketing specialists today to schedule your consultation.
 
 ---
 

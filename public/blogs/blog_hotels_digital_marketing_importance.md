@@ -48,7 +48,7 @@ A successful hotel marketing strategy combines local destination geographic domi
 ```
 Integrated Hospitality Growth Architecture:
 +-----------------------------------------------------------------------------------+
-|                  DIGITAL DIGIX HOTEL GROWTH ARCHITECTURE                          |
+|                  BUSINESS VOLUNTEERS HOTEL GROWTH ARCHITECTURE                          |
 +-----------------------------------------------------------------------------------+
 |  1. LOCAL & DESTINATION SEO  ➔ Rank #1 for "hotel in [City]" & amenity queries    |
 |  2. HIGH-INTENT GOOGLE ADS   ➔ Capture immediate room reservation searches       |
@@ -210,7 +210,7 @@ Executing a dedicated digital marketing strategy is the single most effective in
 
 Executing enterprise-grade hospitality marketing requires technical web architecture, rate distribution knowledge, brand governance, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your hotel management team to focus on delivering world-class guest experiences while marketing experts scale your direct booking pipeline.
 
-Ready to generate more direct room bookings and elevate your hotel's digital reputation? Digital Digix can help you construct a complete hospitality digital marketing strategy. Contact our hotel growth specialists today to schedule your consultation.
+Ready to generate more direct room bookings and elevate your hotel's digital reputation? Business Volunteers can help you construct a complete hospitality digital marketing strategy. Contact our hotel growth specialists today to schedule your consultation.
 
 ---
 

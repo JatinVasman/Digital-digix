@@ -200,7 +200,7 @@ Executing a structured digital marketing strategy tailored for personal training
 
 Executing enterprise-grade personal training and corporate fitness marketing requires web architecture precision, search engine expertise, brand governance, and CRM integration. Partnering with a dedicated digital growth agency enables your coaching team to focus on training clients while marketing experts scale your business pipeline.
 
-Ready to attract more 1-on-1 personal training clients and secure high-value corporate fitness accounts for your gym? Digital Digix can help you construct a complete marketing strategy. Contact our fitness growth specialists today to schedule your consultation.
+Ready to attract more 1-on-1 personal training clients and secure high-value corporate fitness accounts for your gym? Business Volunteers can help you construct a complete marketing strategy. Contact our fitness growth specialists today to schedule your consultation.
 
 ---
 

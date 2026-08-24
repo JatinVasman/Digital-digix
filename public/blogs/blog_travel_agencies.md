@@ -222,7 +222,7 @@ At ₹20,000–₹35,000/month, a well-optimised travel agency can expect 12–2
 
 ## Ready to Grow Your Travel Agency Digitally?
 
-**Digital Digix** — Noida, India. 2,700+ clients across 89+ industries including travel agencies and tour operators.
+**Business Volunteers** — Noida, India. 2,700+ clients across 89+ industries including travel agencies and tour operators.
 
 - ✅ Google Ads for visa and package searches
 - ✅ Instagram & Meta Ads for travel inspiration
@@ -230,8 +230,8 @@ At ₹20,000–₹35,000/month, a well-optimised travel agency can expect 12–2
 - ✅ Destination landing pages and SEO
 - ✅ Review collection and reputation management
 
-📞 **+91 85869 89832** | 🌐 **digitaldigix.com**
+📞 **+91 85869 89832** | 🌐 **businessvolunteers.online**
 *No lock-in contracts. Post-pay available. Free 30-min strategy call.*
 
 ---
-*Tags: digital marketing travel agencies India 2026, travel agency SEO, Google Ads travel packages, Instagram travel marketing India, WhatsApp travel booking automation, visa agent marketing India, Digital Digix*
+*Tags: digital marketing travel agencies India 2026, travel agency SEO, Google Ads travel packages, Instagram travel marketing India, WhatsApp travel booking automation, visa agent marketing India, Business Volunteers*

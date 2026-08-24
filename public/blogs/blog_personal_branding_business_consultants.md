@@ -118,7 +118,7 @@ Consultant-Led Performance Marketing Architecture:
 ```
 
 ### 3 Ways to Use Consultant Assets in Ads
-1. **Consultant Video Ads:** Run Meta (Instagram/Facebook) and LinkedIn ads featuring a 30-second video of the consultant introducing the firm's core value promise: *"Hi, I'm Ankit, business growth consultant at Digital Digix. We help growing real estate and tech brands scale customer acquisition through integrated SEO, performance PPC, and AI search optimization. Schedule a strategy audit below."*
+1. **Consultant Video Ads:** Run Meta (Instagram/Facebook) and LinkedIn ads featuring a 30-second video of the consultant introducing the firm's core value promise: *"Hi, I'm Ankit, business growth consultant at Business Volunteers. We help growing real estate and tech brands scale customer acquisition through integrated SEO, performance PPC, and AI search optimization. Schedule a strategy audit below."*
 2. **Personalized Automated Greetings:** Configure your WhatsApp lead automation to deliver messages written from the consultant's perspective: *"Hi [Name], Ankit here. Thank you for requesting our growth audit! How can our strategy team assist your business today?"*
 3. **Consultant Video Introductions on Landing Pages:** Embed a 30-second video of the consultant on key inquiry pages explaining the firm's service delivery philosophy.
 
@@ -228,7 +228,7 @@ In a highly competitive commercial market, personal branding for business consul
 
 Building an authoritative consultant brand requires strategic consistency, clear positioning, and professional digital management. Partnering with a specialized digital growth agency allows consulting leaders to build personal authority and scale firm revenues without distracting from core advisory operations.
 
-Ready to build an authoritative personal brand that drives continuous growth for your consulting practice? Digital Digix can help you build a complete personal branding and digital strategy. Contact our growth team today to schedule your consultation.
+Ready to build an authoritative personal brand that drives continuous growth for your consulting practice? Business Volunteers can help you build a complete personal branding and digital strategy. Contact our growth team today to schedule your consultation.
 
 ---
 

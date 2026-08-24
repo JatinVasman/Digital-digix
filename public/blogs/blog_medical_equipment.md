@@ -10,7 +10,7 @@ The B2B healthcare procurement cycle in India is changing rapidly. Corporate hos
 - **The Trade Show Shift:** While trade shows remain important, the *follow-up* and *pre-show* engagement has moved entirely online.
 - **Compliance & Trust:** Buyers look for AERB, CDSCO, and ISO certifications prominently displayed on digital touchpoints to shortlist vendors.
 
-This Digital Digix guide outlines a comprehensive 2026 digital strategy for medical equipment manufacturers and suppliers in India.
+This Business Volunteers guide outlines a comprehensive 2026 digital strategy for medical equipment manufacturers and suppliers in India.
 
 ---
 
@@ -174,7 +174,7 @@ Use WhatsApp automation for service reminders, AMC renewals, and easy ticket boo
 The medical equipment landscape in India has modernized, and your marketing strategy must follow suit. Relying solely on field sales and traditional networking is no longer enough to scale. By leveraging targeted B2B digital strategies—from LinkedIn lead gen to highly technical SEO—you can ensure your brand is in the room before the procurement decision is even made.
 
 **Ready to modernize your B2B sales pipeline?**
-Digital Digix has helped over 2,700 clients, including B2B healthcare manufacturers, dominate their digital space. We build KPI-driven marketing machines. No lock-in contracts.
+Business Volunteers has helped over 2,700 clients, including B2B healthcare manufacturers, dominate their digital space. We build KPI-driven marketing machines. No lock-in contracts.
 
 📞 **Call us today: +91 85869 89832**
-🌐 **Visit: [digitaldigix.com](https://digitaldigix.com)**
+🌐 **Visit: [businessvolunteers.online](https://businessvolunteers.online)**

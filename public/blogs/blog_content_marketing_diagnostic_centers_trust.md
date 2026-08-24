@@ -209,7 +209,7 @@ Executing a structured content marketing strategy is the single most effective i
 
 Executing enterprise-grade healthcare content marketing requires technical web architecture, search engine precision, ethical copywriting, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your medical team to focus on diagnostic testing accuracy and patient care while content experts scale your appointment pipeline.
 
-Ready to build an authoritative content marketing strategy for your diagnostic center? Digital Digix can help you construct a complete content engine. Contact our healthcare growth specialists today to schedule your consultation.
+Ready to build an authoritative content marketing strategy for your diagnostic center? Business Volunteers can help you construct a complete content engine. Contact our healthcare growth specialists today to schedule your consultation.
 
 ---
 

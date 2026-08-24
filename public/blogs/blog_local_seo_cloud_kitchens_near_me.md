@@ -193,7 +193,7 @@ Executing a specialized Local SEO strategy is the single most valuable commercia
 
 Executing an enterprise-grade Local SEO strategy requires technical web architecture, catalog management precision, review workflows, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your culinary team to focus on food quality while growth experts build your local search dominance.
 
-Ready to dominate local food search results and attract a continuous stream of direct orders? Digital Digix can help you construct a complete Local SEO strategy. Contact our search specialists today to schedule your consultation.
+Ready to dominate local food search results and attract a continuous stream of direct orders? Business Volunteers can help you construct a complete Local SEO strategy. Contact our search specialists today to schedule your consultation.
 
 ---
 

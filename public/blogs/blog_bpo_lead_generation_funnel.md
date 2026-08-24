@@ -226,7 +226,7 @@ Building a high-growth, high-margin BPO company, contact center, or back-office 
 
 Executing an enterprise-grade lead generation engine requires technical marketing management, continuous campaign optimization, and structured B2B funnel design. Partnering with a dedicated digital growth agency enables your BPO management to focus on delivering flawless service SLAs while growth experts scale your pipeline.
 
-Ready to build a predictable, high-converting lead generation engine for your BPO company? Digital Digix can help you construct a complete digital acquisition funnel. Contact our BPO lead generation specialists today to schedule your consultation.
+Ready to build a predictable, high-converting lead generation engine for your BPO company? Business Volunteers can help you construct a complete digital acquisition funnel. Contact our BPO lead generation specialists today to schedule your consultation.
 
 ---
 

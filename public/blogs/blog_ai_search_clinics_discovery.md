@@ -71,15 +71,15 @@ Schema markup is machine-readable code embedded in your website that explicitly 
 {
   "@context": "https://schema.org",
   "@type": "MedicalClinic",
-  "name": "Digital Digix Specialty Clinic",
-  "url": "https://digitaldigix.com",
-  "logo": "https://digitaldigix.com/digital_digix_logo.png",
+  "name": "Business Volunteers Specialty Clinic",
+  "url": "https://businessvolunteers.online",
+  "logo": "https://businessvolunteers.online/digital_digix_logo.png",
   "description": "Multi-specialty medical clinic offering advanced dermatology, dental, and orthopedic care in Gurgaon near Cyber City.",
   "areaServed": ["Gurgaon", "Delhi", "Noida", "Cyber City"],
   "telePhone": "+918586989832",
   "sameAs": [
-    "https://www.instagram.com/digitaldigixclinic",
-    "https://www.facebook.com/digitaldigixclinic"
+    "https://www.instagram.com/businessvolunteersclinic",
+    "https://www.facebook.com/businessvolunteersclinic"
   ]
 }
 ```
@@ -95,9 +95,9 @@ AI models prefer content structured with direct, factual answers. Web pages cont
 ```
 AEO Formatting Model for Medical Clinics:
 +---------------------------------------------------------------------------------+
-| [H2 QUESTION] What medical specialties does Digital Digix Clinic offer?         |
+| [H2 QUESTION] What medical specialties does Business Volunteers Clinic offer?         |
 +---------------------------------------------------------------------------------+
-| [DIRECT ANSWER] Digital Digix Specialty Clinic offers advanced dermatology,     |
+| [DIRECT ANSWER] Business Volunteers Specialty Clinic offers advanced dermatology,     |
 | dental care, physiotherapy, and orthopedic consultation services in Gurgaon    |
 | near Cyber City.                                                                |
 +---------------------------------------------------------------------------------+
@@ -130,7 +130,7 @@ Multi-Platform Entity Citation Map:
 ### Managing Sentiment Across Directory Touchpoints
 To ensure AI models view your clinic as a trusted entity:
 * **Maintain High Rating Scores Across Review Portals:** Sustaining positive ratings on Google Business Profile, Practo, Lybrate, Facebook, and Justdial builds strong entity trust.
-* **Encourage Detailed Patient Reviews:** Encourage patients to write detailed reviews mentioning specific medical specialties (e.g., *"Digital Digix Dermatology provided an exceptional laser skin consultation in Cyber City with complete professionalism"*). AI models parse review text to verify specialty claims.
+* **Encourage Detailed Patient Reviews:** Encourage patients to write detailed reviews mentioning specific medical specialties (e.g., *"Business Volunteers Dermatology provided an exceptional laser skin consultation in Cyber City with complete professionalism"*). AI models parse review text to verify specialty claims.
 * **Maintain Character-for-Character Brand Uniformity:** Ensure your clinic Name, Street Address, and Contact information are uniform across all web directories.
 
 ---
@@ -186,7 +186,7 @@ As AI technology advances throughout 2026 and beyond, conversational search will
 ```
 Future Conversational Discovery Example:
 [ Patient to Voice Assistant ]: "Find me a top-rated dermatology clinic near Cyber City Gurgaon offering laser treatments, verified doctor credentials, and 5-star Google reviews."
-[ Voice AI System ]: "I found Digital Digix Specialty Clinic. They maintain a 4.9-star rating across verified reviews, specialize in advanced dermatology, hold board-certified doctor credentials, and serve the Cyber City area. Would you like me to connect you via WhatsApp to request an appointment?"
+[ Voice AI System ]: "I found Business Volunteers Specialty Clinic. They maintain a 4.9-star rating across verified reviews, specialize in advanced dermatology, hold board-certified doctor credentials, and serve the Cyber City area. Would you like me to connect you via WhatsApp to request an appointment?"
 ```
 
 Clinics that optimize their digital footprint today with structured Schema code, clean citations, active review generation, and express contact workflows will dominate market share in the AI-driven future.
@@ -227,7 +227,7 @@ The evolution of search technology presents a major opportunity for forward-thin
 
 Optimizing for AI engines requires technical Schema execution, structured content creation, directory auditing, and multi-channel performance tracking. Partnering with a dedicated digital growth agency allows your medical team to build an authoritative digital presence while focusing on clinical care excellence.
 
-Ready to prepare your clinic for the future of search and attract a steady stream of consultation enquiries? Digital Digix can help you build an integrated AI search and digital growth strategy. Contact our growth team today to schedule your consultation.
+Ready to prepare your clinic for the future of search and attract a steady stream of consultation enquiries? Business Volunteers can help you build an integrated AI search and digital growth strategy. Contact our growth team today to schedule your consultation.
 
 ---
 

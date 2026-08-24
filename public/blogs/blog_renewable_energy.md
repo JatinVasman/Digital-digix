@@ -135,11 +135,11 @@ The renewable energy sector in India is accelerating. To capture this growth, co
 ---
 
 **Ready to electrify your digital growth?**
-Digital Digix is a founder-led digital marketing agency in Noida, India, serving 89+ industries, including renewable energy. We offer no lock-in contracts and post-pay options.
+Business Volunteers is a founder-led digital marketing agency in Noida, India, serving 89+ industries, including renewable energy. We offer no lock-in contracts and post-pay options.
 
-**Contact Digital Digix Today:**
+**Contact Business Volunteers Today:**
 📞 +91 85869 89832
-🌐 digitaldigix.com
+🌐 businessvolunteers.online
 📍 Noida, India
 
-*Tags: Renewable Energy, Solar Marketing, B2B Lead Gen, Digital Marketing India, Digital Digix*
+*Tags: Renewable Energy, Solar Marketing, B2B Lead Gen, Digital Marketing India, Business Volunteers*

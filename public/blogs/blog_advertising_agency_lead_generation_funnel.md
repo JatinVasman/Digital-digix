@@ -224,7 +224,7 @@ Building a high-growth, high-margin advertising agency or creative firm in 2026 
 
 Executing an enterprise-grade lead generation engine requires technical marketing management, continuous campaign optimization, and structured sales funnel design. Partnering with a dedicated digital growth agency enables your leadership team to focus on delivering world-class client campaigns while growth experts scale your pipeline.
 
-Ready to build a predictable, high-converting lead generation engine for your advertising agency? Digital Digix can help you construct a complete digital acquisition funnel. Contact our lead generation specialists today to schedule your consultation.
+Ready to build a predictable, high-converting lead generation engine for your advertising agency? Business Volunteers can help you construct a complete digital acquisition funnel. Contact our lead generation specialists today to schedule your consultation.
 
 ---
 

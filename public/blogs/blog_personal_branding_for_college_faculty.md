@@ -165,7 +165,7 @@ Personal branding is the single most valuable long-term asset a college professo
 
 Building and maintaining an authoritative faculty brand requires technical setup, strategic content planning, and structured funnel management. Partnering with a specialized digital growth agency enables you to build personal authority and scale course applications while staying focused on delivering world-class teaching and research.
 
-Ready to build an authoritative personal brand that drives enrolled students for your college department? Digital Digix can help you build a complete personal branding and digital acquisition strategy. Contact our growth team today to schedule your consultation.
+Ready to build an authoritative personal brand that drives enrolled students for your college department? Business Volunteers can help you build a complete personal branding and digital acquisition strategy. Contact our growth team today to schedule your consultation.
 
 ---
 

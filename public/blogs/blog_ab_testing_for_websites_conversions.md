@@ -179,7 +179,7 @@ Executing a structured A/B testing program is the single most reliable way for a
 
 Executing enterprise-grade A/B testing requires analytics precision, statistical expertise, UX design, and technical web development. Partnering with a dedicated digital growth agency enables your internal team to focus on core operations while optimization experts scale your conversion revenue.
 
-Ready to launch high-impact A/B tests that increase your website conversions? Digital Digix can help you construct a complete experimentation strategy. Contact our testing specialists today to schedule your consultation.
+Ready to launch high-impact A/B tests that increase your website conversions? Business Volunteers can help you construct a complete experimentation strategy. Contact our testing specialists today to schedule your consultation.
 
 ---
 

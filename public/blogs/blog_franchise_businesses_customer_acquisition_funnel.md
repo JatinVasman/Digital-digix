@@ -221,7 +221,7 @@ Building a high-converting customer acquisition funnel is the single most effect
 
 Executing enterprise-grade franchise funnel optimization requires messaging precision, UX design expertise, web architecture, and CRM integration. Partnering with a dedicated digital growth agency enables your operations team to focus on customer service while marketing experts scale your outlet pipelines.
 
-Ready to build a predictable, high-converting customer acquisition funnel for your franchise business? Digital Digix can help you construct a complete funnel strategy. Contact our franchise growth specialists today to schedule your consultation.
+Ready to build a predictable, high-converting customer acquisition funnel for your franchise business? Business Volunteers can help you construct a complete funnel strategy. Contact our franchise growth specialists today to schedule your consultation.
 
 ---
 

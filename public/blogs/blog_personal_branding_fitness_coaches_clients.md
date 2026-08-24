@@ -207,7 +207,7 @@ Personal branding is the single most valuable long-term asset a fitness coach ca
 
 Building and maintaining a professional digital presence requires technical setup, strategic content planning, and consistent lead funnel management. Partnering with a specialized digital marketing agency enables you to build personal authority and scale your business while staying focused on delivering outstanding client results.
 
-Ready to build an authoritative personal brand that attracts high-paying coaching clients? Digital Digix can help you build a complete personal branding and digital acquisition strategy. Contact our growth team today to schedule your consultation.
+Ready to build an authoritative personal brand that attracts high-paying coaching clients? Business Volunteers can help you build a complete personal branding and digital acquisition strategy. Contact our growth team today to schedule your consultation.
 
 ---
 

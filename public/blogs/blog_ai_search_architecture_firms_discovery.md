@@ -229,7 +229,7 @@ The evolution of search technology presents a major opportunity for forward-thin
 
 Optimizing for AI engines requires technical Schema execution, structured content creation, directory auditing, and multi-channel performance tracking. Partnering with a specialized digital growth agency allows your design leadership to build an authoritative digital presence while focusing on creating world-class architecture.
 
-Ready to prepare your architecture firm for the future of search and attract a steady stream of qualified real estate developers and clients? Digital Digix can help you build an integrated AI search and digital growth strategy. Contact our growth team today to schedule your consultation.
+Ready to prepare your architecture firm for the future of search and attract a steady stream of qualified real estate developers and clients? Business Volunteers can help you build an integrated AI search and digital growth strategy. Contact our growth team today to schedule your consultation.
 
 ---
 

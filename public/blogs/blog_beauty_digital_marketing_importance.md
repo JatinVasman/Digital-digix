@@ -233,7 +233,7 @@ Building a scalable beauty brand requires combining these individual channels in
 
 ```
 +-----------------------------------------------------------------------------------+
-|               DIGITAL DIGIX INTEGRATED BEAUTY GROWTH SYSTEM                       |
+|               BUSINESS VOLUNTEERS INTEGRATED BEAUTY GROWTH SYSTEM                       |
 +-----------------------------------------------------------------------------------+
 |  1. DISCOVER  ➔ E-Commerce SEO, Visual Meta Ads, Google Shopping, Local Maps      |
 |  2. ENGAGE    ➔ Mobile Product Pages, Shade Finders, UGC Reels, Founder Branding |
@@ -278,7 +278,7 @@ Building a high-growth beauty brand, D2C cosmetic store, skincare line, or profe
 
 Executing an enterprise-grade beauty marketing program requires specialized technical management, visual content production, compliance adherence, and structured e-commerce funnel design. Partnering with a dedicated digital growth agency enables your leadership team to focus on product formulation and brand strategy while growth experts scale your online sales.
 
-Ready to position your beauty brand at the forefront of digital customer acquisition and drive continuous e-commerce growth? Digital Digix can help you build a complete digital strategy. Contact our beauty marketing specialists today to schedule your consultation.
+Ready to position your beauty brand at the forefront of digital customer acquisition and drive continuous e-commerce growth? Business Volunteers can help you build a complete digital strategy. Contact our beauty marketing specialists today to schedule your consultation.
 
 ---
 

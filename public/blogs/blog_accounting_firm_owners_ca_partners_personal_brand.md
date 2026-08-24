@@ -216,7 +216,7 @@ In a highly competitive financial services market, personal branding for CA part
 
 Building an authoritative personal brand requires strategic consistency, clear positioning, and professional digital management. Partnering with a specialized digital growth agency allows practice leadership to build personal authority and scale client retainers without distracting from core client advisory work.
 
-Ready to build an authoritative personal brand that drives high-value retainer contracts for your accounting practice? Digital Digix can help you build a complete personal branding and digital strategy. Contact our team today to schedule your consultation.
+Ready to build an authoritative personal brand that drives high-value retainer contracts for your accounting practice? Business Volunteers can help you build a complete personal branding and digital strategy. Contact our team today to schedule your consultation.
 
 ---
 

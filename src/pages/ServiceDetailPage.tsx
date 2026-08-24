@@ -95,9 +95,9 @@ export const ServiceDetailPage: React.FC<ServiceDetailPageProps> = ({ serviceId,
     if (!selectedService) return;
 
     const cleanSlug = selectedService.slug || SERVICE_ID_TO_SLUG[selectedService.id || ''] || serviceId;
-    const pageTitle = `${selectedService.title} Services — Pricing, Strategy & Results | Digital Digix`;
+    const pageTitle = `${selectedService.title} Services — Pricing, Strategy & Results | Business Volunteers`;
     const pageDesc = selectedService.longDescription || selectedService.description;
-    const canonicalUrl = `https://digitaldigix.com/services/${cleanSlug}`;
+    const canonicalUrl = `https://businessvolunteers.online/services/${cleanSlug}`;
 
     document.title = pageTitle;
 
@@ -128,8 +128,8 @@ export const ServiceDetailPage: React.FC<ServiceDetailPageProps> = ({ serviceId,
           "description": pageDesc,
           "provider": {
             "@type": "Organization",
-            "name": "Digital Digix",
-            "url": "https://digitaldigix.com"
+            "name": "Business Volunteers",
+            "url": "https://businessvolunteers.online"
           },
           "offers": {
             "@type": "Offer",
@@ -141,8 +141,8 @@ export const ServiceDetailPage: React.FC<ServiceDetailPageProps> = ({ serviceId,
           "@type": "BreadcrumbList",
           "@id": `${canonicalUrl}#breadcrumb`,
           "itemListElement": [
-            { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://digitaldigix.com/" },
-            { "@type": "ListItem", "position": 2, "name": "Services", "item": "https://digitaldigix.com/services" },
+            { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://businessvolunteers.online/" },
+            { "@type": "ListItem", "position": 2, "name": "Services", "item": "https://businessvolunteers.online/services" },
             { "@type": "ListItem", "position": 3, "name": selectedService.title, "item": canonicalUrl }
           ]
         }

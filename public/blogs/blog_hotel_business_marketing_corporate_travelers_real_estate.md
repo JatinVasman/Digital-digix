@@ -205,7 +205,7 @@ Executing a dedicated B2B hotel marketing strategy is the single most effective 
 
 Executing enterprise-grade B2B hospitality marketing requires commercial sales strategy, web design precision, content governance, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your hotel sales team to focus on servicing clients while marketing experts scale your corporate lead pipeline.
 
-Ready to secure more corporate travel contracts and banquet bookings for your hotel property? Digital Digix can help you construct a complete B2B hotel marketing strategy. Contact our commercial growth specialists today to schedule your consultation.
+Ready to secure more corporate travel contracts and banquet bookings for your hotel property? Business Volunteers can help you construct a complete B2B hotel marketing strategy. Contact our commercial growth specialists today to schedule your consultation.
 
 ---
 

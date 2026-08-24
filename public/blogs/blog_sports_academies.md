@@ -13,7 +13,7 @@ The sports culture in India has shifted dramatically. It's no longer just about 
 - **Proof of Performance:** Parents want to see results. A digital presence allows you to broadcast your students' achievements, acting as a powerful magnet for new admissions.
 - **Turf Booking Revenue:** For academies with their own facilities, digital marketing can drive B2B and corporate bookings during off-peak hours, maximizing asset utilization.
 
-Here is the Digital Digix playbook to maximize admissions for your sports academy in 2026.
+Here is the Business Volunteers playbook to maximize admissions for your sports academy in 2026.
 
 ---
 
@@ -176,7 +176,7 @@ For residential programs, your target audience is pan-India. You need a strong S
 A world-class sports facility is just concrete and grass until athletes step onto it. In 2026, those athletes are brought in through targeted digital marketing. By speaking directly to parents via Meta Ads, showcasing your expertise on YouTube, and streamlining communication via WhatsApp, you can ensure your academy operates at maximum capacity year-round.
 
 **Ready to fill your batches and build champions?**
-Digital Digix has helped over 2,700 businesses, including sports academies and turf owners across India, optimize their admissions engine. Let us handle the marketing while you focus on the coaching.
+Business Volunteers has helped over 2,700 businesses, including sports academies and turf owners across India, optimize their admissions engine. Let us handle the marketing while you focus on the coaching.
 
 📞 **Call us today: +91 85869 89832**
-🌐 **Visit: [digitaldigix.com](https://digitaldigix.com)**
+🌐 **Visit: [businessvolunteers.online](https://businessvolunteers.online)**

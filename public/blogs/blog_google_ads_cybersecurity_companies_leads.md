@@ -201,7 +201,7 @@ Executing a structured Google Ads strategy is the single fastest way for a cyber
 
 Executing enterprise-grade cybersecurity Google Ads requires PPC management precision, technical web development, B2B copywriting, and conversion analytics. Partnering with a dedicated digital growth agency enables your internal engineering team to focus on security operations while paid media experts scale your client acquisition.
 
-Ready to generate more qualified B2B leads through Google Ads? Digital Digix can help you construct a complete paid search strategy. Contact our PPC growth specialists today to schedule your consultation.
+Ready to generate more qualified B2B leads through Google Ads? Business Volunteers can help you construct a complete paid search strategy. Contact our PPC growth specialists today to schedule your consultation.
 
 ---
 

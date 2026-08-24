@@ -201,7 +201,7 @@ Executing a structured Google Ads strategy is the single fastest way for a homes
 
 Executing enterprise-grade homestay Google Ads management requires PPC precision, destination search expertise, hospitality copywriting, and call conversion analytics. Partnering with a dedicated digital growth agency enables your host team to focus on delivering exceptional hospitality while paid media experts scale your booking pipelines.
 
-Ready to generate more direct room reservations through Google Ads? Digital Digix can help you construct a complete paid search strategy. Contact our PPC growth specialists today to schedule your consultation.
+Ready to generate more direct room reservations through Google Ads? Business Volunteers can help you construct a complete paid search strategy. Contact our PPC growth specialists today to schedule your consultation.
 
 ---
 

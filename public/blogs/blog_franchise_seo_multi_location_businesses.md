@@ -236,7 +236,7 @@ Executing a dedicated multi-location search engine optimization strategy is the 
 
 Executing enterprise-grade franchise SEO requires technical web architecture, local search precision, brand governance, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your operations team to focus on business expansion while SEO experts scale your location rankings.
 
-Ready to achieve top Google Maps and search rankings for all your franchise locations? Digital Digix can help you construct a complete multi-location SEO strategy. Contact our franchise SEO specialists today to schedule your consultation.
+Ready to achieve top Google Maps and search rankings for all your franchise locations? Business Volunteers can help you construct a complete multi-location SEO strategy. Contact our franchise SEO specialists today to schedule your consultation.
 
 ---
 

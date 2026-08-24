@@ -70,7 +70,7 @@ Local Map Discovery Pipeline:
 
 ### 4 Rules for Google Maps Dominance
 1. **Optimize Primary Categories:** Select accurate categories such as *"Cafe"*, *"Coffee Shop"*, or *"Bakery Cafe"*.
-2. **Encourage Detailed Customer Reviews:** Ask satisfied guests to post reviews mentioning specific menu items (e.g., *"Digital Digix Cafe has the best iced Americano and croissant in Cyber City"*). Review keywords boost map relevance.
+2. **Encourage Detailed Customer Reviews:** Ask satisfied guests to post reviews mentioning specific menu items (e.g., *"Business Volunteers Cafe has the best iced Americano and croissant in Cyber City"*). Review keywords boost map relevance.
 3. **Upload Weekly Visual Assets:** Upload crisp photos of signature coffee drinks, fresh bakery trays, and clean interior seating areas.
 4. **Maintain NAP Uniformity:** Ensure your Name, Address, and Phone number match across all online directories.
 
@@ -198,7 +198,7 @@ Executing a structured cafe marketing framework is the single most effective com
 
 Executing an enterprise-grade cafe marketing strategy requires visual content creation, local SEO precision, technical web architecture, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your management team to focus on hospitality excellence while growth experts fill your tables.
 
-Ready to build an acquisition-driven marketing strategy for your cafe? Digital Digix can help you construct a complete hospitality growth engine. Contact our cafe marketing specialists today to schedule your consultation.
+Ready to build an acquisition-driven marketing strategy for your cafe? Business Volunteers can help you construct a complete hospitality growth engine. Contact our cafe marketing specialists today to schedule your consultation.
 
 ---
 

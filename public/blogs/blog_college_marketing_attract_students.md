@@ -197,7 +197,7 @@ Executing a structured digital marketing strategy is the single most effective i
 
 Executing an enterprise-grade higher education marketing strategy requires messaging precision, Education SEO expertise, web architecture, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your academic team to focus on educational excellence while growth experts scale your student acquisition.
 
-Ready to attract more qualified students to your college ethically? Digital Digix can help you construct a complete higher education marketing strategy. Contact our student recruitment specialists today to schedule your consultation.
+Ready to attract more qualified students to your college ethically? Business Volunteers can help you construct a complete higher education marketing strategy. Contact our student recruitment specialists today to schedule your consultation.
 
 ---
 

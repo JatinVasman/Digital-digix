@@ -221,7 +221,7 @@ Building a high-converting event booking funnel is the single most effective inv
 
 Executing enterprise-grade event funnel optimization requires messaging precision, UX design expertise, web architecture, and CRM integration. Partnering with a dedicated digital growth agency enables your creative team to focus on event execution while marketing experts scale your buyer pipeline.
 
-Ready to build a predictable, high-converting booking funnel for your event management business? Digital Digix can help you construct a complete funnel strategy. Contact our event growth specialists today to schedule your consultation.
+Ready to build a predictable, high-converting booking funnel for your event management business? Business Volunteers can help you construct a complete funnel strategy. Contact our event growth specialists today to schedule your consultation.
 
 ---
 

@@ -224,7 +224,7 @@ Building a complete, high-converting digital marketing funnel is the single most
 
 Executing an enterprise-grade digital marketing strategy requires messaging precision, technical web architecture, UX design expertise, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your internal leadership team to focus on service delivery while marketing experts scale your customer pipeline.
 
-Ready to build a predictable, high-converting digital marketing funnel for your business? Digital Digix can help you construct a complete growth strategy. Contact our strategy specialists today to schedule your consultation.
+Ready to build a predictable, high-converting digital marketing funnel for your business? Business Volunteers can help you construct a complete growth strategy. Contact our strategy specialists today to schedule your consultation.
 
 ---
 

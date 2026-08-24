@@ -124,7 +124,7 @@ You need to track the efficiency of your admission funnel.
 3. **Cost per Admission:** Total marketing spend divided by total new enrollments.
 4. **Source of Admission:** Did they come from Google Search, a Facebook Ad, or a Referral?
 
-At Digital Digix, we set up robust tracking so school management can optimize their budget effectively.
+At Business Volunteers, we set up robust tracking so school management can optimize their budget effectively.
 
 ---
 
@@ -193,7 +193,7 @@ The days of relying solely on your school's building and legacy to drive admissi
 
 Ready to fill your classrooms and build a waitlist for the upcoming academic year?
 
-**Digital Digix** is a founder-led digital marketing agency in Noida, India. We have extensive experience partnering with K-12 schools to modernize their admission strategies, lower acquisition costs, and build lasting parent communities. With expertise across 89+ industries and a portfolio of 2,700+ clients, we deliver results you can measure.
+**Business Volunteers** is a founder-led digital marketing agency in Noida, India. We have extensive experience partnering with K-12 schools to modernize their admission strategies, lower acquisition costs, and build lasting parent communities. With expertise across 89+ industries and a portfolio of 2,700+ clients, we deliver results you can measure.
 
 📞 **Call us today: +91 85869 89832**
-🌐 **Visit: [digitaldigix.com](https://digitaldigix.com)**
+🌐 **Visit: [businessvolunteers.online](https://businessvolunteers.online)**

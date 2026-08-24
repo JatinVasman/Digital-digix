@@ -211,7 +211,7 @@ Executing a structured direct booking strategy is the single most profitable com
 
 Executing enterprise-grade homestay direct booking marketing requires web architecture precision, destination search expertise, hospitality governance, and CRM integration. Partnering with a dedicated digital growth agency enables your host team to focus on delivering exceptional hospitality while marketing experts scale your booking pipeline.
 
-Ready to generate more direct bookings and reduce OTA commissions for your homestay business? Digital Digix can help you construct a complete direct booking strategy. Contact our hospitality growth specialists today to schedule your consultation.
+Ready to generate more direct bookings and reduce OTA commissions for your homestay business? Business Volunteers can help you construct a complete direct booking strategy. Contact our hospitality growth specialists today to schedule your consultation.
 
 ---
 

@@ -218,7 +218,7 @@ Building a high-growth beauty brand, D2C cosmetic store, skincare line, or perso
 
 Executing an enterprise-grade customer acquisition funnel requires technical marketing management, visual content production, compliance adherence, and structured e-commerce design. Partnering with a dedicated digital growth agency enables your management team to focus on product formulation while growth experts scale your online sales.
 
-Ready to build a predictable, high-converting customer acquisition funnel for your beauty brand? Digital Digix can help you construct a complete digital acquisition strategy. Contact our beauty growth specialists today to schedule your consultation.
+Ready to build a predictable, high-converting customer acquisition funnel for your beauty brand? Business Volunteers can help you construct a complete digital acquisition strategy. Contact our beauty growth specialists today to schedule your consultation.
 
 ---
 

@@ -200,7 +200,7 @@ Executing a structured digital marketing strategy tailored for commercial proper
 
 Executing enterprise-grade commercial home service marketing requires web architecture precision, search engine expertise, trade governance, and CRM integration. Partnering with a dedicated digital growth agency enables your field crew to focus on delivering quality work while marketing experts scale your business pipeline.
 
-Ready to attract more commercial property managers and secure high-value maintenance contracts for your home service business? Digital Digix can help you construct a complete B2B marketing strategy. Contact our local service growth specialists today to schedule your consultation.
+Ready to attract more commercial property managers and secure high-value maintenance contracts for your home service business? Business Volunteers can help you construct a complete B2B marketing strategy. Contact our local service growth specialists today to schedule your consultation.
 
 ---
 

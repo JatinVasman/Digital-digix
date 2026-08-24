@@ -120,7 +120,7 @@ export const BlogPage: React.FC<BlogPageProps> = ({ onNavigate, onOpenStrategyMo
       {/* === HERO SECTION === */}
       <section className="bv-hero">
         <p className="bv-hero-eyebrow">— INSIGHTS —</p>
-        <h1 className="bv-hero-title">The Digital Digix Blog</h1>
+        <h1 className="bv-hero-title">The Business Volunteers Blog</h1>
         <p className="bv-hero-sub">
           {ALL_BLOGS.length}+ SEO articles and pillar guides across services and industries —<br />
           written for humans, structured for Google and AI search.
@@ -158,7 +158,7 @@ export const BlogPage: React.FC<BlogPageProps> = ({ onNavigate, onOpenStrategyMo
         </p>
       </section>
 
-      {/* === BLOG GRID (BV Card Style) === */}
+      {/* === BLOG GRID (Business Volunteers Card Style) === */}
       <section className="bv-grid-section">
         <div className="bv-grid">
           {filtered.length > 0 ? (

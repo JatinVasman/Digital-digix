@@ -209,7 +209,7 @@ Executing a specialized CRO strategy for real estate websites is the single most
 
 Executing enterprise-grade real estate CRO requires messaging precision, UX design expertise, web architecture, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your internal team to focus on development execution while optimization experts scale your property lead pipeline.
 
-Ready to generate more qualified site visits and property sales from your real estate website? Digital Digix can help you construct a complete real estate conversion strategy. Contact our conversion specialists today to schedule your consultation.
+Ready to generate more qualified site visits and property sales from your real estate website? Business Volunteers can help you construct a complete real estate conversion strategy. Contact our conversion specialists today to schedule your consultation.
 
 ---
 

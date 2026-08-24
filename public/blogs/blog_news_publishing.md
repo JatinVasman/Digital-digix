@@ -228,7 +228,7 @@ Create a professional media kit showing your monthly reach, audience demographic
 
 ## Ready to Build a Sustainable Digital News Business?
 
-**Digital Digix** — Noida, India. Digital marketing expertise across 89+ industries including media and publishing.
+**Business Volunteers** — Noida, India. Digital marketing expertise across 89+ industries including media and publishing.
 
 - ✅ Google News SEO and Publisher Center setup
 - ✅ YouTube channel strategy and growth
@@ -236,8 +236,8 @@ Create a professional media kit showing your monthly reach, audience demographic
 - ✅ Branded content strategy and sales support
 - ✅ Subscription model digital marketing
 
-📞 **+91 85869 89832** | 🌐 **digitaldigix.com**
+📞 **+91 85869 89832** | 🌐 **businessvolunteers.online**
 *No lock-in contracts. Post-pay available. Free strategy call.*
 
 ---
-*Tags: digital marketing news publishing India 2026, Google News SEO India, news portal revenue, YouTube news channel India, WhatsApp news channel, subscription model journalism India, Digital Digix*
+*Tags: digital marketing news publishing India 2026, Google News SEO India, news portal revenue, YouTube news channel India, WhatsApp news channel, subscription model journalism India, Business Volunteers*

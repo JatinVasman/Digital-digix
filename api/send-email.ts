@@ -1,7 +1,7 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
 import { Resend } from 'resend';
 
-const MAIN_RECEIVER_EMAIL = 'contact.digitaldigix@gmail.com';
+const MAIN_RECEIVER_EMAIL = 'contact.businessvolunteers@gmail.com';
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
   // Set CORS Headers
@@ -31,7 +31,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     const isStrategy = formType === 'strategy' || !!planName || !!growthGoal;
     const subject = isStrategy
       ? `🚀 New Strategy Booking: ${name} (${planName || 'General Strategy'})`
-      : `📩 New Contact Inquiry from ${name} - Digital Digix`;
+      : `📩 New Contact Inquiry from ${name} - Business Volunteers`;
 
     const htmlContent = `
       <!DOCTYPE html>
@@ -59,7 +59,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
         <div class="container">
           <div class="header">
             <div class="badge">${isStrategy ? 'Strategy Session' : 'Contact Lead'}</div>
-            <h1>Digital Digix Website Inquiry</h1>
+            <h1>Business Volunteers Website Inquiry</h1>
             <p>${isStrategy ? 'New consultation request submitted' : 'New lead received via contact form'}</p>
           </div>
           
@@ -136,7 +136,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
 
     const resend = new Resend(apiKey);
     const response = await resend.emails.send({
-      from: 'Digital Digix Contact <onboarding@resend.dev>',
+      from: 'Business Volunteers Contact <onboarding@resend.dev>',
       to: [receiverEmail],
       replyTo: email,
       subject: subject,

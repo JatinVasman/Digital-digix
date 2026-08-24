@@ -48,7 +48,7 @@ Structuring your Google Ads account into organized campaigns and Single-Theme Ad
 ```
 STAG Account Architecture for Hotel Google Ads:
 +-----------------------------------------------------------------------------------+
-|                     DIGITAL DIGIX HOTEL GOOGLE ADS ACCOUNT                        |
+|                     BUSINESS VOLUNTEERS HOTEL GOOGLE ADS ACCOUNT                        |
 +-----------------------------------------------------------------------------------+
 |  CAMPAIGN 1: DESTINATION & CITY ADS                                               |
 |  ├── STAG 1: "Luxury Hotel in Goa"      ➔ Ad & Landing Page for Luxury Suites       |
@@ -211,7 +211,7 @@ Executing a structured Google Ads strategy is the most efficient way to capture 
 
 Executing enterprise-grade hotel Google Ads requires bidding expertise, landing page optimization, rate distribution knowledge, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your hotel management team to focus on delivering exceptional guest hospitality while marketing experts scale your paid search performance.
 
-Ready to generate more direct room bookings and optimize your PPC return for your hotel or resort? Digital Digix can help you construct a complete Google Ads strategy. Contact our PPC growth specialists today to schedule your consultation.
+Ready to generate more direct room bookings and optimize your PPC return for your hotel or resort? Business Volunteers can help you construct a complete Google Ads strategy. Contact our PPC growth specialists today to schedule your consultation.
 
 ---
 

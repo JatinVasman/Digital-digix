@@ -197,7 +197,7 @@ Executing a structured digital marketing strategy is the single most effective i
 
 Executing an enterprise-grade clinic marketing strategy requires messaging precision, Local SEO expertise, web architecture, and multi-channel consistency. Partnering with a dedicated digital growth agency enables your medical team to focus on patient care while growth experts scale your customer acquisition.
 
-Ready to attract more patients to your medical clinic ethically? Digital Digix can help you construct a complete healthcare marketing strategy. Contact our patient acquisition specialists today to schedule your consultation.
+Ready to attract more patients to your medical clinic ethically? Business Volunteers can help you construct a complete healthcare marketing strategy. Contact our patient acquisition specialists today to schedule your consultation.
 
 ---
 

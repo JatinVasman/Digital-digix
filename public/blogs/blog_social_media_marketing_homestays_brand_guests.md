@@ -45,7 +45,7 @@ Different social media networks serve distinct homestay marketing objectives and
 ```
 Multi-Platform Homestay Social Strategy Architecture:
 +-----------------------------------------------------------------------------------+
-|               DIGITAL DIGIX MULTI-PLATFORM HOMESTAY SOCIAL ENGINE                 |
+|               BUSINESS VOLUNTEERS MULTI-PLATFORM HOMESTAY SOCIAL ENGINE                 |
 +-----------------------------------------------------------------------------------+
 |  1. INSTAGRAM (LEISURE TRAVELERS)➔ Property walkthrough Reels & local travel tips |
 |  2. FACEBOOK (FAMILY GROUPS)     ➔ Destination guides, reviews & family travel news |
@@ -203,7 +203,7 @@ Executing a specialized social media marketing strategy is one of the most effec
 
 Executing enterprise-grade homestay social marketing requires strategic governance, video editing excellence, brand consistency, and multi-channel integration. Partnering with a dedicated digital growth agency enables your host team to focus on delivering exceptional guest experiences while social experts scale your business presence.
 
-Ready to build an authoritative online brand and generate more direct bookings for your homestay business? Digital Digix can help you construct a complete social media strategy. Contact our social growth specialists today to schedule your consultation.
+Ready to build an authoritative online brand and generate more direct bookings for your homestay business? Business Volunteers can help you construct a complete social media strategy. Contact our social growth specialists today to schedule your consultation.
 
 ---
 

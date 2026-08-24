@@ -187,7 +187,7 @@ Executing a targeted Google Ads strategy is the fastest, most scalable way for a
 
 Executing an enterprise-grade consulting PPC campaign requires technical ad management, landing page design, conversion tracking, and continuous campaign optimization. Partnering with a dedicated digital growth agency enables your leadership team to focus on serving clients while growth experts build your paid acquisition pipeline.
 
-Ready to launch a high-performance Google Ads campaign that generates qualified consulting inquiries? Digital Digix can help you construct a complete paid search strategy. Contact our PPC specialists today to schedule your consultation.
+Ready to launch a high-performance Google Ads campaign that generates qualified consulting inquiries? Business Volunteers can help you construct a complete paid search strategy. Contact our PPC specialists today to schedule your consultation.
 
 ---
 
