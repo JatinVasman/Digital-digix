@@ -141,6 +141,31 @@
       "permanent": true
     },
     {
+      "source": "/service-graphic-design.html",
+      "destination": "/services/graphic-design",
+      "permanent": true
+    },
+    {
+      "source": "/pricing.html",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/portfolio-inner-insights.html",
+      "destination": "/portfolio",
+      "permanent": true
+    },
+    {
+      "source": "/blogs/strategy/:slug*",
+      "destination": "/blogs/strat_:slug*",
+      "permanent": true
+    },
+    {
+      "source": "/sitemap",
+      "destination": "/html-sitemap",
+      "permanent": true
+    },
+    {
       "source": "/locations",
       "destination": "/digital-marketing",
       "permanent": true

@@ -89,10 +89,20 @@ export const STATIC_PAGES_SEO: Record<string, PageSeoMeta> = {
     description: 'Full-funnel organic and paid social media management for Instagram, LinkedIn, and Facebook designed to build brand authority and generate qualified buyer leads.',
     keywords: ['social media marketing agency', 'SMM services', 'Instagram reels marketing', 'LinkedIn B2B marketing', 'social media management pricing'],
     canonicalPath: '/smm',
-    h1: 'Social Media Marketing & Viral Reach Engine',
+    h1: 'Full-Funnel Organic & Paid Social Media Management',
     ogType: 'website',
-    searchIntent: 'Commercial / Transactional — Looking for social media management services',
+    searchIntent: 'Commercial — Hiring a social media marketing agency',
     primaryKeyword: 'social media marketing agency'
+  },
+  '/html-sitemap': {
+    title: 'HTML Sitemap & Complete Website Directory | Business Volunteers',
+    description: 'Browse the complete index of Business Volunteers services, 89+ industry solutions, 50+ local markets, legal frameworks, and digital marketing blog articles.',
+    keywords: ['html sitemap', 'website directory', 'site index', 'business volunteers pages', 'all services'],
+    canonicalPath: '/html-sitemap',
+    h1: 'Complete Website Directory & HTML Sitemap',
+    ogType: 'website',
+    searchIntent: 'Navigational — Full site navigation and directory browsing',
+    primaryKeyword: 'html sitemap'
   },
   '/legal': {
     title: 'Legal Marketing & Corporate Practice Growth Solutions | Business Volunteers',
@@ -377,11 +387,12 @@ export function getBlogPostSeo(blogSlug: string, contextTitle?: string, contextD
   );
 
   if (blog) {
+    const cleanSlug = blog.slug.replace(/^strategy\//, '').replace(/[^a-zA-Z0-9_-]+/g, '-');
     return {
       title: `${blog.title} | Business Volunteers`,
       description: blog.excerpt || `Read our in-depth framework on ${blog.title}. Proven digital growth, SEO, and performance marketing strategies from Business Volunteers.`,
       keywords: [blog.keyword, blog.keyword2, ...(blog.tags || []), 'Business Volunteers'].filter(Boolean) as string[],
-      canonicalPath: `/blogs/${encodeURIComponent(blog.slug)}`,
+      canonicalPath: `/blogs/${cleanSlug}`,
       h1: blog.title,
       ogType: 'article',
       searchIntent: `Informational — ${blog.title}`,
@@ -389,12 +400,13 @@ export function getBlogPostSeo(blogSlug: string, contextTitle?: string, contextD
     };
   }
 
+  const cleanFallbackSlug = (rawSlug || 'guide').replace(/^strategy\//, '').replace(/[^a-zA-Z0-9_-]+/g, '-');
   const fallbackTitle = contextTitle || decoded.split(/[-_]+/).map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ') || 'Digital Marketing Strategy Guide';
   return {
     title: `${fallbackTitle} | Business Volunteers`,
     description: contextDesc || 'Read practical frameworks on digital marketing, SEO, Generative AI search, and B2B growth funnels.',
     keywords: ['digital marketing blog', 'SEO insights', 'growth strategies'],
-    canonicalPath: `/blogs/${encodeURIComponent(rawSlug || 'guide')}`,
+    canonicalPath: `/blogs/${cleanFallbackSlug}`,
     h1: fallbackTitle,
     ogType: 'article',
     searchIntent: 'Informational — Digital Marketing Strategy Guide',

@@ -6358,7 +6358,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[4],
   },
   {
-    slug: 'strategy/strat_ai_agents',
+    slug: 'strat_ai_agents',
     title: 'How to Integrate AI Agents in Your Business: 2026 Operational Automation Guide',
     category: 'AI Search',
     sector: 'Strategy & Digital Marketing',
@@ -6374,7 +6374,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[0],
   },
   {
-    slug: 'strategy/strat_web_dev_frameworks',
+    slug: 'strat_web_dev_frameworks',
     title: 'Next.js vs. React for Enterprise E-Commerce: Speed, conversion and SEO Guide',
     category: 'Software Development',
     sector: 'Strategy & Digital Marketing',
@@ -6390,7 +6390,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[1],
   },
   {
-    slug: 'strategy/strat_programmatic_seo',
+    slug: 'strat_programmatic_seo',
     title: 'Programmatic SEO: How to Scale Organic Search Traffic from 0 to 100K Monthly Visitors',
     category: 'SEO',
     sector: 'Strategy & Digital Marketing',
@@ -6406,7 +6406,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[2],
   },
   {
-    slug: 'strategy/strat_business_rebranding',
+    slug: 'strat_business_rebranding',
     title: 'How to Rebrand an Established Business: Visual Design & Messaging Playbook',
     category: 'Branding',
     sector: 'Strategy & Digital Marketing',
@@ -6422,7 +6422,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[3],
   },
   {
-    slug: 'strategy/strat_b2b_lead_generation',
+    slug: 'strat_b2b_lead_generation',
     title: 'B2B Lead Generation: Combine SEO Content & Cold Email Outreach for High-Value Clients',
     category: 'Lead Generation',
     sector: 'Strategy & Digital Marketing',
@@ -6438,7 +6438,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[4],
   },
   {
-    slug: 'strategy/strat_local_seo',
+    slug: 'strat_local_seo',
     title: 'The Ultimate Guide to Local SEO in 2026: How Indian Businesses Can Rank #1 in Their City',
     category: 'SEO',
     sector: 'Strategy & Digital Marketing',
@@ -6454,7 +6454,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[0],
   },
   {
-    slug: 'strategy/strat_ai_search',
+    slug: 'strat_ai_search',
     title: 'AI Overviews & LLM Search: How to Get Your Business Cited by ChatGPT, Gemini & Perplexity',
     category: 'AI Search',
     sector: 'Strategy & Digital Marketing',
@@ -6470,7 +6470,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[1],
   },
   {
-    slug: 'strategy/strat_whatsapp',
+    slug: 'strat_whatsapp',
     title: 'WhatsApp Marketing Playbook for Indian SMBs: Broadcasts, Automation & Compliance in 2026',
     category: 'WhatsApp',
     sector: 'Strategy & Digital Marketing',
@@ -6486,7 +6486,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[2],
   },
   {
-    slug: 'strategy/strat_whatsapp_business_api',
+    slug: 'strat_whatsapp_business_api',
     title: 'How to Set Up and Use WhatsApp Business API for Indian SMBs in 2026',
     category: 'WhatsApp',
     sector: 'Strategy & Digital Marketing',
@@ -6502,7 +6502,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[3],
   },
   {
-    slug: 'strategy/strat_whatsapp_lead_generation',
+    slug: 'strat_whatsapp_lead_generation',
     title: 'WhatsApp Lead Generation: How Indian Businesses Convert Enquiries into Sales in 2026',
     category: 'WhatsApp',
     sector: 'Strategy & Digital Marketing',
@@ -6518,7 +6518,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[4],
   },
   {
-    slug: 'strategy/strat_whatsapp_broadcast_strategy',
+    slug: 'strat_whatsapp_broadcast_strategy',
     title: 'WhatsApp Broadcast Strategy: How to Engage Customers at Scale Without Getting Blocked in 2026',
     category: 'WhatsApp',
     sector: 'Strategy & Digital Marketing',
@@ -6534,7 +6534,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[0],
   },
   {
-    slug: 'strategy/strat_whatsapp_ecommerce',
+    slug: 'strat_whatsapp_ecommerce',
     title: 'WhatsApp Marketing for E-Commerce: Drive Repeat Orders and Reduce Returns for Indian D2C Brands in 2026',
     category: 'WhatsApp',
     sector: 'Strategy & Digital Marketing',
@@ -6550,7 +6550,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[1],
   },
   {
-    slug: 'strategy/strat_whatsapp_automation',
+    slug: 'strat_whatsapp_automation',
     title: 'WhatsApp Automation for Indian Businesses: Build Smart Customer Journeys That Run 24/7 in 2026',
     category: 'WhatsApp',
     sector: 'Strategy & Digital Marketing',
@@ -6566,7 +6566,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[2],
   },
   {
-    slug: 'strategy/strat_meta_ads',
+    slug: 'strat_meta_ads',
     title: 'Meta Ads in 2026: Creative Strategies That Beat Rising CPMs for Indian Businesses',
     category: 'Paid Ads',
     sector: 'Strategy & Digital Marketing',
@@ -6582,7 +6582,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[3],
   },
   {
-    slug: 'strategy/strat_kpi_dashboard',
+    slug: 'strat_kpi_dashboard',
     title: 'How to Build a KPI Dashboard Your Team Will Actually Use: A Practical Guide for Indian SMBs',
     category: 'Dashboards',
     sector: 'Strategy & Digital Marketing',
@@ -6598,7 +6598,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[4],
   },
   {
-    slug: 'strategy/strat_google_ads',
+    slug: 'strat_google_ads',
     title: 'Google Ads for Indian Businesses: The Complete 2026 Playbook to Get More Leads',
     category: 'Paid Ads',
     sector: 'Strategy & Digital Marketing',
@@ -6614,7 +6614,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[0],
   },
   {
-    slug: 'strategy/strat_google_business',
+    slug: 'strat_google_business',
     title: 'Google Business Profile Optimisation: The Complete 2026 Map-Pack Playbook for India',
     category: 'SEO',
     sector: 'Strategy & Digital Marketing',
@@ -6630,7 +6630,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[1],
   },
   {
-    slug: 'strategy/strat_content_marketing',
+    slug: 'strat_content_marketing',
     title: 'Content Marketing for Indian Businesses: A Year of Ideas That Rank & Convert in 2026',
     category: 'SEO',
     sector: 'Strategy & Digital Marketing',
@@ -6646,7 +6646,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[2],
   },
   {
-    slug: 'strategy/strat_instagram',
+    slug: 'strat_instagram',
     title: 'Instagram Marketing in 2026: From Zero to a Lead-Generating Profile for Indian Businesses',
     category: 'Instagram',
     sector: 'Strategy & Digital Marketing',
@@ -6662,7 +6662,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[3],
   },
   {
-    slug: 'strategy/strat_youtube',
+    slug: 'strat_youtube',
     title: 'YouTube Marketing for Indian Businesses: Long-Form Video That Builds Authority in 2026',
     category: 'YouTube',
     sector: 'Strategy & Digital Marketing',
@@ -6678,7 +6678,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[4],
   },
   {
-    slug: 'strategy/strat_cro',
+    slug: 'strat_cro',
     title: 'Website CRO in 2026: How to Turn Your Indian Business Website Traffic into Paying Customers',
     category: 'CRO',
     sector: 'Strategy & Digital Marketing',
@@ -6694,7 +6694,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[0],
   },
   {
-    slug: 'strategy/strat_reputation',
+    slug: 'strat_reputation',
     title: 'Reputation Management for Indian Businesses: Building Online Trust That Converts in 2026',
     category: 'Reputation Management',
     sector: 'Strategy & Digital Marketing',
@@ -6710,7 +6710,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[1],
   },
   {
-    slug: 'strategy/strat_lead_generation',
+    slug: 'strat_lead_generation',
     title: 'Lead Generation for Indian Businesses in 2026: Turning Website Clicks into Qualified Enquiries',
     category: 'Lead Generation',
     sector: 'Strategy & Digital Marketing',
@@ -6726,7 +6726,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[2],
   },
   {
-    slug: 'strategy/strat_performance_marketing',
+    slug: 'strat_performance_marketing',
     title: 'Performance Marketing India 2026: How to Scale Your Ads Profitably Without Burning Budget',
     category: 'Performance Marketing',
     sector: 'Strategy & Digital Marketing',
@@ -6742,7 +6742,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[3],
   },
   {
-    slug: 'strategy/strat_social_media',
+    slug: 'strat_social_media',
     title: 'Social Media Marketing Playbook for Indian SMBs: Platforms, Content & Growth in 2026',
     category: 'Social Media',
     sector: 'Strategy & Digital Marketing',
@@ -6758,7 +6758,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[4],
   },
   {
-    slug: 'strategy/strat_email_whatsapp',
+    slug: 'strat_email_whatsapp',
     title: 'Email & WhatsApp Marketing: The Customer Retention Engine for Indian Businesses in 2026',
     category: 'WhatsApp',
     sector: 'Strategy & Digital Marketing',
@@ -6774,7 +6774,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[0],
   },
   {
-    slug: 'strategy/strat_landing_pages',
+    slug: 'strat_landing_pages',
     title: 'Landing Page Design in 2026: Pages That Turn Ad Clicks into Leads for Indian Businesses',
     category: 'CRO',
     sector: 'Strategy & Digital Marketing',
@@ -6790,7 +6790,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[1],
   },
   {
-    slug: 'strategy/strat_facebook',
+    slug: 'strat_facebook',
     title: 'Facebook Marketing for Indian Businesses: Pages, Groups & Paid Reach in 2026',
     category: 'Paid Ads',
     sector: 'Strategy & Digital Marketing',
@@ -6806,7 +6806,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[2],
   },
   {
-    slug: 'strategy/strat_seo_framework',
+    slug: 'strat_seo_framework',
     title: 'SEO for Indian Businesses: The Complete 2026 Framework to Rank on Google',
     category: 'SEO',
     sector: 'Strategy & Digital Marketing',
@@ -6822,7 +6822,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[3],
   },
   {
-    slug: 'strategy/strat_branding',
+    slug: 'strat_branding',
     title: 'Branding & Brand Identity for Indian Businesses: Standing Out in a Crowded Market in 2026',
     category: 'Branding',
     sector: 'Strategy & Digital Marketing',
@@ -6838,7 +6838,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[4],
   },
   {
-    slug: 'strategy/strat_ai_search_optimization_work',
+    slug: 'strat_ai_search_optimization_work',
     title: 'What Is AI Search Optimization and How Does It Work?',
     category: 'AI Search',
     sector: 'Strategy & Digital Marketing',
@@ -6852,7 +6852,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[0],
   },
   {
-    slug: 'strategy/strat_ai_search_optimization_importance',
+    slug: 'strat_ai_search_optimization_importance',
     title: 'Why Is AI Search Optimization Important for Businesses?',
     category: 'AI Search',
     sector: 'Strategy & Digital Marketing',
@@ -6866,7 +6866,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[1],
   },
   {
-    slug: 'strategy/strat_ai_search_vs_traditional',
+    slug: 'strat_ai_search_vs_traditional',
     title: 'How Is AI Search Different From Traditional Google Search?',
     category: 'AI Search',
     sector: 'Strategy & Digital Marketing',
@@ -6880,7 +6880,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[2],
   },
   {
-    slug: 'strategy/strat_aeo_definition',
+    slug: 'strat_aeo_definition',
     title: 'What Is Answer Engine Optimization (AEO)?',
     category: 'AI Search',
     sector: 'Strategy & Digital Marketing',
@@ -6894,7 +6894,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[3],
   },
   {
-    slug: 'strategy/strat_geo_definition',
+    slug: 'strat_geo_definition',
     title: 'What Is Generative Engine Optimization (GEO)?',
     category: 'AI Search',
     sector: 'Strategy & Digital Marketing',
@@ -6908,7 +6908,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[4],
   },
   {
-    slug: 'strategy/strat_difference_seo_aeo_geo',
+    slug: 'strat_difference_seo_aeo_geo',
     title: 'What Is the Difference Between SEO, AEO, and GEO?',
     category: 'AI Search',
     sector: 'Strategy & Digital Marketing',
@@ -6922,7 +6922,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[0],
   },
   {
-    slug: 'strategy/strat_optimize_website_ai_search',
+    slug: 'strat_optimize_website_ai_search',
     title: 'How Can You Optimize Your Website for AI Search?',
     category: 'AI Search',
     sector: 'Strategy & Digital Marketing',
@@ -6936,7 +6936,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[1],
   },
   {
-    slug: 'strategy/strat_optimize_content_ai_engines',
+    slug: 'strat_optimize_content_ai_engines',
     title: 'How Can You Optimize Content for AI Search Engines?',
     category: 'AI Search',
     sector: 'Strategy & Digital Marketing',
@@ -6950,7 +6950,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[2],
   },
   {
-    slug: 'strategy/strat_improve_ai_visibility',
+    slug: 'strat_improve_ai_visibility',
     title: 'How Can You Improve Your AI Search Visibility?',
     category: 'AI Search',
     sector: 'Strategy & Digital Marketing',
@@ -6964,7 +6964,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[3],
   },
   {
-    slug: 'strategy/strat_get_cited_chatgpt',
+    slug: 'strat_get_cited_chatgpt',
     title: 'How Can You Get Your Website Cited by ChatGPT?',
     category: 'AI Search',
     sector: 'Strategy & Digital Marketing',
@@ -6978,7 +6978,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[4],
   },
   {
-    slug: 'strategy/strat_get_recommended_chatgpt',
+    slug: 'strat_get_recommended_chatgpt',
     title: 'How Can You Get Your Business Recommended by ChatGPT?',
     category: 'AI Search',
     sector: 'Strategy & Digital Marketing',
@@ -6992,7 +6992,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[0],
   },
   {
-    slug: 'strategy/strat_google_ai_overviews_effect',
+    slug: 'strat_google_ai_overviews_effect',
     title: 'How Do Google AI Overviews Affect SEO?',
     category: 'AI Search',
     sector: 'Strategy & Digital Marketing',
@@ -7006,7 +7006,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[1],
   },
   {
-    slug: 'strategy/strat_optimize_google_ai_overviews',
+    slug: 'strat_optimize_google_ai_overviews',
     title: 'How Can You Optimize Your Website for Google AI Overviews?',
     category: 'AI Search',
     sector: 'Strategy & Digital Marketing',
@@ -7020,7 +7020,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[2],
   },
   {
-    slug: 'strategy/strat_perplexity_seo',
+    slug: 'strat_perplexity_seo',
     title: 'How Does Perplexity SEO Help Improve AI Search Visibility?',
     category: 'AI Search',
     sector: 'Strategy & Digital Marketing',
@@ -7034,7 +7034,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[3],
   },
   {
-    slug: 'strategy/strat_gemini_seo',
+    slug: 'strat_gemini_seo',
     title: 'How Can Gemini SEO Help Your Business Appear in AI Search?',
     category: 'AI Search',
     sector: 'Strategy & Digital Marketing',
@@ -7048,7 +7048,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[4],
   },
   {
-    slug: 'strategy/strat_ai_search_citations',
+    slug: 'strat_ai_search_citations',
     title: 'What Are AI Search Citations and Why Do They Matter?',
     category: 'AI Search',
     sector: 'Strategy & Digital Marketing',
@@ -7062,7 +7062,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[0],
   },
   {
-    slug: 'strategy/strat_small_business_ai_strategy',
+    slug: 'strat_small_business_ai_strategy',
     title: 'How Can Small Businesses Build an Effective AI Search Strategy?',
     category: 'AI Search',
     sector: 'Strategy & Digital Marketing',
@@ -7076,7 +7076,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[1],
   },
   {
-    slug: 'strategy/strat_common_ai_mistakes',
+    slug: 'strat_common_ai_mistakes',
     title: 'What Are the Most Common AI Search Optimization Mistakes?',
     category: 'AI Search',
     sector: 'Strategy & Digital Marketing',
@@ -7090,7 +7090,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[2],
   },
   {
-    slug: 'strategy/strat_measure_ai_visibility',
+    slug: 'strat_measure_ai_visibility',
     title: 'How Can You Measure Your AI Search Visibility?',
     category: 'AI Search',
     sector: 'Strategy & Digital Marketing',
@@ -7104,7 +7104,7 @@ export const STRATEGY_BLOGS: BlogPost[] = [
     imageColor: BANNER_COLORS[3],
   },
   {
-    slug: 'strategy/strat_future_ai_search',
+    slug: 'strat_future_ai_search',
     title: 'What Will the Future of AI Search Look Like in 2026 and Beyond?',
     category: 'AI Search',
     sector: 'Strategy & Digital Marketing',

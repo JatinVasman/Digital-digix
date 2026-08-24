@@ -235,8 +235,66 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate, onSelectLocation, on
 
         {/* BOTTOM COPYRIGHT BAR: ALL RIGHTS TO BUSINESS VOLUNTEERS */}
         <div style={{ height: '1px', background: '#261F1C', margin: '3rem 0 1.5rem 0' }}></div>
-        <div style={{ textAlign: 'center', fontSize: '0.85rem', color: '#94A3B8' }}>
-          © 2025 <a href="https://businessvolunteers.online" target="_blank" rel="noopener noreferrer" style={{ color: '#D97706', fontWeight: 800, textDecoration: 'none', transition: 'opacity 0.2s' }} onMouseEnter={(e) => e.currentTarget.style.opacity = '0.85'} onMouseLeave={(e) => e.currentTarget.style.opacity = '1'}>Business Volunteers</a>. All Rights Reserved.
+        <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '1rem', fontSize: '0.85rem', color: '#94A3B8' }}>
+          <div>
+            © 2025 <a href="https://businessvolunteers.online" target="_blank" rel="noopener noreferrer" style={{ color: '#D97706', fontWeight: 800, textDecoration: 'none', transition: 'opacity 0.2s' }} onMouseEnter={(e) => e.currentTarget.style.opacity = '0.85'} onMouseLeave={(e) => e.currentTarget.style.opacity = '1'}>Business Volunteers</a>. All Rights Reserved.
+          </div>
+          <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1.25rem', alignItems: 'center' }}>
+            <a
+              href="/html-sitemap"
+              onClick={(e) => { e.preventDefault(); onNavigate('html-sitemap'); }}
+              style={{ color: '#E2E8F0', textDecoration: 'none', fontWeight: 600, transition: 'color 0.2s' }}
+              onMouseEnter={(e) => e.currentTarget.style.color = '#FF4E27'}
+              onMouseLeave={(e) => e.currentTarget.style.color = '#E2E8F0'}
+            >
+              📄 HTML Sitemap
+            </a>
+            <a
+              href="/services"
+              onClick={(e) => { e.preventDefault(); onNavigate('services'); }}
+              style={{ color: '#E2E8F0', textDecoration: 'none', fontWeight: 600, transition: 'color 0.2s' }}
+              onMouseEnter={(e) => e.currentTarget.style.color = '#FF4E27'}
+              onMouseLeave={(e) => e.currentTarget.style.color = '#E2E8F0'}
+            >
+              Services
+            </a>
+            <a
+              href="/industries"
+              onClick={(e) => { e.preventDefault(); onNavigate('industries'); }}
+              style={{ color: '#E2E8F0', textDecoration: 'none', fontWeight: 600, transition: 'color 0.2s' }}
+              onMouseEnter={(e) => e.currentTarget.style.color = '#FF4E27'}
+              onMouseLeave={(e) => e.currentTarget.style.color = '#E2E8F0'}
+            >
+              89 Industries
+            </a>
+            <a
+              href="/portfolio"
+              onClick={(e) => { e.preventDefault(); onNavigate('portfolio'); }}
+              style={{ color: '#E2E8F0', textDecoration: 'none', fontWeight: 600, transition: 'color 0.2s' }}
+              onMouseEnter={(e) => e.currentTarget.style.color = '#FF4E27'}
+              onMouseLeave={(e) => e.currentTarget.style.color = '#E2E8F0'}
+            >
+              Case Studies
+            </a>
+            <a
+              href="/blogs"
+              onClick={(e) => { e.preventDefault(); onNavigate('blog'); }}
+              style={{ color: '#E2E8F0', textDecoration: 'none', fontWeight: 600, transition: 'color 0.2s' }}
+              onMouseEnter={(e) => e.currentTarget.style.color = '#FF4E27'}
+              onMouseLeave={(e) => e.currentTarget.style.color = '#E2E8F0'}
+            >
+              Blog
+            </a>
+            <a
+              href="/legal"
+              onClick={(e) => { e.preventDefault(); onNavigate('legal'); }}
+              style={{ color: '#E2E8F0', textDecoration: 'none', fontWeight: 600, transition: 'color 0.2s' }}
+              onMouseEnter={(e) => e.currentTarget.style.color = '#FF4E27'}
+              onMouseLeave={(e) => e.currentTarget.style.color = '#E2E8F0'}
+            >
+              Legal & Compliance
+            </a>
+          </div>
         </div>
 
       </div>
