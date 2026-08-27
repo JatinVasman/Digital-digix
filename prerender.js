@@ -393,8 +393,11 @@ for (const route of routes) {
   html = html.replace(/<script type="application\/ld\+json">[\s\S]*?<\/script>/i, `<script type="application/ld+json">\n${schemaJson}\n    </script>`);
 
   // Insert crawlable fallback content inside <div id="root">
+  // Wrapped in a hidden div so crawlers see it but real users never flash it.
+  // The inline script removes it instantly before React hydrates.
   const crawlableContent = generateCrawlableBody(route, meta);
-  html = html.replace('<div id="root"></div>', `<div id="root">${crawlableContent}</div>`);
+  const hiddenWrapper = `<div id="seo-prerender" style="display:none;visibility:hidden;" aria-hidden="true">${crawlableContent}</div><script>document.getElementById('seo-prerender')&&document.getElementById('seo-prerender').remove();<\/script>`;
+  html = html.replace('<div id="root"></div>', `<div id="root">${hiddenWrapper}</div>`);
 
   // Determine output path in dist/
   let outFilePath;
