@@ -136,7 +136,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
 
     const resend = new Resend(apiKey);
     const response = await resend.emails.send({
-      from: 'Business Volunteers Contact <onboarding@resend.dev>',
+      from: 'Business Volunteers Contact <contact@businessvolunteers.online>',
       to: [receiverEmail],
       replyTo: email,
       subject: subject,
